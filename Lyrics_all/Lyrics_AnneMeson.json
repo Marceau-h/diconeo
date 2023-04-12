@@ -1,0 +1,4428 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2312240",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+ "id": 2312240,
+ "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Anne Meson",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Anne-meson",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 10156751,
+  "annotator_login": "LudivineChevallier",
+  "api_path": "/referents/20285079",
+  "classification": "needs_exegesis",
+  "fragment": "Anne Meson",
+  "id": 20285079,
+  "is_description": true,
+  "path": "/20285079/Anne-meson/Anne-meson",
+  "range": {
+   "content": "Anne Meson"
+  },
+  "song_id": null,
+  "url": "https://genius.com/20285079/Anne-meson/Anne-meson",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2312240",
+   "context": null,
+   "id": 2312240,
+   "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "link_title": "Anne Meson",
+   "title": "Anne Meson",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Anne-meson"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/20285079",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 20285079,
+    "pinned": false,
+    "share_url": "https://genius.com/20285079",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/20285079/Anne-meson/Anne-meson",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/10156751",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+       "human_readable_role_for_display": "Contributor",
+       "id": 10156751,
+       "iq": 6366,
+       "login": "LudivineChevallier",
+       "name": "LudivineChevallier",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/LudivineChevallier",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5753410",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5753410/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5753410' class='rg_embed_link' data-song-id='5753410'>Read <a href='https://genius.com/Anne-meson-mon-plus-beau-reve-lyrics'>\u201cMon plus beau r\u00eave\u201d by Anne\u00a0Meson</a> on Genius</div> <script crossorigin src='//genius.com/songs/5753410/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Mon plus beau r\u00eave by\u00a0Anne\u00a0Meson",
+   "header_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "id": 5753410,
+   "lyrics_owner_id": 10156751,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-meson-mon-plus-beau-reve-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "1993-01-01",
+   "release_date_for_display": "January 1, 1993",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mon plus beau r\u00eave",
+   "title_with_featured": "Mon plus beau r\u00eave",
+   "url": "https://genius.com/Anne-meson-mon-plus-beau-reve-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/655517",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Mon plus beau r\u00eave (Anne Meson) by Anne Meson",
+    "id": 655517,
+    "name": "Mon plus beau r\u00eave (Anne Meson)",
+    "url": "https://genius.com/albums/Anne-meson/Mon-plus-beau-reve-anne-meson",
+    "artist": {
+     "api_path": "/artists/2312240",
+     "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "id": 2312240,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anne Meson",
+     "url": "https://genius.com/artists/Anne-meson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10156751,
+    "annotator_login": "LudivineChevallier",
+    "api_path": "/referents/20306736",
+    "classification": "needs_exegesis",
+    "fragment": "Mon plus beau r\u00eave",
+    "id": 20306736,
+    "is_description": true,
+    "path": "/20306736/Anne-meson-mon-plus-beau-reve/Mon-plus-beau-reve",
+    "range": {
+     "content": "Mon plus beau r\u00eave"
+    },
+    "song_id": 5753410,
+    "url": "https://genius.com/20306736/Anne-meson-mon-plus-beau-reve/Mon-plus-beau-reve",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5753410",
+     "client_timestamps": {
+      "updated_by_human_at": 1594371515,
+      "lyrics_updated_at": 1594371515
+     },
+     "context": "Anne Meson",
+     "id": 5753410,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "link_title": "Mon plus beau r\u00eave by\u00a0Anne\u00a0Meson",
+     "title": "Mon plus beau r\u00eave",
+     "type": "Song",
+     "url": "https://genius.com/Anne-meson-mon-plus-beau-reve-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20306736",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20306736,
+      "pinned": false,
+      "share_url": "https://genius.com/20306736",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20306736/Anne-meson-mon-plus-beau-reve/Mon-plus-beau-reve",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10156751",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10156751,
+         "iq": 6366,
+         "login": "LudivineChevallier",
+         "name": "LudivineChevallier",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LudivineChevallier",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=C_xS4wflAp8"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2312240",
+    "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "id": 2312240,
+    "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Meson",
+    "url": "https://genius.com/artists/Anne-meson"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2315837",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 2315837,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Philippe Salto",
+     "url": "https://genius.com/artists/Philippe-salto"
+    },
+    {
+     "api_path": "/artists/1304540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1304540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Grosz",
+     "url": "https://genius.com/artists/Pierre-grosz"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5756920",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5756920/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5756920' class='rg_embed_link' data-song-id='5756920'>Read <a href='https://genius.com/Anne-meson-myster-mask-lyrics'>\u201cMyster Mask\u201d by Anne\u00a0Meson</a> on Genius</div> <script crossorigin src='//genius.com/songs/5756920/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Myster Mask by\u00a0Anne\u00a0Meson",
+   "header_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "id": 5756920,
+   "lyrics_owner_id": 10156751,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-meson-myster-mask-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "1992-01-01",
+   "release_date_for_display": "January 1, 1992",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Myster Mask",
+   "title_with_featured": "Myster Mask",
+   "url": "https://genius.com/Anne-meson-myster-mask-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/655890",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Anne au pays d'Eurodisney by Anne Meson",
+    "id": 655890,
+    "name": "Anne au pays d\u2019Eurodisney",
+    "url": "https://genius.com/albums/Anne-meson/Anne-au-pays-d-eurodisney",
+    "artist": {
+     "api_path": "/artists/2312240",
+     "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "id": 2312240,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anne Meson",
+     "url": "https://genius.com/artists/Anne-meson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10156751,
+    "annotator_login": "LudivineChevallier",
+    "api_path": "/referents/20315456",
+    "classification": "needs_exegesis",
+    "fragment": "Myster Mask",
+    "id": 20315456,
+    "is_description": true,
+    "path": "/20315456/Anne-meson-myster-mask/Myster-mask",
+    "range": {
+     "content": "Myster Mask"
+    },
+    "song_id": 5756920,
+    "url": "https://genius.com/20315456/Anne-meson-myster-mask/Myster-mask",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5756920",
+     "client_timestamps": {
+      "updated_by_human_at": 1594457297,
+      "lyrics_updated_at": 1594457297
+     },
+     "context": "Anne Meson",
+     "id": 5756920,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "link_title": "Myster Mask by\u00a0Anne\u00a0Meson",
+     "title": "Myster Mask",
+     "type": "Song",
+     "url": "https://genius.com/Anne-meson-myster-mask-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20315456",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20315456,
+      "pinned": false,
+      "share_url": "https://genius.com/20315456",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20315456/Anne-meson-myster-mask/Myster-mask",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10156751",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10156751,
+         "iq": 6366,
+         "login": "LudivineChevallier",
+         "name": "LudivineChevallier",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LudivineChevallier",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=zxZQ8AlIqMI"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2312240",
+    "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "id": 2312240,
+    "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Meson",
+    "url": "https://genius.com/artists/Anne-meson"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/453461",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 453461,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Luc aulivier",
+     "url": "https://genius.com/artists/Luc-aulivier"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5760002",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5760002/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5760002' class='rg_embed_link' data-song-id='5760002'>Read <a href='https://genius.com/Anne-meson-la-petite-sirene-lyrics'>\u201cLa petite sir\u00e8ne\u201d by Anne\u00a0Meson</a> on Genius</div> <script crossorigin src='//genius.com/songs/5760002/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La petite sir\u00e8ne by\u00a0Anne\u00a0Meson",
+   "header_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "id": 5760002,
+   "lyrics_owner_id": 10156751,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-meson-la-petite-sirene-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La petite sir\u00e8ne",
+   "title_with_featured": "La petite sir\u00e8ne",
+   "url": "https://genius.com/Anne-meson-la-petite-sirene-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/655528",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Anne (Anne Meson) by Anne Meson",
+    "id": 655528,
+    "name": "Anne (Anne Meson)",
+    "url": "https://genius.com/albums/Anne-meson/Anne-anne-meson",
+    "artist": {
+     "api_path": "/artists/2312240",
+     "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "id": 2312240,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anne Meson",
+     "url": "https://genius.com/artists/Anne-meson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10156751,
+    "annotator_login": "LudivineChevallier",
+    "api_path": "/referents/20323257",
+    "classification": "needs_exegesis",
+    "fragment": "La petite sir\u00e8ne",
+    "id": 20323257,
+    "is_description": true,
+    "path": "/20323257/Anne-meson-la-petite-sirene/La-petite-sirene",
+    "range": {
+     "content": "La petite sir\u00e8ne"
+    },
+    "song_id": 5760002,
+    "url": "https://genius.com/20323257/Anne-meson-la-petite-sirene/La-petite-sirene",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5760002",
+     "client_timestamps": {
+      "updated_by_human_at": 1594545401,
+      "lyrics_updated_at": 1594545359
+     },
+     "context": "Anne Meson",
+     "id": 5760002,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "link_title": "La petite sir\u00e8ne by\u00a0Anne\u00a0Meson",
+     "title": "La petite sir\u00e8ne",
+     "type": "Song",
+     "url": "https://genius.com/Anne-meson-la-petite-sirene-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20323257",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20323257,
+      "pinned": false,
+      "share_url": "https://genius.com/20323257",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20323257/Anne-meson-la-petite-sirene/La-petite-sirene",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10156751",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10156751,
+         "iq": 6366,
+         "login": "LudivineChevallier",
+         "name": "LudivineChevallier",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LudivineChevallier",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=OJD9_TwbTTE"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2312240",
+    "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "id": 2312240,
+    "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Meson",
+    "url": "https://genius.com/artists/Anne-meson"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1304540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1304540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Grosz",
+     "url": "https://genius.com/artists/Pierre-grosz"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5746418",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5746418/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5746418' class='rg_embed_link' data-song-id='5746418'>Read <a href='https://genius.com/Anne-meson-dans-le-bleu-lyrics'>\u201cDans le bleu\u201d by Anne\u00a0Meson</a> on Genius</div> <script crossorigin src='//genius.com/songs/5746418/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Dans le bleu by\u00a0Anne\u00a0Meson",
+   "header_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "id": 5746418,
+   "lyrics_owner_id": 10156751,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-meson-dans-le-bleu-lyrics",
+   "pyongs_count": 2,
+   "recording_location": null,
+   "release_date": "1992-01-01",
+   "release_date_for_display": "January 1, 1992",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Dans le bleu",
+   "title_with_featured": "Dans le bleu",
+   "url": "https://genius.com/Anne-meson-dans-le-bleu-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/654604",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Que fera la Belle (Anne Meson) by Anne Meson",
+    "id": 654604,
+    "name": "Que fera la Belle (Anne Meson)",
+    "url": "https://genius.com/albums/Anne-meson/Que-fera-la-belle-anne-meson",
+    "artist": {
+     "api_path": "/artists/2312240",
+     "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "id": 2312240,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anne Meson",
+     "url": "https://genius.com/artists/Anne-meson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10156751,
+    "annotator_login": "LudivineChevallier",
+    "api_path": "/referents/20290233",
+    "classification": "needs_exegesis",
+    "fragment": "Dans le bleu",
+    "id": 20290233,
+    "is_description": true,
+    "path": "/20290233/Anne-meson-dans-le-bleu/Dans-le-bleu",
+    "range": {
+     "content": "Dans le bleu"
+    },
+    "song_id": 5746418,
+    "url": "https://genius.com/20290233/Anne-meson-dans-le-bleu/Dans-le-bleu",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5746418",
+     "client_timestamps": {
+      "updated_by_human_at": 1594198727,
+      "lyrics_updated_at": 1594198727
+     },
+     "context": "Anne Meson",
+     "id": 5746418,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "link_title": "Dans le bleu by\u00a0Anne\u00a0Meson",
+     "title": "Dans le bleu",
+     "type": "Song",
+     "url": "https://genius.com/Anne-meson-dans-le-bleu-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20290233",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20290233,
+      "pinned": false,
+      "share_url": "https://genius.com/20290233",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20290233/Anne-meson-dans-le-bleu/Dans-le-bleu",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10156751",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10156751,
+         "iq": 6366,
+         "login": "LudivineChevallier",
+         "name": "LudivineChevallier",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LudivineChevallier",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=vLdfmtQvaRE"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2312240",
+    "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "id": 2312240,
+    "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Meson",
+    "url": "https://genius.com/artists/Anne-meson"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1304540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1304540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Grosz",
+     "url": "https://genius.com/artists/Pierre-grosz"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5749598",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5749598/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5749598' class='rg_embed_link' data-song-id='5749598'>Read <a href='https://genius.com/Anne-meson-je-ne-marreterai-pas-lyrics'>\u201cJe ne m'arr\u00eaterai pas\u201d by Anne\u00a0Meson</a> on Genius</div> <script crossorigin src='//genius.com/songs/5749598/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Je ne m'arr\u00eaterai pas by\u00a0Anne\u00a0Meson",
+   "header_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "id": 5749598,
+   "lyrics_owner_id": 10156751,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-meson-je-ne-marreterai-pas-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "1992-01-01",
+   "release_date_for_display": "January 1, 1992",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Je ne m\u2019arr\u00eaterai pas",
+   "title_with_featured": "Je ne m'arr\u00eaterai pas",
+   "url": "https://genius.com/Anne-meson-je-ne-marreterai-pas-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/654604",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Que fera la Belle (Anne Meson) by Anne Meson",
+    "id": 654604,
+    "name": "Que fera la Belle (Anne Meson)",
+    "url": "https://genius.com/albums/Anne-meson/Que-fera-la-belle-anne-meson",
+    "artist": {
+     "api_path": "/artists/2312240",
+     "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "id": 2312240,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anne Meson",
+     "url": "https://genius.com/artists/Anne-meson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10156751,
+    "annotator_login": "LudivineChevallier",
+    "api_path": "/referents/20297749",
+    "classification": "needs_exegesis",
+    "fragment": "Je ne m\u2019arr\u00eaterai pas",
+    "id": 20297749,
+    "is_description": true,
+    "path": "/20297749/Anne-meson-je-ne-marreterai-pas/Je-ne-marreterai-pas",
+    "range": {
+     "content": "Je ne m'arr\u00eaterai pas"
+    },
+    "song_id": 5749598,
+    "url": "https://genius.com/20297749/Anne-meson-je-ne-marreterai-pas/Je-ne-marreterai-pas",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5749598",
+     "client_timestamps": {
+      "updated_by_human_at": 1594283293,
+      "lyrics_updated_at": 1594283293
+     },
+     "context": "Anne Meson",
+     "id": 5749598,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "link_title": "Je ne m\u2019arr\u00eaterai pas by\u00a0Anne\u00a0Meson",
+     "title": "Je ne m'arr\u00eaterai pas",
+     "type": "Song",
+     "url": "https://genius.com/Anne-meson-je-ne-marreterai-pas-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20297749",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20297749,
+      "pinned": false,
+      "share_url": "https://genius.com/20297749",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20297749/Anne-meson-je-ne-marreterai-pas/Je-ne-marreterai-pas",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10156751",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10156751,
+         "iq": 6366,
+         "login": "LudivineChevallier",
+         "name": "LudivineChevallier",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LudivineChevallier",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=TXv9LLgZwxs"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2312240",
+    "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "id": 2312240,
+    "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Meson",
+    "url": "https://genius.com/artists/Anne-meson"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/112258",
+     "header_image_url": "https://images.genius.com/a09b5783bcb1a00fe25bb85d4d21ffed.449x449x1.jpg",
+     "id": 112258,
+     "image_url": "https://images.genius.com/a09b5783bcb1a00fe25bb85d4d21ffed.449x449x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Massimo Gabutti",
+     "url": "https://genius.com/artists/Massimo-gabutti"
+    },
+    {
+     "api_path": "/artists/2314427",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 2314427,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fr\u00e9d\u00e9ric Thibault",
+     "url": "https://genius.com/artists/Frederic-thibault"
+    },
+    {
+     "api_path": "/artists/1304540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1304540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Grosz",
+     "url": "https://genius.com/artists/Pierre-grosz"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5749686",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5749686/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5749686' class='rg_embed_link' data-song-id='5749686'>Read <a href='https://genius.com/Anne-meson-peter-pan-lyrics'>\u201cPeter Pan\u201d by Anne\u00a0Meson</a> on Genius</div> <script crossorigin src='//genius.com/songs/5749686/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Peter Pan by\u00a0Anne\u00a0Meson",
+   "header_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "id": 5749686,
+   "lyrics_owner_id": 10156751,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-meson-peter-pan-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "1993-01-01",
+   "release_date_for_display": "January 1, 1993",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Peter Pan",
+   "title_with_featured": "Peter Pan",
+   "url": "https://genius.com/Anne-meson-peter-pan-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/654604",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Que fera la Belle (Anne Meson) by Anne Meson",
+    "id": 654604,
+    "name": "Que fera la Belle (Anne Meson)",
+    "url": "https://genius.com/albums/Anne-meson/Que-fera-la-belle-anne-meson",
+    "artist": {
+     "api_path": "/artists/2312240",
+     "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "id": 2312240,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anne Meson",
+     "url": "https://genius.com/artists/Anne-meson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10156751,
+    "annotator_login": "LudivineChevallier",
+    "api_path": "/referents/20297935",
+    "classification": "needs_exegesis",
+    "fragment": "Peter Pan",
+    "id": 20297935,
+    "is_description": true,
+    "path": "/20297935/Anne-meson-peter-pan/Peter-pan",
+    "range": {
+     "content": "Peter Pan"
+    },
+    "song_id": 5749686,
+    "url": "https://genius.com/20297935/Anne-meson-peter-pan/Peter-pan",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5749686",
+     "client_timestamps": {
+      "updated_by_human_at": 1594285373,
+      "lyrics_updated_at": 1594285373
+     },
+     "context": "Anne Meson",
+     "id": 5749686,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "link_title": "Peter Pan by\u00a0Anne\u00a0Meson",
+     "title": "Peter Pan",
+     "type": "Song",
+     "url": "https://genius.com/Anne-meson-peter-pan-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20297935",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20297935,
+      "pinned": false,
+      "share_url": "https://genius.com/20297935",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20297935/Anne-meson-peter-pan/Peter-pan",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10156751",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10156751,
+         "iq": 6366,
+         "login": "LudivineChevallier",
+         "name": "LudivineChevallier",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LudivineChevallier",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=tq_w-OmScZI"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2312240",
+    "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "id": 2312240,
+    "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Meson",
+    "url": "https://genius.com/artists/Anne-meson"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1304540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1304540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Grosz",
+     "url": "https://genius.com/artists/Pierre-grosz"
+    }
+   ],
+   "lyrics": "Quand la nuit tombe sur la ville\nLe noir nous rend si fragile\nOn attend quelque chose\u2005ou\u2005bien quelqu'un\nPour survoler\u2005les villes, les for\u00eats, les rivi\u00e8res\nEt\u2005la mer vers une \u00eele imaginaire\n\nIl faut croire \u00e0 tous nos r\u00eaves\nQuand Peter Pan nous enl\u00e8ve\nIl faut croire au voilier qui s'allume\nPour voguer sur la Lune\nIl faut croire \u00e0 tous nos r\u00eaves\nComme Peter Pan nous fait croire\nA son histoire\nSimplement croire\n\nEt si tu r\u00eaves d'une \u00eele\nD'un crochet, d'un crocodile\nD'une f\u00e9e un peu jalouse et des indiens\nDemain \u00e0 ton r\u00e9veil tu seras fort et fier\nD'un tr\u00e9sor qui s'appelle l'imaginaire\n\nIl faut croire \u00e0 tous nos r\u00eaves\nQuand Peter Pan nous enl\u00e8ve\nIl faut croire au voilier qui s'allume\nPour voguer sur la Lune\nIl faut croire \u00e0 tous nos r\u00eaves\nComme Peter Pan nous fait croire\nA son histoire\nSimplement croire\n\nLe bonheur nous appelle\nIl faut d\u00e9ployer nos ailes\n\nIl faut croire \u00e0 tous nos r\u00eaves\nQuand Peter Pan nous enl\u00e8ve\nIl faut croire au voilier qui s'allume\nPour voguer sur la Lune\nIl faut croire \u00e0 tous nos r\u00eaves\nComme Peter Pan nous fait croire\nA son histoire\nSimplement croire"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5753464",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5753464/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5753464' class='rg_embed_link' data-song-id='5753464'>Read <a href='https://genius.com/Anne-meson-si-ma-vie-tourne-bien-lyrics'>\u201cSi ma vie tourne bien\u201d by Anne\u00a0Meson</a> on Genius</div> <script crossorigin src='//genius.com/songs/5753464/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Si ma vie tourne bien by\u00a0Anne\u00a0Meson",
+   "header_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "id": 5753464,
+   "lyrics_owner_id": 10156751,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-meson-si-ma-vie-tourne-bien-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "1990-01-01",
+   "release_date_for_display": "January 1, 1990",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Si ma vie tourne bien",
+   "title_with_featured": "Si ma vie tourne bien",
+   "url": "https://genius.com/Anne-meson-si-ma-vie-tourne-bien-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/655528",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Anne (Anne Meson) by Anne Meson",
+    "id": 655528,
+    "name": "Anne (Anne Meson)",
+    "url": "https://genius.com/albums/Anne-meson/Anne-anne-meson",
+    "artist": {
+     "api_path": "/artists/2312240",
+     "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "id": 2312240,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anne Meson",
+     "url": "https://genius.com/artists/Anne-meson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10156751,
+    "annotator_login": "LudivineChevallier",
+    "api_path": "/referents/20306866",
+    "classification": "needs_exegesis",
+    "fragment": "Si ma vie tourne bien",
+    "id": 20306866,
+    "is_description": true,
+    "path": "/20306866/Anne-meson-si-ma-vie-tourne-bien/Si-ma-vie-tourne-bien",
+    "range": {
+     "content": "Si ma vie tourne bien"
+    },
+    "song_id": 5753464,
+    "url": "https://genius.com/20306866/Anne-meson-si-ma-vie-tourne-bien/Si-ma-vie-tourne-bien",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5753464",
+     "client_timestamps": {
+      "updated_by_human_at": 1594372515,
+      "lyrics_updated_at": 1594372515
+     },
+     "context": "Anne Meson",
+     "id": 5753464,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "link_title": "Si ma vie tourne bien by\u00a0Anne\u00a0Meson",
+     "title": "Si ma vie tourne bien",
+     "type": "Song",
+     "url": "https://genius.com/Anne-meson-si-ma-vie-tourne-bien-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20306866",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20306866,
+      "pinned": false,
+      "share_url": "https://genius.com/20306866",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20306866/Anne-meson-si-ma-vie-tourne-bien/Si-ma-vie-tourne-bien",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10156751",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10156751,
+         "iq": 6366,
+         "login": "LudivineChevallier",
+         "name": "LudivineChevallier",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LudivineChevallier",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=BuA-D_XkfFY"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2312240",
+    "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "id": 2312240,
+    "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Meson",
+    "url": "https://genius.com/artists/Anne-meson"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1304540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1304540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Grosz",
+     "url": "https://genius.com/artists/Pierre-grosz"
+    }
+   ],
+   "lyrics": "En Jama\u00efque, y'a des grands musiciens\nEn Oregon, des danseurs qui tournent bien\nDans Central Park, on\u2005voit\u2005des \u00e9cureuils\nQui vous\u2005font des clins d'\u0153il entre les\u2005feuilles\nEn Australie, on fait du surf en janvier\nLes koalas viennent se faire caresser\nEt puis il y a des couchers de soleil\nEt des voix sans pareil qui vous r\u00e9veillent\n\n[Refrain]\nSi ma vie tourne bien\nSi \u00e7a va comme j'esp\u00e8re\nJ'irai partout sur la Terre\nPartout, tr\u00e8s loin\nSi ma vie tourne bien\nJe verrai des gens diff\u00e9rents\nDes gens qui vivent autrement\nCertains deviendront vraiment\nDes amis au fil du temps\n\nAu S\u00e9n\u00e9gal, y'a des p'tits singes verts\nA l'\u00eele Maurice, y'a des cerises en plein hiver\nSur la toundra, y'a des beaux cavaliers\nQui sautent sur un pied de leur coursier\nEn Italie, tout le mon fait du cin\u00e9\nM\u00eame les grands-p\u00e8res et m\u00eame les nouveau-n\u00e9s\nCinecitta c'est l\u00e0 o\u00f9 des jeunes filles\nCommencent dans un grand film un jeu sublime\n\n[Refrain]\nSi ma vie tourne bien\nSi \u00e7a va comme j'esp\u00e8re\nJ'irai partout sur la Terre\nPartout, tr\u00e8s loin\nSi ma vie tourne bien\nJe verrai des gens diff\u00e9rents\nDes gens qui vivent autrement\nCertains deviendront vraiment\nDes amis au fil du temps\n\nSi ta vie tourne bien\nTu verras tous ces gens\nQui sont tous diff\u00e9rents\nTu verras tout autrement\n\u00c7a permet d'aller plus loin\n\n[Refrain]\nSi ma vie tourne bien\nSi \u00e7a va comme j'esp\u00e8re\nJ'irai partout sur la Terre\nPartout, tr\u00e8s loin\nSi ma vie tourne bien\nJe verrai des gens diff\u00e9rents\nDes gens qui vivent autrement\nCertains deviendront vraiment\nDes amis au fil du temps\n\nSi ma vie tourne bien\nSi ma vie tourne bien\n\nSi ta vie tourne bien\nTu verras tous ces gens\nQui sont tous diff\u00e9rents\nTu verras tout autrement\n\u00c7a permet d'aller plus loin\n\nSi ma vie tourne bien\nSi ma vie tourne bien\nJe verrai des gens diff\u00e9rents\nDes gens qui vivent autrement\nCertains deviendront vraiment\nDes amis au fil du temps\nSi ma vie tourne bien\nSi ma vie tourne bien\nSi ma vie tourne bien\nTourne bien"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5746424",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5746424/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5746424' class='rg_embed_link' data-song-id='5746424'>Read <a href='https://genius.com/Anne-meson-cest-pas-nimporte-quoi-lyrics'>\u201cC'est pas n'importe quoi\u201d by Anne\u00a0Meson</a> on Genius</div> <script crossorigin src='//genius.com/songs/5746424/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "C'est pas n'importe quoi by\u00a0Anne\u00a0Meson",
+   "header_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "id": 5746424,
+   "lyrics_owner_id": 10156751,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-meson-cest-pas-nimporte-quoi-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "1991-01-01",
+   "release_date_for_display": "January 1, 1991",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "C\u2019est pas n\u2019importe quoi",
+   "title_with_featured": "C'est pas n'importe quoi",
+   "url": "https://genius.com/Anne-meson-cest-pas-nimporte-quoi-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/654611",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Demain c'est aujourd'hui (Anne Meson) by Anne Meson",
+    "id": 654611,
+    "name": "Demain c\u2019est aujourd\u2019hui (Anne Meson)",
+    "url": "https://genius.com/albums/Anne-meson/Demain-c-est-aujourd-hui-anne-meson",
+    "artist": {
+     "api_path": "/artists/2312240",
+     "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "id": 2312240,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anne Meson",
+     "url": "https://genius.com/artists/Anne-meson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10156751,
+    "annotator_login": "LudivineChevallier",
+    "api_path": "/referents/20290279",
+    "classification": "needs_exegesis",
+    "fragment": "C\u2019est pas n\u2019importe quoi",
+    "id": 20290279,
+    "is_description": true,
+    "path": "/20290279/Anne-meson-cest-pas-nimporte-quoi/Cest-pas-nimporte-quoi",
+    "range": {
+     "content": "C'est pas n'importe quoi"
+    },
+    "song_id": 5746424,
+    "url": "https://genius.com/20290279/Anne-meson-cest-pas-nimporte-quoi/Cest-pas-nimporte-quoi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5746424",
+     "client_timestamps": {
+      "updated_by_human_at": 1594199452,
+      "lyrics_updated_at": 1594199452
+     },
+     "context": "Anne Meson",
+     "id": 5746424,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "link_title": "C\u2019est pas n\u2019importe quoi by\u00a0Anne\u00a0Meson",
+     "title": "C'est pas n'importe quoi",
+     "type": "Song",
+     "url": "https://genius.com/Anne-meson-cest-pas-nimporte-quoi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20290279",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20290279,
+      "pinned": false,
+      "share_url": "https://genius.com/20290279",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20290279/Anne-meson-cest-pas-nimporte-quoi/Cest-pas-nimporte-quoi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10156751",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10156751,
+         "iq": 6366,
+         "login": "LudivineChevallier",
+         "name": "LudivineChevallier",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LudivineChevallier",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=sxenHx0mKPA"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2312240",
+    "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "id": 2312240,
+    "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Meson",
+    "url": "https://genius.com/artists/Anne-meson"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1304540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1304540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Grosz",
+     "url": "https://genius.com/artists/Pierre-grosz"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5744466",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5744466/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5744466' class='rg_embed_link' data-song-id='5744466'>Read <a href='https://genius.com/Anne-meson-mais-quest-ce-qui-marrive-lyrics'>\u201cMais qu'est-ce qui m'arrive ?\u201d by Anne\u00a0Meson</a> on Genius</div> <script crossorigin src='//genius.com/songs/5744466/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Mais qu'est-ce qui m'arrive ? by\u00a0Anne\u00a0Meson",
+   "header_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "id": 5744466,
+   "lyrics_owner_id": 10156751,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-meson-mais-quest-ce-qui-marrive-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "1991-01-01",
+   "release_date_for_display": "January 1, 1991",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mais qu\u2019est-ce qui m\u2019arrive ?",
+   "title_with_featured": "Mais qu'est-ce qui m'arrive ?",
+   "url": "https://genius.com/Anne-meson-mais-quest-ce-qui-marrive-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/654611",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Demain c'est aujourd'hui (Anne Meson) by Anne Meson",
+    "id": 654611,
+    "name": "Demain c\u2019est aujourd\u2019hui (Anne Meson)",
+    "url": "https://genius.com/albums/Anne-meson/Demain-c-est-aujourd-hui-anne-meson",
+    "artist": {
+     "api_path": "/artists/2312240",
+     "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "id": 2312240,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anne Meson",
+     "url": "https://genius.com/artists/Anne-meson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10156751,
+    "annotator_login": "LudivineChevallier",
+    "api_path": "/referents/20285196",
+    "classification": "needs_exegesis",
+    "fragment": "Mais qu\u2019est-ce qui m\u2019arrive ?",
+    "id": 20285196,
+    "is_description": true,
+    "path": "/20285196/Anne-meson-mais-quest-ce-qui-marrive/Mais-quest-ce-qui-marrive",
+    "range": {
+     "content": "Mais qu'est-ce qui m'arrive ?"
+    },
+    "song_id": 5744466,
+    "url": "https://genius.com/20285196/Anne-meson-mais-quest-ce-qui-marrive/Mais-quest-ce-qui-marrive",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5744466",
+     "client_timestamps": {
+      "updated_by_human_at": 1594141306,
+      "lyrics_updated_at": 1594141306
+     },
+     "context": "Anne Meson",
+     "id": 5744466,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "link_title": "Mais qu\u2019est-ce qui m\u2019arrive ? by\u00a0Anne\u00a0Meson",
+     "title": "Mais qu'est-ce qui m'arrive ?",
+     "type": "Song",
+     "url": "https://genius.com/Anne-meson-mais-quest-ce-qui-marrive-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20285196",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20285196,
+      "pinned": false,
+      "share_url": "https://genius.com/20285196",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20285196/Anne-meson-mais-quest-ce-qui-marrive/Mais-quest-ce-qui-marrive",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10156751",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10156751,
+         "iq": 6366,
+         "login": "LudivineChevallier",
+         "name": "LudivineChevallier",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LudivineChevallier",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=eEiRq-JrxDk"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2312240",
+    "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "id": 2312240,
+    "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Meson",
+    "url": "https://genius.com/artists/Anne-meson"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1304540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1304540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Grosz",
+     "url": "https://genius.com/artists/Pierre-grosz"
+    }
+   ],
+   "lyrics": "Le temps va trop doucement\nEt au soleil br\u00fblant\nJe me sens frissonner\nEn plein c\u0153ur de l'\u00e9t\u00e9\nC'est\u2005comme\u2005de faire un\u2005r\u00eave \u00e9veill\u00e9e\nEn mordant dans une p\u00eache\nEn\u2005buvant de l'eau fra\u00eeche\nTout semble avoir chang\u00e9\nTout semble avoir boug\u00e9\nC'est\u205fcomme\u205fde\u205ffaire un r\u00eave\u205f\u00e9veill\u00e9e\n\n[Refrain]\nMais qu'est-ce qui\u205fm'arrive ?\nJ'oublie de poser mon verre\nMais qu'est-ce qui m'arrive ?\nJe n'peux m\u00eame plus toucher terre\nMais qu'est-ce qui m'arrive ?\nC'est fou l'effet qu'\u00e7a fait\nQuand pour de bon quelqu'un nous pla\u00eet\nMais qu'est-ce qui m'arrive ?\nPour dire tout c'qui s'passe en moi\nMais qu'est-ce qui m'arrive ?\nEst-ce qu'il y'a des mots pour \u00e7a\nMais qu'est-ce qui m'arrive ?\nJe le vois tout \u00e0 l'heure\nEt je ne pense plus qu'\u00e0 l'heure\n\nCes jeux qui m'attiraient\nLes choses que je faisais\nNe me feraient plus rire\nNe veulent plus rien dire\nC'est comme de faire un r\u00eave \u00e9veill\u00e9e\nLa pluie est arriv\u00e9e\nAvec un bruit l\u00e9ger\nElle est l\u00e0 tout \u00e0 coup\nSur mes cheveux, mon cou\nC'est comme de faire un r\u00eave \u00e9veill\u00e9e\n\n[Refrain]\nMais qu'est-ce qui m'arrive ?\nJamais \u00e9t\u00e9 si l\u00e9g\u00e8re\nMais qu'est-ce qui m'arrive ?\nJe n'peux m\u00eame plus toucher terre\nMais qu'est-ce qui m'arrive ?\nC'est fou l'effet qu'\u00e7a fait\nQuand pour de bon quelqu'un nous pla\u00eet\nMais qu'est-ce qui m'arrive ?\nPour dire tout c'qui s'passe en moi\nMais qu'est-ce qui m'arrive ?\nEst-ce qu'il y'a des mots pour \u00e7a\nMais qu'est-ce qui m'arrive ?\nJe le vois tout \u00e0 l'heure\nEt je ne pense plus qu'\u00e0 l'heure\n\nLe temps va trop doucement\nEt au soleil br\u00fblant\nJe me sens frissonner\nEn plein c\u0153ur de l'\u00e9t\u00e9\nEst-ce que c'est \u00e7a tomber amoureuse ?"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5760009",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5760009/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5760009' class='rg_embed_link' data-song-id='5760009'>Read <a href='https://genius.com/Anne-meson-la-chanson-dariel-lyrics'>\u201cLa chanson d'Ariel\u201d by Anne\u00a0Meson</a> on Genius</div> <script crossorigin src='//genius.com/songs/5760009/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La chanson d'Ariel by\u00a0Anne\u00a0Meson",
+   "header_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "id": 5760009,
+   "lyrics_owner_id": 10156751,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-meson-la-chanson-dariel-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "1993-01-01",
+   "release_date_for_display": "January 1, 1993",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La chanson d\u2019Ariel",
+   "title_with_featured": "La chanson d'Ariel",
+   "url": "https://genius.com/Anne-meson-la-chanson-dariel-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/655517",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Mon plus beau r\u00eave (Anne Meson) by Anne Meson",
+    "id": 655517,
+    "name": "Mon plus beau r\u00eave (Anne Meson)",
+    "url": "https://genius.com/albums/Anne-meson/Mon-plus-beau-reve-anne-meson",
+    "artist": {
+     "api_path": "/artists/2312240",
+     "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "id": 2312240,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anne Meson",
+     "url": "https://genius.com/artists/Anne-meson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10156751,
+    "annotator_login": "LudivineChevallier",
+    "api_path": "/referents/20323272",
+    "classification": "needs_exegesis",
+    "fragment": "La chanson d\u2019Ariel",
+    "id": 20323272,
+    "is_description": true,
+    "path": "/20323272/Anne-meson-la-chanson-dariel/La-chanson-dariel",
+    "range": {
+     "content": "La chanson d'Ariel"
+    },
+    "song_id": 5760009,
+    "url": "https://genius.com/20323272/Anne-meson-la-chanson-dariel/La-chanson-dariel",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5760009",
+     "client_timestamps": {
+      "updated_by_human_at": 1594545893,
+      "lyrics_updated_at": 1594545893
+     },
+     "context": "Anne Meson",
+     "id": 5760009,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "link_title": "La chanson d\u2019Ariel by\u00a0Anne\u00a0Meson",
+     "title": "La chanson d'Ariel",
+     "type": "Song",
+     "url": "https://genius.com/Anne-meson-la-chanson-dariel-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20323272",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20323272,
+      "pinned": false,
+      "share_url": "https://genius.com/20323272",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20323272/Anne-meson-la-chanson-dariel/La-chanson-dariel",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10156751",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10156751,
+         "iq": 6366,
+         "login": "LudivineChevallier",
+         "name": "LudivineChevallier",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LudivineChevallier",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=LEo_O14WruY"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2312240",
+    "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "id": 2312240,
+    "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Meson",
+    "url": "https://genius.com/artists/Anne-meson"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1304540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1304540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Grosz",
+     "url": "https://genius.com/artists/Pierre-grosz"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5756888",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5756888/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5756888' class='rg_embed_link' data-song-id='5756888'>Read <a href='https://genius.com/Anne-meson-pourquoi-lyrics'>\u201cPourquoi\u201d by Anne\u00a0Meson</a> on Genius</div> <script crossorigin src='//genius.com/songs/5756888/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Pourquoi by\u00a0Anne\u00a0Meson",
+   "header_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "id": 5756888,
+   "lyrics_owner_id": 10156751,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-meson-pourquoi-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "1992-01-01",
+   "release_date_for_display": "January 1, 1992",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Pourquoi",
+   "title_with_featured": "Pourquoi",
+   "url": "https://genius.com/Anne-meson-pourquoi-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/654604",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Que fera la Belle (Anne Meson) by Anne Meson",
+    "id": 654604,
+    "name": "Que fera la Belle (Anne Meson)",
+    "url": "https://genius.com/albums/Anne-meson/Que-fera-la-belle-anne-meson",
+    "artist": {
+     "api_path": "/artists/2312240",
+     "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "id": 2312240,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anne Meson",
+     "url": "https://genius.com/artists/Anne-meson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10156751,
+    "annotator_login": "LudivineChevallier",
+    "api_path": "/referents/20315367",
+    "classification": "needs_exegesis",
+    "fragment": "Pourquoi",
+    "id": 20315367,
+    "is_description": true,
+    "path": "/20315367/Anne-meson-pourquoi/Pourquoi",
+    "range": {
+     "content": "Pourquoi"
+    },
+    "song_id": 5756888,
+    "url": "https://genius.com/20315367/Anne-meson-pourquoi/Pourquoi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5756888",
+     "client_timestamps": {
+      "updated_by_human_at": 1594455519,
+      "lyrics_updated_at": 1594455519
+     },
+     "context": "Anne Meson",
+     "id": 5756888,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "link_title": "Pourquoi by\u00a0Anne\u00a0Meson",
+     "title": "Pourquoi",
+     "type": "Song",
+     "url": "https://genius.com/Anne-meson-pourquoi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20315367",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20315367,
+      "pinned": false,
+      "share_url": "https://genius.com/20315367",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20315367/Anne-meson-pourquoi/Pourquoi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10156751",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10156751,
+         "iq": 6366,
+         "login": "LudivineChevallier",
+         "name": "LudivineChevallier",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LudivineChevallier",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Gja6XoJ-Kws"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2312240",
+    "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "id": 2312240,
+    "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Meson",
+    "url": "https://genius.com/artists/Anne-meson"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1304540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1304540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Grosz",
+     "url": "https://genius.com/artists/Pierre-grosz"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5744403",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5744403/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5744403' class='rg_embed_link' data-song-id='5744403'>Read <a href='https://genius.com/Anne-meson-que-fera-la-belle-lyrics'>\u201cQue fera la Belle ?\u201d by Anne\u00a0Meson</a> on Genius</div> <script crossorigin src='//genius.com/songs/5744403/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Que fera la Belle ? by\u00a0Anne\u00a0Meson",
+   "header_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "id": 5744403,
+   "lyrics_owner_id": 10156751,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-meson-que-fera-la-belle-lyrics",
+   "pyongs_count": 2,
+   "recording_location": null,
+   "release_date": "1992-01-01",
+   "release_date_for_display": "January 1, 1992",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Que fera la Belle ?",
+   "title_with_featured": "Que fera la Belle ?",
+   "url": "https://genius.com/Anne-meson-que-fera-la-belle-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/654604",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Que fera la Belle (Anne Meson) by Anne Meson",
+    "id": 654604,
+    "name": "Que fera la Belle (Anne Meson)",
+    "url": "https://genius.com/albums/Anne-meson/Que-fera-la-belle-anne-meson",
+    "artist": {
+     "api_path": "/artists/2312240",
+     "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "id": 2312240,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anne Meson",
+     "url": "https://genius.com/artists/Anne-meson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10156751,
+    "annotator_login": "LudivineChevallier",
+    "api_path": "/referents/20285080",
+    "classification": "needs_exegesis",
+    "fragment": "Que fera la Belle ?",
+    "id": 20285080,
+    "is_description": true,
+    "path": "/20285080/Anne-meson-que-fera-la-belle/Que-fera-la-belle",
+    "range": {
+     "content": "Que fera la Belle ?"
+    },
+    "song_id": 5744403,
+    "url": "https://genius.com/20285080/Anne-meson-que-fera-la-belle/Que-fera-la-belle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5744403",
+     "client_timestamps": {
+      "updated_by_human_at": 1594140537,
+      "lyrics_updated_at": 1594140537
+     },
+     "context": "Anne Meson",
+     "id": 5744403,
+     "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+     "link_title": "Que fera la Belle ? by\u00a0Anne\u00a0Meson",
+     "title": "Que fera la Belle ?",
+     "type": "Song",
+     "url": "https://genius.com/Anne-meson-que-fera-la-belle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20285080",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20285080,
+      "pinned": false,
+      "share_url": "https://genius.com/20285080",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20285080/Anne-meson-que-fera-la-belle/Que-fera-la-belle",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10156751",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/65de37f30692f93c83348f574666fd44",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10156751,
+         "iq": 6366,
+         "login": "LudivineChevallier",
+         "name": "LudivineChevallier",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LudivineChevallier",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=4FL6PnxmEeI"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2312240",
+    "header_image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "id": 2312240,
+    "image_url": "https://images.genius.com/ff1151b829765567403524edd71c0743.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Meson",
+    "url": "https://genius.com/artists/Anne-meson"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1304540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1304540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Grosz",
+     "url": "https://genius.com/artists/Pierre-grosz"
+    }
+   ],
+   "lyrics": "Quand les dents\nDes loups fr\u00f4laient l'ourlet de ma robe\nJ'ai couru jusqu'au ch\u00e2teau perdu, mais beau\nEt\u2005je\u2005suis prisonni\u00e8re volontaire\nAujourd'hui,\u2005d'une b\u00eate en col\u00e8re\nQui rugit comme\u2005un lion en furie\n\n[Refrain]\nQue fera la Belle ?\nSi en t\u00eate-\u00e0-t\u00eate la B\u00eate lui dit\nAimez-moi la Belle ou je vous pr\u00e9dis\nQu'en un sort cruel finira ma vie\nQue fera la Belle ?\nQuand devant la B\u00eate elle a malgr\u00e9 elle\nCes mots qui lui viennent\nQu'est ce que t'as la B\u00eate \u00e0 crier ainsi\nQuel chagrin s'ent\u00eate \u00e0 blesser ta vie ?\n\nJe parcours les corridors \u00e0 longueur de jour\nEt ma peur est remplac\u00e9e par la piti\u00e9\nComment faire pour briser la prison de cristal\nEt d\u00e9livrer celui qui a mal\nSous sa forme animale ?\n\n[Refrain]\nQue fera la Belle ?\nSi en t\u00eate-\u00e0-t\u00eate la B\u00eate lui dit\nAimez-moi la Belle ou je vous pr\u00e9dis\nQu'en un sort cruel finira ma vie\nQue fera la Belle ?\nQuand devant la B\u00eate elle a malgr\u00e9 elle\nCes mots qui lui viennent\nQu'est ce que t'as la B\u00eate \u00e0 crier ainsi\nQuel chagrin s'ent\u00eate \u00e0 blesser ta vie ?\n\nLa beaut\u00e9 des sentiments\nC'est ce qui compte vraiment\nOn peut \u00eatre laid dehors\nEt beau dedans plus encore\n\n[Refrain]\nQue fera la Belle ?\nSi en t\u00eate-\u00e0-t\u00eate la B\u00eate lui dit\nAimez-moi la Belle ou je vous pr\u00e9dis\nQu'en un sort cruel finira ma vie\nQue fera la Belle ?\nQuand devant la B\u00eate elle a malgr\u00e9 elle\nCes mots qui lui viennent\nQu'est ce que t'as la B\u00eate \u00e0 crier ainsi\nQuel chagrin s'ent\u00eate \u00e0 blesser ta vie ?\n\nQue fera la Belle ?\nSi en t\u00eate-\u00e0-t\u00eate la B\u00eate lui dit\nAimez-moi la Belle ou je vous pr\u00e9dis\nQu'en un sort cruel finira ma vie\nHeureuse est la Belle\nQuand sous le cruel masque devant elle\nSous des airs de B\u00eate\nUn jeune homme est l\u00e0\nQui dit \u00e0 la Belle en changeant de voix\nAimez-moi la Belle\n\nQuand sous le cruel masque devant elle\nSous des airs de B\u00eate\nUn jeune homme est l\u00e0\nQui dit \u00e0 la Belle en changeant de voix\nAimez-moi la Belle"
+  }
+ ]
+}

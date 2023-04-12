@@ -1,0 +1,870 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/459317",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 459317,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Maya Barsony",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Maya-barsony",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7124170",
+  "classification": "needs_exegesis",
+  "fragment": "Maya Barsony",
+  "id": 7124170,
+  "is_description": true,
+  "path": "/7124170/Maya-barsony/Maya-barsony",
+  "range": {
+   "content": "Maya Barsony"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7124170/Maya-barsony/Maya-barsony",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/459317",
+   "context": null,
+   "id": 459317,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Maya Barsony",
+   "title": "Maya Barsony",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Maya-barsony"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7124170",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7124170,
+    "pinned": false,
+    "share_url": "https://genius.com/7124170",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7124170/Maya-barsony/Maya-barsony",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1998862",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1998862/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1998862' class='rg_embed_link' data-song-id='1998862'>Read <a href='https://genius.com/Maya-barsony-la-femme-canon-lyrics'>\u201cLa Femme Canon\u201d by Maya\u00a0Barsony</a> on Genius</div> <script crossorigin src='//genius.com/songs/1998862/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La Femme Canon by\u00a0Maya\u00a0Barsony",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 1998862,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Maya-barsony-la-femme-canon-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La Femme Canon",
+   "title_with_featured": "La Femme Canon",
+   "url": "https://genius.com/Maya-barsony-la-femme-canon-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/281156",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "Monter \u00c2moureuse by Maya Barsony",
+    "id": 281156,
+    "name": "Monter \u00c2moureuse",
+    "url": "https://genius.com/albums/Maya-barsony/Monter-amoureuse",
+    "artist": {
+     "api_path": "/artists/459317",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 459317,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Maya Barsony",
+     "url": "https://genius.com/artists/Maya-barsony"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6686344",
+    "classification": "needs_exegesis",
+    "fragment": "La Femme Canon",
+    "id": 6686344,
+    "is_description": true,
+    "path": "/6686344/Maya-barsony-la-femme-canon/La-femme-canon",
+    "range": {
+     "content": "La Femme Canon"
+    },
+    "song_id": 1998862,
+    "url": "https://genius.com/6686344/Maya-barsony-la-femme-canon/La-femme-canon",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1998862",
+     "client_timestamps": {
+      "updated_by_human_at": 1477043185,
+      "lyrics_updated_at": 1432941209
+     },
+     "context": "Maya Barsony",
+     "id": 1998862,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "La Femme Canon by\u00a0Maya\u00a0Barsony",
+     "title": "La Femme Canon",
+     "type": "Song",
+     "url": "https://genius.com/Maya-barsony-la-femme-canon-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6686344",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6686344,
+      "pinned": false,
+      "share_url": "https://genius.com/6686344",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6686344/Maya-barsony-la-femme-canon/La-femme-canon",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/459317",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 459317,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Maya Barsony",
+    "url": "https://genius.com/artists/Maya-barsony"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5828808",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5828808/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5828808' class='rg_embed_link' data-song-id='5828808'>Read <a href='https://genius.com/Maya-barsony-fascination-lyrics'>\u201cFascination\u201d by Maya\u00a0Barsony</a> on Genius</div> <script crossorigin src='//genius.com/songs/5828808/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Fascination by\u00a0Maya\u00a0Barsony",
+   "header_image_thumbnail_url": "https://images.genius.com/52e84cce32ed40aa55366977d821abd1.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/52e84cce32ed40aa55366977d821abd1.355x355x1.jpg",
+   "id": 5828808,
+   "lyrics_owner_id": 4274810,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Maya-barsony-fascination-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/52e84cce32ed40aa55366977d821abd1.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/52e84cce32ed40aa55366977d821abd1.355x355x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fascination",
+   "title_with_featured": "Fascination",
+   "url": "https://genius.com/Maya-barsony-fascination-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/663517",
+    "cover_art_url": "https://images.genius.com/52e84cce32ed40aa55366977d821abd1.355x355x1.jpg",
+    "full_title": "La vie en rose (Original Motion Picture Soundtrack) by Various Artists",
+    "id": 663517,
+    "name": "La vie en rose (Original Motion Picture Soundtrack)",
+    "url": "https://genius.com/albums/Various-artists/La-vie-en-rose-original-motion-picture-soundtrack",
+    "artist": {
+     "api_path": "/artists/768",
+     "header_image_url": "https://images.genius.com/399137c5d254397dc600fab5d0a978a8.594x594x1.png",
+     "id": 768,
+     "image_url": "https://images.genius.com/399137c5d254397dc600fab5d0a978a8.594x594x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Various Artists",
+     "url": "https://genius.com/artists/Various-artists"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4274810,
+    "annotator_login": "Kristian_Lin",
+    "api_path": "/referents/20492960",
+    "classification": "needs_exegesis",
+    "fragment": "Fascination",
+    "id": 20492960,
+    "is_description": true,
+    "path": "/20492960/Maya-barsony-fascination/Fascination",
+    "range": {
+     "content": "Fascination"
+    },
+    "song_id": 5828808,
+    "url": "https://genius.com/20492960/Maya-barsony-fascination/Fascination",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5828808",
+     "client_timestamps": {
+      "updated_by_human_at": 1596410832,
+      "lyrics_updated_at": 1596410308
+     },
+     "context": "Maya Barsony",
+     "id": 5828808,
+     "image_url": "https://images.genius.com/52e84cce32ed40aa55366977d821abd1.355x355x1.jpg",
+     "link_title": "Fascination by\u00a0Maya\u00a0Barsony",
+     "title": "Fascination",
+     "type": "Song",
+     "url": "https://genius.com/Maya-barsony-fascination-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20492960",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20492960,
+      "pinned": false,
+      "share_url": "https://genius.com/20492960",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20492960/Maya-barsony-fascination/Fascination",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4274810",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/fd0479727aab2b825e5ab551e62aecee",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/fd0479727aab2b825e5ab551e62aecee",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/fd0479727aab2b825e5ab551e62aecee",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/fd0479727aab2b825e5ab551e62aecee",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/fd0479727aab2b825e5ab551e62aecee",
+         "human_readable_role_for_display": "Editor",
+         "id": 4274810,
+         "iq": 1389994,
+         "login": "Kristian_Lin",
+         "name": "Kristian_Lin",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Kristian_Lin",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=0_l5taLPHaA"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/459317",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 459317,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Maya Barsony",
+    "url": "https://genius.com/artists/Maya-barsony"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1673520",
+     "header_image_url": "https://images.genius.com/f23ddfbee2e49ea6f8472adb0c5449fa.300x300x1.jpg",
+     "id": 1673520,
+     "image_url": "https://images.genius.com/f23ddfbee2e49ea6f8472adb0c5449fa.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fermo Dante Marchetti",
+     "url": "https://genius.com/artists/Fermo-dante-marchetti"
+    },
+    {
+     "api_path": "/artists/1673521",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1673521,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Maurice de F\u00e9raudy",
+     "url": "https://genius.com/artists/Maurice-de-feraudy"
+    }
+   ],
+   "lyrics": null
+  }
+ ]
+}

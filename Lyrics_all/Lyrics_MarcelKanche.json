@@ -1,0 +1,508 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/50155",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 50155,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Marcel Kanche",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Marcel-kanche",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 13034,
+  "annotator_login": "Damien_RGF",
+  "api_path": "/referents/6967997",
+  "classification": "needs_exegesis",
+  "fragment": "Marcel Kanche",
+  "id": 6967997,
+  "is_description": true,
+  "path": "/6967997/Marcel-kanche/Marcel-kanche",
+  "range": {
+   "content": "Marcel Kanche"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6967997/Marcel-kanche/Marcel-kanche",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/50155",
+   "context": null,
+   "id": 50155,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Marcel Kanche",
+   "title": "Marcel Kanche",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Marcel-kanche"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6967997",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6967997,
+    "pinned": false,
+    "share_url": "https://genius.com/6967997",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/6967997/Marcel-kanche/Marcel-kanche",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/13034",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f23a33d42466e73878c05088d224e006",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f23a33d42466e73878c05088d224e006",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f23a33d42466e73878c05088d224e006",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f23a33d42466e73878c05088d224e006",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/f23a33d42466e73878c05088d224e006",
+       "human_readable_role_for_display": "Contributor",
+       "id": 13034,
+       "iq": 18933,
+       "login": "Damien_RGF",
+       "name": "Damien_RGF",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Damien_RGF",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2377445",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2377445/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2377445' class='rg_embed_link' data-song-id='2377445'>Read <a href='https://genius.com/Marcel-kanche-la-maree-a-marie-lyrics'>\u201cLa mar\u00e9e \u00e0 Marie\u201d by Marcel\u00a0Kanche</a> on Genius</div> <script crossorigin src='//genius.com/songs/2377445/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La mar\u00e9e \u00e0 Marie by\u00a0Marcel\u00a0Kanche",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 2377445,
+   "lyrics_owner_id": 2530563,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Marcel-kanche-la-maree-a-marie-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2002-01-01",
+   "release_date_for_display": "January 1, 2002",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La mar\u00e9e \u00e0 Marie",
+   "title_with_featured": "La mar\u00e9e \u00e0 Marie",
+   "url": "https://genius.com/Marcel-kanche-la-maree-a-marie-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/138494",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Lit de chaux by Marcel Kanche",
+    "id": 138494,
+    "name": "Lit de chaux",
+    "url": "https://genius.com/albums/Marcel-kanche/Lit-de-chaux",
+    "artist": {
+     "api_path": "/artists/50155",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 50155,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marcel Kanche",
+     "url": "https://genius.com/artists/Marcel-kanche"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2530563,
+    "annotator_login": "Ionien",
+    "api_path": "/referents/8271582",
+    "classification": "needs_exegesis",
+    "fragment": "La mar\u00e9e \u00e0 Marie",
+    "id": 8271582,
+    "is_description": true,
+    "path": "/8271582/Marcel-kanche-la-maree-a-marie/La-maree-a-marie",
+    "range": {
+     "content": "La mar\u00e9e \u00e0 Marie"
+    },
+    "song_id": 2377445,
+    "url": "https://genius.com/8271582/Marcel-kanche-la-maree-a-marie/La-maree-a-marie",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2377445",
+     "client_timestamps": {
+      "updated_by_human_at": 1448462299,
+      "lyrics_updated_at": 1448462299
+     },
+     "context": "Marcel Kanche",
+     "id": 2377445,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "La mar\u00e9e \u00e0 Marie by\u00a0Marcel\u00a0Kanche",
+     "title": "La mar\u00e9e \u00e0 Marie",
+     "type": "Song",
+     "url": "https://genius.com/Marcel-kanche-la-maree-a-marie-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8271582",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8271582,
+      "pinned": false,
+      "share_url": "https://genius.com/8271582",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8271582/Marcel-kanche-la-maree-a-marie/La-maree-a-marie",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2530563",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/916e3fdedabba88aa67853895e9af734",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/916e3fdedabba88aa67853895e9af734",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/916e3fdedabba88aa67853895e9af734",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/916e3fdedabba88aa67853895e9af734",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/916e3fdedabba88aa67853895e9af734",
+         "human_readable_role_for_display": null,
+         "id": 2530563,
+         "iq": 100,
+         "login": "Ionien",
+         "name": "Ionien",
+         "role_for_display": null,
+         "url": "https://genius.com/Ionien",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/50155",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 50155,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Marcel Kanche",
+    "url": "https://genius.com/artists/Marcel-kanche"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

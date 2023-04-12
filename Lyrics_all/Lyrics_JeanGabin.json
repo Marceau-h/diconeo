@@ -1,0 +1,1475 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/144970",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/e614ecf6d7975d0ff86f79d9352f5c5f.480x360x1.jpg",
+ "id": 144970,
+ "image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jean Gabin",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Jean-gabin",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 90375,
+  "annotator_login": "vladamel",
+  "api_path": "/referents/7008378",
+  "classification": "needs_exegesis",
+  "fragment": "Jean Gabin",
+  "id": 7008378,
+  "is_description": true,
+  "path": "/7008378/Jean-gabin/Jean-gabin",
+  "range": {
+   "content": "Jean Gabin"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7008378/Jean-gabin/Jean-gabin",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/144970",
+   "context": null,
+   "id": 144970,
+   "image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+   "link_title": "Jean Gabin",
+   "title": "Jean Gabin",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jean-gabin"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7008378",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7008378,
+    "pinned": false,
+    "share_url": "https://genius.com/7008378",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7008378/Jean-gabin/Jean-gabin",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/90375",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/9481f5bd26f2c90c212eebed25f502d0",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/9481f5bd26f2c90c212eebed25f502d0",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/9481f5bd26f2c90c212eebed25f502d0",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/9481f5bd26f2c90c212eebed25f502d0",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/9481f5bd26f2c90c212eebed25f502d0",
+       "human_readable_role_for_display": "Editor",
+       "id": 90375,
+       "iq": 28423,
+       "login": "vladamel",
+       "name": "vladamel",
+       "role_for_display": "editor",
+       "url": "https://genius.com/vladamel",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/1651123",
+   "apple_music_id": "379853948",
+   "apple_music_player_url": "https://genius.com/songs/1651123/apple_music_player",
+   "description": {
+    "plain": "Reprise de la version anglaise \u201cBut Now I Know\u201d, avec une modification du dernier couplet. Cette chanson arrive 38 ans apr\u00e8s \u201cQuand on se prom\u00e8ne au bord de l'eau\u201d.  Jean-Gabin ici applique une reflexion sur sa vie et son pass\u00e9, il apparait ici comme un homme monotone."
+   },
+   "embed_content": "<div id='rg_embed_link_1651123' class='rg_embed_link' data-song-id='1651123'>Read <a href='https://genius.com/Jean-gabin-maintenant-je-sais-lyrics'>\u201cMaintenant Je Sais\u201d by Jean\u00a0Gabin</a> on Genius</div> <script crossorigin src='//genius.com/songs/1651123/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Maintenant Je Sais by\u00a0Jean\u00a0Gabin",
+   "header_image_thumbnail_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+   "id": 1651123,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-gabin-maintenant-je-sais-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Maintenant Je Sais",
+   "title_with_featured": "Maintenant Je Sais",
+   "url": "https://genius.com/Jean-gabin-maintenant-je-sais-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4572521,
+    "annotator_login": "joZephhh",
+    "api_path": "/referents/6166050",
+    "classification": "unreviewed",
+    "fragment": "Maintenant Je Sais",
+    "id": 6166050,
+    "is_description": true,
+    "path": "/6166050/Jean-gabin-maintenant-je-sais/Maintenant-je-sais",
+    "range": {
+     "content": "Maintenant Je Sais"
+    },
+    "song_id": 1651123,
+    "url": "https://genius.com/6166050/Jean-gabin-maintenant-je-sais/Maintenant-je-sais",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1651123",
+     "client_timestamps": {
+      "updated_by_human_at": 1540450470,
+      "lyrics_updated_at": 1540450470
+     },
+     "context": "Jean Gabin",
+     "id": 1651123,
+     "image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+     "link_title": "Maintenant Je Sais by\u00a0Jean\u00a0Gabin",
+     "title": "Maintenant Je Sais",
+     "type": "Song",
+     "url": "https://genius.com/Jean-gabin-maintenant-je-sais-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6166050",
+      "body": {
+       "plain": "Reprise de la version anglaise \u201cBut Now I Know\u201d, avec une modification du dernier couplet. Cette chanson arrive 38 ans apr\u00e8s \u201cQuand on se prom\u00e8ne au bord de l'eau\u201d.  Jean-Gabin ici applique une reflexion sur sa vie et son pass\u00e9, il apparait ici comme un homme monotone."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 6166050,
+      "pinned": false,
+      "share_url": "https://genius.com/6166050",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/6166050/Jean-gabin-maintenant-je-sais/Maintenant-je-sais",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4572521",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/567c9bf1f394e95d6cbccaa3bbeac333",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/567c9bf1f394e95d6cbccaa3bbeac333",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/567c9bf1f394e95d6cbccaa3bbeac333",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/567c9bf1f394e95d6cbccaa3bbeac333",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/567c9bf1f394e95d6cbccaa3bbeac333",
+         "human_readable_role_for_display": null,
+         "id": 4572521,
+         "iq": 139,
+         "login": "joZephhh",
+         "name": "joZephhh",
+         "role_for_display": null,
+         "url": "https://genius.com/joZephhh",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/144970",
+    "header_image_url": "https://images.genius.com/e614ecf6d7975d0ff86f79d9352f5c5f.480x360x1.jpg",
+    "id": 144970,
+    "image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Gabin",
+    "url": "https://genius.com/artists/Jean-gabin"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Quand j'\u00e9tais gosse, haut comme trois pommes\nJ'parlais bien fort pour \u00eatre un homme\nJ'disais, JE SAIS, JE SAIS, JE SAIS, JE SAIS\n\nC'\u00e9tait l'd\u00e9but, c'\u00e9tait l'printemps\nMais quand j'ai eu mes 18 ans\nJ'ai dit, JE SAIS, \u00e7a y est, cette fois JE SAIS\n\nEt aujourd'hui, les jours o\u00f9 je m'retourne\nJ'regarde la terre o\u00f9 j'ai quand m\u00eame fait les 100 pas\nEt je n'sais toujours pas comment elle tourne !\n\nVers 25 ans, j'savais tout : l'amour, les roses, la vie, les sous\nTiens oui l'amour ! J'en avais fait tout le tour !\n\nEt heureusement, comme les copains, j'avais pas mang\u00e9 tout mon pain :\nAu milieu de ma vie, j'ai encore appris\nC'que j'ai appris, \u00e7a tient en trois, quatre mots :\n\n\"Le jour o\u00f9 quelqu'un vous aime, il fait tr\u00e8s beau\nJ'peux pas mieux dire, il fait tr\u00e8s beau !\n\nC'est encore ce qui m'\u00e9tonne dans la vie\nMoi qui suis \u00e0 l'automne de ma vie\nOn oublie tant de soirs de tristesse\nMais jamais un matin de tendresse !\n\nToute ma jeunesse, j'ai voulu dire JE SAIS\nSeulement, plus je cherchais, et puis moins j' savais\n\nIl y a 60 coups qui ont sonn\u00e9 \u00e0 l'horloge\nJe suis encore \u00e0 ma fen\u00eatre, je regarde, et j'm'interroge ?\n\nMaintenant JE SAIS, JE SAIS QU'ON NE SAIT JAMAIS !\n\nLa vie, l'amour, l'argent, les amis et les roses\nOn ne sait jamais le bruit ni la couleur des choses\nC'est tout c'que j'sais ! Mais \u00e7a, j'le SAIS... !"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2087775",
+   "apple_music_id": "370557495",
+   "apple_music_player_url": "https://genius.com/songs/2087775/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2087775' class='rg_embed_link' data-song-id='2087775'>Read <a href='https://genius.com/Jean-gabin-quand-on-spromene-au-bord-de-leau-lyrics'>\u201cQuand on s'prom\u00e8ne au bord de l'eau\u201d by Jean\u00a0Gabin</a> on Genius</div> <script crossorigin src='//genius.com/songs/2087775/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Quand on s'prom\u00e8ne au bord de l'eau by\u00a0Jean\u00a0Gabin",
+   "header_image_thumbnail_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+   "id": 2087775,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-gabin-quand-on-spromene-au-bord-de-leau-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Quand on s\u2019prom\u00e8ne au bord de l\u2019eau",
+   "title_with_featured": "Quand on s'prom\u00e8ne au bord de l'eau",
+   "url": "https://genius.com/Jean-gabin-quand-on-spromene-au-bord-de-leau-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6827760",
+    "classification": "needs_exegesis",
+    "fragment": "Quand on s\u2019prom\u00e8ne au bord de l\u2019eau",
+    "id": 6827760,
+    "is_description": true,
+    "path": "/6827760/Jean-gabin-quand-on-spromene-au-bord-de-leau/Quand-on-spromene-au-bord-de-leau",
+    "range": {
+     "content": "Quand on s'prom\u00e8ne au bord de l'eau"
+    },
+    "song_id": 2087775,
+    "url": "https://genius.com/6827760/Jean-gabin-quand-on-spromene-au-bord-de-leau/Quand-on-spromene-au-bord-de-leau",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2087775",
+     "client_timestamps": {
+      "updated_by_human_at": 1446846345,
+      "lyrics_updated_at": 1433957489
+     },
+     "context": "Jean Gabin",
+     "id": 2087775,
+     "image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+     "link_title": "Quand on s\u2019prom\u00e8ne au bord de l\u2019eau by\u00a0Jean\u00a0Gabin",
+     "title": "Quand on s'prom\u00e8ne au bord de l'eau",
+     "type": "Song",
+     "url": "https://genius.com/Jean-gabin-quand-on-spromene-au-bord-de-leau-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6827760",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6827760,
+      "pinned": false,
+      "share_url": "https://genius.com/6827760",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6827760/Jean-gabin-quand-on-spromene-au-bord-de-leau/Quand-on-spromene-au-bord-de-leau",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/144970",
+    "header_image_url": "https://images.genius.com/e614ecf6d7975d0ff86f79d9352f5c5f.480x360x1.jpg",
+    "id": 144970,
+    "image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Gabin",
+    "url": "https://genius.com/artists/Jean-gabin"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/855466",
+       "full_title": "Quand on s'prom\u00e8ne au bord de l'eau by\u00a0Patrick\u00a0Bruel (Ft.\u00a0Jean-Louis\u00a0Aubert)",
+       "header_image_thumbnail_url": "https://images.genius.com/d9d8029a4bf8a70c51c11fa8910cfd23.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d9d8029a4bf8a70c51c11fa8910cfd23.300x300x1.jpg",
+       "id": 855466,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Patrick-bruel-quand-on-spromene-au-bord-de-leau-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/d9d8029a4bf8a70c51c11fa8910cfd23.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d9d8029a4bf8a70c51c11fa8910cfd23.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Quand on s\u2019prom\u00e8ne au bord de l\u2019eau",
+       "title_with_featured": "Quand on s'prom\u00e8ne au bord de l'eau (Ft.\u00a0Jean-Louis\u00a0Aubert)",
+       "url": "https://genius.com/Patrick-bruel-quand-on-spromene-au-bord-de-leau-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/29743",
+        "header_image_url": "https://s3.amazonaws.com/rapgenius/1353774467_198653_411475722241494_698581708_n.jpg",
+        "id": 29743,
+        "image_url": "https://s3.amazonaws.com/rapgenius/1353774467_198653_411475722241494_698581708_n.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Patrick Bruel",
+        "url": "https://genius.com/artists/Patrick-bruel"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Paroles de la chanson Quand on s'promene au bord de l'eau :\nDu lundi jusqu'au sam'di\nPour gagner des radis\nQuand on a fait sans entrain\nSon p'tit truc quotidien\nSubi le propri\u00e9taire\nL'percepteur, la boulang\u00e8re\nEt trimball\u00e9 sa vie d'chien\nLe dimanch' viv'ment\nOn file \u00e0 Nogent\nAlors brusquement\nTout para\u00eet charmant ! ...\n\n[Refrain] :\nQuand on s'prom\u00e8ne au bord de l'eau\nComm' tout est beau...\nQuel renouveau ...\nParis au loin nous semble une prison\nOn a le c\u0153ur plein de chansons\nL'odeur des fleurs\nNous met tout \u00e0 l'envers\nEt le bonheur\nNous saoule pour pas cher\nChagrins et peines\nDe la semaine\nTout est noy\u00e9 dans le bleu, dans le vert ...\nUn seul dimanche au bord de l'eau\nAux tr\u00e9molos\nDes p'tits oiseaux\nSuffit pour que tous les jours semblent beaux\nQuand on s'prom\u00e8ne au bord de l'eau\n\nJ'connais des gens cafardeux\nQui tout l'temps s'font des ch'veux\nEt r\u00eav'nt de filer ailleurs\nDans un monde meilleur\nIls d\u00e9pens'nt des tas d'oseille\nPour d\u00e9couvrir des merveilles\nBen moi, \u00e7a m'fait mal au c\u0153ur ...\nCar y a pas besoin\nPour trouver un coin\nO\u00f9 l'on se trouv' bien\nDe chercher si loin...\n\n[Refrain]"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2234003",
+   "apple_music_id": "370557495",
+   "apple_music_player_url": "https://genius.com/songs/2234003/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2234003' class='rg_embed_link' data-song-id='2234003'>Read <a href='https://genius.com/Jean-gabin-quand-on-se-promene-au-bord-de-leau-lyrics'>\u201cQuand On Se Promene Au Bord De L'eau\u201d by Jean\u00a0Gabin</a> on Genius</div> <script crossorigin src='//genius.com/songs/2234003/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Quand On Se Promene Au Bord De L'eau by\u00a0Jean\u00a0Gabin",
+   "header_image_thumbnail_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+   "id": 2234003,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-gabin-quand-on-se-promene-au-bord-de-leau-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Quand On Se Promene Au Bord De L\u2019eau",
+   "title_with_featured": "Quand On Se Promene Au Bord De L'eau",
+   "url": "https://genius.com/Jean-gabin-quand-on-se-promene-au-bord-de-leau-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7368110",
+    "classification": "needs_exegesis",
+    "fragment": "Quand On Se Promene Au Bord De L\u2019eau",
+    "id": 7368110,
+    "is_description": true,
+    "path": "/7368110/Jean-gabin-quand-on-se-promene-au-bord-de-leau/Quand-on-se-promene-au-bord-de-leau",
+    "range": {
+     "content": "Quand On Se Promene Au Bord De L'eau"
+    },
+    "song_id": 2234003,
+    "url": "https://genius.com/7368110/Jean-gabin-quand-on-se-promene-au-bord-de-leau/Quand-on-se-promene-au-bord-de-leau",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2234003",
+     "client_timestamps": {
+      "updated_by_human_at": 1447115322,
+      "lyrics_updated_at": 1437085395
+     },
+     "context": "Jean Gabin",
+     "id": 2234003,
+     "image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+     "link_title": "Quand On Se Promene Au Bord De L\u2019eau by\u00a0Jean\u00a0Gabin",
+     "title": "Quand On Se Promene Au Bord De L'eau",
+     "type": "Song",
+     "url": "https://genius.com/Jean-gabin-quand-on-se-promene-au-bord-de-leau-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7368110",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7368110,
+      "pinned": false,
+      "share_url": "https://genius.com/7368110",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7368110/Jean-gabin-quand-on-se-promene-au-bord-de-leau/Quand-on-se-promene-au-bord-de-leau",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/144970",
+    "header_image_url": "https://images.genius.com/e614ecf6d7975d0ff86f79d9352f5c5f.480x360x1.jpg",
+    "id": 144970,
+    "image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Gabin",
+    "url": "https://genius.com/artists/Jean-gabin"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1250705",
+   "apple_music_id": "390524915",
+   "apple_music_player_url": "https://genius.com/songs/1250705/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1250705' class='rg_embed_link' data-song-id='1250705'>Read <a href='https://genius.com/Jean-gabin-viens-fifine-lyrics'>\u201cViens Fifine\u201d by Jean\u00a0Gabin</a> on Genius</div> <script crossorigin src='//genius.com/songs/1250705/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Viens Fifine by\u00a0Jean\u00a0Gabin",
+   "header_image_thumbnail_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+   "id": 1250705,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-gabin-viens-fifine-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Viens Fifine",
+   "title_with_featured": "Viens Fifine",
+   "url": "https://genius.com/Jean-gabin-viens-fifine-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5754818",
+    "classification": "needs_exegesis",
+    "fragment": "Viens Fifine",
+    "id": 5754818,
+    "is_description": true,
+    "path": "/5754818/Jean-gabin-viens-fifine/Viens-fifine",
+    "range": {
+     "content": "Viens Fifine"
+    },
+    "song_id": 1250705,
+    "url": "https://genius.com/5754818/Jean-gabin-viens-fifine/Viens-fifine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1250705",
+     "client_timestamps": {
+      "updated_by_human_at": 1438098070,
+      "lyrics_updated_at": 1429721634
+     },
+     "context": "Jean Gabin",
+     "id": 1250705,
+     "image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+     "link_title": "Viens Fifine by\u00a0Jean\u00a0Gabin",
+     "title": "Viens Fifine",
+     "type": "Song",
+     "url": "https://genius.com/Jean-gabin-viens-fifine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5754818",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5754818,
+      "pinned": false,
+      "share_url": "https://genius.com/5754818",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5754818/Jean-gabin-viens-fifine/Viens-fifine",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/144970",
+    "header_image_url": "https://images.genius.com/e614ecf6d7975d0ff86f79d9352f5c5f.480x360x1.jpg",
+    "id": 144970,
+    "image_url": "https://images.genius.com/e40daa732d6a2273267692d78744afc9.835x835x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Gabin",
+    "url": "https://genius.com/artists/Jean-gabin"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "De la rue des Halles \u00e0 la rue d'la Huchette\nOn conna\u00eet Fifine la reine des bals musette\nLe soir quand elle passe en roulant des mirettes\nPlus d'un gars du quartier lui dit sans s'faire prier\n\n{Refrain:}\nViens Fifine viens Fifine\nAu p'tit bal du S\u00e9basto o o o o o o\nViens Fifine viens Fifine\nLa java y a rien d'plus beau o o o o o o\nQuand tu m'fr\u00f4les \u00e7a m'fait dr\u00f4le\nJusque dans l'dos\nQuand tu vires \u00e7a m'chavire\nLe ciboulot o o\nViens Fifine viens Fifine\nY a pas je t'ai dans la peau o o o o o o\n\n{au Refrain}"
+  }
+ ]
+}

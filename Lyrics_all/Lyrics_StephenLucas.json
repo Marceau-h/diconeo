@@ -1,0 +1,908 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2128025",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+ "id": 2128025,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Stephen Lucas",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Stephen-lucas",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 7703433,
+  "annotator_login": "deletingsoon",
+  "api_path": "/referents/19160888",
+  "classification": "needs_exegesis",
+  "fragment": "Stephen Lucas",
+  "id": 19160888,
+  "is_description": true,
+  "path": "/19160888/Stephen-lucas/Stephen-lucas",
+  "range": {
+   "content": "Stephen Lucas"
+  },
+  "song_id": null,
+  "url": "https://genius.com/19160888/Stephen-lucas/Stephen-lucas",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2128025",
+   "context": null,
+   "id": 2128025,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1651176288",
+   "link_title": "Stephen Lucas",
+   "title": "Stephen Lucas",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Stephen-lucas"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/19160888",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 19160888,
+    "pinned": false,
+    "share_url": "https://genius.com/19160888",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/19160888/Stephen-lucas/Stephen-lucas",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7703433",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/5b171eb6a5a0afb73a4608a704d9eed7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/5b171eb6a5a0afb73a4608a704d9eed7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/5b171eb6a5a0afb73a4608a704d9eed7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/5b171eb6a5a0afb73a4608a704d9eed7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/js9bsxea2h",
+       "human_readable_role_for_display": null,
+       "id": 7703433,
+       "iq": 160,
+       "login": "deletingsoon",
+       "name": "deletingsoon",
+       "role_for_display": null,
+       "url": "https://genius.com/deletingsoon",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6188401",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/6188401/apple_music_player",
+   "artist_names": "Stephen Lucas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6188401' class='rg_embed_link' data-song-id='6188401'>Read <a href='https://genius.com/Stephen-lucas-fields-lyrics'>\u201cFields\u201d by Stephen\u00a0Lucas</a> on Genius</div> <script crossorigin src='//genius.com/songs/6188401/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Fields by\u00a0Stephen\u00a0Lucas",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "id": 6188401,
+   "lyrics_owner_id": 8850505,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stephen-lucas-fields-lyrics",
+   "pyongs_count": null,
+   "recording_location": "",
+   "release_date": "2020-11-19",
+   "release_date_for_display": "November 19, 2020",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fields",
+   "title_with_featured": "Fields",
+   "url": "https://genius.com/Stephen-lucas-fields-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Mixed By",
+     "artists": [
+      {
+       "api_path": "/artists/2484409",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+       "id": 2484409,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BriOWski",
+       "url": "https://genius.com/artists/Briowski"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8850505,
+    "annotator_login": "BornRareRecords",
+    "api_path": "/referents/21383779",
+    "classification": "needs_exegesis",
+    "fragment": "Fields",
+    "id": 21383779,
+    "is_description": true,
+    "path": "/21383779/Stephen-lucas-fields/Fields",
+    "range": {
+     "content": "Fields"
+    },
+    "song_id": 6188401,
+    "url": "https://genius.com/21383779/Stephen-lucas-fields/Fields",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6188401",
+     "client_timestamps": {
+      "updated_by_human_at": 1610390719,
+      "lyrics_updated_at": 1605805770
+     },
+     "context": "Stephen Lucas",
+     "id": 6188401,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+     "link_title": "Fields by\u00a0Stephen\u00a0Lucas",
+     "title": "Fields",
+     "type": "Song",
+     "url": "https://genius.com/Stephen-lucas-fields-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21383779",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21383779,
+      "pinned": false,
+      "share_url": "https://genius.com/21383779",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21383779/Stephen-lucas-fields/Fields",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8850505",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a515a859b85db08ea44b03a36624f1e4",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a515a859b85db08ea44b03a36624f1e4",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a515a859b85db08ea44b03a36624f1e4",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a515a859b85db08ea44b03a36624f1e4",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/a515a859b85db08ea44b03a36624f1e4",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8850505,
+         "iq": 362,
+         "login": "BornRareRecords",
+         "name": "BornRareRecords",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/BornRareRecords",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2128025",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 2128025,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stephen Lucas",
+    "url": "https://genius.com/artists/Stephen-lucas"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/2484390",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 2484390,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dominic \u201cDom\u201d Martinez",
+     "url": "https://genius.com/artists/Dominic-dom-martinez"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2128025",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 2128025,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stephen Lucas",
+     "url": "https://genius.com/artists/Stephen-lucas"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5799674",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5799674/apple_music_player",
+   "artist_names": "Stephen Lucas (Ft. Nick Casso)",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5799674' class='rg_embed_link' data-song-id='5799674'>Read <a href='https://genius.com/Stephen-lucas-seek-from-above-feat-nick-casso-lyrics'>\u201cSeek from Above (feat. Nick Casso)\u201d by Stephen\u00a0Lucas</a> on Genius</div> <script crossorigin src='//genius.com/songs/5799674/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Seek from Above (feat. Nick Casso) by\u00a0Stephen\u00a0Lucas (Ft.\u00a0Nick\u00a0Casso)",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "id": 5799674,
+   "lyrics_owner_id": 11387172,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stephen-lucas-seek-from-above-feat-nick-casso-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2020-07-24",
+   "release_date_for_display": "July 24, 2020",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Seek from Above (feat. Nick Casso)",
+   "title_with_featured": "Seek from Above (feat. Nick Casso) (Ft.\u00a0Nick\u00a0Casso)",
+   "url": "https://genius.com/Stephen-lucas-seek-from-above-feat-nick-casso-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11387172,
+    "annotator_login": "Stephenlucas",
+    "api_path": "/referents/20423395",
+    "classification": "needs_exegesis",
+    "fragment": "Seek from Above (feat. Nick Casso)",
+    "id": 20423395,
+    "is_description": true,
+    "path": "/20423395/Stephen-lucas-seek-from-above-feat-nick-casso/Seek-from-above-feat-nick-casso",
+    "range": {
+     "content": "Seek from Above (feat. Nick Casso)"
+    },
+    "song_id": 5799674,
+    "url": "https://genius.com/20423395/Stephen-lucas-seek-from-above-feat-nick-casso/Seek-from-above-feat-nick-casso",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5799674",
+     "client_timestamps": {
+      "updated_by_human_at": 1595634335,
+      "lyrics_updated_at": 1595634248
+     },
+     "context": "Stephen Lucas",
+     "id": 5799674,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+     "link_title": "Seek from Above (feat. Nick Casso) by\u00a0Stephen\u00a0Lucas (Ft.\u00a0Nick\u00a0Casso)",
+     "title": "Seek from Above (feat. Nick Casso)",
+     "type": "Song",
+     "url": "https://genius.com/Stephen-lucas-seek-from-above-feat-nick-casso-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20423395",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20423395,
+      "pinned": false,
+      "share_url": "https://genius.com/20423395",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20423395/Stephen-lucas-seek-from-above-feat-nick-casso/Seek-from-above-feat-nick-casso",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11387172",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7e64770d429b92561f34302db0c226f2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7e64770d429b92561f34302db0c226f2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7e64770d429b92561f34302db0c226f2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7e64770d429b92561f34302db0c226f2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/7e64770d429b92561f34302db0c226f2",
+         "human_readable_role_for_display": null,
+         "id": 11387172,
+         "iq": 121,
+         "login": "Stephenlucas",
+         "name": "Stephenlucas",
+         "role_for_display": null,
+         "url": "https://genius.com/Stephenlucas",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/1522667",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 1522667,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Casso",
+     "url": "https://genius.com/artists/Nick-casso"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "user 573001590",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/user-573001590/01-mjbaby-mix-19-1644-ref-26jun2020"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=9TNhs31Akhk"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2128025",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 2128025,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stephen Lucas",
+    "url": "https://genius.com/artists/Stephen-lucas"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/2333409",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 2333409,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dominic Martinez",
+     "url": "https://genius.com/artists/Dominic-martinez"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1522667",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 1522667,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Casso",
+     "url": "https://genius.com/artists/Nick-casso"
+    },
+    {
+     "api_path": "/artists/2333410",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 2333410,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stephen Goth",
+     "url": "https://genius.com/artists/Stephen-goth"
+    }
+   ],
+   "lyrics": null
+  }
+ ]
+}

@@ -1,0 +1,3729 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/363892",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 363892,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Ricky Shayne",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Ricky-shayne",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7082327",
+  "classification": "needs_exegesis",
+  "fragment": "Ricky Shayne",
+  "id": 7082327,
+  "is_description": true,
+  "path": "/7082327/Ricky-shayne/Ricky-shayne",
+  "range": {
+   "content": "Ricky Shayne"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7082327/Ricky-shayne/Ricky-shayne",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/363892",
+   "context": null,
+   "id": 363892,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Ricky Shayne",
+   "title": "Ricky Shayne",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Ricky-shayne"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7082327",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7082327,
+    "pinned": false,
+    "share_url": "https://genius.com/7082327",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7082327/Ricky-shayne/Ricky-shayne",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1160461",
+   "apple_music_id": "364361372",
+   "apple_music_player_url": "https://genius.com/songs/1160461/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1160461' class='rg_embed_link' data-song-id='1160461'>Read <a href='https://genius.com/Ricky-shayne-mamy-blue-lyrics'>\u201cMamy Blue\u201d by Ricky\u00a0Shayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1160461/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Mamy Blue by\u00a0Ricky\u00a0Shayne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1160461,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ricky-shayne-mamy-blue-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mamy Blue",
+   "title_with_featured": "Mamy Blue",
+   "url": "https://genius.com/Ricky-shayne-mamy-blue-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5662205",
+    "classification": "needs_exegesis",
+    "fragment": "Mamy Blue",
+    "id": 5662205,
+    "is_description": true,
+    "path": "/5662205/Ricky-shayne-mamy-blue/Mamy-blue",
+    "range": {
+     "content": "Mamy Blue"
+    },
+    "song_id": 1160461,
+    "url": "https://genius.com/5662205/Ricky-shayne-mamy-blue/Mamy-blue",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1160461",
+     "client_timestamps": {
+      "updated_by_human_at": 1437427604,
+      "lyrics_updated_at": 1429674904
+     },
+     "context": "Ricky Shayne",
+     "id": 1160461,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Mamy Blue by\u00a0Ricky\u00a0Shayne",
+     "title": "Mamy Blue",
+     "type": "Song",
+     "url": "https://genius.com/Ricky-shayne-mamy-blue-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5662205",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5662205,
+      "pinned": false,
+      "share_url": "https://genius.com/5662205",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5662205/Ricky-shayne-mamy-blue/Mamy-blue",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/363892",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 363892,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/artists/Ricky-shayne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/1718679",
+   "apple_music_id": "648385578",
+   "apple_music_player_url": "https://genius.com/songs/1718679/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1718679' class='rg_embed_link' data-song-id='1718679'>Read <a href='https://genius.com/Ricky-shayne-in-chicago-in-the-ghetto-lyrics'>\u201cIn Chicago (In the Ghetto)\u201d by Ricky\u00a0Shayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1718679/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "In Chicago (In the Ghetto) by\u00a0Ricky\u00a0Shayne",
+   "header_image_thumbnail_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.300x276x1.jpg",
+   "header_image_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.600x551x1.jpg",
+   "id": 1718679,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ricky-shayne-in-chicago-in-the-ghetto-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.300x276x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.600x551x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "In Chicago (In the Ghetto)",
+   "title_with_featured": "In Chicago (In the Ghetto)",
+   "url": "https://genius.com/Ricky-shayne-in-chicago-in-the-ghetto-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/245356",
+    "cover_art_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.600x551x1.jpg",
+    "full_title": "Ricky Shayne by Ricky Shayne",
+    "id": 245356,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/albums/Ricky-shayne/Ricky-shayne",
+    "artist": {
+     "api_path": "/artists/363892",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 363892,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ricky Shayne",
+     "url": "https://genius.com/artists/Ricky-shayne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6233952",
+    "classification": "needs_exegesis",
+    "fragment": "In Chicago (In the Ghetto)",
+    "id": 6233952,
+    "is_description": true,
+    "path": "/6233952/Ricky-shayne-in-chicago-in-the-ghetto/In-chicago-in-the-ghetto",
+    "range": {
+     "content": "In Chicago (In the Ghetto)"
+    },
+    "song_id": 1718679,
+    "url": "https://genius.com/6233952/Ricky-shayne-in-chicago-in-the-ghetto/In-chicago-in-the-ghetto",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1718679",
+     "client_timestamps": {
+      "updated_by_human_at": 1598256362,
+      "lyrics_updated_at": 1598264212
+     },
+     "context": "Ricky Shayne",
+     "id": 1718679,
+     "image_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.600x551x1.jpg",
+     "link_title": "In Chicago (In the Ghetto) by\u00a0Ricky\u00a0Shayne",
+     "title": "In Chicago (In the Ghetto)",
+     "type": "Song",
+     "url": "https://genius.com/Ricky-shayne-in-chicago-in-the-ghetto-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6233952",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6233952,
+      "pinned": false,
+      "share_url": "https://genius.com/6233952",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6233952/Ricky-shayne-in-chicago-in-the-ghetto/In-chicago-in-the-ghetto",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/363892",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 363892,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/artists/Ricky-shayne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "In Chicago\nDort wo nie ein Strahl der Sonne f\u00e4llt\nErblickte er das Licht der Welt\nIn Chicago\n\nUnd er wuchs heran\nUnd sein Spielplatz war der Stra\u00dfenstaubund er kannte nicht der B\u00e4ume Laub\nIn Chicago\n\nAls der Tag anbricht\nDa blickt er um sich\nUnd was er sah war alles so grau\nUnd er dachte sich\nDas ist kein Leben f\u00fcr mich\nWenn ich es mache so wie die\nDann schaffe ich es nie\nIn Chicago\n\nUnd dann traf er zwei\nDie war'n wie er\nMit denen zog er nachts umher\nIn Chicago\n\nUnd in einer Nacht-\nDa machten die drei einen k\u00fchnen Plan\nUnd schafften sich Pistolen an\nIn Chicago\n\nDoch der \u00dcberfall missgl\u00fcckte\nEin Polizist rief: \"Halt!\"\nEr blieb nicht steh'n\nDa fiel ein Schuss\nPl\u00f6tzlich war die Welt um ihn still\nUnd kalt\n\nUnd die Menschen um ihn\nSie blickten stumm\nAls ging sie das alles gar nichts an\nIn Chicago\n\nUnd in der selben Nacht\nKam ein and'res kleines Kind zur Welt\nDort wo nie ein Strahl der Sonne f\u00e4llt\nIn Chicago\n\nIn Chicago\nIn Chicago..."
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/921908",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/921908/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_921908' class='rg_embed_link' data-song-id='921908'>Read <a href='https://genius.com/Ricky-shayne-ginny-komm-naher-dafur-kampf-ich-wie-ein-lowe-lyrics'>\u201cGinny, komm n\u00e4her (Daf\u00fcr k\u00e4mpf' ich wie ein L\u00f6we)\u201d by Ricky\u00a0Shayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/921908/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ginny, komm n\u00e4her (Daf\u00fcr k\u00e4mpf' ich wie ein L\u00f6we) by\u00a0Ricky\u00a0Shayne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 921908,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ricky-shayne-ginny-komm-naher-dafur-kampf-ich-wie-ein-lowe-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ginny, komm n\u00e4her (Daf\u00fcr k\u00e4mpf\u2019 ich wie ein L\u00f6we)",
+   "title_with_featured": "Ginny, komm n\u00e4her (Daf\u00fcr k\u00e4mpf' ich wie ein L\u00f6we)",
+   "url": "https://genius.com/Ricky-shayne-ginny-komm-naher-dafur-kampf-ich-wie-ein-lowe-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5415025",
+    "classification": "needs_exegesis",
+    "fragment": "Ginny, komm n\u00e4her (Daf\u00fcr k\u00e4mpf\u2019 ich wie ein L\u00f6we)",
+    "id": 5415025,
+    "is_description": true,
+    "path": "/5415025/Ricky-shayne-ginny-komm-naher-dafur-kampf-ich-wie-ein-lowe/Ginny-komm-naher-dafur-kampf-ich-wie-ein-lowe",
+    "range": {
+     "content": "Ginny, komm n\u00e4her (Daf\u00fcr k\u00e4mpf' ich wie ein L\u00f6we)"
+    },
+    "song_id": 921908,
+    "url": "https://genius.com/5415025/Ricky-shayne-ginny-komm-naher-dafur-kampf-ich-wie-ein-lowe/Ginny-komm-naher-dafur-kampf-ich-wie-ein-lowe",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/921908",
+     "client_timestamps": {
+      "updated_by_human_at": 1434116255,
+      "lyrics_updated_at": 1429537582
+     },
+     "context": "Ricky Shayne",
+     "id": 921908,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Ginny, komm n\u00e4her (Daf\u00fcr k\u00e4mpf\u2019 ich wie ein L\u00f6we) by\u00a0Ricky\u00a0Shayne",
+     "title": "Ginny, komm n\u00e4her (Daf\u00fcr k\u00e4mpf' ich wie ein L\u00f6we)",
+     "type": "Song",
+     "url": "https://genius.com/Ricky-shayne-ginny-komm-naher-dafur-kampf-ich-wie-ein-lowe-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5415025",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5415025,
+      "pinned": false,
+      "share_url": "https://genius.com/5415025",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5415025/Ricky-shayne-ginny-komm-naher-dafur-kampf-ich-wie-ein-lowe/Ginny-komm-naher-dafur-kampf-ich-wie-ein-lowe",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/363892",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 363892,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/artists/Ricky-shayne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Wenn du traurig bist\nWeil die Sonne fortgeht:\nGinny\nKomm n\u00e4her\nWenn der Wind dich k\u00fc\u00dft\nUnd dein L\u00e4cheln fortweht:\nGinny\nViel n\u00e4her\nDu darfst nie wieder traurig sein\nDenk daran\nDu bist nicht allein\n\nGinny\nKomm n\u00e4her\nGinny\nViel n\u00e4her\n\nDaf\u00fcr k\u00e4mpf ich wie ein L\u00f6we\nDa\u00df du immer gl\u00fccklich bist\nDa\u00df du mich lieb hast\nDa\u00df du nie von mir gehst\n\nGinny\nKomm n\u00e4her\nGinny\nViel n\u00e4her\n\nWenn die Nacht anbricht\nUnd die Lichter ausgehn:\nGinny\nKomm n\u00e4her\nWollen du und ich\nDoch noch nicht nach Haus gehn:\nGinny\nKomm n\u00e4her\nDann erwachen W\u00fcnsche in dir und mir\nDarum bleib doch bitte noch etwas hier\n\nGinny\nKomm n\u00e4her\nGinny\nViel n\u00e4her\n\nDaf\u00fcr k\u00e4mpf ich wie ein L\u00f6we\nDa\u00df du immer gl\u00fccklich bist\nDa\u00df du mich lieb hast\nDa\u00df du nie von mir gehst"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1185809",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1185809/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1185809' class='rg_embed_link' data-song-id='1185809'>Read <a href='https://genius.com/Ricky-shayne-jeder-tag-bringt-mich-naher-zu-dir-lyrics'>\u201cJeder Tag bringt mich n\u00e4her zu dir\u201d by Ricky\u00a0Shayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1185809/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Jeder Tag bringt mich n\u00e4her zu dir by\u00a0Ricky\u00a0Shayne",
+   "header_image_thumbnail_url": "https://images.genius.com/61e0df485f791b7b0ab609aa7a6bdc56.300x309x1.jpg",
+   "header_image_url": "https://images.genius.com/61e0df485f791b7b0ab609aa7a6bdc56.320x330x1.jpg",
+   "id": 1185809,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ricky-shayne-jeder-tag-bringt-mich-naher-zu-dir-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/61e0df485f791b7b0ab609aa7a6bdc56.300x309x1.jpg",
+   "song_art_image_url": "https://images.genius.com/61e0df485f791b7b0ab609aa7a6bdc56.320x330x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Jeder Tag bringt mich n\u00e4her zu dir",
+   "title_with_featured": "Jeder Tag bringt mich n\u00e4her zu dir",
+   "url": "https://genius.com/Ricky-shayne-jeder-tag-bringt-mich-naher-zu-dir-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/190206",
+    "cover_art_url": "https://images.genius.com/61e0df485f791b7b0ab609aa7a6bdc56.320x330x1.jpg",
+    "full_title": "Shayne by Ricky Shayne",
+    "id": 190206,
+    "name": "Shayne",
+    "url": "https://genius.com/albums/Ricky-shayne/Shayne",
+    "artist": {
+     "api_path": "/artists/363892",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 363892,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ricky Shayne",
+     "url": "https://genius.com/artists/Ricky-shayne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5687996",
+    "classification": "needs_exegesis",
+    "fragment": "Jeder Tag bringt mich n\u00e4her zu dir",
+    "id": 5687996,
+    "is_description": true,
+    "path": "/5687996/Ricky-shayne-jeder-tag-bringt-mich-naher-zu-dir/Jeder-tag-bringt-mich-naher-zu-dir",
+    "range": {
+     "content": "Jeder Tag bringt mich n\u00e4her zu dir"
+    },
+    "song_id": 1185809,
+    "url": "https://genius.com/5687996/Ricky-shayne-jeder-tag-bringt-mich-naher-zu-dir/Jeder-tag-bringt-mich-naher-zu-dir",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1185809",
+     "client_timestamps": {
+      "updated_by_human_at": 1473309196,
+      "lyrics_updated_at": 1429686087
+     },
+     "context": "Ricky Shayne",
+     "id": 1185809,
+     "image_url": "https://images.genius.com/61e0df485f791b7b0ab609aa7a6bdc56.320x330x1.jpg",
+     "link_title": "Jeder Tag bringt mich n\u00e4her zu dir by\u00a0Ricky\u00a0Shayne",
+     "title": "Jeder Tag bringt mich n\u00e4her zu dir",
+     "type": "Song",
+     "url": "https://genius.com/Ricky-shayne-jeder-tag-bringt-mich-naher-zu-dir-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5687996",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5687996,
+      "pinned": false,
+      "share_url": "https://genius.com/5687996",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5687996/Ricky-shayne-jeder-tag-bringt-mich-naher-zu-dir/Jeder-tag-bringt-mich-naher-zu-dir",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/363892",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 363892,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/artists/Ricky-shayne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Gestern Cowboy im gr\u00fcnen Wyoming\nHeute Kumpel im Kohlenrevier\nDoch was macht's\nIch wei\u00df nur das Eine:\nJeder Tag bringt mich n\u00e4her zu Dir\n\nHab' geschuftet auf Baumwollplantagen\nIn Chicago im Stra\u00dfengewirr\nDoch was macht's\nIch wei\u00df nur das Eine:\nJeder Tag bringt mich n\u00e4her zu Dir\n\nVor sehr langer Zeit\nDa zog ich hinaus\nWollte zeigen wer ich bin\nJeh\nAber jetzt will ich zu Dir nach Haus\nDenn nur das hat f\u00fcr mich Sinn\nOh jeh\nOh jeh\nOh jeh\n\nWarum hab' ich Dich jemals verlassen?\nAlle Schuld lag alleine an mir\nDoch ich bin unterwegs und ich wei\u00df genau\nJeder Tag bringt mich n\u00e4her zu Dir!\n\nGestern Cowboy im gr\u00fcnen Wyoming\nHeute Kumpel im Kohlenrevier\nDoch was macht's\nIch wei\u00df nur das Eine:\nJeder Tag bringt mich n\u00e4her zu Dir\n\nVor sehr langer Zeit\nDa zog ich hinaus\nWollte zeigen wer ich bin\nJeh\nAber jetzt will ich zu Dir nach Haus\nDenn nur das hat f\u00fcr mich Sinn\nOh jeh\n\nOh jeh\nOh jeh\n\nWarum hab' ich Dich jemals verlassen?\nAlle Schuld lag alleine an mir\nDoch ich bin unterwegs und ich wei\u00df genau\nJeder Tag bringt mich n\u00e4her zu Dir!\nJeder Tag bringt mich n\u00e4her zu Dir!"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1583031",
+   "apple_music_id": "575338928",
+   "apple_music_player_url": "https://genius.com/songs/1583031/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1583031' class='rg_embed_link' data-song-id='1583031'>Read <a href='https://genius.com/Ricky-shayne-ich-mache-keine-komplimente-lyrics'>\u201cIch mache keine Komplimente\u201d by Ricky\u00a0Shayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1583031/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ich mache keine Komplimente by\u00a0Ricky\u00a0Shayne",
+   "header_image_thumbnail_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.300x276x1.jpg",
+   "header_image_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.600x551x1.jpg",
+   "id": 1583031,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ricky-shayne-ich-mache-keine-komplimente-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.300x276x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.600x551x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ich mache keine Komplimente",
+   "title_with_featured": "Ich mache keine Komplimente",
+   "url": "https://genius.com/Ricky-shayne-ich-mache-keine-komplimente-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/245356",
+    "cover_art_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.600x551x1.jpg",
+    "full_title": "Ricky Shayne by Ricky Shayne",
+    "id": 245356,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/albums/Ricky-shayne/Ricky-shayne",
+    "artist": {
+     "api_path": "/artists/363892",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 363892,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ricky Shayne",
+     "url": "https://genius.com/artists/Ricky-shayne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6097759",
+    "classification": "needs_exegesis",
+    "fragment": "Ich mache keine Komplimente",
+    "id": 6097759,
+    "is_description": true,
+    "path": "/6097759/Ricky-shayne-ich-mache-keine-komplimente/Ich-mache-keine-komplimente",
+    "range": {
+     "content": "Ich mache keine Komplimente"
+    },
+    "song_id": 1583031,
+    "url": "https://genius.com/6097759/Ricky-shayne-ich-mache-keine-komplimente/Ich-mache-keine-komplimente",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1583031",
+     "client_timestamps": {
+      "updated_by_human_at": 1479242520,
+      "lyrics_updated_at": 1429898408
+     },
+     "context": "Ricky Shayne",
+     "id": 1583031,
+     "image_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.600x551x1.jpg",
+     "link_title": "Ich mache keine Komplimente by\u00a0Ricky\u00a0Shayne",
+     "title": "Ich mache keine Komplimente",
+     "type": "Song",
+     "url": "https://genius.com/Ricky-shayne-ich-mache-keine-komplimente-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6097759",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6097759,
+      "pinned": false,
+      "share_url": "https://genius.com/6097759",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6097759/Ricky-shayne-ich-mache-keine-komplimente/Ich-mache-keine-komplimente",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/363892",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 363892,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/artists/Ricky-shayne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Ich mache keine Komplimente\nIch sage immer alles so wie es ist\nUnd darum sag' ich dir ganz ehrlich\nDa\u00df du f\u00fcr mich ein Wunder bist\n\nIch mache keine Komplimente\nBei diesem Spiel kenn ich mich einfach nicht aus\nIch wei\u00df nur\nDu bist allen M\u00e4dchen\nIn tausend Dingen weit voraus\n\nIch geh' herum wie der L\u00f6we im K\u00e4fig\nWenn ich dich aus den Augen verlier\nIch brauch dich so wie die W\u00fcste den Regen\nWie ein Pianist das Klavier\n\nIch mache keine Komplimente\nDenn dazu hab ich leider gar kein Talent\nDoch wenn du sagst\nDa\u00df du mich lieb hast\nDas w\u00e4r das sch\u00f6nste Kompliment"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1186375",
+   "apple_music_id": "575338941",
+   "apple_music_player_url": "https://genius.com/songs/1186375/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1186375' class='rg_embed_link' data-song-id='1186375'>Read <a href='https://genius.com/Ricky-shayne-das-hat-die-welt-noch-nicht-gesehn-giramondo-lyrics'>\u201cDas hat die Welt noch nicht geseh'n (Giramondo)\u201d by Ricky\u00a0Shayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1186375/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Das hat die Welt noch nicht geseh'n (Giramondo) by\u00a0Ricky\u00a0Shayne",
+   "header_image_thumbnail_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.300x276x1.jpg",
+   "header_image_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.600x551x1.jpg",
+   "id": 1186375,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ricky-shayne-das-hat-die-welt-noch-nicht-gesehn-giramondo-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.300x276x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.600x551x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Das hat die Welt noch nicht geseh\u2019n (Giramondo)",
+   "title_with_featured": "Das hat die Welt noch nicht geseh'n (Giramondo)",
+   "url": "https://genius.com/Ricky-shayne-das-hat-die-welt-noch-nicht-gesehn-giramondo-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/245356",
+    "cover_art_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.600x551x1.jpg",
+    "full_title": "Ricky Shayne by Ricky Shayne",
+    "id": 245356,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/albums/Ricky-shayne/Ricky-shayne",
+    "artist": {
+     "api_path": "/artists/363892",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 363892,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ricky Shayne",
+     "url": "https://genius.com/artists/Ricky-shayne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5688579",
+    "classification": "needs_exegesis",
+    "fragment": "Das hat die Welt noch nicht geseh\u2019n (Giramondo)",
+    "id": 5688579,
+    "is_description": true,
+    "path": "/5688579/Ricky-shayne-das-hat-die-welt-noch-nicht-gesehn-giramondo/Das-hat-die-welt-noch-nicht-gesehn-giramondo",
+    "range": {
+     "content": "Das hat die Welt noch nicht geseh'n (Giramondo)"
+    },
+    "song_id": 1186375,
+    "url": "https://genius.com/5688579/Ricky-shayne-das-hat-die-welt-noch-nicht-gesehn-giramondo/Das-hat-die-welt-noch-nicht-gesehn-giramondo",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1186375",
+     "client_timestamps": {
+      "updated_by_human_at": 1481829717,
+      "lyrics_updated_at": 1429686324
+     },
+     "context": "Ricky Shayne",
+     "id": 1186375,
+     "image_url": "https://images.genius.com/9b657de64ce34e5ec0273390ecdc8002.600x551x1.jpg",
+     "link_title": "Das hat die Welt noch nicht geseh\u2019n (Giramondo) by\u00a0Ricky\u00a0Shayne",
+     "title": "Das hat die Welt noch nicht geseh'n (Giramondo)",
+     "type": "Song",
+     "url": "https://genius.com/Ricky-shayne-das-hat-die-welt-noch-nicht-gesehn-giramondo-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5688579",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5688579,
+      "pinned": false,
+      "share_url": "https://genius.com/5688579",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5688579/Ricky-shayne-das-hat-die-welt-noch-nicht-gesehn-giramondo/Das-hat-die-welt-noch-nicht-gesehn-giramondo",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/363892",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 363892,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/artists/Ricky-shayne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Das hat die Welt noch nicht geseh'n\nIch kann mich selbst nicht mehr versteh'n\nIch bin wie Wachs in Deinen H\u00e4nden\nUnd find' es obendrein noch sch\u00f6n\n\nDas hat die Welt noch nicht geseh'n\nMir sind die and'ren M\u00e4dchen gleich\nDabei war ich mal in der Liebe\nSo wie der Hecht im Karpfenteich\n\nIch trag' Dich auf H\u00e4nden, ich bete Dich an\nDer Tiger von gestern ist auf einmal zahm\nIch will Dich allein, will mit Dir sein\nNur mit Dir sein\n\nDas hat die Welt noch nicht geseh'n\nSo wird es ewig weiter geh'n\nDas ist das Wunder der Liebe\nDas hat die Welt noch nicht geseh'n"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1603367",
+   "apple_music_id": "364361656",
+   "apple_music_player_url": "https://genius.com/songs/1603367/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1603367' class='rg_embed_link' data-song-id='1603367'>Read <a href='https://genius.com/Ricky-shayne-fantastic-lyrics'>\u201cFantastic\u201d by Ricky\u00a0Shayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1603367/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Fantastic by\u00a0Ricky\u00a0Shayne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1603367,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ricky-shayne-fantastic-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fantastic",
+   "title_with_featured": "Fantastic",
+   "url": "https://genius.com/Ricky-shayne-fantastic-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6118149",
+    "classification": "needs_exegesis",
+    "fragment": "Fantastic",
+    "id": 6118149,
+    "is_description": true,
+    "path": "/6118149/Ricky-shayne-fantastic/Fantastic",
+    "range": {
+     "content": "Fantastic"
+    },
+    "song_id": 1603367,
+    "url": "https://genius.com/6118149/Ricky-shayne-fantastic/Fantastic",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1603367",
+     "client_timestamps": {
+      "updated_by_human_at": 1444314118,
+      "lyrics_updated_at": 1429899457
+     },
+     "context": "Ricky Shayne",
+     "id": 1603367,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Fantastic by\u00a0Ricky\u00a0Shayne",
+     "title": "Fantastic",
+     "type": "Song",
+     "url": "https://genius.com/Ricky-shayne-fantastic-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6118149",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6118149,
+      "pinned": false,
+      "share_url": "https://genius.com/6118149",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6118149/Ricky-shayne-fantastic/Fantastic",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/363892",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 363892,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/artists/Ricky-shayne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Du bist wunderbar\nBist wie ein Superstar\nFantastic\nKaum kommst du herein\nDa schl\u00e4gt der Blitz schon ein\nFantastic\n\nWenn du mich nur l\u00e4chelnd ansiehst\nIst das Dynamit f\u00fcr mich\nDu pa\u00dft gut zu mir denn alles ist an dir\nFantastic\n\nDu bist immer startbereit\nHast f\u00fcr jede Party Teit\nBist ein echter Typ von heut'\nDoch sind wir dann mal zu zwei'n\nGanz speziell im Mondenschein\nKannst du auch romantisch sein\n\nJeder rennt dir nach\nDoch du wirst niemals schwach\nFantastic\nJeder Ku\u00df von dir\nGeh\u00f6rt allein nur mir\nFantastic\n\nEs ist beinah kaum zu glauben\nSo viel Gl\u00fcck ist fast zu viel\nVom Scheitel bis zum Schuh\nVon Kopf bis Fu\u00df bist du\nFantastic\n\nWenn wir durch die Stra\u00dfen geh'n\nBleiben alle staunend steh'n\nDenn bei dir gibt's was zu seh'n\nMini\nMaxi\nStrau\u00dfenhut\nDir steht eben alles gut\nDu hast auch zu allem Mut\n\nDu bist wunderbar\nWie keine vor dir war\nFantastic\nJeder sieht sofort\nF\u00fcr dich gibts nur ein Wort\nFantastic\n\nAls ich dich zum ersten Mal sah\nWar ich wie elektrisiert\nIch sag' es wie es ist\nIch mag dich\nDenn du bist\nFantastic"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/897919",
+   "apple_music_id": "364361308",
+   "apple_music_player_url": "https://genius.com/songs/897919/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_897919' class='rg_embed_link' data-song-id='897919'>Read <a href='https://genius.com/Ricky-shayne-ich-sprenge-alle-ketten-lyrics'>\u201cIch Sprenge Alle Ketten\u201d by Ricky\u00a0Shayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/897919/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ich Sprenge Alle Ketten by\u00a0Ricky\u00a0Shayne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 897919,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ricky-shayne-ich-sprenge-alle-ketten-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ich Sprenge Alle Ketten",
+   "title_with_featured": "Ich Sprenge Alle Ketten",
+   "url": "https://genius.com/Ricky-shayne-ich-sprenge-alle-ketten-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5380493",
+    "classification": "needs_exegesis",
+    "fragment": "Ich Sprenge Alle Ketten",
+    "id": 5380493,
+    "is_description": true,
+    "path": "/5380493/Ricky-shayne-ich-sprenge-alle-ketten/Ich-sprenge-alle-ketten",
+    "range": {
+     "content": "Ich Sprenge Alle Ketten"
+    },
+    "song_id": 897919,
+    "url": "https://genius.com/5380493/Ricky-shayne-ich-sprenge-alle-ketten/Ich-sprenge-alle-ketten",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/897919",
+     "client_timestamps": {
+      "updated_by_human_at": 1433781175,
+      "lyrics_updated_at": 1429305852
+     },
+     "context": "Ricky Shayne",
+     "id": 897919,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Ich Sprenge Alle Ketten by\u00a0Ricky\u00a0Shayne",
+     "title": "Ich Sprenge Alle Ketten",
+     "type": "Song",
+     "url": "https://genius.com/Ricky-shayne-ich-sprenge-alle-ketten-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5380493",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5380493,
+      "pinned": false,
+      "share_url": "https://genius.com/5380493",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5380493/Ricky-shayne-ich-sprenge-alle-ketten/Ich-sprenge-alle-ketten",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/363892",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 363892,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/artists/Ricky-shayne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Jeden Tag\nWenn ich dich sehe\n\nGibt es Streit bei mir zu Haus\nJeder sagt mir: \"La\u00df sie gehen!\"\nDoch ich lache alle aus\n\nIch sprenge alle Ketten\nUnd sage \"Nein\nNein\nNein\nNein\nNein!\"\nDenn von dir geh'n f\u00e4llt mir nicht ein\nIch sprenge alle Ketten\nUnd sage \"Nein\nNein\nNein\nNein\nNein!\"\nIch wei\u00df\nDas Gl\u00fcck find' ich allein bei dir\n\nUns're Liebe wird nicht enden\nUnd ich geb' dich niemals her\nMu\u00df ich heut' auch um dich k\u00e4mpfen\n\nHaben wir es heut' auch schwer\n\nIch sprenge alle Ketten\nUnd sage \"Nein\nNein\nNein\nNein\nNein!\"\nDenn von dir geh'n f\u00e4llt mir nicht ein\nIch sprenge alle Ketten\nUnd sage \"Nein\nNein\nNein\nNein\nNein!\"\nUnd sage \"nein\nNein\nNein\nNein\nNein!\"\nNein\nNein\nNein\nNein\nNein\nNein\nNein\nNein!\"\n\nIch sprenge alle Ketten\nUnd sage \"Nein\nNein\nNein\nNein\nNein!\"\nDenn von dir geh'n f\u00e4llt mir nicht ein\n\nUnd sage \"Nein\nNein\nNein\nNein\nNein\nNein\nNein!\"\nNein\nNein\nNein\nNein\nNein\nNein\nNein\nNein!\nNein\nNein\nNein\nNein\nNein\nNein\nNein\nNein!"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1129449",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1129449/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1129449' class='rg_embed_link' data-song-id='1129449'>Read <a href='https://genius.com/Ricky-shayne-und-ich-bin-nicht-verloren-lyrics'>\u201cUnd ich bin nicht verloren\u201d by Ricky\u00a0Shayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1129449/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Und ich bin nicht verloren by\u00a0Ricky\u00a0Shayne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1129449,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ricky-shayne-und-ich-bin-nicht-verloren-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Und ich bin nicht verloren",
+   "title_with_featured": "Und ich bin nicht verloren",
+   "url": "https://genius.com/Ricky-shayne-und-ich-bin-nicht-verloren-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5629838",
+    "classification": "needs_exegesis",
+    "fragment": "Und ich bin nicht verloren",
+    "id": 5629838,
+    "is_description": true,
+    "path": "/5629838/Ricky-shayne-und-ich-bin-nicht-verloren/Und-ich-bin-nicht-verloren",
+    "range": {
+     "content": "Und ich bin nicht verloren"
+    },
+    "song_id": 1129449,
+    "url": "https://genius.com/5629838/Ricky-shayne-und-ich-bin-nicht-verloren/Und-ich-bin-nicht-verloren",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1129449",
+     "client_timestamps": {
+      "updated_by_human_at": 1436797789,
+      "lyrics_updated_at": 1429656890
+     },
+     "context": "Ricky Shayne",
+     "id": 1129449,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Und ich bin nicht verloren by\u00a0Ricky\u00a0Shayne",
+     "title": "Und ich bin nicht verloren",
+     "type": "Song",
+     "url": "https://genius.com/Ricky-shayne-und-ich-bin-nicht-verloren-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5629838",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5629838,
+      "pinned": false,
+      "share_url": "https://genius.com/5629838",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5629838/Ricky-shayne-und-ich-bin-nicht-verloren/Und-ich-bin-nicht-verloren",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/363892",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 363892,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/artists/Ricky-shayne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1068678",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1068678/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1068678' class='rg_embed_link' data-song-id='1068678'>Read <a href='https://genius.com/Ricky-shayne-in-festen-handen-lyrics'>\u201cIn festen H\u00e4nden\u201d by Ricky\u00a0Shayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1068678/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "In festen H\u00e4nden by\u00a0Ricky\u00a0Shayne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1068678,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ricky-shayne-in-festen-handen-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "In festen H\u00e4nden",
+   "title_with_featured": "In festen H\u00e4nden",
+   "url": "https://genius.com/Ricky-shayne-in-festen-handen-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5566419",
+    "classification": "needs_exegesis",
+    "fragment": "In festen H\u00e4nden",
+    "id": 5566419,
+    "is_description": true,
+    "path": "/5566419/Ricky-shayne-in-festen-handen/In-festen-handen",
+    "range": {
+     "content": "In festen H\u00e4nden"
+    },
+    "song_id": 1068678,
+    "url": "https://genius.com/5566419/Ricky-shayne-in-festen-handen/In-festen-handen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1068678",
+     "client_timestamps": {
+      "updated_by_human_at": 1436289385,
+      "lyrics_updated_at": 1429619561
+     },
+     "context": "Ricky Shayne",
+     "id": 1068678,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "In festen H\u00e4nden by\u00a0Ricky\u00a0Shayne",
+     "title": "In festen H\u00e4nden",
+     "type": "Song",
+     "url": "https://genius.com/Ricky-shayne-in-festen-handen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5566419",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5566419,
+      "pinned": false,
+      "share_url": "https://genius.com/5566419",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5566419/Ricky-shayne-in-festen-handen/In-festen-handen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/363892",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 363892,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/artists/Ricky-shayne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Du bist ab heut' in festen H\u00e4nden\nIch mach' uns beiden\nMit tausend Freuden\nDas Leben sch\u00f6n\nDu wirst seh'n:\nWie wir zwei uns versteh'n:\n\nDu bist ab heut' in festen H\u00e4nden\nSchau dich nicht links um\nSchau dich nicht rechts um\nIch bitte dich:\nKeiner pa\u00dft so zu dir\nSo wie ich\n\nWie im M\u00e4rchenbuch der Drachen\nSo will ich dich bewachen\nDa\u00df keiner kommt\nUnd mir deine Liebe nimmt\nDu hast mit deinen K\u00fcssen\nMein Herz auf dem Gewissen\nEs ist doch ganz klar\nWir sind f\u00fcreinander bestimmt\n\nDu bist ab heut' in festen H\u00e4nden\nDenk nicht an diesen\nUnd nicht an jenen\nIch bitte dich\nKeiner pa\u00dft so zu dir\nSo wie ich"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1246435",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1246435/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1246435' class='rg_embed_link' data-song-id='1246435'>Read <a href='https://genius.com/Ricky-shayne-gluck-im-spiel-lyrics'>\u201cGl\u00fcck Im Spiel\u201d by Ricky\u00a0Shayne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1246435/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Gl\u00fcck Im Spiel by\u00a0Ricky\u00a0Shayne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1246435,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ricky-shayne-gluck-im-spiel-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Gl\u00fcck Im Spiel",
+   "title_with_featured": "Gl\u00fcck Im Spiel",
+   "url": "https://genius.com/Ricky-shayne-gluck-im-spiel-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5750323",
+    "classification": "needs_exegesis",
+    "fragment": "Gl\u00fcck Im Spiel",
+    "id": 5750323,
+    "is_description": true,
+    "path": "/5750323/Ricky-shayne-gluck-im-spiel/Gluck-im-spiel",
+    "range": {
+     "content": "Gl\u00fcck Im Spiel"
+    },
+    "song_id": 1246435,
+    "url": "https://genius.com/5750323/Ricky-shayne-gluck-im-spiel/Gluck-im-spiel",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1246435",
+     "client_timestamps": {
+      "updated_by_human_at": 1438097598,
+      "lyrics_updated_at": 1429719185
+     },
+     "context": "Ricky Shayne",
+     "id": 1246435,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Gl\u00fcck Im Spiel by\u00a0Ricky\u00a0Shayne",
+     "title": "Gl\u00fcck Im Spiel",
+     "type": "Song",
+     "url": "https://genius.com/Ricky-shayne-gluck-im-spiel-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5750323",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5750323,
+      "pinned": false,
+      "share_url": "https://genius.com/5750323",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5750323/Ricky-shayne-gluck-im-spiel/Gluck-im-spiel",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/363892",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 363892,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ricky Shayne",
+    "url": "https://genius.com/artists/Ricky-shayne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "In Monte Carlo war ich zu Haus\nAuf jedem Rennplatz kannte ich mich aus\nNur Erfolg war mir beschieden\nDennoch war ich nicht zufrieden\n\nGl\u00fcck im Spiel und Pech in der Liebe -\nSo war das bisher bei mir\nIm Roulette ind nicht in der Liebe\nWar bei mir was los - darin war ich gro\u00df\nGl\u00fcck im Spiel und Pech in der Liebe -\nDann kamst du - und was geschah?\nPech im Spiel und Gl\u00fcck in der Liebe!\nDennoch bin ich froh - es ist sch\u00f6ner so\n\nIn meinen Raschen hatte ich immer Geld\n\nUnd alle sagten: Das ist ein Mann von Welt!\nIch gewann die gro\u00dfen Rennen -\nLiebe lernte ich nicht kennen"
+  }
+ ]
+}

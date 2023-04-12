@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1593783",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 2,
+ "header_image_url": "https://images.genius.com/2e759f28be9c314e5ec7c4f42bc680e5.730x430x1.jpg",
+ "id": 1593783,
+ "image_url": "https://images.genius.com/c6de40f5feb5e403a54db5e32289dfe5.853x853x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Mayonde",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Mayonde",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 5417454,
+  "annotator_login": "karunmusic",
+  "api_path": "/referents/15496711",
+  "classification": "needs_exegesis",
+  "fragment": "Mayonde",
+  "id": 15496711,
+  "is_description": true,
+  "path": "/15496711/Mayonde/Mayonde",
+  "range": {
+   "content": "Mayonde"
+  },
+  "song_id": null,
+  "url": "https://genius.com/15496711/Mayonde/Mayonde",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1593783",
+   "context": null,
+   "id": 1593783,
+   "image_url": "https://images.genius.com/c6de40f5feb5e403a54db5e32289dfe5.853x853x1.jpg",
+   "link_title": "Mayonde",
+   "title": "Mayonde",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Mayonde"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/15496711",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 15496711,
+    "pinned": false,
+    "share_url": "https://genius.com/15496711",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/15496711/Mayonde/Mayonde",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5417454",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/061cf709f094763be8592c8992accad0",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/061cf709f094763be8592c8992accad0",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/061cf709f094763be8592c8992accad0",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/061cf709f094763be8592c8992accad0",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/7686ceb6cd8b9028c9d6d70e1564ab68.1000x563x1.png",
+       "human_readable_role_for_display": "Verified Artist",
+       "id": 5417454,
+       "iq": 1998,
+       "login": "karunmusic",
+       "name": "Karun",
+       "role_for_display": "verified_artist",
+       "url": "https://genius.com/karunmusic",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

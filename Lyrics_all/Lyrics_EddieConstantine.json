@@ -1,0 +1,3386 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/375870",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 375870,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Eddie Constantine",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Eddie-constantine",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7092490",
+  "classification": "needs_exegesis",
+  "fragment": "Eddie Constantine",
+  "id": 7092490,
+  "is_description": true,
+  "path": "/7092490/Eddie-constantine/Eddie-constantine",
+  "range": {
+   "content": "Eddie Constantine"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7092490/Eddie-constantine/Eddie-constantine",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/375870",
+   "context": null,
+   "id": 375870,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Eddie Constantine",
+   "title": "Eddie Constantine",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Eddie-constantine"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7092490",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7092490,
+    "pinned": false,
+    "share_url": "https://genius.com/7092490",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7092490/Eddie-constantine/Eddie-constantine",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1071925",
+   "apple_music_id": "433407338",
+   "apple_music_player_url": "https://genius.com/songs/1071925/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1071925' class='rg_embed_link' data-song-id='1071925'>Read <a href='https://genius.com/Eddie-constantine-lhomme-et-lenfant-lyrics'>\u201cL'homme et l'enfant\u201d by Eddie\u00a0Constantine</a> on Genius</div> <script crossorigin src='//genius.com/songs/1071925/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "L'homme et l'enfant by\u00a0Eddie\u00a0Constantine",
+   "header_image_thumbnail_url": "https://images.genius.com/52af1949506c38e670cc14fa65ba559c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/52af1949506c38e670cc14fa65ba559c.408x408x1.jpg",
+   "id": 1071925,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Eddie-constantine-lhomme-et-lenfant-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/52af1949506c38e670cc14fa65ba559c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/52af1949506c38e670cc14fa65ba559c.408x408x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "L\u2019homme et l\u2019enfant",
+   "title_with_featured": "L'homme et l'enfant",
+   "url": "https://genius.com/Eddie-constantine-lhomme-et-lenfant-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/244635",
+    "cover_art_url": "https://images.genius.com/52af1949506c38e670cc14fa65ba559c.408x408x1.jpg",
+    "full_title": "L'Homme et l'Enfant by Eddie Constantine",
+    "id": 244635,
+    "name": "L\u2019Homme et l\u2019Enfant",
+    "url": "https://genius.com/albums/Eddie-constantine/L-homme-et-l-enfant",
+    "artist": {
+     "api_path": "/artists/375870",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 375870,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eddie Constantine",
+     "url": "https://genius.com/artists/Eddie-constantine"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5569713",
+    "classification": "needs_exegesis",
+    "fragment": "L\u2019homme et l\u2019enfant",
+    "id": 5569713,
+    "is_description": true,
+    "path": "/5569713/Eddie-constantine-lhomme-et-lenfant/Lhomme-et-lenfant",
+    "range": {
+     "content": "L'homme et l'enfant"
+    },
+    "song_id": 1071925,
+    "url": "https://genius.com/5569713/Eddie-constantine-lhomme-et-lenfant/Lhomme-et-lenfant",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1071925",
+     "client_timestamps": {
+      "updated_by_human_at": 1476732237,
+      "lyrics_updated_at": 1429620893
+     },
+     "context": "Eddie Constantine",
+     "id": 1071925,
+     "image_url": "https://images.genius.com/52af1949506c38e670cc14fa65ba559c.408x408x1.jpg",
+     "link_title": "L\u2019homme et l\u2019enfant by\u00a0Eddie\u00a0Constantine",
+     "title": "L'homme et l'enfant",
+     "type": "Song",
+     "url": "https://genius.com/Eddie-constantine-lhomme-et-lenfant-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5569713",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5569713,
+      "pinned": false,
+      "share_url": "https://genius.com/5569713",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5569713/Eddie-constantine-lhomme-et-lenfant/Lhomme-et-lenfant",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375870",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375870,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Eddie Constantine",
+    "url": "https://genius.com/artists/Eddie-constantine"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Tania :\nDis monsieur, bon monsieur est-ce que la terre est ronde ?\nSi c'est vrai, l'oiseau bleu, o\u00f9 est-il dans le monde ?\nTous les jours je suis l\u00e0 et pleure en l'attendant\nPleurais-tu comme moi quand tu \u00e9tais enfant ?\nQue devient le soleil quand il tombe \u00e0 la mer ?\nEt pourquoi le matin le ciel est si clair ?\nPourquoi donc je ne peux m'envoler dans le vent ?\nEt pourquoi, dis monsieur, tu pleures en m'\u00e9coutant ?\n\nE.C. :\nMon enfant, mon enfant, c'est vrai la terre est ronde\nEt longtemps j'ai cherch\u00e9 l'oiseau bleu dans le monde\nComme toi j'ai pleur\u00e9 en tendant mes deux bras\nMais pour toi j'en suis s\u00fbr un beau jour il viendra\nN'aie pas peur le soleil ne meurt pas sous les dunes\nIl s'en va pour t'offrir un beau clair de lune\nEt pourquoi voudrais-tu t'envoler dans le vent ?\nJ'ai voulu moi aussi et j'ai des cheveux blancs\nTania :\nNe pleure plus, bon monsieur, puisque la terre est ronde\nPour t'offrir l'oiseau bleu je vais courir le monde\n\nE.C. :\nMon enfant ne pars pas, ne pars pas pour ailleurs\nL'oiseau bleu, il est l\u00e0 cherche bien dans ton coeur\n\nTania :\nSi c'est vrai, dis monsieur, j'irai dans le soleil\nPour cueillir avec lui un morceau de ciel\n\nE.C. :\nMon enfant tu iras bien plus loin que le jour\nL'oiseau bleu c'est l'amour, l'amour"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1366059",
+   "apple_music_id": "209896289",
+   "apple_music_player_url": "https://genius.com/songs/1366059/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1366059' class='rg_embed_link' data-song-id='1366059'>Read <a href='https://genius.com/Eddie-constantine-cigarettes-whisky-et-ptites-pepees-lyrics'>\u201cCigarettes, Whisky et p'tites p\u00e9p\u00e9es\u201d by Eddie\u00a0Constantine</a> on Genius</div> <script crossorigin src='//genius.com/songs/1366059/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Cigarettes, Whisky et p'tites p\u00e9p\u00e9es by\u00a0Eddie\u00a0Constantine",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1366059,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Eddie-constantine-cigarettes-whisky-et-ptites-pepees-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Cigarettes, Whisky et p\u2019tites p\u00e9p\u00e9es",
+   "title_with_featured": "Cigarettes, Whisky et p'tites p\u00e9p\u00e9es",
+   "url": "https://genius.com/Eddie-constantine-cigarettes-whisky-et-ptites-pepees-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5873947",
+    "classification": "needs_exegesis",
+    "fragment": "Cigarettes, Whisky et p\u2019tites p\u00e9p\u00e9es",
+    "id": 5873947,
+    "is_description": true,
+    "path": "/5873947/Eddie-constantine-cigarettes-whisky-et-ptites-pepees/Cigarettes-whisky-et-ptites-pepees",
+    "range": {
+     "content": "Cigarettes, Whisky et p'tites p\u00e9p\u00e9es"
+    },
+    "song_id": 1366059,
+    "url": "https://genius.com/5873947/Eddie-constantine-cigarettes-whisky-et-ptites-pepees/Cigarettes-whisky-et-ptites-pepees",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1366059",
+     "client_timestamps": {
+      "updated_by_human_at": 1441808021,
+      "lyrics_updated_at": 1429791420
+     },
+     "context": "Eddie Constantine",
+     "id": 1366059,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Cigarettes, Whisky et p\u2019tites p\u00e9p\u00e9es by\u00a0Eddie\u00a0Constantine",
+     "title": "Cigarettes, Whisky et p'tites p\u00e9p\u00e9es",
+     "type": "Song",
+     "url": "https://genius.com/Eddie-constantine-cigarettes-whisky-et-ptites-pepees-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5873947",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5873947,
+      "pinned": false,
+      "share_url": "https://genius.com/5873947",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5873947/Eddie-constantine-cigarettes-whisky-et-ptites-pepees/Cigarettes-whisky-et-ptites-pepees",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375870",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375870,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Eddie Constantine",
+    "url": "https://genius.com/artists/Eddie-constantine"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1636553",
+   "apple_music_id": "370557446",
+   "apple_music_player_url": "https://genius.com/songs/1636553/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1636553' class='rg_embed_link' data-song-id='1636553'>Read <a href='https://genius.com/Eddie-constantine-et-bailler-et-dormir-lyrics'>\u201cEt bailler.., et dormir\u201d by Eddie\u00a0Constantine</a> on Genius</div> <script crossorigin src='//genius.com/songs/1636553/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Et bailler.., et dormir by\u00a0Eddie\u00a0Constantine",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1636553,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Eddie-constantine-et-bailler-et-dormir-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Et bailler.., et dormir",
+   "title_with_featured": "Et bailler.., et dormir",
+   "url": "https://genius.com/Eddie-constantine-et-bailler-et-dormir-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6151430",
+    "classification": "needs_exegesis",
+    "fragment": "Et bailler.., et dormir",
+    "id": 6151430,
+    "is_description": true,
+    "path": "/6151430/Eddie-constantine-et-bailler-et-dormir/Et-bailler-et-dormir",
+    "range": {
+     "content": "Et bailler.., et dormir"
+    },
+    "song_id": 1636553,
+    "url": "https://genius.com/6151430/Eddie-constantine-et-bailler-et-dormir/Et-bailler-et-dormir",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1636553",
+     "client_timestamps": {
+      "updated_by_human_at": 1444657375,
+      "lyrics_updated_at": 1429901201
+     },
+     "context": "Eddie Constantine",
+     "id": 1636553,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Et bailler.., et dormir by\u00a0Eddie\u00a0Constantine",
+     "title": "Et bailler.., et dormir",
+     "type": "Song",
+     "url": "https://genius.com/Eddie-constantine-et-bailler-et-dormir-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6151430",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6151430,
+      "pinned": false,
+      "share_url": "https://genius.com/6151430",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6151430/Eddie-constantine-et-bailler-et-dormir/Et-bailler-et-dormir",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375870",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375870,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Eddie Constantine",
+    "url": "https://genius.com/artists/Eddie-constantine"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Certains courent apr\u00e8s la vie\nMoi la vie me cours apr\u00e8s\nBien des gens font des folies\nMoi c'est folie de m'avoir fait\nJe me fais pas de bile\nEt n'occupe aucun emploi\nMenant une vie facile\nJe ne fais rien de mes dix doigts\nJe vais p\u00eacher dans les ruisseaux\nChasser dans les roseaux\nOu cueillir les fruits m\u00fbrs\nQue m'offre la nature\nOn ne m'a pas mis sur terre\nPour me tuer \u00e0 travailler\nMais pour vivre \u00e0 ma mani\u00e8re\nEt go\u00fbter \u00e0 la libert\u00e9\nEt r\u00eaver, et sourire\nEt b\u00e2iller, et dormir\n\nJe dors \u00e0 m\u00eame la terre\nC'est plus simple et c'est plus sain\nEt si je meurs solitaire\nJe n'aurais pas \u00e0 aller loin\nJe me lave \u00e0 l'eau de pluie\nEt me s\u00e9chant au soleil\nJe r\u00eave \u00e0 ma tendre amie\nEt y a vraiment rien de pareil\nEt quand presqu'\u00e0 la nuit tomb\u00e9e\nOn peut se retrouver\nC'est un si grand plaisir\nQu'on reste sans rien dire\n\nEn regardant la nature\nOn se tient tout pr\u00e8s bien pr\u00e8s\nL'un de l'autre et je vous jure\nQue l'on ne pense qu'\u00e0 s'aimer\nEt r\u00eaver, et sourire\nEt b\u00e2iller, et dormir\n\nJ'ai fait mon paradis sur la terre\nCar la paix r\u00e8gne au fond de mon c\u0153ur\nEt vraiment si c'\u00e9tait \u00e0 refaire\nJe saurais pour garder mon bonheur\nEt r\u00eaver, et sourire\nEt b\u00e2iller, et dormir"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1248996",
+   "apple_music_id": "209896315",
+   "apple_music_player_url": "https://genius.com/songs/1248996/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1248996' class='rg_embed_link' data-song-id='1248996'>Read <a href='https://genius.com/Eddie-constantine-je-prends-les-choses-du-bon-cote-lyrics'>\u201cJe prends les choses du bon c\u00f4t\u00e9\u201d by Eddie\u00a0Constantine</a> on Genius</div> <script crossorigin src='//genius.com/songs/1248996/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Je prends les choses du bon c\u00f4t\u00e9 by\u00a0Eddie\u00a0Constantine",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1248996,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Eddie-constantine-je-prends-les-choses-du-bon-cote-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Je prends les choses du bon c\u00f4t\u00e9",
+   "title_with_featured": "Je prends les choses du bon c\u00f4t\u00e9",
+   "url": "https://genius.com/Eddie-constantine-je-prends-les-choses-du-bon-cote-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5753018",
+    "classification": "needs_exegesis",
+    "fragment": "Je prends les choses du bon c\u00f4t\u00e9",
+    "id": 5753018,
+    "is_description": true,
+    "path": "/5753018/Eddie-constantine-je-prends-les-choses-du-bon-cote/Je-prends-les-choses-du-bon-cote",
+    "range": {
+     "content": "Je prends les choses du bon c\u00f4t\u00e9"
+    },
+    "song_id": 1248996,
+    "url": "https://genius.com/5753018/Eddie-constantine-je-prends-les-choses-du-bon-cote/Je-prends-les-choses-du-bon-cote",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1248996",
+     "client_timestamps": {
+      "updated_by_human_at": 1438097823,
+      "lyrics_updated_at": 1429720691
+     },
+     "context": "Eddie Constantine",
+     "id": 1248996,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Je prends les choses du bon c\u00f4t\u00e9 by\u00a0Eddie\u00a0Constantine",
+     "title": "Je prends les choses du bon c\u00f4t\u00e9",
+     "type": "Song",
+     "url": "https://genius.com/Eddie-constantine-je-prends-les-choses-du-bon-cote-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5753018",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5753018,
+      "pinned": false,
+      "share_url": "https://genius.com/5753018",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5753018/Eddie-constantine-je-prends-les-choses-du-bon-cote/Je-prends-les-choses-du-bon-cote",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375870",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375870,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Eddie Constantine",
+    "url": "https://genius.com/artists/Eddie-constantine"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1711961",
+   "apple_music_id": "209896326",
+   "apple_music_player_url": "https://genius.com/songs/1711961/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1711961' class='rg_embed_link' data-song-id='1711961'>Read <a href='https://genius.com/Eddie-constantine-les-amoureux-du-havre-lyrics'>\u201cLes amoureux du havre\u201d by Eddie\u00a0Constantine</a> on Genius</div> <script crossorigin src='//genius.com/songs/1711961/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Les amoureux du havre by\u00a0Eddie\u00a0Constantine",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1711961,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Eddie-constantine-les-amoureux-du-havre-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Les amoureux du havre",
+   "title_with_featured": "Les amoureux du havre",
+   "url": "https://genius.com/Eddie-constantine-les-amoureux-du-havre-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6227210",
+    "classification": "needs_exegesis",
+    "fragment": "Les amoureux du havre",
+    "id": 6227210,
+    "is_description": true,
+    "path": "/6227210/Eddie-constantine-les-amoureux-du-havre/Les-amoureux-du-havre",
+    "range": {
+     "content": "Les amoureux du havre"
+    },
+    "song_id": 1711961,
+    "url": "https://genius.com/6227210/Eddie-constantine-les-amoureux-du-havre/Les-amoureux-du-havre",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1711961",
+     "client_timestamps": {
+      "updated_by_human_at": 1444772059,
+      "lyrics_updated_at": 1429905255
+     },
+     "context": "Eddie Constantine",
+     "id": 1711961,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Les amoureux du havre by\u00a0Eddie\u00a0Constantine",
+     "title": "Les amoureux du havre",
+     "type": "Song",
+     "url": "https://genius.com/Eddie-constantine-les-amoureux-du-havre-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6227210",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6227210,
+      "pinned": false,
+      "share_url": "https://genius.com/6227210",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6227210/Eddie-constantine-les-amoureux-du-havre/Les-amoureux-du-havre",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375870",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375870,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Eddie Constantine",
+    "url": "https://genius.com/artists/Eddie-constantine"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Les amoureux du HavreN'ont pas besoin de la merEt les bateaux se navrentD'\u00eatre toujours seuls sur la mer...{Refrain:}Je t'aime, tu m'aimes, on s'aimeraJusqu'\u00e0 la fin du mondePuisque la terre est rondeMon amour t'en fais pas...Mon amour t'en fais pas...Les enfants de la terreSe fichent du Bon DieuIls s'aiment sans s'en faireComme s'aiment les amoureux...{au Refrain}J'irai en AngleterrePour voir les grands bateauxQui font le tour de la terreComme le font les petits oiseaux{au Refrain}"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1016951",
+   "apple_music_id": "876142733",
+   "apple_music_player_url": "https://genius.com/songs/1016951/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1016951' class='rg_embed_link' data-song-id='1016951'>Read <a href='https://genius.com/Eddie-constantine-ah-les-femmes-lyrics'>\u201cAh! les femmes\u201d by Eddie\u00a0Constantine</a> on Genius</div> <script crossorigin src='//genius.com/songs/1016951/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ah! les femmes by\u00a0Eddie\u00a0Constantine",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1016951,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Eddie-constantine-ah-les-femmes-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ah! les femmes",
+   "title_with_featured": "Ah! les femmes",
+   "url": "https://genius.com/Eddie-constantine-ah-les-femmes-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5513725",
+    "classification": "needs_exegesis",
+    "fragment": "Ah! les femmes",
+    "id": 5513725,
+    "is_description": true,
+    "path": "/5513725/Eddie-constantine-ah-les-femmes/Ah-les-femmes",
+    "range": {
+     "content": "Ah! les femmes"
+    },
+    "song_id": 1016951,
+    "url": "https://genius.com/5513725/Eddie-constantine-ah-les-femmes/Ah-les-femmes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1016951",
+     "client_timestamps": {
+      "updated_by_human_at": 1435611120,
+      "lyrics_updated_at": 1429590523
+     },
+     "context": "Eddie Constantine",
+     "id": 1016951,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Ah! les femmes by\u00a0Eddie\u00a0Constantine",
+     "title": "Ah! les femmes",
+     "type": "Song",
+     "url": "https://genius.com/Eddie-constantine-ah-les-femmes-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5513725",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5513725,
+      "pinned": false,
+      "share_url": "https://genius.com/5513725",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5513725/Eddie-constantine-ah-les-femmes/Ah-les-femmes",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375870",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375870,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Eddie Constantine",
+    "url": "https://genius.com/artists/Eddie-constantine"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1138457",
+   "apple_music_id": "1104518248",
+   "apple_music_player_url": "https://genius.com/songs/1138457/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1138457' class='rg_embed_link' data-song-id='1138457'>Read <a href='https://genius.com/Eddie-constantine-lenfant-de-la-balle-lyrics'>\u201cL'enfant de la balle\u201d by Eddie\u00a0Constantine</a> on Genius</div> <script crossorigin src='//genius.com/songs/1138457/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "L'enfant de la balle by\u00a0Eddie\u00a0Constantine",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1138457,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Eddie-constantine-lenfant-de-la-balle-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "L\u2019enfant de la balle",
+   "title_with_featured": "L'enfant de la balle",
+   "url": "https://genius.com/Eddie-constantine-lenfant-de-la-balle-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5639285",
+    "classification": "needs_exegesis",
+    "fragment": "L\u2019enfant de la balle",
+    "id": 5639285,
+    "is_description": true,
+    "path": "/5639285/Eddie-constantine-lenfant-de-la-balle/Lenfant-de-la-balle",
+    "range": {
+     "content": "L'enfant de la balle"
+    },
+    "song_id": 1138457,
+    "url": "https://genius.com/5639285/Eddie-constantine-lenfant-de-la-balle/Lenfant-de-la-balle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1138457",
+     "client_timestamps": {
+      "updated_by_human_at": 1436798283,
+      "lyrics_updated_at": 1429662259
+     },
+     "context": "Eddie Constantine",
+     "id": 1138457,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "L\u2019enfant de la balle by\u00a0Eddie\u00a0Constantine",
+     "title": "L'enfant de la balle",
+     "type": "Song",
+     "url": "https://genius.com/Eddie-constantine-lenfant-de-la-balle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5639285",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5639285,
+      "pinned": false,
+      "share_url": "https://genius.com/5639285",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5639285/Eddie-constantine-lenfant-de-la-balle/Lenfant-de-la-balle",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375870",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375870,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Eddie Constantine",
+    "url": "https://genius.com/artists/Eddie-constantine"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Mon paternel qui n'avait pas les pieds platsM'a appris le shimmy, les claquettes et caeteraEt m'a dit : \" Pour gagner ta pitanceLa danseY a qu'\u00e7a \"Mon naturel, moi, c'est d'\u00eatre ob\u00e9issantJ'ai suivi ses conseils, mon m\u00e9tier je l'ai dans l'sangEt ma vie c'est la vie des artistesEn pisteTout l'temps !Un enfant de la balle\u00c7a fait ses mallesEt \u00e7a s'trimbalePartoutN'importe o\u00f9Un soir \u00e0 Rome le lendemain \u00e0 Calcutta,J'ai pas l'temps, croyez-moi, d'admirer l'panoramaJe gambille le samedi le dimancheLes planchesC'est \u00e7a.Il nous arrive tout de m\u00eameQu'une fille nous dis : \" Je t'aime !Mais l\u00e2che ta vie de Boh\u00e8me ! \"Tant pis !Je lui dis...Mon paternel qui n'avait pas les pieds platsM'a appris le shimmy, les claquettes et caeteraEt m'a dit : \" Pour gagner ta pitanceLa danseY a qu'\u00e7a \"C'est bon l'amour mais le boulot quand on l'oublieLe public n'attend pas que l'on soit sorti du litDes fois que j'attraperais devant la rampeUne crampe...Merci !Un enfant de la balle\u00c7a fait ses mallesEt \u00e7a s'trimbalePartoutN'importe o\u00f9.Des fois, bien sur, j'ai envie de laisser \u00e7a,D'arr\u00eater l'horizon pour y b\u00e2tir ma maison,Mais voil\u00e0, quand on fait trop de r\u00eavesOn cr\u00e8veDe \u00e7a !Un enfant de la balle\u00c7a fait ses mallesEt \u00e7a s'trimbalePartoutN'importe o\u00f9.Et quand viendra un beau jour le grand d\u00e9partPour tr\u00e8s loin dans un coin ou s'arr\u00eate le dernier carJe dirai : \" J'ai rempli mon programme...Sieurs, dames, Bonsoir ! \" {x2}"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1160211",
+   "apple_music_id": "209896339",
+   "apple_music_player_url": "https://genius.com/songs/1160211/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1160211' class='rg_embed_link' data-song-id='1160211'>Read <a href='https://genius.com/Eddie-constantine-la-fille-des-bois-lyrics'>\u201cLa fille des bois\u201d by Eddie\u00a0Constantine</a> on Genius</div> <script crossorigin src='//genius.com/songs/1160211/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La fille des bois by\u00a0Eddie\u00a0Constantine",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1160211,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Eddie-constantine-la-fille-des-bois-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La fille des bois",
+   "title_with_featured": "La fille des bois",
+   "url": "https://genius.com/Eddie-constantine-la-fille-des-bois-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5661950",
+    "classification": "needs_exegesis",
+    "fragment": "La fille des bois",
+    "id": 5661950,
+    "is_description": true,
+    "path": "/5661950/Eddie-constantine-la-fille-des-bois/La-fille-des-bois",
+    "range": {
+     "content": "La fille des bois"
+    },
+    "song_id": 1160211,
+    "url": "https://genius.com/5661950/Eddie-constantine-la-fille-des-bois/La-fille-des-bois",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1160211",
+     "client_timestamps": {
+      "updated_by_human_at": 1437427514,
+      "lyrics_updated_at": 1429674765
+     },
+     "context": "Eddie Constantine",
+     "id": 1160211,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "La fille des bois by\u00a0Eddie\u00a0Constantine",
+     "title": "La fille des bois",
+     "type": "Song",
+     "url": "https://genius.com/Eddie-constantine-la-fille-des-bois-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5661950",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5661950,
+      "pinned": false,
+      "share_url": "https://genius.com/5661950",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5661950/Eddie-constantine-la-fille-des-bois/La-fille-des-bois",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375870",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375870,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Eddie Constantine",
+    "url": "https://genius.com/artists/Eddie-constantine"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5581919",
+   "apple_music_id": "761295734",
+   "apple_music_player_url": "https://genius.com/songs/5581919/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5581919' class='rg_embed_link' data-song-id='5581919'>Read <a href='https://genius.com/Eddie-constantine-carina-lyrics'>\u201cCarina\u201d by Eddie\u00a0Constantine</a> on Genius</div> <script crossorigin src='//genius.com/songs/5581919/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Carina by\u00a0Eddie\u00a0Constantine",
+   "header_image_thumbnail_url": "https://images.genius.com/1bd2a1a3c1ce79ca5aafc1c1077cfb29.300x299x1.jpg",
+   "header_image_url": "https://images.genius.com/1bd2a1a3c1ce79ca5aafc1c1077cfb29.400x399x1.jpg",
+   "id": 5581919,
+   "lyrics_owner_id": 8689349,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Eddie-constantine-carina-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "1959",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1bd2a1a3c1ce79ca5aafc1c1077cfb29.300x299x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1bd2a1a3c1ce79ca5aafc1c1077cfb29.400x399x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Carina",
+   "title_with_featured": "Carina",
+   "url": "https://genius.com/Eddie-constantine-carina-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8689349,
+    "annotator_login": "Knorpel",
+    "api_path": "/referents/19875663",
+    "classification": "needs_exegesis",
+    "fragment": "Carina",
+    "id": 19875663,
+    "is_description": true,
+    "path": "/19875663/Eddie-constantine-carina/Carina",
+    "range": {
+     "content": "Carina"
+    },
+    "song_id": 5581919,
+    "url": "https://genius.com/19875663/Eddie-constantine-carina/Carina",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5581919",
+     "client_timestamps": {
+      "updated_by_human_at": 1589790046,
+      "lyrics_updated_at": 1589789971
+     },
+     "context": "Eddie Constantine",
+     "id": 5581919,
+     "image_url": "https://images.genius.com/1bd2a1a3c1ce79ca5aafc1c1077cfb29.400x399x1.jpg",
+     "link_title": "Carina by\u00a0Eddie\u00a0Constantine",
+     "title": "Carina",
+     "type": "Song",
+     "url": "https://genius.com/Eddie-constantine-carina-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19875663",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19875663,
+      "pinned": false,
+      "share_url": "https://genius.com/19875663",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19875663/Eddie-constantine-carina/Carina",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8689349",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/34db174e2a8d6386ef2d9074452d31d1",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/34db174e2a8d6386ef2d9074452d31d1",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/34db174e2a8d6386ef2d9074452d31d1",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/34db174e2a8d6386ef2d9074452d31d1",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/34db174e2a8d6386ef2d9074452d31d1",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8689349,
+         "iq": 10774,
+         "login": "Knorpel",
+         "name": "Knorpel",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Knorpel",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=0xJaohJB2H4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/375870",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375870,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Eddie Constantine",
+    "url": "https://genius.com/artists/Eddie-constantine"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5594078",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5594078/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5594078' class='rg_embed_link' data-song-id='5594078'>Read <a href='https://genius.com/Eddie-constantine-pleure-pas-nelly-annotated'>\u201cPleure Pas Nelly\u201d by Eddie\u00a0Constantine</a> on Genius</div> <script crossorigin src='//genius.com/songs/5594078/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Pleure Pas Nelly by\u00a0Eddie\u00a0Constantine",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 5594078,
+   "lyrics_owner_id": 10941511,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Eddie-constantine-pleure-pas-nelly-annotated",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Pleure Pas Nelly",
+   "title_with_featured": "Pleure Pas Nelly",
+   "url": "https://genius.com/Eddie-constantine-pleure-pas-nelly-annotated",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10941511,
+    "annotator_login": "Alterez",
+    "api_path": "/referents/19907093",
+    "classification": "needs_exegesis",
+    "fragment": "Pleure Pas Nelly",
+    "id": 19907093,
+    "is_description": true,
+    "path": "/19907093/Eddie-constantine-pleure-pas-nelly/Pleure-pas-nelly",
+    "range": {
+     "content": "Pleure Pas Nelly"
+    },
+    "song_id": 5594078,
+    "url": "https://genius.com/19907093/Eddie-constantine-pleure-pas-nelly/Pleure-pas-nelly",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5594078",
+     "client_timestamps": {
+      "updated_by_human_at": 1590093428,
+      "lyrics_updated_at": 1590093428
+     },
+     "context": "Eddie Constantine",
+     "id": 5594078,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Pleure Pas Nelly by\u00a0Eddie\u00a0Constantine",
+     "title": "Pleure Pas Nelly",
+     "type": "Song",
+     "url": "https://genius.com/Eddie-constantine-pleure-pas-nelly-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19907093",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19907093,
+      "pinned": false,
+      "share_url": "https://genius.com/19907093",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19907093/Eddie-constantine-pleure-pas-nelly/Pleure-pas-nelly",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10941511",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/69446a959ddcc626bc354071dd762bbd",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/69446a959ddcc626bc354071dd762bbd",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/69446a959ddcc626bc354071dd762bbd",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/69446a959ddcc626bc354071dd762bbd",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/69446a959ddcc626bc354071dd762bbd",
+         "human_readable_role_for_display": null,
+         "id": 10941511,
+         "iq": 111,
+         "login": "Alterez",
+         "name": "Alterez",
+         "role_for_display": null,
+         "url": "https://genius.com/Alterez",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=YFy6b9GazbY"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/375870",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375870,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Eddie Constantine",
+    "url": "https://genius.com/artists/Eddie-constantine"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2249228",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 2249228,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M. Fontenoy",
+     "url": "https://genius.com/artists/M-fontenoy"
+    }
+   ],
+   "lyrics": null
+  }
+ ]
+}

@@ -1,0 +1,1125 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/389829",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 389829,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Armand Mestral",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Armand-mestral",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7104924",
+  "classification": "needs_exegesis",
+  "fragment": "Armand Mestral",
+  "id": 7104924,
+  "is_description": true,
+  "path": "/7104924/Armand-mestral/Armand-mestral",
+  "range": {
+   "content": "Armand Mestral"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7104924/Armand-mestral/Armand-mestral",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/389829",
+   "context": null,
+   "id": 389829,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Armand Mestral",
+   "title": "Armand Mestral",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Armand-mestral"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7104924",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7104924,
+    "pinned": false,
+    "share_url": "https://genius.com/7104924",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7104924/Armand-mestral/Armand-mestral",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1554612",
+   "apple_music_id": "250217863",
+   "apple_music_player_url": "https://genius.com/songs/1554612/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1554612' class='rg_embed_link' data-song-id='1554612'>Read <a href='https://genius.com/Armand-mestral-plaine-ma-plaine-lyrics'>\u201cPlaine Ma Plaine\u201d by Armand\u00a0Mestral</a> on Genius</div> <script crossorigin src='//genius.com/songs/1554612/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Plaine Ma Plaine by\u00a0Armand\u00a0Mestral",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1554612,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Armand-mestral-plaine-ma-plaine-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Plaine Ma Plaine",
+   "title_with_featured": "Plaine Ma Plaine",
+   "url": "https://genius.com/Armand-mestral-plaine-ma-plaine-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6069242",
+    "classification": "needs_exegesis",
+    "fragment": "Plaine Ma Plaine",
+    "id": 6069242,
+    "is_description": true,
+    "path": "/6069242/Armand-mestral-plaine-ma-plaine/Plaine-ma-plaine",
+    "range": {
+     "content": "Plaine Ma Plaine"
+    },
+    "song_id": 1554612,
+    "url": "https://genius.com/6069242/Armand-mestral-plaine-ma-plaine/Plaine-ma-plaine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1554612",
+     "client_timestamps": {
+      "updated_by_human_at": 1444057842,
+      "lyrics_updated_at": 1429896633
+     },
+     "context": "Armand Mestral",
+     "id": 1554612,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Plaine Ma Plaine by\u00a0Armand\u00a0Mestral",
+     "title": "Plaine Ma Plaine",
+     "type": "Song",
+     "url": "https://genius.com/Armand-mestral-plaine-ma-plaine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6069242",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6069242,
+      "pinned": false,
+      "share_url": "https://genius.com/6069242",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6069242/Armand-mestral-plaine-ma-plaine/Plaine-ma-plaine",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/389829",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 389829,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Armand Mestral",
+    "url": "https://genius.com/artists/Armand-mestral"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Plaine, ma plaine\nPlaine, \u00f4 mon immense plaine\nO\u00f9 tra\u00eene encore le cri des loups\nGrande steppe blanche de chez nous\n\nPlaine, ma plaine\nDans l'immensit\u00e9 de neige\nEntends-tu le pas des chevaux\nEntends-tu le bruit de ces galops\n\nPlaine, ma plaine\nEntends-tu ces voix lointaines\nLes cavaliers qui vers les champs reviennent\nSous le ciel chevauchant en chantant\n\nVent de ma plaine\nVa-t-en dire aux autres plaines\nQue le soleil et les \u00e9t\u00e9s reviennent\nPour tous ceux qui savent esp\u00e9rer\n\nPlaine, ma plaine\nSous l'\u00e9pais manteau de neige\nLa terre enferme dans sa main la graine\nQui fait la r\u00e9colte de demain\n\nPlaine, ma plaine\nVent de la plaine\nTu peux g\u00e9mir avec les loups\nL'espoir est \u00e0 nous plus fort que tout !"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1602372",
+   "apple_music_id": "250217865",
+   "apple_music_player_url": "https://genius.com/songs/1602372/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1602372' class='rg_embed_link' data-song-id='1602372'>Read <a href='https://genius.com/Armand-mestral-la-fete-des-fleurs-lyrics'>\u201cLa F\u00eate Des Fleurs\u201d by Armand\u00a0Mestral</a> on Genius</div> <script crossorigin src='//genius.com/songs/1602372/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La F\u00eate Des Fleurs by\u00a0Armand\u00a0Mestral",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1602372,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Armand-mestral-la-fete-des-fleurs-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La F\u00eate Des Fleurs",
+   "title_with_featured": "La F\u00eate Des Fleurs",
+   "url": "https://genius.com/Armand-mestral-la-fete-des-fleurs-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6117149",
+    "classification": "needs_exegesis",
+    "fragment": "La F\u00eate Des Fleurs",
+    "id": 6117149,
+    "is_description": true,
+    "path": "/6117149/Armand-mestral-la-fete-des-fleurs/La-fete-des-fleurs",
+    "range": {
+     "content": "La F\u00eate Des Fleurs"
+    },
+    "song_id": 1602372,
+    "url": "https://genius.com/6117149/Armand-mestral-la-fete-des-fleurs/La-fete-des-fleurs",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1602372",
+     "client_timestamps": {
+      "updated_by_human_at": 1444314116,
+      "lyrics_updated_at": 1429899405
+     },
+     "context": "Armand Mestral",
+     "id": 1602372,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "La F\u00eate Des Fleurs by\u00a0Armand\u00a0Mestral",
+     "title": "La F\u00eate Des Fleurs",
+     "type": "Song",
+     "url": "https://genius.com/Armand-mestral-la-fete-des-fleurs-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6117149",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6117149,
+      "pinned": false,
+      "share_url": "https://genius.com/6117149",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6117149/Armand-mestral-la-fete-des-fleurs/La-fete-des-fleurs",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/389829",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 389829,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Armand Mestral",
+    "url": "https://genius.com/artists/Armand-mestral"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1567996",
+   "apple_music_id": "364590609",
+   "apple_music_player_url": "https://genius.com/songs/1567996/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1567996' class='rg_embed_link' data-song-id='1567996'>Read <a href='https://genius.com/Armand-mestral-jalousie-lyrics'>\u201cJalousie\u201d by Armand\u00a0Mestral</a> on Genius</div> <script crossorigin src='//genius.com/songs/1567996/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Jalousie by\u00a0Armand\u00a0Mestral",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1567996,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Armand-mestral-jalousie-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Jalousie",
+   "title_with_featured": "Jalousie",
+   "url": "https://genius.com/Armand-mestral-jalousie-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6082686",
+    "classification": "needs_exegesis",
+    "fragment": "Jalousie",
+    "id": 6082686,
+    "is_description": true,
+    "path": "/6082686/Armand-mestral-jalousie/Jalousie",
+    "range": {
+     "content": "Jalousie"
+    },
+    "song_id": 1567996,
+    "url": "https://genius.com/6082686/Armand-mestral-jalousie/Jalousie",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1567996",
+     "client_timestamps": {
+      "updated_by_human_at": 1444313477,
+      "lyrics_updated_at": 1429897621
+     },
+     "context": "Armand Mestral",
+     "id": 1567996,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Jalousie by\u00a0Armand\u00a0Mestral",
+     "title": "Jalousie",
+     "type": "Song",
+     "url": "https://genius.com/Armand-mestral-jalousie-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6082686",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6082686,
+      "pinned": false,
+      "share_url": "https://genius.com/6082686",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6082686/Armand-mestral-jalousie/Jalousie",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/389829",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 389829,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Armand Mestral",
+    "url": "https://genius.com/artists/Armand-mestral"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

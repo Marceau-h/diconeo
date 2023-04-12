@@ -1,0 +1,3424 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/368787",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 368787,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jean Yanne",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Jean-yanne",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7085209",
+  "classification": "needs_exegesis",
+  "fragment": "Jean Yanne",
+  "id": 7085209,
+  "is_description": true,
+  "path": "/7085209/Jean-yanne/Jean-yanne",
+  "range": {
+   "content": "Jean Yanne"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7085209/Jean-yanne/Jean-yanne",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/368787",
+   "context": null,
+   "id": 368787,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Jean Yanne",
+   "title": "Jean Yanne",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jean-yanne"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7085209",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7085209,
+    "pinned": false,
+    "share_url": "https://genius.com/7085209",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7085209/Jean-yanne/Jean-yanne",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1391447",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1391447/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1391447' class='rg_embed_link' data-song-id='1391447'>Read <a href='https://genius.com/Jean-yanne-la-gamberge-lyrics'>\u201cLa Gamberge\u201d by Jean\u00a0Yanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1391447/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La Gamberge by\u00a0Jean\u00a0Yanne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1391447,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-yanne-la-gamberge-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La Gamberge",
+   "title_with_featured": "La Gamberge",
+   "url": "https://genius.com/Jean-yanne-la-gamberge-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5901104",
+    "classification": "needs_exegesis",
+    "fragment": "La Gamberge",
+    "id": 5901104,
+    "is_description": true,
+    "path": "/5901104/Jean-yanne-la-gamberge/La-gamberge",
+    "range": {
+     "content": "La Gamberge"
+    },
+    "song_id": 1391447,
+    "url": "https://genius.com/5901104/Jean-yanne-la-gamberge/La-gamberge",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1391447",
+     "client_timestamps": {
+      "updated_by_human_at": 1441809201,
+      "lyrics_updated_at": 1429813607
+     },
+     "context": "Jean Yanne",
+     "id": 1391447,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "La Gamberge by\u00a0Jean\u00a0Yanne",
+     "title": "La Gamberge",
+     "type": "Song",
+     "url": "https://genius.com/Jean-yanne-la-gamberge-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5901104",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5901104,
+      "pinned": false,
+      "share_url": "https://genius.com/5901104",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5901104/Jean-yanne-la-gamberge/La-gamberge",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368787",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 368787,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Yanne",
+    "url": "https://genius.com/artists/Jean-yanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1165483",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1165483/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1165483' class='rg_embed_link' data-song-id='1165483'>Read <a href='https://genius.com/Jean-yanne-camille-lyrics'>\u201cCamille\u201d by Jean\u00a0Yanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1165483/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Camille by\u00a0Jean\u00a0Yanne",
+   "header_image_thumbnail_url": "https://images.genius.com/c04f31e458d10fa2a8a05071421032a5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c04f31e458d10fa2a8a05071421032a5.500x500x1.jpg",
+   "id": 1165483,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-yanne-camille-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c04f31e458d10fa2a8a05071421032a5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c04f31e458d10fa2a8a05071421032a5.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Camille",
+   "title_with_featured": "Camille",
+   "url": "https://genius.com/Jean-yanne-camille-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/295353",
+    "cover_art_url": "https://images.genius.com/c04f31e458d10fa2a8a05071421032a5.500x500x1.jpg",
+    "full_title": "Rouvrez les maisons closes by Jean Yanne",
+    "id": 295353,
+    "name": "Rouvrez les maisons closes",
+    "url": "https://genius.com/albums/Jean-yanne/Rouvrez-les-maisons-closes",
+    "artist": {
+     "api_path": "/artists/368787",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 368787,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean Yanne",
+     "url": "https://genius.com/artists/Jean-yanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5667351",
+    "classification": "needs_exegesis",
+    "fragment": "Camille",
+    "id": 5667351,
+    "is_description": true,
+    "path": "/5667351/Jean-yanne-camille/Camille",
+    "range": {
+     "content": "Camille"
+    },
+    "song_id": 1165483,
+    "url": "https://genius.com/5667351/Jean-yanne-camille/Camille",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1165483",
+     "client_timestamps": {
+      "updated_by_human_at": 1479170393,
+      "lyrics_updated_at": 1429677177
+     },
+     "context": "Jean Yanne",
+     "id": 1165483,
+     "image_url": "https://images.genius.com/c04f31e458d10fa2a8a05071421032a5.500x500x1.jpg",
+     "link_title": "Camille by\u00a0Jean\u00a0Yanne",
+     "title": "Camille",
+     "type": "Song",
+     "url": "https://genius.com/Jean-yanne-camille-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5667351",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5667351,
+      "pinned": false,
+      "share_url": "https://genius.com/5667351",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5667351/Jean-yanne-camille/Camille",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368787",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 368787,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Yanne",
+    "url": "https://genius.com/artists/Jean-yanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "J'ai connu des tas de filles\nDes tas de gar\u00e7ons aussi\nMais quand j'ai connu Camille\nAh quel trouble dans ma vie!\nCamille nest pas tr\u00e8s fille\nN'est pas tr\u00e8s gar\u00e7on non plus\nComment expliquer Camille\nA ceux qui l'ont jamais vu?\n\nCamille est assez sp\u00e9cial\nIl ou elle, je ne sais plus\nRessemble \u00e0 une amygdale\nAux extr\u00e9mit\u00e9s fourchues\nCertains trouveraient atroces\nSon corps cave un peu partout\nO\u00f9 devrait y avoir des bosses\nChez Camille il y a des trous!\n\nGnia gnia gnia gnia gnia gnia gnia\nGnia gnia gnia gnia gnia gnia gnia gnia!\n\nComment d\u00e9crire Camille\nQu'a ni cul, ni seins, ni dos?\nOn dirait une chenille\nOu un dessin de Picasso\nC'est comme un intestin gr\u00eale\nAvec une t\u00eate au milieu\nUn gros triangle isoc\u00e8le\nBoursoufl\u00e9 jaune et visqueux!\n\nChaque nuit avec Camille\nJe m'envole vers les cieux\nJe suffoque et m'\u00e9carquille\nJe plane, je suis heureux\nC'est vraiment l'apoth\u00e9ose\nDes volupt\u00e9s de l'amour\nMais la meilleure des choses\nNe peut pas durer toujours!\n\nGnia gnia gnia gnia gnia gnia gnia\nGnia gnia gnia gnia gnia gnia gnia gnia!\n\nQuand le premier soleil brille\nVenant mettre un point final\nA l'\u00e9trange c\u00e9r\u00e9monial\nDe mon bonheur avec Camille\nQuand le petit jour \u00e9vince\nLa nuit de mon bonheur nuptial\nJe prend Camille avec des pinces\nEt la remets dans son bocal!\nJe prend Camille avec des pinces\nEt la remets dans son bocal!\nDans son bocal....\n\n(Merci \u00e0 Abie pour cettes paroles)"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1412747",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1412747/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1412747' class='rg_embed_link' data-song-id='1412747'>Read <a href='https://genius.com/Jean-yanne-tout-le-monde-il-est-beau-lyrics'>\u201cTout Le Monde Il Est Beau\u201d by Jean\u00a0Yanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1412747/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tout Le Monde Il Est Beau by\u00a0Jean\u00a0Yanne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1412747,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-yanne-tout-le-monde-il-est-beau-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tout Le Monde Il Est Beau",
+   "title_with_featured": "Tout Le Monde Il Est Beau",
+   "url": "https://genius.com/Jean-yanne-tout-le-monde-il-est-beau-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5923805",
+    "classification": "needs_exegesis",
+    "fragment": "Tout Le Monde Il Est Beau",
+    "id": 5923805,
+    "is_description": true,
+    "path": "/5923805/Jean-yanne-tout-le-monde-il-est-beau/Tout-le-monde-il-est-beau",
+    "range": {
+     "content": "Tout Le Monde Il Est Beau"
+    },
+    "song_id": 1412747,
+    "url": "https://genius.com/5923805/Jean-yanne-tout-le-monde-il-est-beau/Tout-le-monde-il-est-beau",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1412747",
+     "client_timestamps": {
+      "updated_by_human_at": 1461302506,
+      "lyrics_updated_at": 1429829352
+     },
+     "context": "Jean Yanne",
+     "id": 1412747,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Tout Le Monde Il Est Beau by\u00a0Jean\u00a0Yanne",
+     "title": "Tout Le Monde Il Est Beau",
+     "type": "Song",
+     "url": "https://genius.com/Jean-yanne-tout-le-monde-il-est-beau-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5923805",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5923805,
+      "pinned": false,
+      "share_url": "https://genius.com/5923805",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5923805/Jean-yanne-tout-le-monde-il-est-beau/Tout-le-monde-il-est-beau",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368787",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 368787,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Yanne",
+    "url": "https://genius.com/artists/Jean-yanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Tout le monde il est beau, tout le monde il est gentil !\n\nQuand les pav\u00e9s volent, comme de grands oiseaux gris\nEn plein dans la gueule des flics au regard surpris\nQuand \u00e7a Gay-Lussac, lorsque partout l'on entend\nLe bruit des matraques sur les cr\u00e2nes intelligents\n\nDans la douceur de la nuit, le ciel m'offre son abri\nEt je pense \u00e0 J\u00e9sus Christ, celui qu'a dit :\nTout le monde il est beau, tout le monde il est gentil !\n\nLe monde est beau, tout le monde il est gentil {x4}\n\nQuand dans le ciel calme, l'avion par-dessus les toits\nVerse son napalm sur le peuple indochinois\nQuand c'est la fringale, lorsqu'en place d'aliment\nLes feux du Bengale cuisent les petits enfants\n\nDans la ti\u00e9deur de la nuit, la pri\u00e8re est mon appui\nCar je pense \u00e0 J\u00e9sus Christ, celui qu'a dit :\nTout le monde il est beau, tout le monde il est gentil !\n\nLe monde est beau, tout le monde il est gentil {x4}\n\nQuand \u00e7a jordanise, quand le pauvre fedayin\nCopie par b\u00eatise la prose \u00e0 monsieur Jourdain\nQuand le mercenaire ne songe qu'a vivre en paix\nEt se d\u00e9salt\u00e8re avec un demi Biafrais\n\nDans la fra\u00eecheur de la nuit, je me sens tout attendri\nEn pensant \u00e0 J\u00e9sus Christ, celui qu'a dit :\nTout le monde il est beau, tout le monde il est gentil !\n\nLe monde est beau, tout le monde il est gentil {x7}"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1547276",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1547276/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1547276' class='rg_embed_link' data-song-id='1547276'>Read <a href='https://genius.com/Jean-yanne-si-tu-ten-irais-lyrics'>\u201cSi Tu TEn Irais\u201d by Jean\u00a0Yanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1547276/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Si Tu TEn Irais by\u00a0Jean\u00a0Yanne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1547276,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-yanne-si-tu-ten-irais-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Si Tu TEn Irais",
+   "title_with_featured": "Si Tu TEn Irais",
+   "url": "https://genius.com/Jean-yanne-si-tu-ten-irais-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6061843",
+    "classification": "needs_exegesis",
+    "fragment": "Si Tu TEn Irais",
+    "id": 6061843,
+    "is_description": true,
+    "path": "/6061843/Jean-yanne-si-tu-ten-irais/Si-tu-ten-irais",
+    "range": {
+     "content": "Si Tu TEn Irais"
+    },
+    "song_id": 1547276,
+    "url": "https://genius.com/6061843/Jean-yanne-si-tu-ten-irais/Si-tu-ten-irais",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1547276",
+     "client_timestamps": {
+      "updated_by_human_at": 1461295919,
+      "lyrics_updated_at": 1461295919
+     },
+     "context": "Jean Yanne",
+     "id": 1547276,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Si Tu TEn Irais by\u00a0Jean\u00a0Yanne",
+     "title": "Si Tu TEn Irais",
+     "type": "Song",
+     "url": "https://genius.com/Jean-yanne-si-tu-ten-irais-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6061843",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6061843,
+      "pinned": false,
+      "share_url": "https://genius.com/6061843",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6061843/Jean-yanne-si-tu-ten-irais/Si-tu-ten-irais",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368787",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 368787,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Yanne",
+    "url": "https://genius.com/artists/Jean-yanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1256004",
+   "apple_music_id": "928733295",
+   "apple_music_player_url": "https://genius.com/songs/1256004/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1256004' class='rg_embed_link' data-song-id='1256004'>Read <a href='https://genius.com/Jean-yanne-mon-cher-albert-lyrics'>\u201cMon Cher Albert\u201d by Jean\u00a0Yanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1256004/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Mon Cher Albert by\u00a0Jean\u00a0Yanne",
+   "header_image_thumbnail_url": "https://images.genius.com/295e93530d48826ad0673241ce01186a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/295e93530d48826ad0673241ce01186a.392x392x1.jpg",
+   "id": 1256004,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-yanne-mon-cher-albert-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/295e93530d48826ad0673241ce01186a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/295e93530d48826ad0673241ce01186a.392x392x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mon Cher Albert",
+   "title_with_featured": "Mon Cher Albert",
+   "url": "https://genius.com/Jean-yanne-mon-cher-albert-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/318603",
+    "cover_art_url": "https://images.genius.com/295e93530d48826ad0673241ce01186a.392x392x1.jpg",
+    "full_title": "L'cunuque by Jean Yanne",
+    "id": 318603,
+    "name": "L\u2019cunuque",
+    "url": "https://genius.com/albums/Jean-yanne/L-cunuque",
+    "artist": {
+     "api_path": "/artists/368787",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 368787,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean Yanne",
+     "url": "https://genius.com/artists/Jean-yanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5760294",
+    "classification": "needs_exegesis",
+    "fragment": "Mon Cher Albert",
+    "id": 5760294,
+    "is_description": true,
+    "path": "/5760294/Jean-yanne-mon-cher-albert/Mon-cher-albert",
+    "range": {
+     "content": "Mon Cher Albert"
+    },
+    "song_id": 1256004,
+    "url": "https://genius.com/5760294/Jean-yanne-mon-cher-albert/Mon-cher-albert",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1256004",
+     "client_timestamps": {
+      "updated_by_human_at": 1481847849,
+      "lyrics_updated_at": 1429724651
+     },
+     "context": "Jean Yanne",
+     "id": 1256004,
+     "image_url": "https://images.genius.com/295e93530d48826ad0673241ce01186a.392x392x1.jpg",
+     "link_title": "Mon Cher Albert by\u00a0Jean\u00a0Yanne",
+     "title": "Mon Cher Albert",
+     "type": "Song",
+     "url": "https://genius.com/Jean-yanne-mon-cher-albert-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5760294",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5760294,
+      "pinned": false,
+      "share_url": "https://genius.com/5760294",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5760294/Jean-yanne-mon-cher-albert/Mon-cher-albert",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368787",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 368787,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Yanne",
+    "url": "https://genius.com/artists/Jean-yanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Tu es pour moi le symbole vivant\nDes amours romantiques qu'on d\u00e9couvre \u00e0 trente ans\nTon corps me fait vibrer, dans tes bras je m'enivre\nMon cher Albert\nMon cher Albert\n\nLorsque tous deux, ensemble nous vivons\nMon ventre sur ton dos formant un \u00e9dredon\nQue j'ai donc du plaisir \u00e0 contempler ta nuque\nMon cher Albert\nMon cher Albert\n\nTu fais pour moi des choses aphrodisiaques\nTout nu dans la cuisine, tu me lis du Mauriac\nLorsque j'entends ces mots, je l'avoue, \u00e7a m'excite\nMon cher Albert\nMon cher Albert\n\nComme Pollux et son copain Castor\nComme Yseut et Tristan, comme Sodome et Gomorrhe\nNous sommes r\u00e9unis par un amour unique\nMon cher Albert\nMon cher Albert\n\nJe vais pourtant encore te demander\nUne derni\u00e8re gr\u00e2ce, pour mieux me contenter\nLorsque tu viens m'aimer, garde donc ta soutane\nMon cher Albert\nMon cher Albert\n\nMon cher Albert, mon petit Albert {ad lib}\n\n(Merci \u00e0 Bertrand pour cettes paroles)"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1301681",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1301681/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1301681' class='rg_embed_link' data-song-id='1301681'>Read <a href='https://genius.com/Jean-yanne-la-gloriole-lyrics'>\u201cLa Gloriole\u201d by Jean\u00a0Yanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1301681/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La Gloriole by\u00a0Jean\u00a0Yanne",
+   "header_image_thumbnail_url": "https://images.genius.com/96c4b9045999456d697cee46516d3732.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/96c4b9045999456d697cee46516d3732.500x500x1.jpg",
+   "id": 1301681,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-yanne-la-gloriole-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/96c4b9045999456d697cee46516d3732.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/96c4b9045999456d697cee46516d3732.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La Gloriole",
+   "title_with_featured": "La Gloriole",
+   "url": "https://genius.com/Jean-yanne-la-gloriole-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/272709",
+    "cover_art_url": "https://images.genius.com/96c4b9045999456d697cee46516d3732.500x500x1.jpg",
+    "full_title": "La Gamberge by Jean Yanne",
+    "id": 272709,
+    "name": "La Gamberge",
+    "url": "https://genius.com/albums/Jean-yanne/La-gamberge",
+    "artist": {
+     "api_path": "/artists/368787",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 368787,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean Yanne",
+     "url": "https://genius.com/artists/Jean-yanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5808068",
+    "classification": "needs_exegesis",
+    "fragment": "La Gloriole",
+    "id": 5808068,
+    "is_description": true,
+    "path": "/5808068/Jean-yanne-la-gloriole/La-gloriole",
+    "range": {
+     "content": "La Gloriole"
+    },
+    "song_id": 1301681,
+    "url": "https://genius.com/5808068/Jean-yanne-la-gloriole/La-gloriole",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1301681",
+     "client_timestamps": {
+      "updated_by_human_at": 1477008534,
+      "lyrics_updated_at": 1429753446
+     },
+     "context": "Jean Yanne",
+     "id": 1301681,
+     "image_url": "https://images.genius.com/96c4b9045999456d697cee46516d3732.500x500x1.jpg",
+     "link_title": "La Gloriole by\u00a0Jean\u00a0Yanne",
+     "title": "La Gloriole",
+     "type": "Song",
+     "url": "https://genius.com/Jean-yanne-la-gloriole-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5808068",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5808068,
+      "pinned": false,
+      "share_url": "https://genius.com/5808068",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5808068/Jean-yanne-la-gloriole/La-gloriole",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368787",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 368787,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Yanne",
+    "url": "https://genius.com/artists/Jean-yanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1471618",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1471618/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1471618' class='rg_embed_link' data-song-id='1471618'>Read <a href='https://genius.com/Jean-yanne-rouvrez-les-maisons-lyrics'>\u201cRouvrez Les Maisons\u201d by Jean\u00a0Yanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1471618/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Rouvrez Les Maisons by\u00a0Jean\u00a0Yanne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1471618,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-yanne-rouvrez-les-maisons-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Rouvrez Les Maisons",
+   "title_with_featured": "Rouvrez Les Maisons",
+   "url": "https://genius.com/Jean-yanne-rouvrez-les-maisons-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5984035",
+    "classification": "needs_exegesis",
+    "fragment": "Rouvrez Les Maisons",
+    "id": 5984035,
+    "is_description": true,
+    "path": "/5984035/Jean-yanne-rouvrez-les-maisons/Rouvrez-les-maisons",
+    "range": {
+     "content": "Rouvrez Les Maisons"
+    },
+    "song_id": 1471618,
+    "url": "https://genius.com/5984035/Jean-yanne-rouvrez-les-maisons/Rouvrez-les-maisons",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1471618",
+     "client_timestamps": {
+      "updated_by_human_at": 1443118755,
+      "lyrics_updated_at": 1429859708
+     },
+     "context": "Jean Yanne",
+     "id": 1471618,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Rouvrez Les Maisons by\u00a0Jean\u00a0Yanne",
+     "title": "Rouvrez Les Maisons",
+     "type": "Song",
+     "url": "https://genius.com/Jean-yanne-rouvrez-les-maisons-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5984035",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5984035,
+      "pinned": false,
+      "share_url": "https://genius.com/5984035",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5984035/Jean-yanne-rouvrez-les-maisons/Rouvrez-les-maisons",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368787",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 368787,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Yanne",
+    "url": "https://genius.com/artists/Jean-yanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2460210",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2460210/apple_music_player",
+   "description": {
+    "plain": "Ce texte est un po\u00e8me \u00e9nonc\u00e9 par le personnage incarn\u00e9 par Jean Yanne dans le film de 1972 Tout le monde  il est beau, tout le monde  il est gentil.\n\n\u00c9crit pour le film, il consiste en un \u00e9l\u00e9gant r\u00e8glement de compte entre le journaliste radiophonique d'investigation Christian Gerber (Jean Yanne) et le directeur de sa radio, Plantier (Jacques Fran\u00e7ois), qui vient de le renvoyer.\n\nLe film raconte les d\u00e9rives commerciales d'une radio qui axe toute sa programmation sur le th\u00e8me de J\u00e9sus Christ, car le directeur estime que c'est un th\u00e8me \u00e0 la mode. Cherchant \u00e0 mettre un coup de pied dans la fourmili\u00e8re apr\u00e8s avoir \u00e9t\u00e9 mis au placard pour ses prises de positions, le grand reporter Christian Gerber pousse encore plus loin le ridicule concept des publicit\u00e9s utilisant J\u00e9sus comme image de marque, au point de rendre furieux son patron.\nVoici, dans le film, le dialogue qui pr\u00e9c\u00e8de la diffusion (sur bande enregistr\u00e9e) du po\u00e8me :\nPlantier : Gerber ! Je vous ordonne d'arr\u00eater cette bande imm\u00e9diatement !\nGerber : Ha ! Bah faudrait savoir c'que vous voulez quoi. Pour une fois que j'ai \u201cl'esprit station\u201d. Il s'agit bien de parler du bon Dieu ?\nPlantier : Il s'agit pas de parler de Dieu, il s'agit d'axer nos programmes sur Dieu ! Vous vous moquez de nos client Gerber !\nGerber : Haha, ouais les clients\u2026 les marchands du temple hein ?\nPlantier : Vous n'avez pas \u00e0 discuter, je vous ordonne de couper \u00e7a !\nGerber : Bein j'vous emmerde.\nPlantier : Et moi je vous trouve grossier Gerber ! Et je vous fous \u00e0 la porte !\nGerber : Non non. Parce que j'pr\u00e9voyais tellement votre r\u00e9action que j'vous ai pr\u00e9par\u00e9 une petite lettre d'adieu. Une lettre d'adieu radiophonique \u00e9videmment. (au r\u00e9gisseur) Tu peux\u2026 tu peux envoyer."
+   },
+   "embed_content": "<div id='rg_embed_link_2460210' class='rg_embed_link' data-song-id='2460210'>Read <a href='https://genius.com/Jean-yanne-lettre-dadieu-annotated'>\u201cLettre d'adieu\u201d by Jean\u00a0Yanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2460210/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Lettre d'adieu by\u00a0Jean\u00a0Yanne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 2460210,
+   "lyrics_owner_id": 2355621,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-yanne-lettre-dadieu-annotated",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1972-01-01",
+   "release_date_for_display": "January 1, 1972",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Lettre d\u2019adieu",
+   "title_with_featured": "Lettre d'adieu",
+   "url": "https://genius.com/Jean-yanne-lettre-dadieu-annotated",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2355621,
+    "annotator_login": "Aurl",
+    "api_path": "/referents/9033513",
+    "classification": "accepted",
+    "fragment": "Lettre d\u2019adieu",
+    "id": 9033513,
+    "is_description": true,
+    "path": "/9033513/Jean-yanne-lettre-dadieu/Lettre-dadieu",
+    "range": {
+     "content": "Lettre d'adieu"
+    },
+    "song_id": 2460210,
+    "url": "https://genius.com/9033513/Jean-yanne-lettre-dadieu/Lettre-dadieu",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2460210",
+     "client_timestamps": {
+      "updated_by_human_at": 1464365519,
+      "lyrics_updated_at": 1461296183
+     },
+     "context": "Jean Yanne",
+     "id": 2460210,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Lettre d\u2019adieu by\u00a0Jean\u00a0Yanne",
+     "title": "Lettre d'adieu",
+     "type": "Song",
+     "url": "https://genius.com/Jean-yanne-lettre-dadieu-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9033513",
+      "body": {
+       "plain": "Ce texte est un po\u00e8me \u00e9nonc\u00e9 par le personnage incarn\u00e9 par Jean Yanne dans le film de 1972 Tout le monde  il est beau, tout le monde  il est gentil.\n\n\u00c9crit pour le film, il consiste en un \u00e9l\u00e9gant r\u00e8glement de compte entre le journaliste radiophonique d'investigation Christian Gerber (Jean Yanne) et le directeur de sa radio, Plantier (Jacques Fran\u00e7ois), qui vient de le renvoyer.\n\nLe film raconte les d\u00e9rives commerciales d'une radio qui axe toute sa programmation sur le th\u00e8me de J\u00e9sus Christ, car le directeur estime que c'est un th\u00e8me \u00e0 la mode. Cherchant \u00e0 mettre un coup de pied dans la fourmili\u00e8re apr\u00e8s avoir \u00e9t\u00e9 mis au placard pour ses prises de positions, le grand reporter Christian Gerber pousse encore plus loin le ridicule concept des publicit\u00e9s utilisant J\u00e9sus comme image de marque, au point de rendre furieux son patron.\nVoici, dans le film, le dialogue qui pr\u00e9c\u00e8de la diffusion (sur bande enregistr\u00e9e) du po\u00e8me :\nPlantier : Gerber ! Je vous ordonne d'arr\u00eater cette bande imm\u00e9diatement !\nGerber : Ha ! Bah faudrait savoir c'que vous voulez quoi. Pour une fois que j'ai \u201cl'esprit station\u201d. Il s'agit bien de parler du bon Dieu ?\nPlantier : Il s'agit pas de parler de Dieu, il s'agit d'axer nos programmes sur Dieu ! Vous vous moquez de nos client Gerber !\nGerber : Haha, ouais les clients\u2026 les marchands du temple hein ?\nPlantier : Vous n'avez pas \u00e0 discuter, je vous ordonne de couper \u00e7a !\nGerber : Bein j'vous emmerde.\nPlantier : Et moi je vous trouve grossier Gerber ! Et je vous fous \u00e0 la porte !\nGerber : Non non. Parce que j'pr\u00e9voyais tellement votre r\u00e9action que j'vous ai pr\u00e9par\u00e9 une petite lettre d'adieu. Une lettre d'adieu radiophonique \u00e9videmment. (au r\u00e9gisseur) Tu peux\u2026 tu peux envoyer."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 9033513,
+      "pinned": false,
+      "share_url": "https://genius.com/9033513",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/9033513/Jean-yanne-lettre-dadieu/Lettre-dadieu",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2355621",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/63f2b36ce5c7b4f2ffe1fbdca1b09d83",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/63f2b36ce5c7b4f2ffe1fbdca1b09d83",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/63f2b36ce5c7b4f2ffe1fbdca1b09d83",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/63f2b36ce5c7b4f2ffe1fbdca1b09d83",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/D25GLHwKTGC0KU8vPBVA_Braid-screen01.jpg",
+         "human_readable_role_for_display": "Moderator",
+         "id": 2355621,
+         "iq": 50098,
+         "login": "Aurl",
+         "name": "Aurl",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Aurl",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 13,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=4UHrdKtybsY"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/368787",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 368787,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Yanne",
+    "url": "https://genius.com/artists/Jean-yanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/660766",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 660766,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "G\u00e9rard Sire",
+     "url": "https://genius.com/artists/Gerard-sire"
+    },
+    {
+     "api_path": "/artists/368787",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 368787,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean Yanne",
+     "url": "https://genius.com/artists/Jean-yanne"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/925392",
+   "apple_music_id": "1084237670",
+   "apple_music_player_url": "https://genius.com/songs/925392/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_925392' class='rg_embed_link' data-song-id='925392'>Read <a href='https://genius.com/Jean-yanne-jaime-pas-le-rock-lyrics'>\u201cJAime Pas Le Rock\u201d by Jean\u00a0Yanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/925392/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "JAime Pas Le Rock by\u00a0Jean\u00a0Yanne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 925392,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-yanne-jaime-pas-le-rock-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "JAime Pas Le Rock",
+   "title_with_featured": "JAime Pas Le Rock",
+   "url": "https://genius.com/Jean-yanne-jaime-pas-le-rock-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5418587",
+    "classification": "needs_exegesis",
+    "fragment": "JAime Pas Le Rock",
+    "id": 5418587,
+    "is_description": true,
+    "path": "/5418587/Jean-yanne-jaime-pas-le-rock/Jaime-pas-le-rock",
+    "range": {
+     "content": "JAime Pas Le Rock"
+    },
+    "song_id": 925392,
+    "url": "https://genius.com/5418587/Jean-yanne-jaime-pas-le-rock/Jaime-pas-le-rock",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/925392",
+     "client_timestamps": {
+      "updated_by_human_at": 1434116613,
+      "lyrics_updated_at": 1429538466
+     },
+     "context": "Jean Yanne",
+     "id": 925392,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "JAime Pas Le Rock by\u00a0Jean\u00a0Yanne",
+     "title": "JAime Pas Le Rock",
+     "type": "Song",
+     "url": "https://genius.com/Jean-yanne-jaime-pas-le-rock-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5418587",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5418587,
+      "pinned": false,
+      "share_url": "https://genius.com/5418587",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5418587/Jean-yanne-jaime-pas-le-rock/Jaime-pas-le-rock",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368787",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 368787,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Yanne",
+    "url": "https://genius.com/artists/Jean-yanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1822063",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1822063/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1822063' class='rg_embed_link' data-song-id='1822063'>Read <a href='https://genius.com/Jean-yanne-pourquoi-mas-tu-mordu-loreille-lyrics'>\u201cPourquoi MAs Tu Mordu LOreille\u201d by Jean\u00a0Yanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1822063/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Pourquoi MAs Tu Mordu LOreille by\u00a0Jean\u00a0Yanne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1822063,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-yanne-pourquoi-mas-tu-mordu-loreille-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Pourquoi MAs Tu Mordu LOreille",
+   "title_with_featured": "Pourquoi MAs Tu Mordu LOreille",
+   "url": "https://genius.com/Jean-yanne-pourquoi-mas-tu-mordu-loreille-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6435011",
+    "classification": "needs_exegesis",
+    "fragment": "Pourquoi MAs Tu Mordu LOreille",
+    "id": 6435011,
+    "is_description": true,
+    "path": "/6435011/Jean-yanne-pourquoi-mas-tu-mordu-loreille/Pourquoi-mas-tu-mordu-loreille",
+    "range": {
+     "content": "Pourquoi MAs Tu Mordu LOreille"
+    },
+    "song_id": 1822063,
+    "url": "https://genius.com/6435011/Jean-yanne-pourquoi-mas-tu-mordu-loreille/Pourquoi-mas-tu-mordu-loreille",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1822063",
+     "client_timestamps": {
+      "updated_by_human_at": 1445442363,
+      "lyrics_updated_at": 1431620115
+     },
+     "context": "Jean Yanne",
+     "id": 1822063,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Pourquoi MAs Tu Mordu LOreille by\u00a0Jean\u00a0Yanne",
+     "title": "Pourquoi MAs Tu Mordu LOreille",
+     "type": "Song",
+     "url": "https://genius.com/Jean-yanne-pourquoi-mas-tu-mordu-loreille-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6435011",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6435011,
+      "pinned": false,
+      "share_url": "https://genius.com/6435011",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6435011/Jean-yanne-pourquoi-mas-tu-mordu-loreille/Pourquoi-mas-tu-mordu-loreille",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368787",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 368787,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean Yanne",
+    "url": "https://genius.com/artists/Jean-yanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

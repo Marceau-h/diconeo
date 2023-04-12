@@ -1,0 +1,570 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1161693",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 1161693,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Marc Seberg",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Marc-seberg",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4822297,
+  "annotator_login": "MarcSebergAddicts",
+  "api_path": "/referents/12209947",
+  "classification": "needs_exegesis",
+  "fragment": "Marc Seberg",
+  "id": 12209947,
+  "is_description": true,
+  "path": "/12209947/Marc-seberg/Marc-seberg",
+  "range": {
+   "content": "Marc Seberg"
+  },
+  "song_id": null,
+  "url": "https://genius.com/12209947/Marc-seberg/Marc-seberg",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1161693",
+   "context": null,
+   "id": 1161693,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Marc Seberg",
+   "title": "Marc Seberg",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Marc-seberg"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/12209947",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 12209947,
+    "pinned": false,
+    "share_url": "https://genius.com/12209947",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/12209947/Marc-seberg/Marc-seberg",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4822297",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/47b549942c738c6249ee4291a3f40ef9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/47b549942c738c6249ee4291a3f40ef9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/47b549942c738c6249ee4291a3f40ef9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/47b549942c738c6249ee4291a3f40ef9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/47b549942c738c6249ee4291a3f40ef9",
+       "human_readable_role_for_display": null,
+       "id": 4822297,
+       "iq": 154,
+       "login": "MarcSebergAddicts",
+       "name": "MarcSebergAddicts",
+       "role_for_display": null,
+       "url": "https://genius.com/MarcSebergAddicts",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3131118",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/3131118/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3131118' class='rg_embed_link' data-song-id='3131118'>Read <a href='https://genius.com/Marc-seberg-jeux-de-lumieres-lyrics'>\u201cJeux de lumi\u00e8res\u201d by Marc\u00a0Seberg</a> on Genius</div> <script crossorigin src='//genius.com/songs/3131118/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Jeux de lumi\u00e8res by\u00a0Marc\u00a0Seberg (Ft.\u00a0Anzia, Pascale\u00a0Le Berre, Philippe\u00a0Pascal, Pierre\u00a0Corneau & Pierre\u00a0\"Pee\" Thomas)",
+   "header_image_thumbnail_url": "https://images.genius.com/ff7148bac22358d7fa6e145be43db141.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ff7148bac22358d7fa6e145be43db141.600x600x1.jpg",
+   "id": 3131118,
+   "lyrics_owner_id": 4822297,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Marc-seberg-jeux-de-lumieres-lyrics",
+   "pyongs_count": null,
+   "recording_location": "studio ICP de Bruxelles",
+   "release_date": null,
+   "release_date_for_display": "March 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff7148bac22358d7fa6e145be43db141.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff7148bac22358d7fa6e145be43db141.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Jeux de lumi\u00e8res",
+   "title_with_featured": "Jeux de lumi\u00e8res (Ft.\u00a0Anzia, Pascale\u00a0Le Berre, Philippe\u00a0Pascal, Pierre\u00a0Corneau & Pierre\u00a0\"Pee\" Thomas)",
+   "url": "https://genius.com/Marc-seberg-jeux-de-lumieres-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/351573",
+    "cover_art_url": "https://images.genius.com/ff7148bac22358d7fa6e145be43db141.600x600x1.jpg",
+    "full_title": "Lumi\u00e8res et Trahisons by Marc Seberg",
+    "id": 351573,
+    "name": "Lumi\u00e8res et Trahisons",
+    "url": "https://genius.com/albums/Marc-seberg/Lumieres-et-trahisons",
+    "artist": {
+     "api_path": "/artists/1161693",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1161693,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marc Seberg",
+     "url": "https://genius.com/artists/Marc-seberg"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4822297,
+    "annotator_login": "MarcSebergAddicts",
+    "api_path": "/referents/12209949",
+    "classification": "needs_exegesis",
+    "fragment": "Jeux de lumi\u00e8res",
+    "id": 12209949,
+    "is_description": true,
+    "path": "/12209949/Marc-seberg-jeux-de-lumieres/Jeux-de-lumieres",
+    "range": {
+     "content": "Jeux de lumi\u00e8res"
+    },
+    "song_id": 3131118,
+    "url": "https://genius.com/12209949/Marc-seberg-jeux-de-lumieres/Jeux-de-lumieres",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3131118",
+     "client_timestamps": {
+      "updated_by_human_at": 1580473392,
+      "lyrics_updated_at": 1498219709
+     },
+     "context": "Marc Seberg",
+     "id": 3131118,
+     "image_url": "https://images.genius.com/ff7148bac22358d7fa6e145be43db141.600x600x1.jpg",
+     "link_title": "Jeux de lumi\u00e8res by\u00a0Marc\u00a0Seberg (Ft.\u00a0Anzia, Pascale\u00a0Le Berre, Philippe\u00a0Pascal, Pierre\u00a0Corneau & Pierre\u00a0\u201cPee\u201d Thomas)",
+     "title": "Jeux de lumi\u00e8res",
+     "type": "Song",
+     "url": "https://genius.com/Marc-seberg-jeux-de-lumieres-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12209949",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12209949,
+      "pinned": false,
+      "share_url": "https://genius.com/12209949",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/12209949/Marc-seberg-jeux-de-lumieres/Jeux-de-lumieres",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4822297",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/47b549942c738c6249ee4291a3f40ef9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/47b549942c738c6249ee4291a3f40ef9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/47b549942c738c6249ee4291a3f40ef9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/47b549942c738c6249ee4291a3f40ef9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/47b549942c738c6249ee4291a3f40ef9",
+         "human_readable_role_for_display": null,
+         "id": 4822297,
+         "iq": 154,
+         "login": "MarcSebergAddicts",
+         "name": "MarcSebergAddicts",
+         "role_for_display": null,
+         "url": "https://genius.com/MarcSebergAddicts",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/1937907",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1937907,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Philippe Pascal",
+     "url": "https://genius.com/artists/Philippe-pascal"
+    },
+    {
+     "api_path": "/artists/2094079",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2094079,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anzia",
+     "url": "https://genius.com/artists/Anzia"
+    },
+    {
+     "api_path": "/artists/1121958",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1121958,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre \u201cPee\u201d Thomas",
+     "url": "https://genius.com/artists/Pierre-pee-thomas"
+    },
+    {
+     "api_path": "/artists/2094078",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2094078,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Corneau",
+     "url": "https://genius.com/artists/Pierre-corneau"
+    },
+    {
+     "api_path": "/artists/2094077",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2094077,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pascale Le Berre",
+     "url": "https://genius.com/artists/Pascale-le-berre"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/1161693",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 1161693,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Marc Seberg",
+    "url": "https://genius.com/artists/Marc-seberg"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/35318",
+     "header_image_url": "https://images.genius.com/2832bd16b17b2a3b2a7823e7c5ca348b.640x236x1.jpg",
+     "id": 35318,
+     "image_url": "https://images.genius.com/2832bd16b17b2a3b2a7823e7c5ca348b.640x236x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Leckie",
+     "url": "https://genius.com/artists/John-leckie"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "A contre-jour tout d'abord\nLes contours de son corps\n\u00c0 contre-coeur, semblent \u00e9clore\nAux premi\u00e8res heures de l'aurore\n\nIl la voit s'\u00e9lever, fragile\nEt il la devine jeune ballerine\nLa regarde s'\u00e9tirer, f\u00e9line\nEt s'\u00e9lancer dans le prisme\nIrr\u00e9el\nDes jeux de lumi\u00e8res\nQui est-elle ?\nLes yeux du myst\u00e8re...\n\nUne suite de gestes lents\nDans l'air chauff\u00e9 \u00e0 blanc\nUne fuite de gestes brefs\nR\u00e9v\u00e8le d'autres facettes...\n\nComme la danse des perles de ros\u00e9e\nSur les fils d'une toile d'araign\u00e9e\nDessine, l'espace d'un court instant\nUne \u00e9toile de mer en argent\n\nDans les jeux de lumi\u00e8res\nElle se voile\nDans les jeux de lumi\u00e8res\nSe d\u00e9voile\nDans les jeux de lumi\u00e8res\nSes entrechats siamois\nGlissent en petits pas sournois\n\nElle se d\u00e9robe\n....................puis s'abandonne\nFurtive \u00e0 ses caresses\n.................................un sourire sur les l\u00e8vres\nElle se d\u00e9robe\n.................une fois encore\nPuis s'\u00e9vapore\n...................ivre d'\u00e9ther\nDans les jeux de lumi\u00e8res\n\nUne fuite de gestes lents\nDans l'air chauff\u00e9 \u00e0 blanc\nUne suite de gestes souples\nDans la fi\u00e8vre du jour\n\nRegarde comme le ciel est changeant !\nUn arc-en-ciel de sentiments\nEt quand il devient mena\u00e7ant\n(regarde) comme il effraie l'enfant\n......................................................irr\u00e9el\nDans les jeux de lumi\u00e8res\nO\u00f9 est-elle ?\nDans les yeux du myst\u00e8re\n\nIl l'a suivie longtemps des yeux\nEsp\u00e9rant quelques pas de deux\nDehors le temps \u00e9tait pluvieux\nPlus vieux au moins d'un si\u00e8cle ou deux !...\n\nDans les jeux de lumi\u00e8re\nElle se voile\nDans les jeux de lumi\u00e8res\nSe d\u00e9voile\nDans les jeux de lumi\u00e8res\nSes entrechats siamois\nGlissent en petits pas sournois\n\nElle se d\u00e9robe\n....................puis s'abandonne\nFurtive \u00e0 ses caresses\n................................un sourire sur les l\u00e8vres\n\nElle se d\u00e9robe\n.....................une fois encore\nPuis s'\u00e9vapore\n....................ivre d'\u00e9ther...\n\nElle me monte \u00e0 la t\u00eate\nDans les jeux de lumi\u00e8res\nElle me monte \u00e0 la t\u00eate\n\u00c0 la t\u00eate\n\nL'\u00e9ther... l'\u00e9ther\nThere's still a light\n........................that shines all night\nThere's still a light\n.............................that shines all night..."
+  }
+ ]
+}

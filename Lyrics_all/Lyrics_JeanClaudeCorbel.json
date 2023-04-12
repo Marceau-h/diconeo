@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1067810",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 1067810,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jean-Claude Corbel",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Jean-claude-corbel",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3081621,
+  "annotator_login": "libertyandverse",
+  "api_path": "/referents/11275185",
+  "classification": "needs_exegesis",
+  "fragment": "Jean-Claude Corbel",
+  "id": 11275185,
+  "is_description": true,
+  "path": "/11275185/Jean-claude-corbel/Jean-claude-corbel",
+  "range": {
+   "content": "Jean-Claude Corbel"
+  },
+  "song_id": null,
+  "url": "https://genius.com/11275185/Jean-claude-corbel/Jean-claude-corbel",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1067810",
+   "context": null,
+   "id": 1067810,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Jean-Claude Corbel",
+   "title": "Jean-Claude Corbel",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jean-claude-corbel"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/11275185",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 11275185,
+    "pinned": false,
+    "share_url": "https://genius.com/11275185",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/11275185/Jean-claude-corbel/Jean-claude-corbel",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3081621",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/03e489ea116520a01dff0f1a610bf8f8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/03e489ea116520a01dff0f1a610bf8f8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/03e489ea116520a01dff0f1a610bf8f8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/03e489ea116520a01dff0f1a610bf8f8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6tACTa8dSM6prcXgYcJ8_floral-pattern-wallpaper.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 3081621,
+       "iq": 70086,
+       "login": "libertyandverse",
+       "name": "libertyandverse",
+       "role_for_display": "editor",
+       "url": "https://genius.com/libertyandverse",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

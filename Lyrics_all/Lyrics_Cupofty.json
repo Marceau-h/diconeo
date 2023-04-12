@@ -1,0 +1,491 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/456586",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 456586,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Cupofty",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Cupofty",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7122291",
+  "classification": "needs_exegesis",
+  "fragment": "Cupofty",
+  "id": 7122291,
+  "is_description": true,
+  "path": "/7122291/Cupofty/Cupofty",
+  "range": {
+   "content": "Cupofty"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7122291/Cupofty/Cupofty",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/456586",
+   "context": null,
+   "id": 456586,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Cupofty",
+   "title": "Cupofty",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Cupofty"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7122291",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7122291,
+    "pinned": false,
+    "share_url": "https://genius.com/7122291",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7122291/Cupofty/Cupofty",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1967161",
+   "apple_music_id": "315552562",
+   "apple_music_player_url": "https://genius.com/songs/1967161/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1967161' class='rg_embed_link' data-song-id='1967161'>Read <a href='https://genius.com/Cupofty-rebel-lyrics'>\u201cRebel\u201d by Cupofty</a> on Genius</div> <script crossorigin src='//genius.com/songs/1967161/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Rebel by\u00a0Cupofty",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1967161,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Cupofty-rebel-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Rebel",
+   "title_with_featured": "Rebel",
+   "url": "https://genius.com/Cupofty-rebel-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6653561",
+    "classification": "needs_exegesis",
+    "fragment": "Rebel",
+    "id": 6653561,
+    "is_description": true,
+    "path": "/6653561/Cupofty-rebel/Rebel",
+    "range": {
+     "content": "Rebel"
+    },
+    "song_id": 1967161,
+    "url": "https://genius.com/6653561/Cupofty-rebel/Rebel",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1967161",
+     "client_timestamps": {
+      "updated_by_human_at": 1446157133,
+      "lyrics_updated_at": 1432927887
+     },
+     "context": "Cupofty",
+     "id": 1967161,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Rebel by\u00a0Cupofty",
+     "title": "Rebel",
+     "type": "Song",
+     "url": "https://genius.com/Cupofty-rebel-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6653561",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6653561,
+      "pinned": false,
+      "share_url": "https://genius.com/6653561",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6653561/Cupofty-rebel/Rebel",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/456586",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 456586,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Cupofty",
+    "url": "https://genius.com/artists/Cupofty"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "J'voudrais conduire une voiture\nRegarde la t\u00e9l\u00e9 tard le soir\nMe faire passer pour un gros dur\nJ'voudrais conduire une voiture\nRegarde la t\u00e9l\u00e9 tard le soir\nMe faire passer pour un gros dur\nDire que \u00e7a m'fait chier que j'en ai marre\n\nD'me forcer \u00e0 aimer la bi\u00e8re\nFaire chier les gens quittant le bus\nInsulter mon papa derri\u00e8re\nEn faire toujours et encore plus\n\nJ'suis un rebelle j'suis cap de vous sortir le chien\nJ'suis un rebelle j'ai pas d'devoirs \u00e7a sert \u00e0 rien\nJ'suis un rebelle je fais peur aux vieilles dans la rue\nJ'suis un rebelle j'suis m\u00eame capable de prendre ma douche tout nu\n\nPour l'instant j'me prend pas la t\u00eate\nJe verrais \u00e7a quand j'serai plus grand\nJe fume et je bois en cachette\nJ'ai m\u00eame tutoy\u00e9 mes parents\n\nPas moyen que j'\u00e9coute ma m\u00e8re\nElle comprend rien de toute fa\u00e7on\nJ'ai envie de tout foutre en l'air\nDire que le monde est vraiment con\n\nJ'suis un rebelle j'suis cap de vous sortir le chien\nJ'suis un rebelle j'ai pas d'devoirs \u00e7a sert \u00e0 rien\nJ'suis un rebelle je fais peur aux vieilles dans la rue\nJ'suis un rebelle j'suis m\u00eame capable de prendre ma douche tout nu\n\n(solo)\nJ'suis un rebelle j'suis cap de vous sortir le chien\nJ'suis un rebelle j'ai pas d'devoirs \u00e7a sert \u00e0 rien\nJ'suis un rebelle je fais peur aux vieilles dans la rue\nJ'suis un rebelle j'suis m\u00eame capable de prendre ma douche tout nu\n\nWoh yeah yeah\n\nJ'suis un rebelle j'suis cap de vous sortir le chien\nJ'suis un rebelle j'ai pas d'devoirs \u00e7a sert \u00e0 rien\nJ'suis un rebelle je fais peur aux vieilles dans la rue\nJ'suis un rebelle j'suis m\u00eame capable de prendre ma douche tout nu"
+  }
+ ]
+}

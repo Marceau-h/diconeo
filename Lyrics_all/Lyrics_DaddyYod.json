@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/500719",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/e50e565b84f19f6b75823379659eaed4.180x180x1.jpg",
+ "id": 500719,
+ "image_url": "https://images.genius.com/e50e565b84f19f6b75823379659eaed4.180x180x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Daddy Yod",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Daddy-yod",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1754338,
+  "annotator_login": "Alexxxandre",
+  "api_path": "/referents/7134636",
+  "classification": "needs_exegesis",
+  "fragment": "Daddy Yod",
+  "id": 7134636,
+  "is_description": true,
+  "path": "/7134636/Daddy-yod/Daddy-yod",
+  "range": {
+   "content": "Daddy Yod"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7134636/Daddy-yod/Daddy-yod",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/500719",
+   "context": null,
+   "id": 500719,
+   "image_url": "https://images.genius.com/e50e565b84f19f6b75823379659eaed4.180x180x1.jpg",
+   "link_title": "Daddy Yod",
+   "title": "Daddy Yod",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Daddy-yod"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7134636",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7134636,
+    "pinned": false,
+    "share_url": "https://genius.com/7134636",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7134636/Daddy-yod/Daddy-yod",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1754338",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/95c05f3d1a7b258a1a106e70a9601c7a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/95c05f3d1a7b258a1a106e70a9601c7a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/95c05f3d1a7b258a1a106e70a9601c7a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/95c05f3d1a7b258a1a106e70a9601c7a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/95c05f3d1a7b258a1a106e70a9601c7a",
+       "human_readable_role_for_display": "Editor",
+       "id": 1754338,
+       "iq": 7351,
+       "login": "Alexxxandre",
+       "name": "Alexxxandre",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Alexxxandre",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

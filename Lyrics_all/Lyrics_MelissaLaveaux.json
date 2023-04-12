@@ -1,0 +1,2116 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/403584",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+ "id": 403584,
+ "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Melissa Laveaux",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Melissa-laveaux",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7111130",
+  "classification": "needs_exegesis",
+  "fragment": "Melissa Laveaux",
+  "id": 7111130,
+  "is_description": true,
+  "path": "/7111130/Melissa-laveaux/Melissa-laveaux",
+  "range": {
+   "content": "Melissa Laveaux"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7111130/Melissa-laveaux/Melissa-laveaux",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/403584",
+   "context": null,
+   "id": 403584,
+   "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+   "link_title": "Melissa Laveaux",
+   "title": "Melissa Laveaux",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Melissa-laveaux"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7111130",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7111130,
+    "pinned": false,
+    "share_url": "https://genius.com/7111130",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7111130/Melissa-laveaux/Melissa-laveaux",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1994144",
+   "apple_music_id": "319410678",
+   "apple_music_player_url": "https://genius.com/songs/1994144/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1994144' class='rg_embed_link' data-song-id='1994144'>Read <a href='https://genius.com/Melissa-laveaux-my-boat-lyrics'>\u201cMy boat\u201d by Melissa\u00a0Laveaux</a> on Genius</div> <script crossorigin src='//genius.com/songs/1994144/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "My boat by\u00a0Melissa\u00a0Laveaux",
+   "header_image_thumbnail_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.300x200x1.jpg",
+   "header_image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+   "id": 1994144,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melissa-laveaux-my-boat-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.300x200x1.jpg",
+   "song_art_image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "My boat",
+   "title_with_featured": "My boat",
+   "url": "https://genius.com/Melissa-laveaux-my-boat-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6681449",
+    "classification": "needs_exegesis",
+    "fragment": "My boat",
+    "id": 6681449,
+    "is_description": true,
+    "path": "/6681449/Melissa-laveaux-my-boat/My-boat",
+    "range": {
+     "content": "My boat"
+    },
+    "song_id": 1994144,
+    "url": "https://genius.com/6681449/Melissa-laveaux-my-boat/My-boat",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1994144",
+     "client_timestamps": {
+      "updated_by_human_at": 1446157735,
+      "lyrics_updated_at": 1432939339
+     },
+     "context": "Melissa Laveaux",
+     "id": 1994144,
+     "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+     "link_title": "My boat by\u00a0Melissa\u00a0Laveaux",
+     "title": "My boat",
+     "type": "Song",
+     "url": "https://genius.com/Melissa-laveaux-my-boat-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6681449",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6681449,
+      "pinned": false,
+      "share_url": "https://genius.com/6681449",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6681449/Melissa-laveaux-my-boat/My-boat",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/403584",
+    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+    "id": 403584,
+    "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Melissa Laveaux",
+    "url": "https://genius.com/artists/Melissa-laveaux"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1803447",
+   "apple_music_id": "882820150",
+   "apple_music_player_url": "https://genius.com/songs/1803447/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1803447' class='rg_embed_link' data-song-id='1803447'>Read <a href='https://genius.com/Melissa-laveaux-postman-lyrics'>\u201cPostman\u201d by Melissa\u00a0Laveaux</a> on Genius</div> <script crossorigin src='//genius.com/songs/1803447/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Postman by\u00a0Melissa\u00a0Laveaux",
+   "header_image_thumbnail_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.300x200x1.jpg",
+   "header_image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+   "id": 1803447,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melissa-laveaux-postman-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.300x200x1.jpg",
+   "song_art_image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Postman",
+   "title_with_featured": "Postman",
+   "url": "https://genius.com/Melissa-laveaux-postman-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6415504",
+    "classification": "needs_exegesis",
+    "fragment": "Postman",
+    "id": 6415504,
+    "is_description": true,
+    "path": "/6415504/Melissa-laveaux-postman/Postman",
+    "range": {
+     "content": "Postman"
+    },
+    "song_id": 1803447,
+    "url": "https://genius.com/6415504/Melissa-laveaux-postman/Postman",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1803447",
+     "client_timestamps": {
+      "updated_by_human_at": 1445441897,
+      "lyrics_updated_at": 1431610791
+     },
+     "context": "Melissa Laveaux",
+     "id": 1803447,
+     "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+     "link_title": "Postman by\u00a0Melissa\u00a0Laveaux",
+     "title": "Postman",
+     "type": "Song",
+     "url": "https://genius.com/Melissa-laveaux-postman-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6415504",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6415504,
+      "pinned": false,
+      "share_url": "https://genius.com/6415504",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6415504/Melissa-laveaux-postman/Postman",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/403584",
+    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+    "id": 403584,
+    "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Melissa Laveaux",
+    "url": "https://genius.com/artists/Melissa-laveaux"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "I got a postman daily on my door\nHe claims he made muse in his floor\nGet this to the .. get this to poor\n..\nLater than we are found\nBetter leave away that thought that I had before\nBetter leave away that thought that I had before\nBefore\nKnow it from my king .. ignore\nI tryed bleeding out the pain you store\nI give lucky always who can afford\n..\nYour.. left on me\nYour.. left on me\nI had a postman daily on my door\nHe claims he made muse in his floor\nGet this to the .. get this to poor\nYour.. left on me\nYour.. left on me\nOoooh\nOooh\nOooh\nOooh"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1954803",
+   "apple_music_id": "319410757",
+   "apple_music_player_url": "https://genius.com/songs/1954803/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1954803' class='rg_embed_link' data-song-id='1954803'>Read <a href='https://genius.com/Melissa-laveaux-needle-in-the-hay-lyrics'>\u201cNeedle in the hay\u201d by Melissa\u00a0Laveaux</a> on Genius</div> <script crossorigin src='//genius.com/songs/1954803/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Needle in the hay by\u00a0Melissa\u00a0Laveaux",
+   "header_image_thumbnail_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.300x200x1.jpg",
+   "header_image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+   "id": 1954803,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melissa-laveaux-needle-in-the-hay-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.300x200x1.jpg",
+   "song_art_image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Needle in the hay",
+   "title_with_featured": "Needle in the hay",
+   "url": "https://genius.com/Melissa-laveaux-needle-in-the-hay-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6640886",
+    "classification": "needs_exegesis",
+    "fragment": "Needle in the hay",
+    "id": 6640886,
+    "is_description": true,
+    "path": "/6640886/Melissa-laveaux-needle-in-the-hay/Needle-in-the-hay",
+    "range": {
+     "content": "Needle in the hay"
+    },
+    "song_id": 1954803,
+    "url": "https://genius.com/6640886/Melissa-laveaux-needle-in-the-hay/Needle-in-the-hay",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1954803",
+     "client_timestamps": {
+      "updated_by_human_at": 1446156150,
+      "lyrics_updated_at": 1432922834
+     },
+     "context": "Melissa Laveaux",
+     "id": 1954803,
+     "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+     "link_title": "Needle in the hay by\u00a0Melissa\u00a0Laveaux",
+     "title": "Needle in the hay",
+     "type": "Song",
+     "url": "https://genius.com/Melissa-laveaux-needle-in-the-hay-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6640886",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6640886,
+      "pinned": false,
+      "share_url": "https://genius.com/6640886",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6640886/Melissa-laveaux-needle-in-the-hay/Needle-in-the-hay",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/403584",
+    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+    "id": 403584,
+    "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Melissa Laveaux",
+    "url": "https://genius.com/artists/Melissa-laveaux"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2339280",
+   "apple_music_id": "319410718",
+   "apple_music_player_url": "https://genius.com/songs/2339280/apple_music_player",
+   "description": {
+    "plain": "Le seul morceau en fran\u00e7ais de l'album \u201cCamphor & Copper\u201d.\n\n\n\nMelissa Laveaux y exprime son amertume et sa tristesse face \u00e0 la trahison."
+   },
+   "embed_content": "<div id='rg_embed_link_2339280' class='rg_embed_link' data-song-id='2339280'>Read <a href='https://genius.com/Melissa-laveaux-chere-trahison-lyrics'>\u201cCh\u00e8re trahison\u201d by Melissa\u00a0Laveaux</a> on Genius</div> <script crossorigin src='//genius.com/songs/2339280/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ch\u00e8re trahison by\u00a0Melissa\u00a0Laveaux",
+   "header_image_thumbnail_url": "https://images.genius.com/69232982e60c7ac5e4ad8291c5db4c45.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/69232982e60c7ac5e4ad8291c5db4c45.340x340x1.jpg",
+   "id": 2339280,
+   "lyrics_owner_id": 161602,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melissa-laveaux-chere-trahison-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2008-11-10",
+   "release_date_for_display": "November 10, 2008",
+   "song_art_image_thumbnail_url": "https://images.genius.com/69232982e60c7ac5e4ad8291c5db4c45.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/69232982e60c7ac5e4ad8291c5db4c45.340x340x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ch\u00e8re trahison",
+   "title_with_featured": "Ch\u00e8re trahison",
+   "url": "https://genius.com/Melissa-laveaux-chere-trahison-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133985",
+    "cover_art_url": "https://images.genius.com/69232982e60c7ac5e4ad8291c5db4c45.340x340x1.jpg",
+    "full_title": "Camphor & Copper by Melissa Laveaux",
+    "id": 133985,
+    "name": "Camphor & Copper",
+    "url": "https://genius.com/albums/Melissa-laveaux/Camphor-copper",
+    "artist": {
+     "api_path": "/artists/403584",
+     "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+     "id": 403584,
+     "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Melissa Laveaux",
+     "url": "https://genius.com/artists/Melissa-laveaux"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 161602,
+    "annotator_login": "piotr",
+    "api_path": "/referents/8053356",
+    "classification": "accepted",
+    "fragment": "Ch\u00e8re trahison",
+    "id": 8053356,
+    "is_description": true,
+    "path": "/8053356/Melissa-laveaux-chere-trahison/Chere-trahison",
+    "range": {
+     "content": "Ch\u00e8re trahison"
+    },
+    "song_id": 2339280,
+    "url": "https://genius.com/8053356/Melissa-laveaux-chere-trahison/Chere-trahison",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2339280",
+     "client_timestamps": {
+      "updated_by_human_at": 1445939487,
+      "lyrics_updated_at": 1445939488
+     },
+     "context": "Melissa Laveaux",
+     "id": 2339280,
+     "image_url": "https://images.genius.com/69232982e60c7ac5e4ad8291c5db4c45.340x340x1.jpg",
+     "link_title": "Ch\u00e8re trahison by\u00a0Melissa\u00a0Laveaux",
+     "title": "Ch\u00e8re trahison",
+     "type": "Song",
+     "url": "https://genius.com/Melissa-laveaux-chere-trahison-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8053356",
+      "body": {
+       "plain": "Le seul morceau en fran\u00e7ais de l'album \u201cCamphor & Copper\u201d.\n\n\n\nMelissa Laveaux y exprime son amertume et sa tristesse face \u00e0 la trahison."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8053356,
+      "pinned": false,
+      "share_url": "https://genius.com/8053356",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/8053356/Melissa-laveaux-chere-trahison/Chere-trahison",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/161602",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/db4586668abb24bd5d9c8eac7e4ea5ee",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/db4586668abb24bd5d9c8eac7e4ea5ee",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/db4586668abb24bd5d9c8eac7e4ea5ee",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/db4586668abb24bd5d9c8eac7e4ea5ee",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/db4586668abb24bd5d9c8eac7e4ea5ee",
+         "human_readable_role_for_display": "Editor",
+         "id": 161602,
+         "iq": 247827,
+         "login": "piotr",
+         "name": "piotr",
+         "role_for_display": "editor",
+         "url": "https://genius.com/piotr",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/403584",
+    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+    "id": 403584,
+    "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Melissa Laveaux",
+    "url": "https://genius.com/artists/Melissa-laveaux"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/403584",
+     "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+     "id": 403584,
+     "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Melissa Laveaux",
+     "url": "https://genius.com/artists/Melissa-laveaux"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/403584",
+     "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+     "id": 403584,
+     "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Melissa Laveaux",
+     "url": "https://genius.com/artists/Melissa-laveaux"
+    }
+   ],
+   "lyrics": "[Couplet 1]\nC'est un coup de pied dans le ventre\nMes entrailles m\u00e9contentes\nOblig\u00e9es d'expirer les chagrins qui me hantent\nO\u00f9 sont-ils donc pass\u00e9s?\nTous les rires du matin\nIls n'\u00e9taient pas \u00e0 vendre on me les a vol\u00e9s\n\n[Refrain]\nEt si tu me disais\nQue tu mentais\nJe te d\u00e9chirerais la langue\nBelle chair, non \u00e9trang\u00e8re\nA la d\u00e9ception\n\u2026 Ma ch\u00e8re trahison\n\n[Couplet 2]\nDe mes larmes \u00e0 la mer\nImbuvables et sal\u00e9es\nDu d\u00e9sert aux collines ces dunes infest\u00e9es\nTu me s\u00e8ches toute enti\u00e8re\nSous un Soleil teint\u00e9 de jade\nL'ennui grise mes membres \u00e9parpill\u00e9s\n\n[Refrain]\n\n[Couplet 1]\nC'est un coup de pied dans le ventre\nMes entrailles m\u00e9contentes\nOblig\u00e9es d'expirer les chagrins qui me..."
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1824363",
+   "apple_music_id": "882820193",
+   "apple_music_player_url": "https://genius.com/songs/1824363/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1824363' class='rg_embed_link' data-song-id='1824363'>Read <a href='https://genius.com/Melissa-laveaux-pretty-girls-lyrics'>\u201cPretty Girls\u201d by Melissa\u00a0Laveaux</a> on Genius</div> <script crossorigin src='//genius.com/songs/1824363/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Pretty Girls by\u00a0Melissa\u00a0Laveaux",
+   "header_image_thumbnail_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.300x200x1.jpg",
+   "header_image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+   "id": 1824363,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melissa-laveaux-pretty-girls-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.300x200x1.jpg",
+   "song_art_image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Pretty Girls",
+   "title_with_featured": "Pretty Girls",
+   "url": "https://genius.com/Melissa-laveaux-pretty-girls-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6437426",
+    "classification": "needs_exegesis",
+    "fragment": "Pretty Girls",
+    "id": 6437426,
+    "is_description": true,
+    "path": "/6437426/Melissa-laveaux-pretty-girls/Pretty-girls",
+    "range": {
+     "content": "Pretty Girls"
+    },
+    "song_id": 1824363,
+    "url": "https://genius.com/6437426/Melissa-laveaux-pretty-girls/Pretty-girls",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1824363",
+     "client_timestamps": {
+      "updated_by_human_at": 1445442477,
+      "lyrics_updated_at": 1431621260
+     },
+     "context": "Melissa Laveaux",
+     "id": 1824363,
+     "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+     "link_title": "Pretty Girls by\u00a0Melissa\u00a0Laveaux",
+     "title": "Pretty Girls",
+     "type": "Song",
+     "url": "https://genius.com/Melissa-laveaux-pretty-girls-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6437426",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6437426,
+      "pinned": false,
+      "share_url": "https://genius.com/6437426",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6437426/Melissa-laveaux-pretty-girls/Pretty-girls",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/403584",
+    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+    "id": 403584,
+    "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Melissa Laveaux",
+    "url": "https://genius.com/artists/Melissa-laveaux"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Give me a mirror and I'll show you my enemy\nThe fear that tears through my pores ripping inside of me\nA homemade bomb grows in my palm as I cut me free\nMy arms are witness to my ruthless loss of dignity\nAnd all the pretty girls call me a freak\nI just cut myself trying to stay neat\nI'm a toothache-giving b*tch darling\nI'm so sweet\nI built a castle was no hassle my skin, building blocks\nMy cherry blood slowly floods and clots to make the knots\nUp in my fortress I'm a righteous duchess super clean\nThe love I give myself above all else is quite serene\nAnd all the pretty girls call me a freak\nI just cut myself trying to stay neat\nI'm a toothache-giving b*tch darling\nI'm so sweet\nAnd all the pretty girls\nAnd all the pretty girls\nGive me a mirror and I'll show you my enemy\nThe fear that tears through my pores ripping inside of me\nA homemade bomb grows in my palm as I cut me free\nMy arms are witness to my ruthless loss of dignity\nAnd all the pretty girls call me a freak\nI just cut myself trying to stay neat\nI'm a toothache-giving b*tch darling\nI'm so sweet\nAnd all the pretty girls\nAnd all the pretty girls\nAnd all the pretty girls\nAnd all the pretty girls\nAnd all the pretty girls\n[x2]"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1974955",
+   "apple_music_id": "319410755",
+   "apple_music_player_url": "https://genius.com/songs/1974955/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1974955' class='rg_embed_link' data-song-id='1974955'>Read <a href='https://genius.com/Melissa-laveaux-dodo-titit-lyrics'>\u201cDodo titit\u201d by Melissa\u00a0Laveaux</a> on Genius</div> <script crossorigin src='//genius.com/songs/1974955/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Dodo titit by\u00a0Melissa\u00a0Laveaux",
+   "header_image_thumbnail_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.300x200x1.jpg",
+   "header_image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+   "id": 1974955,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melissa-laveaux-dodo-titit-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.300x200x1.jpg",
+   "song_art_image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Dodo titit",
+   "title_with_featured": "Dodo titit",
+   "url": "https://genius.com/Melissa-laveaux-dodo-titit-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6661608",
+    "classification": "needs_exegesis",
+    "fragment": "Dodo titit",
+    "id": 6661608,
+    "is_description": true,
+    "path": "/6661608/Melissa-laveaux-dodo-titit/Dodo-titit",
+    "range": {
+     "content": "Dodo titit"
+    },
+    "song_id": 1974955,
+    "url": "https://genius.com/6661608/Melissa-laveaux-dodo-titit/Dodo-titit",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1974955",
+     "client_timestamps": {
+      "updated_by_human_at": 1446156907,
+      "lyrics_updated_at": 1432930997
+     },
+     "context": "Melissa Laveaux",
+     "id": 1974955,
+     "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+     "link_title": "Dodo titit by\u00a0Melissa\u00a0Laveaux",
+     "title": "Dodo titit",
+     "type": "Song",
+     "url": "https://genius.com/Melissa-laveaux-dodo-titit-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6661608",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6661608,
+      "pinned": false,
+      "share_url": "https://genius.com/6661608",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6661608/Melissa-laveaux-dodo-titit/Dodo-titit",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/403584",
+    "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+    "id": 403584,
+    "image_url": "https://images.genius.com/adb24a5f5bbc2c0b798a5bf07ed4ef29.800x533x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Melissa Laveaux",
+    "url": "https://genius.com/artists/Melissa-laveaux"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

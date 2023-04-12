@@ -1,0 +1,5505 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/344482",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 344482,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Francis Lalanne",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Francis-lalanne",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7064826",
+  "classification": "needs_exegesis",
+  "fragment": "Francis Lalanne",
+  "id": 7064826,
+  "is_description": true,
+  "path": "/7064826/Francis-lalanne/Francis-lalanne",
+  "range": {
+   "content": "Francis Lalanne"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7064826/Francis-lalanne/Francis-lalanne",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/344482",
+   "context": null,
+   "id": 344482,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Francis Lalanne",
+   "title": "Francis Lalanne",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Francis-lalanne"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7064826",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7064826,
+    "pinned": false,
+    "share_url": "https://genius.com/7064826",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7064826/Francis-lalanne/Francis-lalanne",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1273719",
+   "apple_music_id": "418189703",
+   "apple_music_player_url": "https://genius.com/songs/1273719/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1273719' class='rg_embed_link' data-song-id='1273719'>Read <a href='https://genius.com/Francis-lalanne-on-se-retrouvera-lyrics'>\u201cOn Se Retrouvera\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1273719/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "On Se Retrouvera by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1273719,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-on-se-retrouvera-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "On Se Retrouvera",
+   "title_with_featured": "On Se Retrouvera",
+   "url": "https://genius.com/Francis-lalanne-on-se-retrouvera-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5778841",
+    "classification": "needs_exegesis",
+    "fragment": "On Se Retrouvera",
+    "id": 5778841,
+    "is_description": true,
+    "path": "/5778841/Francis-lalanne-on-se-retrouvera/On-se-retrouvera",
+    "range": {
+     "content": "On Se Retrouvera"
+    },
+    "song_id": 1273719,
+    "url": "https://genius.com/5778841/Francis-lalanne-on-se-retrouvera/On-se-retrouvera",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1273719",
+     "client_timestamps": {
+      "updated_by_human_at": 1438812448,
+      "lyrics_updated_at": 1429736272
+     },
+     "context": "Francis Lalanne",
+     "id": 1273719,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "On Se Retrouvera by\u00a0Francis\u00a0Lalanne",
+     "title": "On Se Retrouvera",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-on-se-retrouvera-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5778841",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5778841,
+      "pinned": false,
+      "share_url": "https://genius.com/5778841",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5778841/Francis-lalanne-on-se-retrouvera/On-se-retrouvera",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/743900",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/743900/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_743900' class='rg_embed_link' data-song-id='743900'>Read <a href='https://genius.com/Francis-lalanne-rien-quun-jour-lyrics'>\u201cRien Qu'un Jour\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/743900/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Rien Qu'un Jour by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 743900,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-rien-quun-jour-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Rien Qu\u2019un Jour",
+   "title_with_featured": "Rien Qu'un Jour",
+   "url": "https://genius.com/Francis-lalanne-rien-quun-jour-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5175226",
+    "classification": "needs_exegesis",
+    "fragment": "Rien Qu\u2019un Jour",
+    "id": 5175226,
+    "is_description": true,
+    "path": "/5175226/Francis-lalanne-rien-quun-jour/Rien-quun-jour",
+    "range": {
+     "content": "Rien Qu'un Jour"
+    },
+    "song_id": 743900,
+    "url": "https://genius.com/5175226/Francis-lalanne-rien-quun-jour/Rien-quun-jour",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/743900",
+     "client_timestamps": {
+      "updated_by_human_at": 1428503796,
+      "lyrics_updated_at": 1428503796
+     },
+     "context": "Francis Lalanne",
+     "id": 743900,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Rien Qu\u2019un Jour by\u00a0Francis\u00a0Lalanne",
+     "title": "Rien Qu'un Jour",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-rien-quun-jour-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5175226",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5175226,
+      "pinned": false,
+      "share_url": "https://genius.com/5175226",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5175226/Francis-lalanne-rien-quun-jour/Rien-quun-jour",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322338",
+   "apple_music_id": "301785040",
+   "apple_music_player_url": "https://genius.com/songs/2322338/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322338' class='rg_embed_link' data-song-id='2322338'>Read <a href='https://genius.com/Francis-lalanne-reste-avec-moi-lyrics'>\u201cReste avec moi\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322338/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Reste avec moi by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322338,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-reste-avec-moi-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Reste avec moi",
+   "title_with_featured": "Reste avec moi",
+   "url": "https://genius.com/Francis-lalanne-reste-avec-moi-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7912056",
+    "classification": "needs_exegesis",
+    "fragment": "Reste avec moi",
+    "id": 7912056,
+    "is_description": true,
+    "path": "/7912056/Francis-lalanne-reste-avec-moi/Reste-avec-moi",
+    "range": {
+     "content": "Reste avec moi"
+    },
+    "song_id": 2322338,
+    "url": "https://genius.com/7912056/Francis-lalanne-reste-avec-moi/Reste-avec-moi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322338",
+     "client_timestamps": {
+      "updated_by_human_at": 1443980954,
+      "lyrics_updated_at": 1443980954
+     },
+     "context": "Francis Lalanne",
+     "id": 2322338,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "Reste avec moi by\u00a0Francis\u00a0Lalanne",
+     "title": "Reste avec moi",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-reste-avec-moi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7912056",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7912056,
+      "pinned": false,
+      "share_url": "https://genius.com/7912056",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7912056/Francis-lalanne-reste-avec-moi/Reste-avec-moi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Couplet 1]\nJe sais qu'c'est dur de m'supporter\nQu'j'ai plus grand chose \u00e0 t'apporter\nQue ma vie bouffe un peu ta vie\nQue c'est la guerre toi contre moi\nChien contre chat chaud contre froid\nQu'\u00e7a d'vient l'enfer notr'paradis\nMais si tu pars moi j'suis plus rien\nC'est tout mon c\u0153ur que tu retiens\nDans ton corps qui veut plus s'ouvrir\nTu peux pas t'en aller comme \u00e7a\nJ'suis comme un vieux si tu t'en vas\nQui n'a plus rien \u00e0 d\u00e9couvrir\n\n[Refrain]\nReste avec moi\nReste avec moi quand m\u00eame\nReste avec moi je t'aime\nReste avec mon amour\nRefais-moi demi-tour\nReste avec moi\nReste avec moi mon ange\nEt que plus rien ne change\nJusqu'\u00e0 la fin des jours\nRefais-moi demi-tour\n\n[Couplet 2]\nJ'sais plus comment m'faire pardonner\nJ'i tant d'amour \u00e0 te donner\nSue j'ai mal d'avoir tout rat\u00e9\nT'laiss'pas fermer\nLaiss'moi t'aimer\nPeut-\u00eatre que j'vais y arriver\nPlus fort qu't'en as jamais r\u00eav\u00e9\nLaiss'moi essayer t'en vas pas\nJe ferai tout c'que tu voudras\nJe ferai mieux que de mon mieux\nTu peux pas t'en aller comme \u00e7a\nJ'suis comme un fou si tu t'en vas\nComme un aveugle sans ses yeux\n\n[Refrain]\nReste avec moi\nReste avec moi quand m\u00eame\nReste avec moi je t'aime\nReste avec mon amour\nRefais-moi demi-tour\nReste avec moi\nReste avec moi mon ange\nEt que plus rien ne change\nJusqu'\u00e0 la fin des jours\nRefais-moi demi-tour"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1407770",
+   "apple_music_id": "151852648",
+   "apple_music_player_url": "https://genius.com/songs/1407770/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1407770' class='rg_embed_link' data-song-id='1407770'>Read <a href='https://genius.com/Francis-lalanne-la-maison-du-bonheur-lyrics'>\u201cLa Maison du Bonheur\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1407770/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La Maison du Bonheur by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1407770,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-la-maison-du-bonheur-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La Maison du Bonheur",
+   "title_with_featured": "La Maison du Bonheur",
+   "url": "https://genius.com/Francis-lalanne-la-maison-du-bonheur-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/286029",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Rentre chez toi by Francis Lalanne",
+    "id": 286029,
+    "name": "Rentre chez toi",
+    "url": "https://genius.com/albums/Francis-lalanne/Rentre-chez-toi",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5918629",
+    "classification": "needs_exegesis",
+    "fragment": "La Maison du Bonheur",
+    "id": 5918629,
+    "is_description": true,
+    "path": "/5918629/Francis-lalanne-la-maison-du-bonheur/La-maison-du-bonheur",
+    "range": {
+     "content": "La Maison du Bonheur"
+    },
+    "song_id": 1407770,
+    "url": "https://genius.com/5918629/Francis-lalanne-la-maison-du-bonheur/La-maison-du-bonheur",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1407770",
+     "client_timestamps": {
+      "updated_by_human_at": 1477101748,
+      "lyrics_updated_at": 1429826166
+     },
+     "context": "Francis Lalanne",
+     "id": 1407770,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "La Maison du Bonheur by\u00a0Francis\u00a0Lalanne",
+     "title": "La Maison du Bonheur",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-la-maison-du-bonheur-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5918629",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5918629,
+      "pinned": false,
+      "share_url": "https://genius.com/5918629",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5918629/Francis-lalanne-la-maison-du-bonheur/La-maison-du-bonheur",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322348",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2322348/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322348' class='rg_embed_link' data-song-id='2322348'>Read <a href='https://genius.com/Francis-lalanne-aujourdhui-jsuis-heureux-lyrics'>\u201cAujourd'hui j'suis heureux\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322348/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Aujourd'hui j'suis heureux by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322348,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-aujourdhui-jsuis-heureux-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Aujourd\u2019hui j\u2019suis heureux",
+   "title_with_featured": "Aujourd'hui j'suis heureux",
+   "url": "https://genius.com/Francis-lalanne-aujourdhui-jsuis-heureux-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7912128",
+    "classification": "needs_exegesis",
+    "fragment": "Aujourd\u2019hui j\u2019suis heureux",
+    "id": 7912128,
+    "is_description": true,
+    "path": "/7912128/Francis-lalanne-aujourdhui-jsuis-heureux/Aujourdhui-jsuis-heureux",
+    "range": {
+     "content": "Aujourd'hui j'suis heureux"
+    },
+    "song_id": 2322348,
+    "url": "https://genius.com/7912128/Francis-lalanne-aujourdhui-jsuis-heureux/Aujourdhui-jsuis-heureux",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322348",
+     "client_timestamps": {
+      "updated_by_human_at": 1443981796,
+      "lyrics_updated_at": 1443981796
+     },
+     "context": "Francis Lalanne",
+     "id": 2322348,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "Aujourd\u2019hui j\u2019suis heureux by\u00a0Francis\u00a0Lalanne",
+     "title": "Aujourd'hui j'suis heureux",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-aujourdhui-jsuis-heureux-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7912128",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7912128,
+      "pinned": false,
+      "share_url": "https://genius.com/7912128",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7912128/Francis-lalanne-aujourdhui-jsuis-heureux/Aujourdhui-jsuis-heureux",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Aujourd'hui j'suis heureux\nJ'me sens bien sur la terre\nComme du temps o\u00f9 mon jean \u00e9tait encore puceau\nJ'ai envie d'le gueuler j'ai plus d'raison d'me taire\nEt de pleurer pour rien le cul dans le ruisseau\nAujourd'hui j'suis heureux aujourd'hui c'est la f\u00eate\nAujourd'hui j'me sens bien je sais m\u00eame pas pourquoi\nMais j'm'en fous je m'en vais peindre en rime parfaite\nLa p'tite gueule de l'amour sur ma grande gueule de bois\nAujourd'hui j'suis heureux\nHeureux\nHeureux\nHeureux\nSonnez tambour et bal musette\n\u00c0 boire non-stop c'est ma tourn\u00e9e\nSortez flonflons de ma musette\nOn va chanter on va danser\nAujourd'hui j'suis heureux\nHeureux\nHeureux\nHeureux\n\nAujourd'hui j'suis heureux \u00e7a d\u00e9lire dans ma t\u00eate\nJe trouve tous les gens beaux\nJe trouve tous les gens bons\nJe trouve m\u00eame aux cond\u00e9s l'air un p'tit peu moins b\u00eate\nJe trouve m\u00eame aux vieux cons l'air un p'tit peu moins con\nEt quand j'traverse la rue\nY a que'que chose qui m'd\u00e9mange\nJuste en face de chez moi\nQui m'd\u00e9mange c\u00f4t\u00e9 c\u0153ur\nPour la fille qu'est si belle et qui vend des oranges\nAujourd'hui j'suis heureux\nJ'vais lui offrir des fleurs\nAujourd'hui j'suis heureux\nHeureux\nHeureux\nHeureux\nSonnez tambour et bal musette\n\u00c0 boire non-stop c'est ma tourn\u00e9e\nSortez flonflons de ma musette\nOn va chanter on va danser\nAujourd'hui j'suis heureux\nHeureux\nHeureux\nHeureux\n\nAujourd'hui j'suis heureux\nJe vais faire des b\u00eatises\nAujourd'hui j'suis heureux\nJe vais faire un malheur\nOh pardon je veux dire un bonheur\nIl faut que j'rebaptise le temps d'une chanson\nLes mots de la douleur\nAujourd'hui j'suis heureux\nPour une fois qu'\u00e7a m'arrive\nJ'vais me mettre un bon stock\nDe soleil de c\u00f4t\u00e9\nEt puis laisser mon c\u0153ur voguer \u00e0 la d\u00e9rive\nEt prendre des couleurs \u00e0 force de chanter\nQu'aujourd'hui j'suis heureux\nHeureux\nAujourd'hui j'suis heureux\nHeureux\nAujourd'hui j'suis heureux\nHeureux"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322397",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2322397/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322397' class='rg_embed_link' data-song-id='2322397'>Read <a href='https://genius.com/Francis-lalanne-quand-je-suis-dans-tes-bras-lyrics'>\u201cQuand je suis dans tes bras\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322397/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Quand je suis dans tes bras by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322397,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-quand-je-suis-dans-tes-bras-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Quand je suis dans tes bras",
+   "title_with_featured": "Quand je suis dans tes bras",
+   "url": "https://genius.com/Francis-lalanne-quand-je-suis-dans-tes-bras-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7912403",
+    "classification": "needs_exegesis",
+    "fragment": "Quand je suis dans tes bras",
+    "id": 7912403,
+    "is_description": true,
+    "path": "/7912403/Francis-lalanne-quand-je-suis-dans-tes-bras/Quand-je-suis-dans-tes-bras",
+    "range": {
+     "content": "Quand je suis dans tes bras"
+    },
+    "song_id": 2322397,
+    "url": "https://genius.com/7912403/Francis-lalanne-quand-je-suis-dans-tes-bras/Quand-je-suis-dans-tes-bras",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322397",
+     "client_timestamps": {
+      "updated_by_human_at": 1443985008,
+      "lyrics_updated_at": 1443985008
+     },
+     "context": "Francis Lalanne",
+     "id": 2322397,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "Quand je suis dans tes bras by\u00a0Francis\u00a0Lalanne",
+     "title": "Quand je suis dans tes bras",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-quand-je-suis-dans-tes-bras-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7912403",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7912403,
+      "pinned": false,
+      "share_url": "https://genius.com/7912403",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7912403/Francis-lalanne-quand-je-suis-dans-tes-bras/Quand-je-suis-dans-tes-bras",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Voyage sans escale\nAux portes de l\u00e0-bas\nAu-del\u00e0 des \u00e9toiles\nAu fond de toi et moi\nLe bateau de mon \u00e2me navigue dans tes draps\nQuand tu deviens ma femme\nQuand je suis dans tes bras\n\nDes rivi\u00e8res s'allument\nEt dans ton ciel en feu\nSous l'aile de ma plume\nLes mots sont toujours bleus\nTu danses dans mes flammes\nTu m'ouvres sur la joie\nQuand tu deviens ma femme\nQuand je suis dans tes bras\n\nDonnez-moi des lumi\u00e8res\nQue j'habille les villes avec ses yeux\nJe veux dormir sous ses paupi\u00e8res\nAussi longtemps que je peux\nEt que Dieu me pardonne\nSi c'est en elle que je crois\nC'est elle ma Madone\nQuand je suis dans ses bras\nQuand je suis dans ses bras\n\nJe vole dans ses bras\nOh dans ses bras\n\nVoyage sans escale au ventre du soleil\nQuand la lune s'exhale\nAu pays des merveilles\nEntends l'\u00e9pithalame\nQue Dieu chante pour toi\nPour toi et moi\nQuand tu deviens ma femme\nQuand je suis dans tes bras\n\nDonnez-moi des lumi\u00e8res\nQue j'habille les villes avec ses yeux\nJe veux dormir sous ses paupi\u00e8res\nAussi longtemps que je peux\nEt que Dieu me pardonne\nSi c'est en elle que je crois\nC'est elle ma Madone\nQuand je suis dans ses bras\n\nDonnez-moi des rizi\u00e8res\nQue j'y s\u00e8me le chemin des sept cieux\nElle est le vent dans ma crini\u00e8re\nEt la main dans mes cheveux\nEt que Dieu me le donne\nJe suis l'enfant qu'ell' me fera\nQuand je suis dans ses bras\n\nQuand je suis dans ses bras\nJe vole dans ses bras\nOh dans ses bras"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322354",
+   "apple_music_id": "301785042",
+   "apple_music_player_url": "https://genius.com/songs/2322354/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322354' class='rg_embed_link' data-song-id='2322354'>Read <a href='https://genius.com/Francis-lalanne-la-fille-qui-sappelle-rocknroll-lyrics'>\u201cLa fille qui s'appelle Rock'n'roll\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322354/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La fille qui s'appelle Rock'n'roll by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322354,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-la-fille-qui-sappelle-rocknroll-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La fille qui s\u2019appelle Rock\u2019n\u2019roll",
+   "title_with_featured": "La fille qui s'appelle Rock'n'roll",
+   "url": "https://genius.com/Francis-lalanne-la-fille-qui-sappelle-rocknroll-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7912177",
+    "classification": "needs_exegesis",
+    "fragment": "La fille qui s\u2019appelle Rock\u2019n\u2019roll",
+    "id": 7912177,
+    "is_description": true,
+    "path": "/7912177/Francis-lalanne-la-fille-qui-sappelle-rocknroll/La-fille-qui-sappelle-rocknroll",
+    "range": {
+     "content": "La fille qui s'appelle Rock'n'roll"
+    },
+    "song_id": 2322354,
+    "url": "https://genius.com/7912177/Francis-lalanne-la-fille-qui-sappelle-rocknroll/La-fille-qui-sappelle-rocknroll",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322354",
+     "client_timestamps": {
+      "updated_by_human_at": 1473319245,
+      "lyrics_updated_at": 1443982113
+     },
+     "context": "Francis Lalanne",
+     "id": 2322354,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "La fille qui s\u2019appelle Rock\u2019n\u2019roll by\u00a0Francis\u00a0Lalanne",
+     "title": "La fille qui s'appelle Rock'n'roll",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-la-fille-qui-sappelle-rocknroll-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7912177",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7912177,
+      "pinned": false,
+      "share_url": "https://genius.com/7912177",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7912177/Francis-lalanne-la-fille-qui-sappelle-rocknroll/La-fille-qui-sappelle-rocknroll",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Cheveux rouges bleu de chine\nLa nuit aux fen\u00eatre dor\u00e9es\nLe cul dehors les crinolines\nDu soir d\u00e9color\u00e9\nCouch\u00e9 dans l'corps d'une fille en bloc\nEncore envie d'lui faire l'amour\nLa seule fill' dont je sois croc\nAu petit jour\nLa fill' qui s'appell' Rock'n'roll\nLa fill' qui s'appell' Rock'n'roll\n\nJ'entends le camion des poubelles\nFaut p't--\u00eatre que j'pense \u00e0 me tirer\nLe monde est grand les d\u00e9cibelles\nComme cett' fill' qui me fait planer\nPas envie de prendre une douche\nGarder son odeur sur ma peau\nQuand j'en touche une je l'accouche\nCell' que j'ai dans la peau\nLa fill' qui s'appell' Rock'n'roll\nLa fill' qui s'appell' Rock'n'roll\n\nJ'ai pas eu ma dos' de poussi\u00e8re\nSur mon jean mon blouson r\u00e2p\u00e9\nJ'ai ma maison en bandouli\u00e8re\nPour le droit chemin c'est r\u00e2p\u00e9\nLa fill' de ma nuit se r\u00e9veille\nEll' me tend le crex de ses reins\nFaut pas que je reste avec elle\nJ'ai encor' du chemin\nAvec la fill' qui s'appell' Rock'n'roll\nLa fill' qui s'appell' Rock'n'roll\nLa fille\n\nLa fill' qui s'appell' Rock'n'roll\nLa fill' qui s'appell' Rock'n'roll\nLa fill' qui s'appell' Rock'n'roll\nLa fill' Rock'n'roll\n\nCheveux rouges bleu de chine\nLa nuit aux fen\u00eatre dor\u00e9es"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322474",
+   "apple_music_id": "1488849265",
+   "apple_music_player_url": "https://genius.com/songs/2322474/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322474' class='rg_embed_link' data-song-id='2322474'>Read <a href='https://genius.com/Francis-lalanne-lettre-a-stella-lyrics'>\u201cLettre \u00e0 Stella\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322474/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Lettre \u00e0 Stella by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322474,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-lettre-a-stella-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Lettre \u00e0 Stella",
+   "title_with_featured": "Lettre \u00e0 Stella",
+   "url": "https://genius.com/Francis-lalanne-lettre-a-stella-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7912987",
+    "classification": "needs_exegesis",
+    "fragment": "Lettre \u00e0 Stella",
+    "id": 7912987,
+    "is_description": true,
+    "path": "/7912987/Francis-lalanne-lettre-a-stella/Lettre-a-stella",
+    "range": {
+     "content": "Lettre \u00e0 Stella"
+    },
+    "song_id": 2322474,
+    "url": "https://genius.com/7912987/Francis-lalanne-lettre-a-stella/Lettre-a-stella",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322474",
+     "client_timestamps": {
+      "updated_by_human_at": 1443993435,
+      "lyrics_updated_at": 1443993435
+     },
+     "context": "Francis Lalanne",
+     "id": 2322474,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "Lettre \u00e0 Stella by\u00a0Francis\u00a0Lalanne",
+     "title": "Lettre \u00e0 Stella",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-lettre-a-stella-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7912987",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7912987,
+      "pinned": false,
+      "share_url": "https://genius.com/7912987",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7912987/Francis-lalanne-lettre-a-stella/Lettre-a-stella",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Y'a tes yeux qui chantent l'amour aux piafs du petit matin\nComme l'oc\u00e9an qui hante le ciel quand le vent chasse les nuages\nQui pleurent de froid\nQuand je te regarde vivre avec moi\nY a le chien qui joue avec les enfants du voisin\nLa chat qui parle avec les anges et des for\u00eats qui chantent avec ma voix\nQuand je te regarde vivre avec moi\nEt y a l'bon Dieu qui joue au Scrabble avec les mots de mon bonheur\nLes moody blues qui chantent le soir quand tu t'endors contre mon c\u0153ur\nRimbaud qui fait danser Mozart sur la sono qui joue tout \u00e7a\nQuand tu t'\u00e9veilles dans mes bras\nIl y a tout \u00e7a et il y a toi\nQuand je te regarde vivre avec moi\nY a cet enfant qu'un jour quelqu'un me mettra dans les mains\nEt qui prendra ma place au pays de ton ventre et de tes seins\nQui nous ressemblera quand je te regarde vivre avec moi\nAvec que'qu'chose comme de ma chair et qui viendra de toi\nQui s'ra comme un morceau d'nous deux que jamais personne ne s\u00e9parera\nQuand je te regarde vivre avec moi\n\nEt y a des f\u00e8ves partout qui volent dans le g\u00e2teau de la vie\nDes r\u00eaves qu'on fait m\u00eame sans dormir\nQuand tu es mon lit que je suis ton cri\nQuand on est deux bateaux sur l'air qui font mourir le temps\nAvec des ailes avec des voiles au fond du corps au bout des doigts\nIl y a tout \u00e7a et il y a toi\nQuand je te regarde vivre avec moi\nEt dans la rue y al'd\u00e9sespoir qui tombe de son banc\nY a des immeubles qui s'embrassent et font l'amour \u00e0 tous leurs habitants\nY a clochette qui fait la noce avec les fils de Peter Pan\nEt cette chanson partout pour que tu m'oublies pas\nPour que tu vives toujours avec moi\nPour que tu m'oublies pas\nPour que tu vives toujours avec moi"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322377",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2322377/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322377' class='rg_embed_link' data-song-id='2322377'>Read <a href='https://genius.com/Francis-lalanne-vivre-damour-et-de-toi-lyrics'>\u201cVivre d'amour et de toi\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322377/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Vivre d'amour et de toi by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322377,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-vivre-damour-et-de-toi-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vivre d\u2019amour et de toi",
+   "title_with_featured": "Vivre d'amour et de toi",
+   "url": "https://genius.com/Francis-lalanne-vivre-damour-et-de-toi-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7912277",
+    "classification": "needs_exegesis",
+    "fragment": "Vivre d\u2019amour et de toi",
+    "id": 7912277,
+    "is_description": true,
+    "path": "/7912277/Francis-lalanne-vivre-damour-et-de-toi/Vivre-damour-et-de-toi",
+    "range": {
+     "content": "Vivre d'amour et de toi"
+    },
+    "song_id": 2322377,
+    "url": "https://genius.com/7912277/Francis-lalanne-vivre-damour-et-de-toi/Vivre-damour-et-de-toi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322377",
+     "client_timestamps": {
+      "updated_by_human_at": 1443983164,
+      "lyrics_updated_at": 1443983164
+     },
+     "context": "Francis Lalanne",
+     "id": 2322377,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "Vivre d\u2019amour et de toi by\u00a0Francis\u00a0Lalanne",
+     "title": "Vivre d'amour et de toi",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-vivre-damour-et-de-toi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7912277",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7912277,
+      "pinned": false,
+      "share_url": "https://genius.com/7912277",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7912277/Francis-lalanne-vivre-damour-et-de-toi/Vivre-damour-et-de-toi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "J'ai plus envie de vivre comme un dernier venu\nQu'en peut plus d'\u00eatre libre juste envie d'\u00eatre nu\nContre toi\nJ'ai plus envie de vivre comme un chien sans collier\nJuste envie de te suivre partout de me replier\nSur toi\n\nPlus envie de partir\nPlus envie de tout casser\nJuste envie de vieillir\nUn peu \u00e0 tes c\u00f4t\u00e9s\nPr\u00e8s de toi\nPr\u00e8s de toi\n\nPlus envie de mourir\nPlus envie d'\u00eatre oubli\u00e9\nJ'ai juste envie de vivre\nDe vivre d'amour et de toi\nEt de toi\nVivre d'amour et de toi\nVivre d'amour et de toi\nVivre d'amour et de toi\nVivre d'amour et de toi\n\nJ'ai plus envie de vivre\nComme un premier amant\nEnvie que tu d\u00e9livres\nEn moi le prince charmant\nFait pour toi\n\nJ'ai plus envie de vivre\nLa vie qu'on vit dehors\nJuste envie de poursuivre\nL'histoire de ton corps\nAvec toi\n\nPlus envie de souffrir\nDe mettre du vin dans l'eau\nJuste envie de finir mes jours\nDans un berceau\nFait de toi\nFait de toi\n\nPlus envie de sortir de la prison de ta peau\nJ'ai juste envie de vivre\nDe vivre d'amour et de toi\nEt de toi\nVivre d'amour et de toi\nVivre d'amour et de toi\nVivre d'amour et de toi\nVivre d'amour et de toi\n\nJ'ai plus envie du pire\nJuste envie du meilleur\nEnvie de m'envoler tout l\u00e0-haut\nDans ton c\u0153ur\nAime-moi"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322481",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2322481/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322481' class='rg_embed_link' data-song-id='2322481'>Read <a href='https://genius.com/Francis-lalanne-a-lenfant-lyrics'>\u201c\u00c0 l'enfant\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322481/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "\u00c0 l'enfant by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322481,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-a-lenfant-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "\u00c0 l\u2019enfant",
+   "title_with_featured": "\u00c0 l'enfant",
+   "url": "https://genius.com/Francis-lalanne-a-lenfant-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7913129",
+    "classification": "needs_exegesis",
+    "fragment": "\u00c0 l\u2019enfant",
+    "id": 7913129,
+    "is_description": true,
+    "path": "/7913129/Francis-lalanne-a-lenfant/A-lenfant",
+    "range": {
+     "content": "\u00c0 l'enfant"
+    },
+    "song_id": 2322481,
+    "url": "https://genius.com/7913129/Francis-lalanne-a-lenfant/A-lenfant",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322481",
+     "client_timestamps": {
+      "updated_by_human_at": 1443994322,
+      "lyrics_updated_at": 1443994322
+     },
+     "context": "Francis Lalanne",
+     "id": 2322481,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "\u00c0 l\u2019enfant by\u00a0Francis\u00a0Lalanne",
+     "title": "\u00c0 l'enfant",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-a-lenfant-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7913129",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7913129,
+      "pinned": false,
+      "share_url": "https://genius.com/7913129",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7913129/Francis-lalanne-a-lenfant/A-lenfant",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322364",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2322364/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322364' class='rg_embed_link' data-song-id='2322364'>Read <a href='https://genius.com/Francis-lalanne-mon-amour-si-jai-de-la-peine-lyrics'>\u201cMon amour si j'ai de la peine\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322364/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Mon amour si j'ai de la peine by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322364,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-mon-amour-si-jai-de-la-peine-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mon amour si j\u2019ai de la peine",
+   "title_with_featured": "Mon amour si j'ai de la peine",
+   "url": "https://genius.com/Francis-lalanne-mon-amour-si-jai-de-la-peine-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7912238",
+    "classification": "needs_exegesis",
+    "fragment": "Mon amour si j\u2019ai de la peine",
+    "id": 7912238,
+    "is_description": true,
+    "path": "/7912238/Francis-lalanne-mon-amour-si-jai-de-la-peine/Mon-amour-si-jai-de-la-peine",
+    "range": {
+     "content": "Mon amour si j'ai de la peine"
+    },
+    "song_id": 2322364,
+    "url": "https://genius.com/7912238/Francis-lalanne-mon-amour-si-jai-de-la-peine/Mon-amour-si-jai-de-la-peine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322364",
+     "client_timestamps": {
+      "updated_by_human_at": 1443982689,
+      "lyrics_updated_at": 1443982689
+     },
+     "context": "Francis Lalanne",
+     "id": 2322364,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "Mon amour si j\u2019ai de la peine by\u00a0Francis\u00a0Lalanne",
+     "title": "Mon amour si j'ai de la peine",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-mon-amour-si-jai-de-la-peine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7912238",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7912238,
+      "pinned": false,
+      "share_url": "https://genius.com/7912238",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7912238/Francis-lalanne-mon-amour-si-jai-de-la-peine/Mon-amour-si-jai-de-la-peine",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322358",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2322358/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322358' class='rg_embed_link' data-song-id='2322358'>Read <a href='https://genius.com/Francis-lalanne-fumee-dalcool-lyrics'>\u201cFum\u00e9e d'alcool\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322358/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Fum\u00e9e d'alcool by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322358,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-fumee-dalcool-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fum\u00e9e d\u2019alcool",
+   "title_with_featured": "Fum\u00e9e d'alcool",
+   "url": "https://genius.com/Francis-lalanne-fumee-dalcool-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7912210",
+    "classification": "needs_exegesis",
+    "fragment": "Fum\u00e9e d\u2019alcool",
+    "id": 7912210,
+    "is_description": true,
+    "path": "/7912210/Francis-lalanne-fumee-dalcool/Fumee-dalcool",
+    "range": {
+     "content": "Fum\u00e9e d'alcool"
+    },
+    "song_id": 2322358,
+    "url": "https://genius.com/7912210/Francis-lalanne-fumee-dalcool/Fumee-dalcool",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322358",
+     "client_timestamps": {
+      "updated_by_human_at": 1443982384,
+      "lyrics_updated_at": 1443982384
+     },
+     "context": "Francis Lalanne",
+     "id": 2322358,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "Fum\u00e9e d\u2019alcool by\u00a0Francis\u00a0Lalanne",
+     "title": "Fum\u00e9e d'alcool",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-fumee-dalcool-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7912210",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7912210,
+      "pinned": false,
+      "share_url": "https://genius.com/7912210",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7912210/Francis-lalanne-fumee-dalcool/Fumee-dalcool",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/574550",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 574550,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Philippe Garnier",
+     "url": "https://genius.com/artists/Philippe-garnier"
+    },
+    {
+     "api_path": "/artists/574549",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 574549,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ilane Perse",
+     "url": "https://genius.com/artists/Ilane-perse"
+    }
+   ],
+   "lyrics": "[Couplet 1]\nUne\nFille au regard de lune\nLe soir au fond d'un bar\nUn cendrier qui fume\nSpirale dans la lumi\u00e8re\nQuand la douleur s'allume\nQuand le c\u0153ur se resserre\n\n[Refrain]\nTout \u00e0 coup\nComme un fou\nOn s'enfuit\nDans la nuit\nEt l'on crie\nQu'on a mal\nQu'on est seul\nMais les cris\nComme les feuilles\nTombent au loin\nSous la pluie\n\n[Couplet 2]\nP\u00e2le\nComme le lac vertical\nDu piano machinal\nTu regardes passer\nTes espoirs\nCe reflet qui tourne\nEt se d\u00e9fait\nAu loin comme un foulard\n\n[Refrain]\nTout \u00e0 coup\nComme un fou\nOn s'enfuit\nDans la nuit\nEt l'on crie\nQu'on a mal\nQu'on est seul\nMais les cris\nComme les feuilles\nTombent au loin\nSous la pluie\n\n[Outro]\nEt tu joues\nEt ta voix comme un alcool\nTe saoule et tu t'envoles\nTe saoule et tu t'envoles\nEt tu t'envoles\nEt tu t'envoles\nEt tu t'envoles"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322390",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2322390/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322390' class='rg_embed_link' data-song-id='2322390'>Read <a href='https://genius.com/Francis-lalanne-tendresse-lyrics'>\u201cTendresse\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322390/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tendresse by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322390,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-tendresse-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tendresse",
+   "title_with_featured": "Tendresse",
+   "url": "https://genius.com/Francis-lalanne-tendresse-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7912334",
+    "classification": "needs_exegesis",
+    "fragment": "Tendresse",
+    "id": 7912334,
+    "is_description": true,
+    "path": "/7912334/Francis-lalanne-tendresse/Tendresse",
+    "range": {
+     "content": "Tendresse"
+    },
+    "song_id": 2322390,
+    "url": "https://genius.com/7912334/Francis-lalanne-tendresse/Tendresse",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322390",
+     "client_timestamps": {
+      "updated_by_human_at": 1443984089,
+      "lyrics_updated_at": 1443984089
+     },
+     "context": "Francis Lalanne",
+     "id": 2322390,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "Tendresse by\u00a0Francis\u00a0Lalanne",
+     "title": "Tendresse",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-tendresse-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7912334",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7912334,
+      "pinned": false,
+      "share_url": "https://genius.com/7912334",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7912334/Francis-lalanne-tendresse/Tendresse",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Pourquoi j'te dirai pas ces mots\nQui disent que j'suis heureux\nQue quand mes mains te voient\nMon c\u0153ur se sent pousser des yeux\nQu'j'ai beau vouloir ne suivre que mes pas\nJ'veux plus aller l\u00e0 o\u00f9 tu es pas l\u00e0\n\nPourquoi j'te dirais pas ces mots\nQui dis' que je me sens bien\nCes mots qui disent tout\nM\u00eame quand y disent rien\nPourquoi j'ai peur de murmurer tout bas\nTout contre toi\nQue je t'aime\nHeureusement\nQue je t'aime tout simplement\n\nPourquoi j'te dirais pas ces mots\nQui veul' dire que t'es belle\nQue quand t'es pr\u00e8s de moi\nMon c\u0153ur se sent pousser des ailes\nEt que je sois d'accord ou pas d'accord\nJ'sais plus voler quand c'est pas ton corps\n\nPourquoi j'te dirais pas toutes ces choses que tu sais\nQue si j'suis loin de toi\nJe suis mon prisonnier\nHeureusement qu'on vit coll\u00e9 comme \u00e7a\nJoue contre joie\nQue je t'aime\nHeureusement\nQue je t'aime tout simplement\n\nJe t'aime c'est comme un son\nC'est comme des mots sur ce frisson\nQui met le plaisir en chanson\n\u00c7a veut dire seulement\nQue m\u00eame si c'est pour quelques jours\nOn voudrait bien que \u00e7a dure toujours\n\nPourquoi \u00e7a fait si peur\nDe se dire les mots du bonheur\nM\u00eame si ces mots l'amour il les connait par c\u0153ur\nC'est des caresses, des c\u00e2lins de ma voix\nQuand je te vois\n\nJuste des mots qui veul' dire que je suis heureux\nQue c'est \u00e0 cause de toi que je suis amoureux\nLes dire c'est vivre avec toi\nChaque fois\nLa premi\u00e8re fois\nQue je t'aime\nHeureusement\nQue je t'aime tout simplement\nComme un enfant\n\nJe t'aime c'est comme un son\nQui vole \u00e0 dos de frisson\nJe t'aime c'est en couleur\nLe chant d'un soupir en fleur\nJe t'aime  c'est comme un plus\nQuand les mots ne servent plus\nTrois p'tits tours de planeur\nPour c\u0153ur en en mal de bonheur"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322342",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2322342/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322342' class='rg_embed_link' data-song-id='2322342'>Read <a href='https://genius.com/Francis-lalanne-prends-le-temps-lyrics'>\u201cPrends le temps\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322342/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Prends le temps by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322342,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-prends-le-temps-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Prends le temps",
+   "title_with_featured": "Prends le temps",
+   "url": "https://genius.com/Francis-lalanne-prends-le-temps-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7912073",
+    "classification": "needs_exegesis",
+    "fragment": "Prends le temps",
+    "id": 7912073,
+    "is_description": true,
+    "path": "/7912073/Francis-lalanne-prends-le-temps/Prends-le-temps",
+    "range": {
+     "content": "Prends le temps"
+    },
+    "song_id": 2322342,
+    "url": "https://genius.com/7912073/Francis-lalanne-prends-le-temps/Prends-le-temps",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322342",
+     "client_timestamps": {
+      "updated_by_human_at": 1443981164,
+      "lyrics_updated_at": 1443981164
+     },
+     "context": "Francis Lalanne",
+     "id": 2322342,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "Prends le temps by\u00a0Francis\u00a0Lalanne",
+     "title": "Prends le temps",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-prends-le-temps-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7912073",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7912073,
+      "pinned": false,
+      "share_url": "https://genius.com/7912073",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7912073/Francis-lalanne-prends-le-temps/Prends-le-temps",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Prends le temps des hommes libres\nPrends le temps de le trouver\nPrends le temps le temps de vivre\nDe r\u00eaver\nLaisse dire ceux qui disent\nLaisse juger les jugeurs\nIl est temps fais la valise\nDe ton c\u0153ur\nVoici le temps des vacances\nVoici le temps de la paix\nReste ma seule esp\u00e9rance\nS'il te pla\u00eet\nY'aura pas de fin du monde\nTout ne fait que commencer\nOublie les mauvaises ondes\nDu pass\u00e9\nD\u00e9pass\u00e9\nVoici le temps de la tr\u00eave\nVoici l'\u00e8re du verseau\nRegarde au-del\u00e0 des r\u00eaves\nIl faut beau\nIl fait chaud\nN'aie pas peur des gens qui passent\nChaque nuit et chaque jour\nGarde toujours une place\nPour l'amour\nMon amour"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322477",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2322477/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322477' class='rg_embed_link' data-song-id='2322477'>Read <a href='https://genius.com/Francis-lalanne-lhomme-qui-ne-fait-pas-de-peine-lyrics'>\u201cL'homme qui ne fait pas de peine\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322477/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "L'homme qui ne fait pas de peine by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322477,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-lhomme-qui-ne-fait-pas-de-peine-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "L\u2019homme qui ne fait pas de peine",
+   "title_with_featured": "L'homme qui ne fait pas de peine",
+   "url": "https://genius.com/Francis-lalanne-lhomme-qui-ne-fait-pas-de-peine-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7913008",
+    "classification": "needs_exegesis",
+    "fragment": "L\u2019homme qui ne fait pas de peine",
+    "id": 7913008,
+    "is_description": true,
+    "path": "/7913008/Francis-lalanne-lhomme-qui-ne-fait-pas-de-peine/Lhomme-qui-ne-fait-pas-de-peine",
+    "range": {
+     "content": "L'homme qui ne fait pas de peine"
+    },
+    "song_id": 2322477,
+    "url": "https://genius.com/7913008/Francis-lalanne-lhomme-qui-ne-fait-pas-de-peine/Lhomme-qui-ne-fait-pas-de-peine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322477",
+     "client_timestamps": {
+      "updated_by_human_at": 1443993781,
+      "lyrics_updated_at": 1443993781
+     },
+     "context": "Francis Lalanne",
+     "id": 2322477,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "L\u2019homme qui ne fait pas de peine by\u00a0Francis\u00a0Lalanne",
+     "title": "L'homme qui ne fait pas de peine",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-lhomme-qui-ne-fait-pas-de-peine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7913008",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7913008,
+      "pinned": false,
+      "share_url": "https://genius.com/7913008",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7913008/Francis-lalanne-lhomme-qui-ne-fait-pas-de-peine/Lhomme-qui-ne-fait-pas-de-peine",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2322395",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2322395/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2322395' class='rg_embed_link' data-song-id='2322395'>Read <a href='https://genius.com/Francis-lalanne-un-petit-bebe-qui-te-ressemble-lyrics'>\u201cUn petit b\u00e9b\u00e9 qui te ressemble\u201d by Francis\u00a0Lalanne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2322395/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Un petit b\u00e9b\u00e9 qui te ressemble by\u00a0Francis\u00a0Lalanne",
+   "header_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "id": 2322395,
+   "lyrics_owner_id": 130136,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Francis-lalanne-un-petit-bebe-qui-te-ressemble-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Un petit b\u00e9b\u00e9 qui te ressemble",
+   "title_with_featured": "Un petit b\u00e9b\u00e9 qui te ressemble",
+   "url": "https://genius.com/Francis-lalanne-un-petit-bebe-qui-te-ressemble-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/132445",
+    "cover_art_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+    "full_title": "Tendresses by Francis Lalanne",
+    "id": 132445,
+    "name": "Tendresses",
+    "url": "https://genius.com/albums/Francis-lalanne/Tendresses",
+    "artist": {
+     "api_path": "/artists/344482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 344482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francis Lalanne",
+     "url": "https://genius.com/artists/Francis-lalanne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 130136,
+    "annotator_login": "Xuyen",
+    "api_path": "/referents/7912371",
+    "classification": "needs_exegesis",
+    "fragment": "Un petit b\u00e9b\u00e9 qui te ressemble",
+    "id": 7912371,
+    "is_description": true,
+    "path": "/7912371/Francis-lalanne-un-petit-bebe-qui-te-ressemble/Un-petit-bebe-qui-te-ressemble",
+    "range": {
+     "content": "Un petit b\u00e9b\u00e9 qui te ressemble"
+    },
+    "song_id": 2322395,
+    "url": "https://genius.com/7912371/Francis-lalanne-un-petit-bebe-qui-te-ressemble/Un-petit-bebe-qui-te-ressemble",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2322395",
+     "client_timestamps": {
+      "updated_by_human_at": 1443984464,
+      "lyrics_updated_at": 1443984464
+     },
+     "context": "Francis Lalanne",
+     "id": 2322395,
+     "image_url": "https://images.genius.com/1500727bd328a0c04184c7369f04c686.600x600x1.jpg",
+     "link_title": "Un petit b\u00e9b\u00e9 qui te ressemble by\u00a0Francis\u00a0Lalanne",
+     "title": "Un petit b\u00e9b\u00e9 qui te ressemble",
+     "type": "Song",
+     "url": "https://genius.com/Francis-lalanne-un-petit-bebe-qui-te-ressemble-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7912371",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7912371,
+      "pinned": false,
+      "share_url": "https://genius.com/7912371",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7912371/Francis-lalanne-un-petit-bebe-qui-te-ressemble/Un-petit-bebe-qui-te-ressemble",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/130136",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0hzlfwe9vywi",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/se12rcrhob",
+         "human_readable_role_for_display": "Moderator",
+         "id": 130136,
+         "iq": 107229,
+         "login": "Xuyen",
+         "name": "Xuyen",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Xuyen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/344482",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 344482,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Francis Lalanne",
+    "url": "https://genius.com/artists/Francis-lalanne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Petites fesses de danseuse\nPatt' en canard comme il se doit\nPetite bouille de boudeuse\nComme toi\nEll' sera comme toi la fille\nQue je voudrai te faire un jour\nS'il faut qu'on fonde une famille\nMon amour\n\nJe la draguerai en cachette\nEt tout b\u00e9b\u00e9 comme il se doit\nEll' sera timide et coquette\nComme toi\nSi je me f\u00e2che malheureuse\nElle se blottira dans mes bras\nPour faire le coup de l'amoureuse\n\u00c0 son papa\n\nPlus tard quand ell' sera gamine\nOn la mettra comme il se doit\n\u00c0 l'\u00e9cole des colombines\nComme toi\nEll' suivra tous tes cours d'ensemble\nEt elle apprendra mes chansons\nPendant que vous coudrez ensemble\nVos chaussons\n\nPuis ell' grandira en sagesse\nEt en beaut\u00e9 comme il se doit\nElle aura l'air d'une princesse\nComme toi\nEt si les candidats se pointent\nAu concours du prince charmant\nFaudra qu'ils montent sur ses pointes\nTout doux tout doucement\n\nEt s'il faut qu'un jour ell' s'en aille\nVivre sa vie comme il se doit\nAvec un autre qui lui aille\nMieux que moi\nJe voudrai que s'ils viv' ensemble\nIls puissent me faire \u00e0 leur tour\nUn p'tit b\u00e9b\u00e9 qui te ressemble\nMon amour"
+  }
+ ]
+}

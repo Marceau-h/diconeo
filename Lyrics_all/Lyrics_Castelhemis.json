@@ -1,0 +1,499 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1846905",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 1846905,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Castelhemis",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Castelhemis",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 6720086,
+  "annotator_login": "Origon",
+  "api_path": "/referents/17332424",
+  "classification": "needs_exegesis",
+  "fragment": "Castelhemis",
+  "id": 17332424,
+  "is_description": true,
+  "path": "/17332424/Castelhemis/Castelhemis",
+  "range": {
+   "content": "Castelhemis"
+  },
+  "song_id": null,
+  "url": "https://genius.com/17332424/Castelhemis/Castelhemis",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1846905",
+   "context": null,
+   "id": 1846905,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Castelhemis",
+   "title": "Castelhemis",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Castelhemis"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17332424",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 17332424,
+    "pinned": false,
+    "share_url": "https://genius.com/17332424",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/17332424/Castelhemis/Castelhemis",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6720086",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7ddbafa6edaecf5850a13c62b1131b7b",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7ddbafa6edaecf5850a13c62b1131b7b",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7ddbafa6edaecf5850a13c62b1131b7b",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7ddbafa6edaecf5850a13c62b1131b7b",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/7ddbafa6edaecf5850a13c62b1131b7b",
+       "human_readable_role_for_display": null,
+       "id": 6720086,
+       "iq": 138,
+       "login": "Origon",
+       "name": "Origon",
+       "role_for_display": null,
+       "url": "https://genius.com/Origon",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/4610595",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/4610595/apple_music_player",
+   "description": {
+    "plain": "Il y de forte chance que cette chanson soit \u00e9crite en l'honneur d'un de ses compagnons du service militaire, un th\u00e8me r\u00e9curant chez lui."
+   },
+   "embed_content": "<div id='rg_embed_link_4610595' class='rg_embed_link' data-song-id='4610595'>Read <a href='https://genius.com/Castelhemis-coco-lyrics'>\u201cCoco\u201d by Castelhemis</a> on Genius</div> <script crossorigin src='//genius.com/songs/4610595/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Coco by\u00a0Castelhemis",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 4610595,
+   "lyrics_owner_id": 6720086,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Castelhemis-coco-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1988-01-01",
+   "release_date_for_display": "January 1, 1988",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Coco",
+   "title_with_featured": "Coco",
+   "url": "https://genius.com/Castelhemis-coco-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6720086,
+    "annotator_login": "Origon",
+    "api_path": "/referents/17332425",
+    "classification": "unreviewed",
+    "fragment": "Coco",
+    "id": 17332425,
+    "is_description": true,
+    "path": "/17332425/Castelhemis-coco/Coco",
+    "range": {
+     "content": "Coco"
+    },
+    "song_id": 4610595,
+    "url": "https://genius.com/17332425/Castelhemis-coco/Coco",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4610595",
+     "client_timestamps": {
+      "updated_by_human_at": 1559830711,
+      "lyrics_updated_at": 1559830711
+     },
+     "context": "Castelhemis",
+     "id": 4610595,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Coco by\u00a0Castelhemis",
+     "title": "Coco",
+     "type": "Song",
+     "url": "https://genius.com/Castelhemis-coco-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17332425",
+      "body": {
+       "plain": "Il y de forte chance que cette chanson soit \u00e9crite en l'honneur d'un de ses compagnons du service militaire, un th\u00e8me r\u00e9curant chez lui."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17332425,
+      "pinned": false,
+      "share_url": "https://genius.com/17332425",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/17332425/Castelhemis-coco/Coco",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6720086",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7ddbafa6edaecf5850a13c62b1131b7b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7ddbafa6edaecf5850a13c62b1131b7b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7ddbafa6edaecf5850a13c62b1131b7b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7ddbafa6edaecf5850a13c62b1131b7b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/7ddbafa6edaecf5850a13c62b1131b7b",
+         "human_readable_role_for_display": null,
+         "id": 6720086,
+         "iq": 138,
+         "login": "Origon",
+         "name": "Origon",
+         "role_for_display": null,
+         "url": "https://genius.com/Origon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=GcKmikH80ys"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1846905",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 1846905,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Castelhemis",
+    "url": "https://genius.com/artists/Castelhemis"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Couplet 1]\nC'est l'histoire d'un copain qui s'appelait Coco\nMusicien, mais pas trop, plut\u00f4t gu\u00e9rillero\nGu\u00e9rillero de la voix\nGu\u00e9rillero toutes les fois\nQu'il nous prenait par la main\nPour chanter ses refrains\nIl nous \u00e9tait venu d'un pays lointain\nNous, on en savait pas plus sauf qu'il \u00e9tait latin\nQu'il avait quitt\u00e9 un beau jour son pays\nQu'il \u00e9tait parti, pour un g\u00e9n\u00e9ral en folie\n\n[Refrain]\nEt c'\u00e9tait Coco ci\nEt c'\u00e9tait Coco \u00e7a\nEt c'\u00e9tait Coco joue nous de la samba\nEt Coco il jouait\nEt Coco il chantait\nEt il nous prenait, il nous emmenait\nEt c'\u00e9tait Coco ci\nEt c'\u00e9tait Coco \u00e7a\nEt c'\u00e9tait Coco joue nous de la bossa\nEt Coco il jouait\nEt Coco il chantait\nMais jamais tout \u00e0 fait ne nous ramenait\n\n[Couplet 2]\nIl chantait dans le vent des millions d'accents\nQui parfumaient nos c\u0153ur comme un peu de piment\nIl avait le sourire de quelqu'un qui \u00e0 vu\nLes \u00e9toiles mourir et qui n'oubliera plus\nIl faisait des merveilles en prenant sa guitare\nIl en sortait du soleil quand il se faisait tard\nIl effa\u00e7ais le froid, il effa\u00e7ais la nuit\nY'avait plus que sa voix, chantant d'\u00e9tranges m\u00e9lodies\n\n[Refrain]\nEt c'\u00e9tait Coco ci\nEt c'\u00e9tait Coco \u00e7a\nEt c'\u00e9tait Coco joue nous de la samba\nEt Coco il jouait\nEt Coco il chantait\nEt il nous prenait, il nous emmenait\nEt c'\u00e9tait Coco ci\nEt c'\u00e9tait Coco \u00e7a\nEt c'\u00e9tait Coco joue nous de la bossa\nEt Coco il jouait\nEt Coco il chantait\nMais jamais tout \u00e0 fait ne nous ramenait\n\n[Couplet 3]\nLe matin il allait on ne sait trop o\u00f9\nPour cacher son sommeil, un peu comme un coucou\nJe courrais comme un fou, je le suivait partout\nPour apprendre \u00e0 jouer des chansons d'acajou\nQui parlent de bambous, ou de bois parfum\u00e9s\nDe bois de Pernambouc dont on fait les archets\nQui font vibrer les c\u0153urs, qui font danser les corps\nRien qu'au son de sa voix, on changeais le d\u00e9cors\n\n[Refrain]\nEt c'\u00e9tait Coco ci\nEt c'\u00e9tait Coco \u00e7a\nEt c'\u00e9tait Coco joue nous de la samba\nEt Coco il jouait\nEt Coco il chantait\nEt il nous prenait, il nous emmenait\nEt c'\u00e9tait Coco ci\nEt c'\u00e9tait Coco \u00e7a\nEt c'\u00e9tait Coco joue nous de la bossa\nEt Coco il jouait\nEt Coco il chantait\nMais jamais tout \u00e0 fait ne nous ramenait\n\n[Couplet 4]\nMoi un jour d'\u00eatre comme Coco\nMusicien \u00e0 la cour du vent et des oiseaux\nQue lorsqu'il est parti, je l'ai tellement regarder\nQu'un tout petit peu de sa vie, je crois que j'ai vol\u00e9\nJ'ai les m\u00eame bottes que Coco, la m\u00eame guitare que Coco\nJe chante \u00e0 ritournelle, partout on m\u2019appelle\nEt ne me demander pas si il est vraiment parti\nJe n'vous r\u00e9pondrais pas, mais on \u00e0 perdu un ami\n\n[Refrain]\nEt c'\u00e9tait Coco ci\nEt c'\u00e9tait Coco \u00e7a\nEt c'\u00e9tait Coco joue nous de la samba\nEt Coco il jouait\nEt Coco il chantait\nEt il nous prenait, il nous emmenait\nEt c'\u00e9tait Coco ci\nEt c'\u00e9tait Coco \u00e7a\nEt c'\u00e9tait Coco joue nous de la bossa\nEt Coco il jouait\nEt Coco il chantait\nMais jamais tout \u00e0 fait ne nous ramenait\n\n[Fade-Out]"
+  }
+ ]
+}

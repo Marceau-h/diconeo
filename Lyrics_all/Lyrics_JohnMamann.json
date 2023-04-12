@@ -1,0 +1,3339 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/306648",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+ "id": 306648,
+ "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "John Mamann",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/John-mamann",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 195519,
+  "annotator_login": "Slimmer",
+  "api_path": "/referents/7053977",
+  "classification": "needs_exegesis",
+  "fragment": "John Mamann",
+  "id": 7053977,
+  "is_description": true,
+  "path": "/7053977/John-mamann/John-mamann",
+  "range": {
+   "content": "John Mamann"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7053977/John-mamann/John-mamann",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/306648",
+   "context": null,
+   "id": 306648,
+   "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "link_title": "John Mamann",
+   "title": "John Mamann",
+   "type": "Artist",
+   "url": "https://genius.com/artists/John-mamann"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7053977",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7053977,
+    "pinned": false,
+    "share_url": "https://genius.com/7053977",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7053977/John-mamann/John-mamann",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/195519",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8701c37c599fadff6b158255ff99f84e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8701c37c599fadff6b158255ff99f84e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8701c37c599fadff6b158255ff99f84e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8701c37c599fadff6b158255ff99f84e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/8701c37c599fadff6b158255ff99f84e",
+       "human_readable_role_for_display": "Moderator",
+       "id": 195519,
+       "iq": 19035,
+       "login": "Slimmer",
+       "name": "Slimmer",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Slimmer",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3094481",
+   "apple_music_id": "1195585490",
+   "apple_music_player_url": "https://genius.com/songs/3094481/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3094481' class='rg_embed_link' data-song-id='3094481'>Read <a href='https://genius.com/John-mamann-tu-la-regardes-lyrics'>\u201cTu la regardes\u201d by John\u00a0Mamann</a> on Genius</div> <script crossorigin src='//genius.com/songs/3094481/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tu la regardes by\u00a0John\u00a0Mamann (Ft.\u00a0Gims)",
+   "header_image_thumbnail_url": "https://images.genius.com/723dc39483180307c79a9e59aa7a7747.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/723dc39483180307c79a9e59aa7a7747.500x500x1.jpg",
+   "id": 3094481,
+   "lyrics_owner_id": 1010562,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/John-mamann-tu-la-regardes-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "2017-01-19",
+   "release_date_for_display": "January 19, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/723dc39483180307c79a9e59aa7a7747.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/723dc39483180307c79a9e59aa7a7747.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tu la regardes",
+   "title_with_featured": "Tu la regardes (Ft.\u00a0Gims)",
+   "url": "https://genius.com/John-mamann-tu-la-regardes-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/346049",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "Tu la regardes by John Mamann",
+    "id": 346049,
+    "name": "Tu la regardes",
+    "url": "https://genius.com/albums/John-mamann/Tu-la-regardes",
+    "artist": {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1010562,
+    "annotator_login": "Thanos-CH",
+    "api_path": "/referents/11875375",
+    "classification": "needs_exegesis",
+    "fragment": "Tu la regardes",
+    "id": 11875375,
+    "is_description": true,
+    "path": "/11875375/John-mamann-tu-la-regardes/Tu-la-regardes",
+    "range": {
+     "content": "Tu la regardes"
+    },
+    "song_id": 3094481,
+    "url": "https://genius.com/11875375/John-mamann-tu-la-regardes/Tu-la-regardes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3094481",
+     "client_timestamps": {
+      "updated_by_human_at": 1604347985,
+      "lyrics_updated_at": 1589561826
+     },
+     "context": "John Mamann",
+     "id": 3094481,
+     "image_url": "https://images.genius.com/723dc39483180307c79a9e59aa7a7747.500x500x1.jpg",
+     "link_title": "Tu la regardes by\u00a0John\u00a0Mamann (Ft.\u00a0Gims)",
+     "title": "Tu la regardes",
+     "type": "Song",
+     "url": "https://genius.com/John-mamann-tu-la-regardes-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11875375",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11875375,
+      "pinned": false,
+      "share_url": "https://genius.com/11875375",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11875375/John-mamann-tu-la-regardes/Tu-la-regardes",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1010562",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/4ff92095e9b31c9836ef9ac297089558",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/4ff92095e9b31c9836ef9ac297089558",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/4ff92095e9b31c9836ef9ac297089558",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/4ff92095e9b31c9836ef9ac297089558",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/4ff92095e9b31c9836ef9ac297089558",
+         "human_readable_role_for_display": null,
+         "id": 1010562,
+         "iq": 204,
+         "login": "Thanos-CH",
+         "name": "Thanos-CH",
+         "role_for_display": null,
+         "url": "https://genius.com/Thanos-CH",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/13325",
+     "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+     "id": 13325,
+     "image_url": "https://images.genius.com/b4f6c86a9f2369aa253ac210a3d11c85.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gims",
+     "url": "https://genius.com/artists/Gims"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=6TkC7_uFNgU"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/306648",
+    "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+    "id": 306648,
+    "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "John Mamann",
+    "url": "https://genius.com/artists/John-mamann"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/88281",
+     "header_image_url": "https://images.genius.com/60a5a3f43c50dbc87f226431e3f741c9.1000x1000x1.jpg",
+     "id": 88281,
+     "image_url": "https://images.genius.com/60a5a3f43c50dbc87f226431e3f741c9.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "High P",
+     "url": "https://genius.com/artists/High-p"
+    },
+    {
+     "api_path": "/artists/1194280",
+     "header_image_url": "https://images.genius.com/2a4daf8e7ed92984c559fa2712849bd4.686x490x1.jpg",
+     "id": 1194280,
+     "image_url": "https://images.genius.com/56349868d54edd16d4a86246aa572631.246x246x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adja Damba Dante",
+     "url": "https://genius.com/artists/Adja-damba-dante"
+    },
+    {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/13325",
+     "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+     "id": 13325,
+     "image_url": "https://images.genius.com/b4f6c86a9f2369aa253ac210a3d11c85.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gims",
+     "url": "https://genius.com/artists/Gims"
+    },
+    {
+     "api_path": "/artists/1194280",
+     "header_image_url": "https://images.genius.com/2a4daf8e7ed92984c559fa2712849bd4.686x490x1.jpg",
+     "id": 1194280,
+     "image_url": "https://images.genius.com/56349868d54edd16d4a86246aa572631.246x246x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adja Damba Dante",
+     "url": "https://genius.com/artists/Adja-damba-dante"
+    },
+    {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    }
+   ],
+   "lyrics": "[Intro : Ma\u00eetre Gims]\nJ'y ai pens\u00e9, j'y ai pens\u00e9 toute la night\nJ'y ai pens\u00e9, j'y ai pens\u00e9\n\n[Couplet : Ma\u00eetre Gims]\nElle a jet\u00e9 son d\u00e9volu sur moi, umh\nComment sortir de l\u00e0 ?\nLes filles comme elle ne me font pas peur\nJe m'inqui\u00e8te pour son petit coeur\nJohn, attends mais si \u00e7a coince\nTu me diras : \"Meugi, \u00e7a passe\"\nApr\u00e8s tout pourquoi ne pas tenter\nJ'avoue qu'elle commence \u00e0 me hanter\n\n[Refrain : John Mamann & Ma\u00eetre Gims]\nEst-ce que tu l'as regardes quand elle dort ?\nRegarde quand elle, regarde quand elle dort ?\nDeviens-tu son ombre quand elle sort ?\nOmbre quand elle, ombre quand elle sort ?\nEst-ce que tu l'as regardes quand elle dort ?\nRegarde quand elle, regarde quand elle dort ?\nDeviens-tu son ombre quand elle sort ?\nSon ombre quand elle, son ombre quand elle sort ?\n\n[Couplet 2 : John Mamann]\nOn va l'a jouer \u00e0 pile ou face\nSi tu perds tu l'effaces\nCrois moi c'est perdu d'avance\nD\u00e9j\u00e0 fini avant qu'\u00e7a n'commence\nElle m'a l'aire maligne \u00e0 souhait\nElle garde la ligne, pas d'exc\u00e8s\nJ'suis sur qu'elle va te rendre fou\nTu reviendras la corde au cou\n\n[Refrain : John Mamann & Ma\u00eetre Gims]\nEst-ce que tu l'as regardes quand elle dort ?\nRegarde quand elle, regarde quand elle dort ?\nDeviens-tu son ombre quand elle sort ?\nOmbre quand elle, ombre quand elle sort ?\nEst-ce que tu la regardes quand elle dort ?\nEst-ce que tu la regardes quand elle dort ?\nRegarde quand elle, regarde quand elle dort ?\nDeviens-tu son ombre quand elle sort ?\nDeviens-tu son ombre quand elle sort ?\n\n[Pont : John Mamann & Ma\u00eetre Gims]\nOh malheur \u00e0 moi (ai piti\u00e9 de moi)\nOh malheur \u00e0 moi (ai piti\u00e9 de moi)\nOh malheur \u00e0 moi (oh malheur \u00e0 moi)\nOh malheur \u00e0 moi (oh oh oh)\nOh malheur \u00e0 moi (oh malheur \u00e0 moi)\nOh malheur \u00e0 moi (ai piti\u00e9 de moi)\nOh malheur \u00e0 moi (ai piti\u00e9 de moi)\nOh malheur \u00e0 moi (oh malheur \u00e0 moi, eh)\n\n[Refrain : John Mamann & Ma\u00eetre Gims]\nEst-ce que tu l'as regardes quand elle dort ?\nRegarde quand elle, regarde quand elle dort ?\nDeviens-tu son ombre quand elle sort ?\nSon ombre quand elle, son ombre quand elle sort ?\nEst-ce que tu l'as regardes quand elle dort ?\nEst-ce que tu l'as regardes quand elle dort ?\nDeviens-tu son ombre quand elle sort ?\nDeviens-tu son ombre quand elle sort ?\n\n[Outro : John Mamann & Ma\u00eetre Gims]\nOh oh, quand elle se fait belle, oh oh (est-ce que tu l'as regardes ?)\nOh oh, quand elle se fait belle, oh oh\nOh malheur \u00e0 moi !\nOh oh, quand elle se fait belle, oh oh (deviens-tu son ombre ?)\nOh oh, oh oh\nOh malheur \u00e0 moi !"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1809436",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1809436/apple_music_player",
+   "description": {
+    "plain": "After writing various song with hitmaker RedOne, he decided to work with him on the lead single from his second album. There\u2019s another version of the song featuring Kika."
+   },
+   "embed_content": "<div id='rg_embed_link_1809436' class='rg_embed_link' data-song-id='1809436'>Read <a href='https://genius.com/John-mamann-love-life-lyrics'>\u201cLove Life\u201d by John\u00a0Mamann</a> on Genius</div> <script crossorigin src='//genius.com/songs/1809436/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Love Life by\u00a0John\u00a0Mamann",
+   "header_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "id": 1809436,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/John-mamann-love-life-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Love Life",
+   "title_with_featured": "Love Life",
+   "url": "https://genius.com/John-mamann-love-life-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4227685,
+    "annotator_login": "Nanofives",
+    "api_path": "/referents/6421765",
+    "classification": "unreviewed",
+    "fragment": "Love Life",
+    "id": 6421765,
+    "is_description": true,
+    "path": "/6421765/John-mamann-love-life/Love-life",
+    "range": {
+     "content": "Love Life"
+    },
+    "song_id": 1809436,
+    "url": "https://genius.com/6421765/John-mamann-love-life/Love-life",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1809436",
+     "client_timestamps": {
+      "updated_by_human_at": 1445441858,
+      "lyrics_updated_at": 1431613681
+     },
+     "context": "John Mamann",
+     "id": 1809436,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "link_title": "Love Life by\u00a0John\u00a0Mamann",
+     "title": "Love Life",
+     "type": "Song",
+     "url": "https://genius.com/John-mamann-love-life-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6421765",
+      "body": {
+       "plain": "After writing various song with hitmaker RedOne, he decided to work with him on the lead single from his second album. There\u2019s another version of the song featuring Kika."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6421765,
+      "pinned": false,
+      "share_url": "https://genius.com/6421765",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/6421765/John-mamann-love-life/Love-life",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4227685",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/787d17a08d5bf902181ff1280b37e8e1",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/787d17a08d5bf902181ff1280b37e8e1",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/787d17a08d5bf902181ff1280b37e8e1",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/787d17a08d5bf902181ff1280b37e8e1",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/787d17a08d5bf902181ff1280b37e8e1",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4227685,
+         "iq": 2217,
+         "login": "Nanofives",
+         "name": "Nanofives",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Nanofives",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/306648",
+    "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+    "id": 306648,
+    "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "John Mamann",
+    "url": "https://genius.com/artists/John-mamann"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Si tu tombes beaucoup trop bas\nSi tu perds confiance tourne-toi vers moi\nFeel the wind blow softly through my hair\nI'm invisible whenever you are there\n\nEt comme un d\u00e9fi, tu te l\u00e8ves pour aimer la vie\nLove life (la la la la la)\nLove life (la la la la la)\nIt's you and I (la la la la la)\nLove life (la la la la la)\n\nSi un chagrin casse ta voix\nPerdue sur les chemins tend une main vers moi\nI feel the sun shine breeze upon my face\nWhen I hear your voice I knox I'll be ok\n\nEt comme un d\u00e9fi, tu te l\u00e8ves pour aimer la vie\nLove life (la la la la la)\nLove life (la la la la la)\nIt's you and I (la la la la la)\nLove life (la la la la la)\n\nEt pour que tu sois\nToujours plus, Toujours plus forte\nEt que le vend de la vie\nSoul\u00e8ve tes ailes et te transporte\nLove life\nLove life (la la la la la)\n\nLove life (la la la la la)\nLove life (la la la la la)\nC'est toi et moi ( la la la la la)\nLove life ( la la la la la)"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2852333",
+   "apple_music_id": "1137059430",
+   "apple_music_player_url": "https://genius.com/songs/2852333/apple_music_player",
+   "description": {
+    "plain": "Clip :\n\nhttps://www.youtube.com/watch?v=T7y_XyulD4E"
+   },
+   "embed_content": "<div id='rg_embed_link_2852333' class='rg_embed_link' data-song-id='2852333'>Read <a href='https://genius.com/John-mamann-jsuis-comme-toi-ya-rayah-lyrics'>\u201cJ\u2019Suis Comme Toi (Ya Rayah)\u201d by John\u00a0Mamann</a> on Genius</div> <script crossorigin src='//genius.com/songs/2852333/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "J\u2019Suis Comme Toi (Ya Rayah) by\u00a0John\u00a0Mamann (Ft.\u00a0Lartiste & Rim'K)",
+   "header_image_thumbnail_url": "https://images.genius.com/031835616e81d1ddced0155fefd31c76.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/031835616e81d1ddced0155fefd31c76.500x500x1.jpg",
+   "id": 2852333,
+   "lyrics_owner_id": 2542408,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/John-mamann-jsuis-comme-toi-ya-rayah-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2016-03-25",
+   "release_date_for_display": "March 25, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/031835616e81d1ddced0155fefd31c76.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/031835616e81d1ddced0155fefd31c76.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "J\u2019Suis Comme Toi (Ya Rayah)",
+   "title_with_featured": "J\u2019Suis Comme Toi (Ya Rayah) (Ft.\u00a0Lartiste & Rim'K)",
+   "url": "https://genius.com/John-mamann-jsuis-comme-toi-ya-rayah-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/363242",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "Latino Workout Session by John Mamann",
+    "id": 363242,
+    "name": "Latino Workout Session",
+    "url": "https://genius.com/albums/John-mamann/Latino-workout-session",
+    "artist": {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3203186,
+    "annotator_login": "Geniraul",
+    "api_path": "/referents/10347152",
+    "classification": "unreviewed",
+    "fragment": "J\u2019Suis Comme Toi (Ya Rayah)",
+    "id": 10347152,
+    "is_description": true,
+    "path": "/10347152/John-mamann-jsuis-comme-toi-ya-rayah/Jsuis-comme-toi-ya-rayah",
+    "range": {
+     "content": "J\u2019Suis Comme Toi (Ya Rayah)"
+    },
+    "song_id": 2852333,
+    "url": "https://genius.com/10347152/John-mamann-jsuis-comme-toi-ya-rayah/Jsuis-comme-toi-ya-rayah",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2852333",
+     "client_timestamps": {
+      "updated_by_human_at": 1525266995,
+      "lyrics_updated_at": 1503485990
+     },
+     "context": "John Mamann",
+     "id": 2852333,
+     "image_url": "https://images.genius.com/031835616e81d1ddced0155fefd31c76.500x500x1.jpg",
+     "link_title": "J\u2019Suis Comme Toi (Ya Rayah) by\u00a0John\u00a0Mamann (Ft.\u00a0Lartiste & Rim\u2019K)",
+     "title": "J\u2019Suis Comme Toi (Ya Rayah)",
+     "type": "Song",
+     "url": "https://genius.com/John-mamann-jsuis-comme-toi-ya-rayah-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10347152",
+      "body": {
+       "plain": "Clip :\n\nhttps://www.youtube.com/watch?v=T7y_XyulD4E"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10347152,
+      "pinned": false,
+      "share_url": "https://genius.com/10347152",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/10347152/John-mamann-jsuis-comme-toi-ya-rayah/Jsuis-comme-toi-ya-rayah",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3203186",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8a7b8c8e2c6b06944bf63ff0a9211d0c",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8a7b8c8e2c6b06944bf63ff0a9211d0c",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8a7b8c8e2c6b06944bf63ff0a9211d0c",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8a7b8c8e2c6b06944bf63ff0a9211d0c",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/8a7b8c8e2c6b06944bf63ff0a9211d0c",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3203186,
+         "iq": 20843,
+         "login": "Geniraul",
+         "name": "Geniraul",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Geniraul",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/2455",
+     "header_image_url": "https://images.genius.com/34d27c13a57685ff4b4eace37fdaa7c5.1000x176x1.jpg",
+     "id": 2455,
+     "image_url": "https://images.genius.com/9a2a83b2f273befc90d6bc2b594785aa.689x689x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Rim\u2019K",
+     "url": "https://genius.com/artists/Rimk",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/62687",
+     "header_image_url": "https://images.genius.com/b1b7c8a6eda08120a297e2dd0f53775b.599x433x1.png",
+     "id": 62687,
+     "image_url": "https://images.genius.com/5eea14118626e933a39418c43fe0b241.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lartiste",
+     "url": "https://genius.com/artists/Lartiste",
+     "iq": 2575
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Bro_Y8Xt2SY"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/306648",
+    "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+    "id": 306648,
+    "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "John Mamann",
+    "url": "https://genius.com/artists/John-mamann"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/88281",
+     "header_image_url": "https://images.genius.com/60a5a3f43c50dbc87f226431e3f741c9.1000x1000x1.jpg",
+     "id": 88281,
+     "image_url": "https://images.genius.com/60a5a3f43c50dbc87f226431e3f741c9.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "High P",
+     "url": "https://genius.com/artists/High-p"
+    },
+    {
+     "api_path": "/artists/62687",
+     "header_image_url": "https://images.genius.com/b1b7c8a6eda08120a297e2dd0f53775b.599x433x1.png",
+     "id": 62687,
+     "image_url": "https://images.genius.com/5eea14118626e933a39418c43fe0b241.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lartiste",
+     "url": "https://genius.com/artists/Lartiste",
+     "iq": 2575
+    },
+    {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": [
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/1634652",
+       "full_title": "Ya Rayah by\u00a0Rachid\u00a0Taha",
+       "header_image_thumbnail_url": "https://images.genius.com/10b46e8bf5fb5880691be550ffe64264.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/10b46e8bf5fb5880691be550ffe64264.500x500x1.jpg",
+       "id": 1634652,
+       "lyrics_owner_id": 187926,
+       "lyrics_state": "complete",
+       "path": "/Rachid-taha-ya-rayah-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/854c947199e7a224299d9cb3cf383c9e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/854c947199e7a224299d9cb3cf383c9e.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false,
+        "pageviews": 11431
+       },
+       "title": "Ya Rayah",
+       "title_with_featured": "Ya Rayah",
+       "url": "https://genius.com/Rachid-taha-ya-rayah-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/131728",
+        "header_image_url": "https://images.genius.com/0af3f7ffd55b57ca7fe663b192c0428f.910x910x1.jpg",
+        "id": 131728,
+        "image_url": "https://images.genius.com/0af3f7ffd55b57ca7fe663b192c0428f.910x910x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Rachid Taha",
+        "url": "https://genius.com/artists/Rachid-taha"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2455",
+     "header_image_url": "https://images.genius.com/34d27c13a57685ff4b4eace37fdaa7c5.1000x176x1.jpg",
+     "id": 2455,
+     "image_url": "https://images.genius.com/9a2a83b2f273befc90d6bc2b594785aa.689x689x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Rim\u2019K",
+     "url": "https://genius.com/artists/Rimk",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/62687",
+     "header_image_url": "https://images.genius.com/b1b7c8a6eda08120a297e2dd0f53775b.599x433x1.png",
+     "id": 62687,
+     "image_url": "https://images.genius.com/5eea14118626e933a39418c43fe0b241.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lartiste",
+     "url": "https://genius.com/artists/Lartiste",
+     "iq": 2575
+    },
+    {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2116280",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2116280/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2116280' class='rg_embed_link' data-song-id='2116280'>Read <a href='https://genius.com/John-mamann-love-life-english-version-lyrics'>\u201cLove life - english version\u201d by John\u00a0Mamann</a> on Genius</div> <script crossorigin src='//genius.com/songs/2116280/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Love life - english version by\u00a0John\u00a0Mamann",
+   "header_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "id": 2116280,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/John-mamann-love-life-english-version-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Love life - english version",
+   "title_with_featured": "Love life - english version",
+   "url": "https://genius.com/John-mamann-love-life-english-version-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6866772",
+    "classification": "needs_exegesis",
+    "fragment": "Love life - english version",
+    "id": 6866772,
+    "is_description": true,
+    "path": "/6866772/John-mamann-love-life-english-version/Love-life-english-version",
+    "range": {
+     "content": "Love life - english version"
+    },
+    "song_id": 2116280,
+    "url": "https://genius.com/6866772/John-mamann-love-life-english-version/Love-life-english-version",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2116280",
+     "client_timestamps": {
+      "updated_by_human_at": 1446849281,
+      "lyrics_updated_at": 1434138834
+     },
+     "context": "John Mamann",
+     "id": 2116280,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "link_title": "Love life - english version by\u00a0John\u00a0Mamann",
+     "title": "Love life - english version",
+     "type": "Song",
+     "url": "https://genius.com/John-mamann-love-life-english-version-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6866772",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6866772,
+      "pinned": false,
+      "share_url": "https://genius.com/6866772",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6866772/John-mamann-love-life-english-version/Love-life-english-version",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/306648",
+    "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+    "id": 306648,
+    "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "John Mamann",
+    "url": "https://genius.com/artists/John-mamann"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Si tu tombes beaucoup trop bas\nSi tu perds confiance tourne-toi vers moi\nFeel the wind blow softly through my hair\nI'm invincible whenever you are there\n\nEt comme un d\u00e9fi, tu te l\u00e8ves pour aimer la vie\nLove life ( la la la la la... )\nLove life ( la la la la la... )\nIt's you and I ( la la la la la... )\nLove life ( la la la la la... )\n\nSi un chagrin casse ta voix\nPerdue sur les chemins tend une main vers moi\nI feel the sun shine breeze upon my face\nWhen I hear your voice I know I'll be ok\n\nEt comme un d\u00e9fi, tu te l\u00e8ves pour aimer la vie\nLove life ( la la la la la... )\nLove life ( la la la la la... )\nIt's you and I ( la la la la la... )\nLove life ( la la la la la... )\n\nEt pour que tu sois\nToujours plus, Toujours plus forte\nEt que le vend de la vie\nSoul\u00e8ve tes ailes et te transporte\nLove life...\nLove life ( la la la la la... )\n\nLove life ( la la la la la... )\nLove life ( la la la la la... )\nC'est toi et moi ( la la la la la... )\nLove life ( la la la la la... )\n\n( Siffle )"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1814105",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1814105/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1814105' class='rg_embed_link' data-song-id='1814105'>Read <a href='https://genius.com/John-mamann-laissons-les-rever-lyrics'>\u201cLaissons Les R\u00eaver\u201d by John\u00a0Mamann</a> on Genius</div> <script crossorigin src='//genius.com/songs/1814105/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Laissons Les R\u00eaver by\u00a0John\u00a0Mamann",
+   "header_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "id": 1814105,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/John-mamann-laissons-les-rever-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Laissons Les R\u00eaver",
+   "title_with_featured": "Laissons Les R\u00eaver",
+   "url": "https://genius.com/John-mamann-laissons-les-rever-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6426609",
+    "classification": "needs_exegesis",
+    "fragment": "Laissons Les R\u00eaver",
+    "id": 6426609,
+    "is_description": true,
+    "path": "/6426609/John-mamann-laissons-les-rever/Laissons-les-rever",
+    "range": {
+     "content": "Laissons Les R\u00eaver"
+    },
+    "song_id": 1814105,
+    "url": "https://genius.com/6426609/John-mamann-laissons-les-rever/Laissons-les-rever",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1814105",
+     "client_timestamps": {
+      "updated_by_human_at": 1445442065,
+      "lyrics_updated_at": 1431616128
+     },
+     "context": "John Mamann",
+     "id": 1814105,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "link_title": "Laissons Les R\u00eaver by\u00a0John\u00a0Mamann",
+     "title": "Laissons Les R\u00eaver",
+     "type": "Song",
+     "url": "https://genius.com/John-mamann-laissons-les-rever-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6426609",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6426609,
+      "pinned": false,
+      "share_url": "https://genius.com/6426609",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6426609/John-mamann-laissons-les-rever/Laissons-les-rever",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/306648",
+    "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+    "id": 306648,
+    "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "John Mamann",
+    "url": "https://genius.com/artists/John-mamann"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1857667",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1857667/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1857667' class='rg_embed_link' data-song-id='1857667'>Read <a href='https://genius.com/John-mamann-allez-viens-lyrics'>\u201cAllez Viens\u201d by John\u00a0Mamann</a> on Genius</div> <script crossorigin src='//genius.com/songs/1857667/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Allez Viens by\u00a0John\u00a0Mamann",
+   "header_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "id": 1857667,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/John-mamann-allez-viens-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Allez Viens",
+   "title_with_featured": "Allez Viens",
+   "url": "https://genius.com/John-mamann-allez-viens-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/284182",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "John Mamann by John Mamann",
+    "id": 284182,
+    "name": "John Mamann",
+    "url": "https://genius.com/albums/John-mamann/John-mamann",
+    "artist": {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6472141",
+    "classification": "needs_exegesis",
+    "fragment": "Allez Viens",
+    "id": 6472141,
+    "is_description": true,
+    "path": "/6472141/John-mamann-allez-viens/Allez-viens",
+    "range": {
+     "content": "Allez Viens"
+    },
+    "song_id": 1857667,
+    "url": "https://genius.com/6472141/John-mamann-allez-viens/Allez-viens",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1857667",
+     "client_timestamps": {
+      "updated_by_human_at": 1481229858,
+      "lyrics_updated_at": 1431636281
+     },
+     "context": "John Mamann",
+     "id": 1857667,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "link_title": "Allez Viens by\u00a0John\u00a0Mamann",
+     "title": "Allez Viens",
+     "type": "Song",
+     "url": "https://genius.com/John-mamann-allez-viens-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6472141",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6472141,
+      "pinned": false,
+      "share_url": "https://genius.com/6472141",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6472141/John-mamann-allez-viens/Allez-viens",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/306648",
+    "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+    "id": 306648,
+    "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "John Mamann",
+    "url": "https://genius.com/artists/John-mamann"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "D'accord on recommande deux bi\u00e8res\nLes deux derni\u00e8res\nJ'ai ta parole\nSe noyer dans l'alcool\nC'est pas des choses \u00e0 faire\n\nQu'est qu'on fout ici, dis-moi?\nDans l'arri\u00e8re salle d'un bar tabac\nA pleurer sur ton sort\nParce qu'elle t'a mis dehors\n\nAllez viens on prend un bateau\nC'est de quel c\u00f4t\u00e9 Buenos Aires?\nArr\u00eate de faire ton num\u00e9ro\nDe dire que tu vas te foutre en l'air!\nSi tu crois que je vais te laisser faire\nComptes l\u00e0-dessus et bois de l'eau\nMoi qui ai toujours voulu un fr\u00e8re\nJe vais pas te quitter de sit\u00f4t!\n\nPleure pas comme \u00e7a devant tout le monde\nIls vont croire que je t'ai fais de la peine\nC'est pas moi la fausse blonde\nQui t'as jou\u00e9 la grande sc\u00e8ne\n\nQu'est ce qu'on fout ici, crois-moi\nOn serait mieux \u00e0 faire la f\u00eate\nAllez viens on s'en va\nArr\u00eate de faire la t\u00eate!\n\nAllez viens on prend un bateau\nC'est de quel c\u00f4t\u00e9 Buenos Aires?\nArr\u00eate de faire ton num\u00e9ro\nDe dire que tu vas te foutre en l'air!\nSi tu crois que je vais te laisser faire\nComptes l\u00e0-dessus et bois de l'eau\nMoi qui ai toujours voulu un fr\u00e8re\nJe vais pas te quitter de sit\u00f4t!\n\nQu'est ce qu'on fout ici dis-moi?\nY a plus que nous deux et la caissi\u00e8re\nAllez vient on s'en va\nElle \u00e9teint les lumi\u00e8res\n\nAllez viens on prend un bateau\nC'est de quel c\u00f4t\u00e9 Buenos Aires?\nArr\u00eate de faire ton num\u00e9ro\nDe dire que tu vas te foutre en l'air!\nSi tu crois que je vais te laisser faire\nComptes l\u00e0-dessus et bois de l'eau\nMoi qui ai toujours voulu un fr\u00e8re\nJe vais pas te quitter de sit\u00f4t!"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2046306",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2046306/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2046306' class='rg_embed_link' data-song-id='2046306'>Read <a href='https://genius.com/John-mamann-fais-pas-la-gueule-john-lyrics'>\u201cFais Pas La Gueule John\u201d by John\u00a0Mamann</a> on Genius</div> <script crossorigin src='//genius.com/songs/2046306/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Fais Pas La Gueule John by\u00a0John\u00a0Mamann",
+   "header_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "id": 2046306,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/John-mamann-fais-pas-la-gueule-john-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fais Pas La Gueule John",
+   "title_with_featured": "Fais Pas La Gueule John",
+   "url": "https://genius.com/John-mamann-fais-pas-la-gueule-john-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/284182",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "John Mamann by John Mamann",
+    "id": 284182,
+    "name": "John Mamann",
+    "url": "https://genius.com/albums/John-mamann/John-mamann",
+    "artist": {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6785812",
+    "classification": "needs_exegesis",
+    "fragment": "Fais Pas La Gueule John",
+    "id": 6785812,
+    "is_description": true,
+    "path": "/6785812/John-mamann-fais-pas-la-gueule-john/Fais-pas-la-gueule-john",
+    "range": {
+     "content": "Fais Pas La Gueule John"
+    },
+    "song_id": 2046306,
+    "url": "https://genius.com/6785812/John-mamann-fais-pas-la-gueule-john/Fais-pas-la-gueule-john",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2046306",
+     "client_timestamps": {
+      "updated_by_human_at": 1479144180,
+      "lyrics_updated_at": 1433949409
+     },
+     "context": "John Mamann",
+     "id": 2046306,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "link_title": "Fais Pas La Gueule John by\u00a0John\u00a0Mamann",
+     "title": "Fais Pas La Gueule John",
+     "type": "Song",
+     "url": "https://genius.com/John-mamann-fais-pas-la-gueule-john-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6785812",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6785812,
+      "pinned": false,
+      "share_url": "https://genius.com/6785812",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6785812/John-mamann-fais-pas-la-gueule-john/Fais-pas-la-gueule-john",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/306648",
+    "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+    "id": 306648,
+    "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "John Mamann",
+    "url": "https://genius.com/artists/John-mamann"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2046380",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2046380/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2046380' class='rg_embed_link' data-song-id='2046380'>Read <a href='https://genius.com/John-mamann-comment-garder-lamour-lyrics'>\u201cComment Garder L'Amour\u201d by John\u00a0Mamann</a> on Genius</div> <script crossorigin src='//genius.com/songs/2046380/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Comment Garder L'Amour by\u00a0John\u00a0Mamann",
+   "header_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "id": 2046380,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/John-mamann-comment-garder-lamour-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Comment Garder L\u2019Amour",
+   "title_with_featured": "Comment Garder L'Amour",
+   "url": "https://genius.com/John-mamann-comment-garder-lamour-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/284182",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "John Mamann by John Mamann",
+    "id": 284182,
+    "name": "John Mamann",
+    "url": "https://genius.com/albums/John-mamann/John-mamann",
+    "artist": {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6785887",
+    "classification": "needs_exegesis",
+    "fragment": "Comment Garder L\u2019Amour",
+    "id": 6785887,
+    "is_description": true,
+    "path": "/6785887/John-mamann-comment-garder-lamour/Comment-garder-lamour",
+    "range": {
+     "content": "Comment Garder L'Amour"
+    },
+    "song_id": 2046380,
+    "url": "https://genius.com/6785887/John-mamann-comment-garder-lamour/Comment-garder-lamour",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2046380",
+     "client_timestamps": {
+      "updated_by_human_at": 1481225030,
+      "lyrics_updated_at": 1433949426
+     },
+     "context": "John Mamann",
+     "id": 2046380,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "link_title": "Comment Garder L\u2019Amour by\u00a0John\u00a0Mamann",
+     "title": "Comment Garder L'Amour",
+     "type": "Song",
+     "url": "https://genius.com/John-mamann-comment-garder-lamour-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6785887",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6785887,
+      "pinned": false,
+      "share_url": "https://genius.com/6785887",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6785887/John-mamann-comment-garder-lamour/Comment-garder-lamour",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/306648",
+    "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+    "id": 306648,
+    "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "John Mamann",
+    "url": "https://genius.com/artists/John-mamann"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2046431",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2046431/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2046431' class='rg_embed_link' data-song-id='2046431'>Read <a href='https://genius.com/John-mamann-et-alors-lyrics'>\u201cEt Alors\u201d by John\u00a0Mamann</a> on Genius</div> <script crossorigin src='//genius.com/songs/2046431/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Et Alors by\u00a0John\u00a0Mamann",
+   "header_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "id": 2046431,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/John-mamann-et-alors-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Et Alors",
+   "title_with_featured": "Et Alors",
+   "url": "https://genius.com/John-mamann-et-alors-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/284182",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "John Mamann by John Mamann",
+    "id": 284182,
+    "name": "John Mamann",
+    "url": "https://genius.com/albums/John-mamann/John-mamann",
+    "artist": {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6785938",
+    "classification": "needs_exegesis",
+    "fragment": "Et Alors",
+    "id": 6785938,
+    "is_description": true,
+    "path": "/6785938/John-mamann-et-alors/Et-alors",
+    "range": {
+     "content": "Et Alors"
+    },
+    "song_id": 2046431,
+    "url": "https://genius.com/6785938/John-mamann-et-alors/Et-alors",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2046431",
+     "client_timestamps": {
+      "updated_by_human_at": 1477092223,
+      "lyrics_updated_at": 1433949438
+     },
+     "context": "John Mamann",
+     "id": 2046431,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "link_title": "Et Alors by\u00a0John\u00a0Mamann",
+     "title": "Et Alors",
+     "type": "Song",
+     "url": "https://genius.com/John-mamann-et-alors-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6785938",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6785938,
+      "pinned": false,
+      "share_url": "https://genius.com/6785938",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6785938/John-mamann-et-alors/Et-alors",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/306648",
+    "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+    "id": 306648,
+    "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "John Mamann",
+    "url": "https://genius.com/artists/John-mamann"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

@@ -1,0 +1,574 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/373343",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 373343,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Cookie Dingler",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Cookie-dingler",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7090526",
+  "classification": "needs_exegesis",
+  "fragment": "Cookie Dingler",
+  "id": 7090526,
+  "is_description": true,
+  "path": "/7090526/Cookie-dingler/Cookie-dingler",
+  "range": {
+   "content": "Cookie Dingler"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7090526/Cookie-dingler/Cookie-dingler",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/373343",
+   "context": null,
+   "id": 373343,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Cookie Dingler",
+   "title": "Cookie Dingler",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Cookie-dingler"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7090526",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7090526,
+    "pinned": false,
+    "share_url": "https://genius.com/7090526",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7090526/Cookie-dingler/Cookie-dingler",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/975463",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/975463/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_975463' class='rg_embed_link' data-song-id='975463'>Read <a href='https://genius.com/Cookie-dingler-femme-liberee-lyrics'>\u201cFemme Lib\u00e9R\u00e9E\u201d by Cookie\u00a0Dingler</a> on Genius</div> <script crossorigin src='//genius.com/songs/975463/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Femme Lib\u00e9R\u00e9E by\u00a0Cookie\u00a0Dingler",
+   "header_image_thumbnail_url": "https://images.genius.com/43c6bc9424e72c7f7fc2d44e0553702f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/43c6bc9424e72c7f7fc2d44e0553702f.500x500x1.jpg",
+   "id": 975463,
+   "lyrics_owner_id": 3311313,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Cookie-dingler-femme-liberee-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1984-07-01",
+   "release_date_for_display": "July 1, 1984",
+   "song_art_image_thumbnail_url": "https://images.genius.com/43c6bc9424e72c7f7fc2d44e0553702f.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/43c6bc9424e72c7f7fc2d44e0553702f.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Femme Lib\u00e9R\u00e9E",
+   "title_with_featured": "Femme Lib\u00e9R\u00e9E",
+   "url": "https://genius.com/Cookie-dingler-femme-liberee-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5470961",
+    "classification": "needs_exegesis",
+    "fragment": "Femme Lib\u00e9R\u00e9E",
+    "id": 5470961,
+    "is_description": true,
+    "path": "/5470961/Cookie-dingler-femme-liberee/Femme-liberee",
+    "range": {
+     "content": "Femme Lib\u00e9R\u00e9E"
+    },
+    "song_id": 975463,
+    "url": "https://genius.com/5470961/Cookie-dingler-femme-liberee/Femme-liberee",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/975463",
+     "client_timestamps": {
+      "updated_by_human_at": 1585155094,
+      "lyrics_updated_at": 1501418204
+     },
+     "context": "Cookie Dingler",
+     "id": 975463,
+     "image_url": "https://images.genius.com/43c6bc9424e72c7f7fc2d44e0553702f.500x500x1.jpg",
+     "link_title": "Femme Lib\u00e9R\u00e9E by\u00a0Cookie\u00a0Dingler",
+     "title": "Femme Lib\u00e9R\u00e9E",
+     "type": "Song",
+     "url": "https://genius.com/Cookie-dingler-femme-liberee-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5470961",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5470961,
+      "pinned": false,
+      "share_url": "https://genius.com/5470961",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5470961/Cookie-dingler-femme-liberee/Femme-liberee",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=y7Yyrt2I608"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/373343",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 373343,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Cookie Dingler",
+    "url": "https://genius.com/artists/Cookie-dingler"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1914817",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1914817,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Christian Dingler",
+     "url": "https://genius.com/artists/Christian-dingler"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 7,
+       "api_path": "/songs/3583349",
+       "full_title": "Malheur, malheur by\u00a0Gims",
+       "header_image_thumbnail_url": "https://images.genius.com/68302a728a6a2aaffe8c9ed0ddd11fa2.300x298x1.jpg",
+       "header_image_url": "https://images.genius.com/68302a728a6a2aaffe8c9ed0ddd11fa2.1000x992x1.jpg",
+       "id": 3583349,
+       "lyrics_owner_id": 177524,
+       "lyrics_state": "complete",
+       "path": "/Gims-malheur-malheur-lyrics",
+       "pyongs_count": 3,
+       "song_art_image_thumbnail_url": "https://images.genius.com/68302a728a6a2aaffe8c9ed0ddd11fa2.300x298x1.jpg",
+       "song_art_image_url": "https://images.genius.com/68302a728a6a2aaffe8c9ed0ddd11fa2.1000x992x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 7,
+        "hot": false,
+        "pageviews": 37104
+       },
+       "title": "Malheur, malheur",
+       "title_with_featured": "Malheur, malheur",
+       "url": "https://genius.com/Gims-malheur-malheur-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/13325",
+        "header_image_url": "https://images.genius.com/c6602347aee9eff589f6ca98d2331f51.320x180x39.gif",
+        "id": 13325,
+        "image_url": "https://images.genius.com/b4f6c86a9f2369aa253ac210a3d11c85.600x600x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Gims",
+        "url": "https://genius.com/artists/Gims"
+       }
+      },
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/5640302",
+       "full_title": "Mecs de cit\u00e9s by\u00a0Sifax (Ft.\u00a0Sofiane)",
+       "header_image_thumbnail_url": "https://images.genius.com/8a50267a420cb4903499ed22bfea2df3.300x114x1.jpg",
+       "header_image_url": "https://images.genius.com/8a50267a420cb4903499ed22bfea2df3.680x259x1.jpg",
+       "id": 5640302,
+       "lyrics_owner_id": 5428057,
+       "lyrics_state": "complete",
+       "path": "/Sifax-mecs-de-cites-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/f25ed5f3f75dee17c75ae26b376f3876.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f25ed5f3f75dee17c75ae26b376f3876.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 6446
+       },
+       "title": "Mecs de cit\u00e9s",
+       "title_with_featured": "Mecs de cit\u00e9s (Ft.\u00a0Sofiane)",
+       "url": "https://genius.com/Sifax-mecs-de-cites-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1552972",
+        "header_image_url": "https://images.genius.com/49ca025fa54fe530b4368c2df3284809.578x578x1.jpg",
+        "id": 1552972,
+        "image_url": "https://images.genius.com/49ca025fa54fe530b4368c2df3284809.578x578x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sifax",
+        "url": "https://genius.com/artists/Sifax"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Couplet 1]\nElle est abonn\u00e9e \u00e0 Marie Claire\nDans L'nouvel Ob's, elle ne lit que Br\u00e9t\u00e9cher\nLe monde, y a longtemps qu'elle fait plus semblant\nElle achet\u00e9 Match en cachette : c'est bien plus marrant\n\n[Refrain]\nNe la laisse pas tomber\nElle est si fragile\n\u00catre une femme lib\u00e9r\u00e9e, tu sais, c'est pas si facile\n\nNe la laisse pas tomber\nElle est si fragile\n\u00catre une femme lib\u00e9r\u00e9e, tu sais, c'est pas si facile\n\n[Couplet 2]\nAu fond de son lit, un macho s'endort\nQui ne l'aimera pas plus loin que l'aurore\nMais elle s'en fout, elle s'\u00e9clate quand m\u00eame\nEt lui ronronne des tonnes de \"je t'aime\"\n\n[Refrain]\nNe la laisse pas tomber\nElle est si fragile\n\u00catre une femme lib\u00e9r\u00e9e, tu sais, c'est pas si facile\n\nNe la laisse pas tomber\nElle est si fragile\n\u00catre une femme lib\u00e9r\u00e9e, tu sais, c'est pas si facile\n\n[Couplet 3]\nSa premi\u00e8re ride lui fait du souci\nLe reflet du miroir p\u00e8se sur sa vie\nElle rentre son ventre \u00e0 chaque fois qu'elle sort\nM\u00eame dans \"Elle\", ils disent qu'il faut faire un effort\n\n[Refrain]\nNe la laisse pas tomber\nElle est si fragile\nEtre une femme lib\u00e9r\u00e9e, tu sais, c'est pas si facile\n\nNe la laisse pas tomber\nElle est si fragile\nEtre une femme lib\u00e9r\u00e9e, tu sais, c'est pas si facile\n\n[Couplet 4]\nElle fume beaucoup. Elle a des avis sur tout\nElle aime raconter qu'elle sait changer une roue\nElle avoue son \u00e2ge, celui de ses enfants\nEt go\u00fbte m\u00eame un p'tit joint de temps en temps\n\n[Refrain]\nNe la laisse pas tomber\nElle est si fragile\n\u00catre une femme lib\u00e9r\u00e9e, tu sais, c'est pas si facile\n\nNe la laisse pas tomber\nElle est si fragile\n\u00catre une femme lib\u00e9r\u00e9e, tu sais, c'est pas si facile"
+  }
+ ]
+}

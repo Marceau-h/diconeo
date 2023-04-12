@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2369771",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 2369771,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "S\u00e9bastien El Chato",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Sebastien-el-chato",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 11012645,
+  "annotator_login": "CalendulaAsteraceae",
+  "api_path": "/referents/20649608",
+  "classification": "needs_exegesis",
+  "fragment": "S\u00e9bastien El Chato",
+  "id": 20649608,
+  "is_description": true,
+  "path": "/20649608/Sebastien-el-chato/Sebastien-el-chato",
+  "range": {
+   "content": "S\u00e9bastien El Chato"
+  },
+  "song_id": null,
+  "url": "https://genius.com/20649608/Sebastien-el-chato/Sebastien-el-chato",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2369771",
+   "context": null,
+   "id": 2369771,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "S\u00e9bastien El Chato",
+   "title": "S\u00e9bastien El Chato",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Sebastien-el-chato"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/20649608",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 20649608,
+    "pinned": false,
+    "share_url": "https://genius.com/20649608",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/20649608/Sebastien-el-chato/Sebastien-el-chato",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11012645",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4a3711860d79e43a8ba6c008948786a7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4a3711860d79e43a8ba6c008948786a7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4a3711860d79e43a8ba6c008948786a7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4a3711860d79e43a8ba6c008948786a7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/4a3711860d79e43a8ba6c008948786a7",
+       "human_readable_role_for_display": "Contributor",
+       "id": 11012645,
+       "iq": 7367,
+       "login": "CalendulaAsteraceae",
+       "name": "CalendulaAsteraceae",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/CalendulaAsteraceae",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

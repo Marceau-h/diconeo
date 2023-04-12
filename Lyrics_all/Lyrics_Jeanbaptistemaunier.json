@@ -1,0 +1,2889 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/458256",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 458256,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jean-baptiste maunier",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Jean-baptiste-maunier",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7123298",
+  "classification": "needs_exegesis",
+  "fragment": "Jean-baptiste maunier",
+  "id": 7123298,
+  "is_description": true,
+  "path": "/7123298/Jean-baptiste-maunier/Jean-baptiste-maunier",
+  "range": {
+   "content": "Jean-baptiste maunier"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7123298/Jean-baptiste-maunier/Jean-baptiste-maunier",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/458256",
+   "context": null,
+   "id": 458256,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Jean-baptiste maunier",
+   "title": "Jean-baptiste maunier",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jean-baptiste-maunier"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7123298",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7123298,
+    "pinned": false,
+    "share_url": "https://genius.com/7123298",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7123298/Jean-baptiste-maunier/Jean-baptiste-maunier",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3333746",
+   "apple_music_id": "1306455862",
+   "apple_music_player_url": "https://genius.com/songs/3333746/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3333746' class='rg_embed_link' data-song-id='3333746'>Read <a href='https://genius.com/Jean-baptiste-maunier-je-pars-lyrics'>\u201cJe pars\u201d by Jean-baptiste\u00a0maunier</a> on Genius</div> <script crossorigin src='//genius.com/songs/3333746/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Je pars by\u00a0Jean-baptiste\u00a0maunier",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 3333746,
+   "lyrics_owner_id": 5477968,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-baptiste-maunier-je-pars-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2017-11-24",
+   "release_date_for_display": "November 24, 2017",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Je pars",
+   "title_with_featured": "Je pars",
+   "url": "https://genius.com/Jean-baptiste-maunier-je-pars-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/383136",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "Nuits Revolver by Jean-baptiste maunier",
+    "id": 383136,
+    "name": "Nuits Revolver",
+    "url": "https://genius.com/albums/Jean-baptiste-maunier/Nuits-revolver",
+    "artist": {
+     "api_path": "/artists/458256",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 458256,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean-baptiste maunier",
+     "url": "https://genius.com/artists/Jean-baptiste-maunier"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5477968,
+    "annotator_login": "Feanaaro",
+    "api_path": "/referents/13117931",
+    "classification": "needs_exegesis",
+    "fragment": "Je pars",
+    "id": 13117931,
+    "is_description": true,
+    "path": "/13117931/Jean-baptiste-maunier-je-pars/Je-pars",
+    "range": {
+     "content": "Je pars"
+    },
+    "song_id": 3333746,
+    "url": "https://genius.com/13117931/Jean-baptiste-maunier-je-pars/Je-pars",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3333746",
+     "client_timestamps": {
+      "updated_by_human_at": 1511548638,
+      "lyrics_updated_at": 1511548638
+     },
+     "context": "Jean-baptiste maunier",
+     "id": 3333746,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Je pars by\u00a0Jean-baptiste\u00a0maunier",
+     "title": "Je pars",
+     "type": "Song",
+     "url": "https://genius.com/Jean-baptiste-maunier-je-pars-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13117931",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13117931,
+      "pinned": false,
+      "share_url": "https://genius.com/13117931",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13117931/Jean-baptiste-maunier-je-pars/Je-pars",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5477968",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5gcu17jo9f4",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5477968,
+         "iq": 4813,
+         "login": "Feanaaro",
+         "name": "Feanaaro",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Feanaaro",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/458256",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 458256,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean-baptiste maunier",
+    "url": "https://genius.com/artists/Jean-baptiste-maunier"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1266538",
+     "header_image_url": "https://images.genius.com/bcffb4f74d9bfa17c7ca39a5ee607ef1.1000x1000x1.png",
+     "id": 1266538,
+     "image_url": "https://images.genius.com/ae145d389f31c5d50b33bb737ebc8296.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mercury Music Group",
+     "url": "https://genius.com/artists/Mercury-music-group"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2054388",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2054388/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2054388' class='rg_embed_link' data-song-id='2054388'>Read <a href='https://genius.com/Jean-baptiste-maunier-je-reviens-lyrics'>\u201cJe reviens\u201d by Jean-baptiste\u00a0maunier</a> on Genius</div> <script crossorigin src='//genius.com/songs/2054388/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Je reviens by\u00a0Jean-baptiste\u00a0maunier",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 2054388,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-baptiste-maunier-je-reviens-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Je reviens",
+   "title_with_featured": "Je reviens",
+   "url": "https://genius.com/Jean-baptiste-maunier-je-reviens-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6794028",
+    "classification": "needs_exegesis",
+    "fragment": "Je reviens",
+    "id": 6794028,
+    "is_description": true,
+    "path": "/6794028/Jean-baptiste-maunier-je-reviens/Je-reviens",
+    "range": {
+     "content": "Je reviens"
+    },
+    "song_id": 2054388,
+    "url": "https://genius.com/6794028/Jean-baptiste-maunier-je-reviens/Je-reviens",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2054388",
+     "client_timestamps": {
+      "updated_by_human_at": 1446500542,
+      "lyrics_updated_at": 1433951184
+     },
+     "context": "Jean-baptiste maunier",
+     "id": 2054388,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Je reviens by\u00a0Jean-baptiste\u00a0maunier",
+     "title": "Je reviens",
+     "type": "Song",
+     "url": "https://genius.com/Jean-baptiste-maunier-je-reviens-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6794028",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6794028,
+      "pinned": false,
+      "share_url": "https://genius.com/6794028",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6794028/Jean-baptiste-maunier-je-reviens/Je-reviens",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/458256",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 458256,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean-baptiste maunier",
+    "url": "https://genius.com/artists/Jean-baptiste-maunier"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Comme on se retrouve\nComme on se retrouve\nComme on se retrouve seul\nComme on se retrouve\nComme on se retrouve\nComme on se retrouve seul\n\nA passer la nuit dehors\nDans le royaume des remords\nJ'ai peur que tu m'en veuilles\n\nAu d\u00e9part on s\u2019\u00e9gare\nEt pour ne plus se revoir\n\nOh oh oh je reviens\nOh oh oh si tu reviens\nOh oh oh je reviens\nOh oh oh si tu reviens\n\nComme on se retrouve\nComme on se retrouve\nTu m'as manqu\u00e9 jusqu'au sang\n\nNe sommes-nous comme le sable\nDeux \u00eatres friables\nBalay\u00e9s par le vent\n\nOn est loin d\u00e8s l'instant\nQuand on prend de l\u2019\u00e9lan\n\nOh oh oh je reviens\nOh oh oh si tu reviens\nOh oh oh je reviens\nOh oh oh si tu reviens\n\nQuand le coeur split\nQue tout tout va trop vite\nQuand le ciel craque\nTout se d\u00e9traque\n\nJe reviens...\nJe reviens...\n\nOh oh oh je reviens\nOh oh oh si tu reviens\nOh oh oh je reviens\nOh oh oh si tu reviens\n\nOh oh oh l'air de rien\nOh oh oh je me souviens\nOh oh oh l'air de rien\nOh oh oh je redeviens...\n\nJe reviens..."
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3333742",
+   "apple_music_id": "1306455866",
+   "apple_music_player_url": "https://genius.com/songs/3333742/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3333742' class='rg_embed_link' data-song-id='3333742'>Read <a href='https://genius.com/Jean-baptiste-maunier-je-ne-dors-plus-lyrics'>\u201cJe ne dors plus\u201d by Jean-baptiste\u00a0maunier</a> on Genius</div> <script crossorigin src='//genius.com/songs/3333742/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Je ne dors plus by\u00a0Jean-baptiste\u00a0maunier",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 3333742,
+   "lyrics_owner_id": 5477968,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-baptiste-maunier-je-ne-dors-plus-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2017-11-24",
+   "release_date_for_display": "November 24, 2017",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Je ne dors plus",
+   "title_with_featured": "Je ne dors plus",
+   "url": "https://genius.com/Jean-baptiste-maunier-je-ne-dors-plus-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/383136",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "Nuits Revolver by Jean-baptiste maunier",
+    "id": 383136,
+    "name": "Nuits Revolver",
+    "url": "https://genius.com/albums/Jean-baptiste-maunier/Nuits-revolver",
+    "artist": {
+     "api_path": "/artists/458256",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 458256,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean-baptiste maunier",
+     "url": "https://genius.com/artists/Jean-baptiste-maunier"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5477968,
+    "annotator_login": "Feanaaro",
+    "api_path": "/referents/13117921",
+    "classification": "needs_exegesis",
+    "fragment": "Je ne dors plus",
+    "id": 13117921,
+    "is_description": true,
+    "path": "/13117921/Jean-baptiste-maunier-je-ne-dors-plus/Je-ne-dors-plus",
+    "range": {
+     "content": "Je ne dors plus"
+    },
+    "song_id": 3333742,
+    "url": "https://genius.com/13117921/Jean-baptiste-maunier-je-ne-dors-plus/Je-ne-dors-plus",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3333742",
+     "client_timestamps": {
+      "updated_by_human_at": 1511548581,
+      "lyrics_updated_at": 1511548581
+     },
+     "context": "Jean-baptiste maunier",
+     "id": 3333742,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Je ne dors plus by\u00a0Jean-baptiste\u00a0maunier",
+     "title": "Je ne dors plus",
+     "type": "Song",
+     "url": "https://genius.com/Jean-baptiste-maunier-je-ne-dors-plus-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13117921",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13117921,
+      "pinned": false,
+      "share_url": "https://genius.com/13117921",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13117921/Jean-baptiste-maunier-je-ne-dors-plus/Je-ne-dors-plus",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5477968",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5gcu17jo9f4",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5477968,
+         "iq": 4813,
+         "login": "Feanaaro",
+         "name": "Feanaaro",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Feanaaro",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/458256",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 458256,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean-baptiste maunier",
+    "url": "https://genius.com/artists/Jean-baptiste-maunier"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1266538",
+     "header_image_url": "https://images.genius.com/bcffb4f74d9bfa17c7ca39a5ee607ef1.1000x1000x1.png",
+     "id": 1266538,
+     "image_url": "https://images.genius.com/ae145d389f31c5d50b33bb737ebc8296.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mercury Music Group",
+     "url": "https://genius.com/artists/Mercury-music-group"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Je, je ne dors plus depuis que j'ai plus sommeil\nJe fais des shoots de nicotine jusqu'au cri du r\u00e9veil\nLe corps \u00e0 la traine en train de faire semblant\nBlanc c'est blanc est mon teint sous ma grande halog\u00e8ne\n\nJe, je ne dors plus depuis que j'ai plus d'id\u00e9e\nJ'ai troqu\u00e9 tous mes r\u00eaves pour un \u00e9cran t\u00e9l\u00e9\nBousill\u00e9 mes godasses pour ces p\u00e2t\u00e9s de maison\nLaissant mon \u00e9dredon pour la d\u00e9coration\n\nJe ne dors plus\nJe ne dors plus\nJe ne dors plus\nJe ne dors plus\n\nEncore \u00e0 la traine et\nJe, je ne dors plus depuis que j'ai plus d'id\u00e9e\nJ'ai fait le tour du cadran pour un trip solitaire\nEt c'est que du bleu dans le r\u00e9troviseur\nEt je guette patiemment le changement des couleurs\n\nJe ne dors plus\nJe ne dors plus\nJe ne dors plus\nJe ne dors plus\n\nJe ne dors plus\nJe ne dors plus\nJe ne dors plus\nJe ne dors plus\n\nEt moi je ne dors plus\nDepuis j'ai plus de r\u00e9veil\nNan, nan je ne dors plus\nJe crois que j'ai plus sommeil\n\nJe ne dors plus\nJe ne dors plus\nJe ne dors plus\nJe ne dors plus\n\nJe ne dors plus\nJe ne dors plus\nJe suis pris \u00e0 l'essai pour un r\u00f4le noctambule\n\nJe ne dors plus\nJe ne dors plus\nOui j'attends sans remords les fen\u00eatres qui s'allument"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1985673",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1985673/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1985673' class='rg_embed_link' data-song-id='1985673'>Read <a href='https://genius.com/Jean-baptiste-maunier-le-monde-qui-est-le-mien-lyrics'>\u201cLe monde qui est le mien\u201d by Jean-baptiste\u00a0maunier</a> on Genius</div> <script crossorigin src='//genius.com/songs/1985673/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le monde qui est le mien by\u00a0Jean-baptiste\u00a0maunier",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 1985673,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-baptiste-maunier-le-monde-qui-est-le-mien-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le monde qui est le mien",
+   "title_with_featured": "Le monde qui est le mien",
+   "url": "https://genius.com/Jean-baptiste-maunier-le-monde-qui-est-le-mien-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6672672",
+    "classification": "needs_exegesis",
+    "fragment": "Le monde qui est le mien",
+    "id": 6672672,
+    "is_description": true,
+    "path": "/6672672/Jean-baptiste-maunier-le-monde-qui-est-le-mien/Le-monde-qui-est-le-mien",
+    "range": {
+     "content": "Le monde qui est le mien"
+    },
+    "song_id": 1985673,
+    "url": "https://genius.com/6672672/Jean-baptiste-maunier-le-monde-qui-est-le-mien/Le-monde-qui-est-le-mien",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1985673",
+     "client_timestamps": {
+      "updated_by_human_at": 1446158512,
+      "lyrics_updated_at": 1432935455
+     },
+     "context": "Jean-baptiste maunier",
+     "id": 1985673,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Le monde qui est le mien by\u00a0Jean-baptiste\u00a0maunier",
+     "title": "Le monde qui est le mien",
+     "type": "Song",
+     "url": "https://genius.com/Jean-baptiste-maunier-le-monde-qui-est-le-mien-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6672672",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6672672,
+      "pinned": false,
+      "share_url": "https://genius.com/6672672",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6672672/Jean-baptiste-maunier-le-monde-qui-est-le-mien/Le-monde-qui-est-le-mien",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/458256",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 458256,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean-baptiste maunier",
+    "url": "https://genius.com/artists/Jean-baptiste-maunier"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "HERCULE:\nJ'ai souvent r\u00eav\u00e9\nD'un lointain pays\nO\u00f9 tous les gens m'aimeraient comme\nLe plus pr\u00e9cieux des amis\nMilles \u00e9chos de leur joie\nMontent \u00e0 l'infini\nEt leur voix chantent en moi:\nTu es n\u00e9 pour cette vie !\nJe prends le chemin\nDe mon r\u00eave d'enfance\nVers des lendemains\nAu glorieux destin\nParmi les \u00e9toiles\nJe cherche id\u00e9al\nCe monde auquel j'appartiens\nQui est encore, bien loin !\n{Interm\u00e8de musical}\nC'est un beau matin\nPour saisir cette chance\nQui m'emm\u00e8ne au loin\nVers d'autres destins\nAfin qu'en chemin\nJe d\u00e9couvre enfin\nCe que mon coeur cherche en vain:\nLe monde qui est le mien !\n(REPRISE :)\nHERCULE:\nQuelque soit le sort\nJe tiendrai la distance\nJe braverai la mort, hardi, fier et fort\nAu bout du chemin m'attend ma r\u00e9compense\nAu pays des h\u00e9ros qui demain sera le mien !"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3333748",
+   "apple_music_id": "1306455871",
+   "apple_music_player_url": "https://genius.com/songs/3333748/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3333748' class='rg_embed_link' data-song-id='3333748'>Read <a href='https://genius.com/Jean-baptiste-maunier-mendormir-avec-toi-lyrics'>\u201cM'endormir avec toi\u201d by Jean-baptiste\u00a0maunier</a> on Genius</div> <script crossorigin src='//genius.com/songs/3333748/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "M'endormir avec toi by\u00a0Jean-baptiste\u00a0maunier",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 3333748,
+   "lyrics_owner_id": 5477968,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-baptiste-maunier-mendormir-avec-toi-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2017-11-24",
+   "release_date_for_display": "November 24, 2017",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "M\u2019endormir avec toi",
+   "title_with_featured": "M'endormir avec toi",
+   "url": "https://genius.com/Jean-baptiste-maunier-mendormir-avec-toi-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/383136",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "Nuits Revolver by Jean-baptiste maunier",
+    "id": 383136,
+    "name": "Nuits Revolver",
+    "url": "https://genius.com/albums/Jean-baptiste-maunier/Nuits-revolver",
+    "artist": {
+     "api_path": "/artists/458256",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 458256,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean-baptiste maunier",
+     "url": "https://genius.com/artists/Jean-baptiste-maunier"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5477968,
+    "annotator_login": "Feanaaro",
+    "api_path": "/referents/13117936",
+    "classification": "needs_exegesis",
+    "fragment": "M\u2019endormir avec toi",
+    "id": 13117936,
+    "is_description": true,
+    "path": "/13117936/Jean-baptiste-maunier-mendormir-avec-toi/Mendormir-avec-toi",
+    "range": {
+     "content": "M'endormir avec toi"
+    },
+    "song_id": 3333748,
+    "url": "https://genius.com/13117936/Jean-baptiste-maunier-mendormir-avec-toi/Mendormir-avec-toi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3333748",
+     "client_timestamps": {
+      "updated_by_human_at": 1511548702,
+      "lyrics_updated_at": 1511548702
+     },
+     "context": "Jean-baptiste maunier",
+     "id": 3333748,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "M\u2019endormir avec toi by\u00a0Jean-baptiste\u00a0maunier",
+     "title": "M'endormir avec toi",
+     "type": "Song",
+     "url": "https://genius.com/Jean-baptiste-maunier-mendormir-avec-toi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13117936",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13117936,
+      "pinned": false,
+      "share_url": "https://genius.com/13117936",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13117936/Jean-baptiste-maunier-mendormir-avec-toi/Mendormir-avec-toi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5477968",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5gcu17jo9f4",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5477968,
+         "iq": 4813,
+         "login": "Feanaaro",
+         "name": "Feanaaro",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Feanaaro",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/458256",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 458256,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean-baptiste maunier",
+    "url": "https://genius.com/artists/Jean-baptiste-maunier"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1266538",
+     "header_image_url": "https://images.genius.com/bcffb4f74d9bfa17c7ca39a5ee607ef1.1000x1000x1.png",
+     "id": 1266538,
+     "image_url": "https://images.genius.com/ae145d389f31c5d50b33bb737ebc8296.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mercury Music Group",
+     "url": "https://genius.com/artists/Mercury-music-group"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Ind\u00e9cise et ind\u00e9cente\nTon air rebelle me rend fou, un instant\nInsolite ou insolente\nTu joues la belle qui s'en fou, et pourtant\nDu fond des tes yeux noirs\nTon sang froid viens faire sang chaud dans mes veines\nTu joues la m\u00eame histoire, quatres fois par semaine\nEt si la nuit ne viens pas, si la vie ne suffit pas\nJe resterai tout pr\u00e8s, jusqu'au dernier regret je voudrai\nM'endormir avec toi\nEnvout\u00e9 par une m\u00e8che qui tombe le long de ton cou, \u00e0 l'\u00e9paule\nMoi qui flanche comme une fl\u00e8che dans le feu de nos genoux\nQui se fr\u00f4lent\nDu fond de tes yeux noirs\nMon sang froid viens faire sang chaud dans tes veines\nOn s'raconte des histoires, quatres fois par semaine\nEt si la nuit ne viens pas, si la vie ne suffit pas\nJ'essaierai de te plaire\nTraversant les enfers pour te voir\nEt si la nuit n'entend pas\nSi chacun rentre chez soi\nJe resterai tout pr\u00e8s, jusqu'au dernier regret, pourquoi pas\nM'endormir avec toi\nM'endormir avec toi\nEntends le son de ma voix\nL'\u00e9cho du monde ici bas\nEt si la nuit ne viens pas, si chacun rentre chez soi\nJe resterai tout pr\u00e8s, jusqu'au dernier regret je voudrai\nM'endormir avec toi\nEt si la nuit ne viens pas, si chacun rentre chez soi\nSi demain n'arrive pas\nM'endormir avec toi\nEt si la nuit n'entend pas, si chacun rentre soi\nSi demain n'arrive pas\nM'endormir avec toi"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3333728",
+   "apple_music_id": "1306455864",
+   "apple_music_player_url": "https://genius.com/songs/3333728/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3333728' class='rg_embed_link' data-song-id='3333728'>Read <a href='https://genius.com/Jean-baptiste-maunier-les-nuits-revolvers-lyrics'>\u201cLes nuits revolvers\u201d by Jean-baptiste\u00a0maunier</a> on Genius</div> <script crossorigin src='//genius.com/songs/3333728/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Les nuits revolvers by\u00a0Jean-baptiste\u00a0maunier",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 3333728,
+   "lyrics_owner_id": 5477968,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-baptiste-maunier-les-nuits-revolvers-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2017-11-24",
+   "release_date_for_display": "November 24, 2017",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Les nuits revolvers",
+   "title_with_featured": "Les nuits revolvers",
+   "url": "https://genius.com/Jean-baptiste-maunier-les-nuits-revolvers-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/383136",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "Nuits Revolver by Jean-baptiste maunier",
+    "id": 383136,
+    "name": "Nuits Revolver",
+    "url": "https://genius.com/albums/Jean-baptiste-maunier/Nuits-revolver",
+    "artist": {
+     "api_path": "/artists/458256",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 458256,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean-baptiste maunier",
+     "url": "https://genius.com/artists/Jean-baptiste-maunier"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5477968,
+    "annotator_login": "Feanaaro",
+    "api_path": "/referents/13117886",
+    "classification": "needs_exegesis",
+    "fragment": "Les nuits revolvers",
+    "id": 13117886,
+    "is_description": true,
+    "path": "/13117886/Jean-baptiste-maunier-les-nuits-revolvers/Les-nuits-revolvers",
+    "range": {
+     "content": "Les nuits revolvers"
+    },
+    "song_id": 3333728,
+    "url": "https://genius.com/13117886/Jean-baptiste-maunier-les-nuits-revolvers/Les-nuits-revolvers",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3333728",
+     "client_timestamps": {
+      "updated_by_human_at": 1511548422,
+      "lyrics_updated_at": 1511548422
+     },
+     "context": "Jean-baptiste maunier",
+     "id": 3333728,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Les nuits revolvers by\u00a0Jean-baptiste\u00a0maunier",
+     "title": "Les nuits revolvers",
+     "type": "Song",
+     "url": "https://genius.com/Jean-baptiste-maunier-les-nuits-revolvers-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13117886",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13117886,
+      "pinned": false,
+      "share_url": "https://genius.com/13117886",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13117886/Jean-baptiste-maunier-les-nuits-revolvers/Les-nuits-revolvers",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5477968",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5gcu17jo9f4",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5477968,
+         "iq": 4813,
+         "login": "Feanaaro",
+         "name": "Feanaaro",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Feanaaro",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/458256",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 458256,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean-baptiste maunier",
+    "url": "https://genius.com/artists/Jean-baptiste-maunier"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1266538",
+     "header_image_url": "https://images.genius.com/bcffb4f74d9bfa17c7ca39a5ee607ef1.1000x1000x1.png",
+     "id": 1266538,
+     "image_url": "https://images.genius.com/ae145d389f31c5d50b33bb737ebc8296.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mercury Music Group",
+     "url": "https://genius.com/artists/Mercury-music-group"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3333759",
+   "apple_music_id": "1306455872",
+   "apple_music_player_url": "https://genius.com/songs/3333759/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3333759' class='rg_embed_link' data-song-id='3333759'>Read <a href='https://genius.com/Jean-baptiste-maunier-lamour-a-lenvers-lyrics'>\u201cL'amour \u00e0 l'envers\u201d by Jean-baptiste\u00a0maunier</a> on Genius</div> <script crossorigin src='//genius.com/songs/3333759/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "L'amour \u00e0 l'envers by\u00a0Jean-baptiste\u00a0maunier (Ft.\u00a0Leslie\u00a0Medina)",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 3333759,
+   "lyrics_owner_id": 5477968,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-baptiste-maunier-lamour-a-lenvers-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2017-11-24",
+   "release_date_for_display": "November 24, 2017",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "L\u2019amour \u00e0 l\u2019envers",
+   "title_with_featured": "L'amour \u00e0 l'envers (Ft.\u00a0Leslie\u00a0Medina)",
+   "url": "https://genius.com/Jean-baptiste-maunier-lamour-a-lenvers-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/383136",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "Nuits Revolver by Jean-baptiste maunier",
+    "id": 383136,
+    "name": "Nuits Revolver",
+    "url": "https://genius.com/albums/Jean-baptiste-maunier/Nuits-revolver",
+    "artist": {
+     "api_path": "/artists/458256",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 458256,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean-baptiste maunier",
+     "url": "https://genius.com/artists/Jean-baptiste-maunier"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5477968,
+    "annotator_login": "Feanaaro",
+    "api_path": "/referents/13117951",
+    "classification": "needs_exegesis",
+    "fragment": "L\u2019amour \u00e0 l\u2019envers",
+    "id": 13117951,
+    "is_description": true,
+    "path": "/13117951/Jean-baptiste-maunier-lamour-a-lenvers/Lamour-a-lenvers",
+    "range": {
+     "content": "L'amour \u00e0 l'envers"
+    },
+    "song_id": 3333759,
+    "url": "https://genius.com/13117951/Jean-baptiste-maunier-lamour-a-lenvers/Lamour-a-lenvers",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3333759",
+     "client_timestamps": {
+      "updated_by_human_at": 1511549020,
+      "lyrics_updated_at": 1511549005
+     },
+     "context": "Jean-baptiste maunier",
+     "id": 3333759,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "L\u2019amour \u00e0 l\u2019envers by\u00a0Jean-baptiste\u00a0maunier (Ft.\u00a0Leslie\u00a0Medina)",
+     "title": "L'amour \u00e0 l'envers",
+     "type": "Song",
+     "url": "https://genius.com/Jean-baptiste-maunier-lamour-a-lenvers-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13117951",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13117951,
+      "pinned": false,
+      "share_url": "https://genius.com/13117951",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13117951/Jean-baptiste-maunier-lamour-a-lenvers/Lamour-a-lenvers",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5477968",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5gcu17jo9f4",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5477968,
+         "iq": 4813,
+         "login": "Feanaaro",
+         "name": "Feanaaro",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Feanaaro",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/1266543",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1266543,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Leslie Medina",
+     "url": "https://genius.com/artists/Leslie-medina"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/458256",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 458256,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean-baptiste maunier",
+    "url": "https://genius.com/artists/Jean-baptiste-maunier"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1266538",
+     "header_image_url": "https://images.genius.com/bcffb4f74d9bfa17c7ca39a5ee607ef1.1000x1000x1.png",
+     "id": 1266538,
+     "image_url": "https://images.genius.com/ae145d389f31c5d50b33bb737ebc8296.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mercury Music Group",
+     "url": "https://genius.com/artists/Mercury-music-group"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Attendre au bar sans lendemain\nUn jour en plus, un jour en moins\nD'amoureux se tairent\nSuis moi qu'on s'y perde\nAttendre au bar comme en Enfer\nCacher un sourire dans un verre\nD'amour \u00e0 l'envers\nEt je d\u00e9sesp\u00e8re\nD'attendre un corps \u00e0 corps \u00e0 midi\n5 \u00e0 7 et minuit, viens\nJe veux ton corps d'accord \u00e0 midi\n5 \u00e0 7 \u00e0 minuit, j'aime\nEt l'on court un temps pour un leurre\nOn s'oublie pour quelques heures\nToi et moi\nJe te suis pour un temps meilleur\nTiens sourire les soirs o\u00f9 l'envie danse sur moi\nLa nuit quand tu te d\u00e9guises\nOh rends moi, je te m\u00e9prise\nQu'on se foute en l'air\nD'amour \u00e0 l'envers\nLa nuit je veux que tu danses\nJour des vents ou jour de trans\nToujours en avance\nA l'heure o\u00f9 les roses\nNous tendent un corps \u00e0 corps \u00e0 midi\n5 \u00e0 7 et minuit, Viens\nJe veux ton corps \u00e0 corps \u00e0 midi\n5 \u00e0 7 \u00e0 minuit, J'aime\nEt l'on court un temps pour un leurre\nOn s'oublie pour quelques heures\nToi et moi\nJe te suis pour un temps meilleur\nViens sourire le soir o\u00f9 l'envie danse\nSur moi\nEt se dire qu'il n'y a plus d'heures\nCarresser l'envie dans l'heure\nFuis moi\nJe te fuis \u00e0 temps et la leur\nFait sourire les soirs o\u00f9 l'envie danse\nSur moi\nAttendre encore sans lendemain\nUn jour en plus, un jour en moins\nD'amour \u00e0 l'envers\nL'amour \u00e0 l'envers"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3333757",
+   "apple_music_id": "1306455869",
+   "apple_music_player_url": "https://genius.com/songs/3333757/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3333757' class='rg_embed_link' data-song-id='3333757'>Read <a href='https://genius.com/Jean-baptiste-maunier-lily-lyrics'>\u201cLily\u201d by Jean-baptiste\u00a0maunier</a> on Genius</div> <script crossorigin src='//genius.com/songs/3333757/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Lily by\u00a0Jean-baptiste\u00a0maunier",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 3333757,
+   "lyrics_owner_id": 5477968,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-baptiste-maunier-lily-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2017-11-24",
+   "release_date_for_display": "November 24, 2017",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Lily",
+   "title_with_featured": "Lily",
+   "url": "https://genius.com/Jean-baptiste-maunier-lily-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/383136",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "Nuits Revolver by Jean-baptiste maunier",
+    "id": 383136,
+    "name": "Nuits Revolver",
+    "url": "https://genius.com/albums/Jean-baptiste-maunier/Nuits-revolver",
+    "artist": {
+     "api_path": "/artists/458256",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 458256,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean-baptiste maunier",
+     "url": "https://genius.com/artists/Jean-baptiste-maunier"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5477968,
+    "annotator_login": "Feanaaro",
+    "api_path": "/referents/13117949",
+    "classification": "needs_exegesis",
+    "fragment": "Lily",
+    "id": 13117949,
+    "is_description": true,
+    "path": "/13117949/Jean-baptiste-maunier-lily/Lily",
+    "range": {
+     "content": "Lily"
+    },
+    "song_id": 3333757,
+    "url": "https://genius.com/13117949/Jean-baptiste-maunier-lily/Lily",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3333757",
+     "client_timestamps": {
+      "updated_by_human_at": 1511549610,
+      "lyrics_updated_at": 1511549610
+     },
+     "context": "Jean-baptiste maunier",
+     "id": 3333757,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Lily by\u00a0Jean-baptiste\u00a0maunier",
+     "title": "Lily",
+     "type": "Song",
+     "url": "https://genius.com/Jean-baptiste-maunier-lily-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13117949",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13117949,
+      "pinned": false,
+      "share_url": "https://genius.com/13117949",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13117949/Jean-baptiste-maunier-lily/Lily",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5477968",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/34d811ba5451b140527f7fffc43e4219",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5gcu17jo9f4",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5477968,
+         "iq": 4813,
+         "login": "Feanaaro",
+         "name": "Feanaaro",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Feanaaro",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/458256",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 458256,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean-baptiste maunier",
+    "url": "https://genius.com/artists/Jean-baptiste-maunier"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1266538",
+     "header_image_url": "https://images.genius.com/bcffb4f74d9bfa17c7ca39a5ee607ef1.1000x1000x1.png",
+     "id": 1266538,
+     "image_url": "https://images.genius.com/ae145d389f31c5d50b33bb737ebc8296.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mercury Music Group",
+     "url": "https://genius.com/artists/Mercury-music-group"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Au paradis des fous\nLily s'est perdue\nA deux \u00e0 trois on joue\nJe dis l'amour \u00e7a tue\nUn gar\u00e7on, une fille\nJet\u00e9s dans le d\u00e9cor\nLa nuit le temps vacille\nJe dis l'amour \u00e0 tort\nLily\n\nOn se croit toujours au dessus des lois\nA deux, \u00e0 trois on y va\nMon amour h\u00e9las\nCe soir je me lasse\nEt l'on se voit pour un dernier corps \u00e0 corps\nOn croit combattre le sort\nMon amour h\u00e9las\nCe soir tu t'effaces\n\nLe paradis s'en fout\nLily t'a perdu\nEt la ville en dessous\nDe ta peau toute nue\nA deux \u00e0 trois on joue\nC'est une histoire banale\nEt le c\u0153ur \u00e0 genoux\nJe dis l'amour fait mal\nLily\n\nOn se croit toujours au dessus des lois\nA deux, \u00e0 trois on y va\nMon amour h\u00e9las\nCe soir je me lasse\nEt l'on se voit pour un dernier corps \u00e0 corps\nOn croit combattre le sort\nMon amour h\u00e9las\nCe soir tu t'effaces\n\nEt l'on se croit toujours au dessus des lois\nA deux, \u00e0 trois on y va\nMon amour h\u00e9las\nCe soir je me lasse\nEt l'on se voit pour un dernier corps \u00e0 corps\nOn croit combattre le sort\nMon amour j'efface\nLa nuit que t'enlace\n\nAu paradis des fous\nLily  je t'ai perdue"
+  }
+ ]
+}

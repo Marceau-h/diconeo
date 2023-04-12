@@ -1,0 +1,837 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/379630",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/922948df562e57e98b564bcf8c2cdd0f.252x252x1.jpg",
+ "id": 379630,
+ "image_url": "https://images.genius.com/922948df562e57e98b564bcf8c2cdd0f.252x252x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Anne Marie David",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Anne-marie-david",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7096593",
+  "classification": "needs_exegesis",
+  "fragment": "Anne Marie David",
+  "id": 7096593,
+  "is_description": true,
+  "path": "/7096593/Anne-marie-david/Anne-marie-david",
+  "range": {
+   "content": "Anne Marie David"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7096593/Anne-marie-david/Anne-marie-david",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/379630",
+   "context": null,
+   "id": 379630,
+   "image_url": "https://images.genius.com/922948df562e57e98b564bcf8c2cdd0f.252x252x1.jpg",
+   "link_title": "Anne Marie David",
+   "title": "Anne Marie David",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Anne-marie-david"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7096593",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7096593,
+    "pinned": false,
+    "share_url": "https://genius.com/7096593",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7096593/Anne-marie-david/Anne-marie-david",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1105480",
+   "apple_music_id": "986203596",
+   "apple_music_player_url": "https://genius.com/songs/1105480/apple_music_player",
+   "description": {
+    "plain": "Tu Te Reconna\u00eetras est La Chanson pour Anne-Marie David."
+   },
+   "embed_content": "<div id='rg_embed_link_1105480' class='rg_embed_link' data-song-id='1105480'>Read <a href='https://genius.com/Anne-marie-david-tu-te-reconnaitras-lyrics'>\u201cTu te reconna\u00eetras\u201d by Anne\u00a0Marie David</a> on Genius</div> <script crossorigin src='//genius.com/songs/1105480/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tu te reconna\u00eetras by\u00a0Anne\u00a0Marie David",
+   "header_image_thumbnail_url": "https://images.genius.com/5a0c967ea963bd5788f58ad62b5db143.250x253x1.jpg",
+   "header_image_url": "https://images.genius.com/5a0c967ea963bd5788f58ad62b5db143.250x253x1.jpg",
+   "id": 1105480,
+   "lyrics_owner_id": 5697802,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-marie-david-tu-te-reconnaitras-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "1973",
+   "song_art_image_thumbnail_url": "https://images.genius.com/5a0c967ea963bd5788f58ad62b5db143.250x253x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5a0c967ea963bd5788f58ad62b5db143.250x253x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tu te reconna\u00eetras",
+   "title_with_featured": "Tu te reconna\u00eetras",
+   "url": "https://genius.com/Anne-marie-david-tu-te-reconnaitras-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5697802,
+    "annotator_login": "OscarAM02",
+    "api_path": "/referents/5604322",
+    "classification": "unreviewed",
+    "fragment": "Tu te reconna\u00eetras",
+    "id": 5604322,
+    "is_description": true,
+    "path": "/5604322/Anne-marie-david-tu-te-reconnaitras/Tu-te-reconnaitras",
+    "range": {
+     "content": "Tu te reconna\u00eetras"
+    },
+    "song_id": 1105480,
+    "url": "https://genius.com/5604322/Anne-marie-david-tu-te-reconnaitras/Tu-te-reconnaitras",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1105480",
+     "client_timestamps": {
+      "updated_by_human_at": 1585678983,
+      "lyrics_updated_at": 1541540344
+     },
+     "context": "Anne Marie David",
+     "id": 1105480,
+     "image_url": "https://images.genius.com/5a0c967ea963bd5788f58ad62b5db143.250x253x1.jpg",
+     "link_title": "Tu te reconna\u00eetras by\u00a0Anne\u00a0Marie David",
+     "title": "Tu te reconna\u00eetras",
+     "type": "Song",
+     "url": "https://genius.com/Anne-marie-david-tu-te-reconnaitras-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5604322",
+      "body": {
+       "plain": "Tu Te Reconna\u00eetras est La Chanson pour Anne-Marie David."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5604322,
+      "pinned": false,
+      "share_url": "https://genius.com/5604322",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/5604322/Anne-marie-david-tu-te-reconnaitras/Tu-te-reconnaitras",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5697802",
+         "avatar": {
+          "tiny": {
+           "url": "https://i.genius.com/8719c8f17995034d934666fb2b4d6e6cebcf7f1d?url=https%3A%2F%2Flh5.googleusercontent.com%2F-PkCcPyHH9-8%2FAAAAAAAAAAI%2FAAAAAAAAACc%2F9_SCks_10s0%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://i.genius.com/8719c8f17995034d934666fb2b4d6e6cebcf7f1d?url=https%3A%2F%2Flh5.googleusercontent.com%2F-PkCcPyHH9-8%2FAAAAAAAAAAI%2FAAAAAAAAACc%2F9_SCks_10s0%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://i.genius.com/8719c8f17995034d934666fb2b4d6e6cebcf7f1d?url=https%3A%2F%2Flh5.googleusercontent.com%2F-PkCcPyHH9-8%2FAAAAAAAAAAI%2FAAAAAAAAACc%2F9_SCks_10s0%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://i.genius.com/8719c8f17995034d934666fb2b4d6e6cebcf7f1d?url=https%3A%2F%2Flh5.googleusercontent.com%2F-PkCcPyHH9-8%2FAAAAAAAAAAI%2FAAAAAAAAACc%2F9_SCks_10s0%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/i9yw3qu614",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5697802,
+         "iq": 2632,
+         "login": "OscarAM02",
+         "name": "OscarAM02",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/OscarAM02",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=C4OX96fLLjs"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/379630",
+    "header_image_url": "https://images.genius.com/922948df562e57e98b564bcf8c2cdd0f.252x252x1.jpg",
+    "id": 379630,
+    "image_url": "https://images.genius.com/922948df562e57e98b564bcf8c2cdd0f.252x252x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Marie David",
+    "url": "https://genius.com/artists/Anne-marie-david"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1038699",
+     "header_image_url": "https://images.genius.com/5f489cdb584598218dc6f9896b0fac9e.195x195x1.jpg",
+     "id": 1038699,
+     "image_url": "https://images.genius.com/5f489cdb584598218dc6f9896b0fac9e.195x195x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vline Buggy",
+     "url": "https://genius.com/artists/Vline-buggy"
+    },
+    {
+     "api_path": "/artists/1734043",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1734043,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Claude Morgan",
+     "url": "https://genius.com/artists/Claude-morgan"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1827102",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1827102/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1827102' class='rg_embed_link' data-song-id='1827102'>Read <a href='https://genius.com/Anne-marie-david-wonderful-dream-lyrics'>\u201cWonderful Dream\u201d by Anne\u00a0Marie David</a> on Genius</div> <script crossorigin src='//genius.com/songs/1827102/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Wonderful Dream by\u00a0Anne\u00a0Marie David",
+   "header_image_thumbnail_url": "https://images.genius.com/922948df562e57e98b564bcf8c2cdd0f.252x252x1.jpg",
+   "header_image_url": "https://images.genius.com/922948df562e57e98b564bcf8c2cdd0f.252x252x1.jpg",
+   "id": 1827102,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anne-marie-david-wonderful-dream-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/922948df562e57e98b564bcf8c2cdd0f.252x252x1.jpg",
+   "song_art_image_url": "https://images.genius.com/922948df562e57e98b564bcf8c2cdd0f.252x252x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Wonderful Dream",
+   "title_with_featured": "Wonderful Dream",
+   "url": "https://genius.com/Anne-marie-david-wonderful-dream-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6440284",
+    "classification": "needs_exegesis",
+    "fragment": "Wonderful Dream",
+    "id": 6440284,
+    "is_description": true,
+    "path": "/6440284/Anne-marie-david-wonderful-dream/Wonderful-dream",
+    "range": {
+     "content": "Wonderful Dream"
+    },
+    "song_id": 1827102,
+    "url": "https://genius.com/6440284/Anne-marie-david-wonderful-dream/Wonderful-dream",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1827102",
+     "client_timestamps": {
+      "updated_by_human_at": 1445442615,
+      "lyrics_updated_at": 1431622719
+     },
+     "context": "Anne Marie David",
+     "id": 1827102,
+     "image_url": "https://images.genius.com/922948df562e57e98b564bcf8c2cdd0f.252x252x1.jpg",
+     "link_title": "Wonderful Dream by\u00a0Anne\u00a0Marie David",
+     "title": "Wonderful Dream",
+     "type": "Song",
+     "url": "https://genius.com/Anne-marie-david-wonderful-dream-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6440284",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6440284,
+      "pinned": false,
+      "share_url": "https://genius.com/6440284",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6440284/Anne-marie-david-wonderful-dream/Wonderful-dream",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/379630",
+    "header_image_url": "https://images.genius.com/922948df562e57e98b564bcf8c2cdd0f.252x252x1.jpg",
+    "id": 379630,
+    "image_url": "https://images.genius.com/922948df562e57e98b564bcf8c2cdd0f.252x252x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anne Marie David",
+    "url": "https://genius.com/artists/Anne-marie-david"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

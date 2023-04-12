@@ -1,0 +1,4182 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/370924",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 370924,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Arkol",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Arkol",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7088104",
+  "classification": "needs_exegesis",
+  "fragment": "Arkol",
+  "id": 7088104,
+  "is_description": true,
+  "path": "/7088104/Arkol/Arkol",
+  "range": {
+   "content": "Arkol"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7088104/Arkol/Arkol",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/370924",
+   "context": null,
+   "id": 370924,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Arkol",
+   "title": "Arkol",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Arkol"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7088104",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7088104,
+    "pinned": false,
+    "share_url": "https://genius.com/7088104",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7088104/Arkol/Arkol",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1285750",
+   "apple_music_id": "39280802",
+   "apple_music_player_url": "https://genius.com/songs/1285750/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1285750' class='rg_embed_link' data-song-id='1285750'>Read <a href='https://genius.com/Arkol-tout-le-monde-va-bien-a-la-maison-lyrics'>\u201cTout Le Monde Va Bien \u00e0 La Maison ?\u201d by Arkol</a> on Genius</div> <script crossorigin src='//genius.com/songs/1285750/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tout Le Monde Va Bien \u00e0 La Maison ? by\u00a0Arkol",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1285750,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Arkol-tout-le-monde-va-bien-a-la-maison-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tout Le Monde Va Bien \u00e0 La Maison ?",
+   "title_with_featured": "Tout Le Monde Va Bien \u00e0 La Maison ?",
+   "url": "https://genius.com/Arkol-tout-le-monde-va-bien-a-la-maison-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/219190",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vue imprenable by Arkol",
+    "id": 219190,
+    "name": "Vue imprenable",
+    "url": "https://genius.com/albums/Arkol/Vue-imprenable",
+    "artist": {
+     "api_path": "/artists/370924",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370924,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arkol",
+     "url": "https://genius.com/artists/Arkol"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5791561",
+    "classification": "needs_exegesis",
+    "fragment": "Tout Le Monde Va Bien \u00e0 La Maison ?",
+    "id": 5791561,
+    "is_description": true,
+    "path": "/5791561/Arkol-tout-le-monde-va-bien-a-la-maison/Tout-le-monde-va-bien-a-la-maison",
+    "range": {
+     "content": "Tout Le Monde Va Bien \u00e0 La Maison ?"
+    },
+    "song_id": 1285750,
+    "url": "https://genius.com/5791561/Arkol-tout-le-monde-va-bien-a-la-maison/Tout-le-monde-va-bien-a-la-maison",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1285750",
+     "client_timestamps": {
+      "updated_by_human_at": 1481240057,
+      "lyrics_updated_at": 1429743934
+     },
+     "context": "Arkol",
+     "id": 1285750,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Tout Le Monde Va Bien \u00e0 La Maison ? by\u00a0Arkol",
+     "title": "Tout Le Monde Va Bien \u00e0 La Maison ?",
+     "type": "Song",
+     "url": "https://genius.com/Arkol-tout-le-monde-va-bien-a-la-maison-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5791561",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5791561,
+      "pinned": false,
+      "share_url": "https://genius.com/5791561",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5791561/Arkol-tout-le-monde-va-bien-a-la-maison/Tout-le-monde-va-bien-a-la-maison",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370924",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370924,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Arkol",
+    "url": "https://genius.com/artists/Arkol"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1374759",
+   "apple_music_id": "39280778",
+   "apple_music_player_url": "https://genius.com/songs/1374759/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1374759' class='rg_embed_link' data-song-id='1374759'>Read <a href='https://genius.com/Arkol-ya-des-jours-lyrics'>\u201cYA Des Jours\u201d by Arkol</a> on Genius</div> <script crossorigin src='//genius.com/songs/1374759/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "YA Des Jours by\u00a0Arkol",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1374759,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Arkol-ya-des-jours-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "YA Des Jours",
+   "title_with_featured": "YA Des Jours",
+   "url": "https://genius.com/Arkol-ya-des-jours-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/219190",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vue imprenable by Arkol",
+    "id": 219190,
+    "name": "Vue imprenable",
+    "url": "https://genius.com/albums/Arkol/Vue-imprenable",
+    "artist": {
+     "api_path": "/artists/370924",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370924,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arkol",
+     "url": "https://genius.com/artists/Arkol"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5882787",
+    "classification": "needs_exegesis",
+    "fragment": "YA Des Jours",
+    "id": 5882787,
+    "is_description": true,
+    "path": "/5882787/Arkol-ya-des-jours/Ya-des-jours",
+    "range": {
+     "content": "YA Des Jours"
+    },
+    "song_id": 1374759,
+    "url": "https://genius.com/5882787/Arkol-ya-des-jours/Ya-des-jours",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1374759",
+     "client_timestamps": {
+      "updated_by_human_at": 1481761119,
+      "lyrics_updated_at": 1429795608
+     },
+     "context": "Arkol",
+     "id": 1374759,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "YA Des Jours by\u00a0Arkol",
+     "title": "YA Des Jours",
+     "type": "Song",
+     "url": "https://genius.com/Arkol-ya-des-jours-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5882787",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5882787,
+      "pinned": false,
+      "share_url": "https://genius.com/5882787",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5882787/Arkol-ya-des-jours/Ya-des-jours",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370924",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370924,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Arkol",
+    "url": "https://genius.com/artists/Arkol"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/995998",
+   "apple_music_id": "39280794",
+   "apple_music_player_url": "https://genius.com/songs/995998/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_995998' class='rg_embed_link' data-song-id='995998'>Read <a href='https://genius.com/Arkol-margot-lyrics'>\u201cMargot\u201d by Arkol</a> on Genius</div> <script crossorigin src='//genius.com/songs/995998/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Margot by\u00a0Arkol",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 995998,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Arkol-margot-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Margot",
+   "title_with_featured": "Margot",
+   "url": "https://genius.com/Arkol-margot-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/219190",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vue imprenable by Arkol",
+    "id": 219190,
+    "name": "Vue imprenable",
+    "url": "https://genius.com/albums/Arkol/Vue-imprenable",
+    "artist": {
+     "api_path": "/artists/370924",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370924,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arkol",
+     "url": "https://genius.com/artists/Arkol"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5492239",
+    "classification": "needs_exegesis",
+    "fragment": "Margot",
+    "id": 5492239,
+    "is_description": true,
+    "path": "/5492239/Arkol-margot/Margot",
+    "range": {
+     "content": "Margot"
+    },
+    "song_id": 995998,
+    "url": "https://genius.com/5492239/Arkol-margot/Margot",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/995998",
+     "client_timestamps": {
+      "updated_by_human_at": 1479245460,
+      "lyrics_updated_at": 1429579393
+     },
+     "context": "Arkol",
+     "id": 995998,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Margot by\u00a0Arkol",
+     "title": "Margot",
+     "type": "Song",
+     "url": "https://genius.com/Arkol-margot-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5492239",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5492239,
+      "pinned": false,
+      "share_url": "https://genius.com/5492239",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5492239/Arkol-margot/Margot",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370924",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370924,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Arkol",
+    "url": "https://genius.com/artists/Arkol"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1249776",
+   "apple_music_id": "39280788",
+   "apple_music_player_url": "https://genius.com/songs/1249776/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1249776' class='rg_embed_link' data-song-id='1249776'>Read <a href='https://genius.com/Arkol-triviale-poursuite-lyrics'>\u201cTriviale Poursuite\u201d by Arkol</a> on Genius</div> <script crossorigin src='//genius.com/songs/1249776/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Triviale Poursuite by\u00a0Arkol",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1249776,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Arkol-triviale-poursuite-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Triviale Poursuite",
+   "title_with_featured": "Triviale Poursuite",
+   "url": "https://genius.com/Arkol-triviale-poursuite-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/219190",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vue imprenable by Arkol",
+    "id": 219190,
+    "name": "Vue imprenable",
+    "url": "https://genius.com/albums/Arkol/Vue-imprenable",
+    "artist": {
+     "api_path": "/artists/370924",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370924,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arkol",
+     "url": "https://genius.com/artists/Arkol"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5753844",
+    "classification": "needs_exegesis",
+    "fragment": "Triviale Poursuite",
+    "id": 5753844,
+    "is_description": true,
+    "path": "/5753844/Arkol-triviale-poursuite/Triviale-poursuite",
+    "range": {
+     "content": "Triviale Poursuite"
+    },
+    "song_id": 1249776,
+    "url": "https://genius.com/5753844/Arkol-triviale-poursuite/Triviale-poursuite",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1249776",
+     "client_timestamps": {
+      "updated_by_human_at": 1481221228,
+      "lyrics_updated_at": 1429721124
+     },
+     "context": "Arkol",
+     "id": 1249776,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Triviale Poursuite by\u00a0Arkol",
+     "title": "Triviale Poursuite",
+     "type": "Song",
+     "url": "https://genius.com/Arkol-triviale-poursuite-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5753844",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5753844,
+      "pinned": false,
+      "share_url": "https://genius.com/5753844",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5753844/Arkol-triviale-poursuite/Triviale-poursuite",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370924",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370924,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Arkol",
+    "url": "https://genius.com/artists/Arkol"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1407311",
+   "apple_music_id": "39280792",
+   "apple_music_player_url": "https://genius.com/songs/1407311/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1407311' class='rg_embed_link' data-song-id='1407311'>Read <a href='https://genius.com/Arkol-de-quoi-on-a-lair-lyrics'>\u201cDe Quoi On A LAir\u201d by Arkol</a> on Genius</div> <script crossorigin src='//genius.com/songs/1407311/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "De Quoi On A LAir by\u00a0Arkol",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1407311,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Arkol-de-quoi-on-a-lair-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "De Quoi On A LAir",
+   "title_with_featured": "De Quoi On A LAir",
+   "url": "https://genius.com/Arkol-de-quoi-on-a-lair-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/219190",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vue imprenable by Arkol",
+    "id": 219190,
+    "name": "Vue imprenable",
+    "url": "https://genius.com/albums/Arkol/Vue-imprenable",
+    "artist": {
+     "api_path": "/artists/370924",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370924,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arkol",
+     "url": "https://genius.com/artists/Arkol"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5918128",
+    "classification": "needs_exegesis",
+    "fragment": "De Quoi On A LAir",
+    "id": 5918128,
+    "is_description": true,
+    "path": "/5918128/Arkol-de-quoi-on-a-lair/De-quoi-on-a-lair",
+    "range": {
+     "content": "De Quoi On A LAir"
+    },
+    "song_id": 1407311,
+    "url": "https://genius.com/5918128/Arkol-de-quoi-on-a-lair/De-quoi-on-a-lair",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1407311",
+     "client_timestamps": {
+      "updated_by_human_at": 1477008961,
+      "lyrics_updated_at": 1429825852
+     },
+     "context": "Arkol",
+     "id": 1407311,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "De Quoi On A LAir by\u00a0Arkol",
+     "title": "De Quoi On A LAir",
+     "type": "Song",
+     "url": "https://genius.com/Arkol-de-quoi-on-a-lair-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5918128",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5918128,
+      "pinned": false,
+      "share_url": "https://genius.com/5918128",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5918128/Arkol-de-quoi-on-a-lair/De-quoi-on-a-lair",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370924",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370924,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Arkol",
+    "url": "https://genius.com/artists/Arkol"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Assis sur un banc le nez en l'air\nA m\u00e9diter sur le temple de l'\u00e9ph\u00e9m\u00e8re\n\"A regarder les camions, attendre notre bus\"\n\"Et crachent les chemin\u00e9es,\"\nProductivit\u00e9 toujours plus\n\n\"De quoi on a l'air, l'air de rien\"\n\"De quoi on a l'air, l'air de rien\"\n\nAssis sur un banc les pieds dans la poussi\u00e8re\nA respirer la m\u00eame bonbonne d'air\nA regarder les fauch\u00e9s s'essoufler peu \u00e0 peu\n\"Et crachent les chemin\u00e9es,\"\nProductivit\u00e9 toujours plus\n\nDe quoi on a l'air, l'air de rien\nDe quoi on a l'air, l'air de rien\n\nAssis sur un banc...\nPuis face contre terre"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1610090",
+   "apple_music_id": "39280790",
+   "apple_music_player_url": "https://genius.com/songs/1610090/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1610090' class='rg_embed_link' data-song-id='1610090'>Read <a href='https://genius.com/Arkol-remboursez-lyrics'>\u201cRemboursez\u201d by Arkol</a> on Genius</div> <script crossorigin src='//genius.com/songs/1610090/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Remboursez by\u00a0Arkol",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1610090,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Arkol-remboursez-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Remboursez",
+   "title_with_featured": "Remboursez",
+   "url": "https://genius.com/Arkol-remboursez-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/219190",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vue imprenable by Arkol",
+    "id": 219190,
+    "name": "Vue imprenable",
+    "url": "https://genius.com/albums/Arkol/Vue-imprenable",
+    "artist": {
+     "api_path": "/artists/370924",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370924,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arkol",
+     "url": "https://genius.com/artists/Arkol"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6124883",
+    "classification": "needs_exegesis",
+    "fragment": "Remboursez",
+    "id": 6124883,
+    "is_description": true,
+    "path": "/6124883/Arkol-remboursez/Remboursez",
+    "range": {
+     "content": "Remboursez"
+    },
+    "song_id": 1610090,
+    "url": "https://genius.com/6124883/Arkol-remboursez/Remboursez",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1610090",
+     "client_timestamps": {
+      "updated_by_human_at": 1479313827,
+      "lyrics_updated_at": 1429899803
+     },
+     "context": "Arkol",
+     "id": 1610090,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Remboursez by\u00a0Arkol",
+     "title": "Remboursez",
+     "type": "Song",
+     "url": "https://genius.com/Arkol-remboursez-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6124883",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6124883,
+      "pinned": false,
+      "share_url": "https://genius.com/6124883",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6124883/Arkol-remboursez/Remboursez",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370924",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370924,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Arkol",
+    "url": "https://genius.com/artists/Arkol"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "O\u00f9 sont les lacs, les rivi\u00e8res, les prairies, le ciel bleu\nQue l'on m'avait promis ?\nO\u00f9 sont les hommes de bonne volont\u00e9 les mains tendues\nLorsqu'ils sont \u00e9lus ?\n\nO\u00f9 sont les dieux protecteurs\nLes gentils qui gagnent \u00e0 la fin\nLes marchands de bonheur\nLes meilleurs lendemains ?\n\n\"Remboursez, remboursez\"\nJ'ouvre les yeux ne voit rien\nQu'un monde qui n'est pas le mien\n\"Remboursez, remboursez\"\nPour des milliards d'abonn\u00e9s\nO\u00f9 les derniers s'ront bons derniers\n\nO\u00f9 sont nos belles \u00e9tudes, \"passe ton bac, et apr\u00e8s...\"\nQue l'on m'avait vendu ?\nO\u00f9 sont les grandes promesses \"nous deux c'est pas pareil\"\nQue tu m'avais cri\u00e9 ?\n\nO\u00f9 est l'amour sans latex ?\n\"Partag\u00e9, prot\u00e9g\u00e9, vaccin\u00e9\"!\nLes marchands de bonheur\nLes meilleurs sinon rien\n\n\"Remboursez, remboursez\"\nJ'ouvre les yeux ne voit rien\nQu'un monde qui n'est pas le mien\n\"Remboursez, remboursez\"\nPour des milliards d'abonn\u00e9s\nO\u00f9 les derniers s'ront bons derniers\n\n\"Remboursez, remboursez\"\nJ'ouvre les yeux ne voit rien\nQu'un monde qui n'est pas le mien\n\"Remboursez, remboursez\"\nPour des milliards d'abonn\u00e9s\nO\u00f9 les derniers s'ront bons derniers\n\n\"Remboursez, remboursez\"\nJ'ouvre les yeux ne voit rien\nQu'un monde bien trop maquill\u00e9!\n\"Remboursez, remboursez\"\nLe spectacle est termin\u00e9\nSatisfait ou rembours\u00e9!\n\nRemboursez\nRemboursez\nRemboursez"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1012422",
+   "apple_music_id": "39280800",
+   "apple_music_player_url": "https://genius.com/songs/1012422/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1012422' class='rg_embed_link' data-song-id='1012422'>Read <a href='https://genius.com/Arkol-incertain-lyrics'>\u201cIncertain\u201d by Arkol</a> on Genius</div> <script crossorigin src='//genius.com/songs/1012422/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Incertain by\u00a0Arkol",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1012422,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Arkol-incertain-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Incertain",
+   "title_with_featured": "Incertain",
+   "url": "https://genius.com/Arkol-incertain-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/219190",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vue imprenable by Arkol",
+    "id": 219190,
+    "name": "Vue imprenable",
+    "url": "https://genius.com/albums/Arkol/Vue-imprenable",
+    "artist": {
+     "api_path": "/artists/370924",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370924,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arkol",
+     "url": "https://genius.com/artists/Arkol"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5509121",
+    "classification": "needs_exegesis",
+    "fragment": "Incertain",
+    "id": 5509121,
+    "is_description": true,
+    "path": "/5509121/Arkol-incertain/Incertain",
+    "range": {
+     "content": "Incertain"
+    },
+    "song_id": 1012422,
+    "url": "https://genius.com/5509121/Arkol-incertain/Incertain",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1012422",
+     "client_timestamps": {
+      "updated_by_human_at": 1479267764,
+      "lyrics_updated_at": 1429588492
+     },
+     "context": "Arkol",
+     "id": 1012422,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Incertain by\u00a0Arkol",
+     "title": "Incertain",
+     "type": "Song",
+     "url": "https://genius.com/Arkol-incertain-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5509121",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5509121,
+      "pinned": false,
+      "share_url": "https://genius.com/5509121",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5509121/Arkol-incertain/Incertain",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370924",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370924,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Arkol",
+    "url": "https://genius.com/artists/Arkol"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/977195",
+   "apple_music_id": "39280780",
+   "apple_music_player_url": "https://genius.com/songs/977195/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_977195' class='rg_embed_link' data-song-id='977195'>Read <a href='https://genius.com/Arkol-jai-change-davis-lyrics'>\u201cJAi Chang\u00e9 DAvis\u201d by Arkol</a> on Genius</div> <script crossorigin src='//genius.com/songs/977195/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "JAi Chang\u00e9 DAvis by\u00a0Arkol",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 977195,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Arkol-jai-change-davis-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "JAi Chang\u00e9 DAvis",
+   "title_with_featured": "JAi Chang\u00e9 DAvis",
+   "url": "https://genius.com/Arkol-jai-change-davis-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/219190",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vue imprenable by Arkol",
+    "id": 219190,
+    "name": "Vue imprenable",
+    "url": "https://genius.com/albums/Arkol/Vue-imprenable",
+    "artist": {
+     "api_path": "/artists/370924",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370924,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arkol",
+     "url": "https://genius.com/artists/Arkol"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5472754",
+    "classification": "needs_exegesis",
+    "fragment": "JAi Chang\u00e9 DAvis",
+    "id": 5472754,
+    "is_description": true,
+    "path": "/5472754/Arkol-jai-change-davis/Jai-change-davis",
+    "range": {
+     "content": "JAi Chang\u00e9 DAvis"
+    },
+    "song_id": 977195,
+    "url": "https://genius.com/5472754/Arkol-jai-change-davis/Jai-change-davis",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/977195",
+     "client_timestamps": {
+      "updated_by_human_at": 1479324237,
+      "lyrics_updated_at": 1429568891
+     },
+     "context": "Arkol",
+     "id": 977195,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "JAi Chang\u00e9 DAvis by\u00a0Arkol",
+     "title": "JAi Chang\u00e9 DAvis",
+     "type": "Song",
+     "url": "https://genius.com/Arkol-jai-change-davis-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5472754",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5472754,
+      "pinned": false,
+      "share_url": "https://genius.com/5472754",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5472754/Arkol-jai-change-davis/Jai-change-davis",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370924",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370924,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Arkol",
+    "url": "https://genius.com/artists/Arkol"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1733152",
+   "apple_music_id": "39280786",
+   "apple_music_player_url": "https://genius.com/songs/1733152/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1733152' class='rg_embed_link' data-song-id='1733152'>Read <a href='https://genius.com/Arkol-jentends-la-mer-lyrics'>\u201cJEntends La Mer\u201d by Arkol</a> on Genius</div> <script crossorigin src='//genius.com/songs/1733152/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "JEntends La Mer by\u00a0Arkol",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1733152,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Arkol-jentends-la-mer-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "JEntends La Mer",
+   "title_with_featured": "JEntends La Mer",
+   "url": "https://genius.com/Arkol-jentends-la-mer-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/219190",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vue imprenable by Arkol",
+    "id": 219190,
+    "name": "Vue imprenable",
+    "url": "https://genius.com/albums/Arkol/Vue-imprenable",
+    "artist": {
+     "api_path": "/artists/370924",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370924,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arkol",
+     "url": "https://genius.com/artists/Arkol"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6248472",
+    "classification": "needs_exegesis",
+    "fragment": "JEntends La Mer",
+    "id": 6248472,
+    "is_description": true,
+    "path": "/6248472/Arkol-jentends-la-mer/Jentends-la-mer",
+    "range": {
+     "content": "JEntends La Mer"
+    },
+    "song_id": 1733152,
+    "url": "https://genius.com/6248472/Arkol-jentends-la-mer/Jentends-la-mer",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1733152",
+     "client_timestamps": {
+      "updated_by_human_at": 1473449776,
+      "lyrics_updated_at": 1429906481
+     },
+     "context": "Arkol",
+     "id": 1733152,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "JEntends La Mer by\u00a0Arkol",
+     "title": "JEntends La Mer",
+     "type": "Song",
+     "url": "https://genius.com/Arkol-jentends-la-mer-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6248472",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6248472,
+      "pinned": false,
+      "share_url": "https://genius.com/6248472",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6248472/Arkol-jentends-la-mer/Jentends-la-mer",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370924",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370924,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Arkol",
+    "url": "https://genius.com/artists/Arkol"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/945804",
+   "apple_music_id": "39280804",
+   "apple_music_player_url": "https://genius.com/songs/945804/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_945804' class='rg_embed_link' data-song-id='945804'>Read <a href='https://genius.com/Arkol-extralucide-girl-lyrics'>\u201cExtralucide Girl\u201d by Arkol</a> on Genius</div> <script crossorigin src='//genius.com/songs/945804/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Extralucide Girl by\u00a0Arkol",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 945804,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Arkol-extralucide-girl-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Extralucide Girl",
+   "title_with_featured": "Extralucide Girl",
+   "url": "https://genius.com/Arkol-extralucide-girl-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/219190",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vue imprenable by Arkol",
+    "id": 219190,
+    "name": "Vue imprenable",
+    "url": "https://genius.com/albums/Arkol/Vue-imprenable",
+    "artist": {
+     "api_path": "/artists/370924",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370924,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arkol",
+     "url": "https://genius.com/artists/Arkol"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5439435",
+    "classification": "needs_exegesis",
+    "fragment": "Extralucide Girl",
+    "id": 5439435,
+    "is_description": true,
+    "path": "/5439435/Arkol-extralucide-girl/Extralucide-girl",
+    "range": {
+     "content": "Extralucide Girl"
+    },
+    "song_id": 945804,
+    "url": "https://genius.com/5439435/Arkol-extralucide-girl/Extralucide-girl",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/945804",
+     "client_timestamps": {
+      "updated_by_human_at": 1479256417,
+      "lyrics_updated_at": 1429544164
+     },
+     "context": "Arkol",
+     "id": 945804,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Extralucide Girl by\u00a0Arkol",
+     "title": "Extralucide Girl",
+     "type": "Song",
+     "url": "https://genius.com/Arkol-extralucide-girl-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5439435",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5439435,
+      "pinned": false,
+      "share_url": "https://genius.com/5439435",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5439435/Arkol-extralucide-girl/Extralucide-girl",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370924",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370924,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Arkol",
+    "url": "https://genius.com/artists/Arkol"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1633020",
+   "apple_music_id": "39280798",
+   "apple_music_player_url": "https://genius.com/songs/1633020/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1633020' class='rg_embed_link' data-song-id='1633020'>Read <a href='https://genius.com/Arkol-lenvol-lyrics'>\u201cLEnvol\u201d by Arkol</a> on Genius</div> <script crossorigin src='//genius.com/songs/1633020/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "LEnvol by\u00a0Arkol",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1633020,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Arkol-lenvol-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "LEnvol",
+   "title_with_featured": "LEnvol",
+   "url": "https://genius.com/Arkol-lenvol-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/219190",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vue imprenable by Arkol",
+    "id": 219190,
+    "name": "Vue imprenable",
+    "url": "https://genius.com/albums/Arkol/Vue-imprenable",
+    "artist": {
+     "api_path": "/artists/370924",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370924,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arkol",
+     "url": "https://genius.com/artists/Arkol"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6147878",
+    "classification": "needs_exegesis",
+    "fragment": "LEnvol",
+    "id": 6147878,
+    "is_description": true,
+    "path": "/6147878/Arkol-lenvol/Lenvol",
+    "range": {
+     "content": "LEnvol"
+    },
+    "song_id": 1633020,
+    "url": "https://genius.com/6147878/Arkol-lenvol/Lenvol",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1633020",
+     "client_timestamps": {
+      "updated_by_human_at": 1481212517,
+      "lyrics_updated_at": 1429901003
+     },
+     "context": "Arkol",
+     "id": 1633020,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "LEnvol by\u00a0Arkol",
+     "title": "LEnvol",
+     "type": "Song",
+     "url": "https://genius.com/Arkol-lenvol-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6147878",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6147878,
+      "pinned": false,
+      "share_url": "https://genius.com/6147878",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6147878/Arkol-lenvol/Lenvol",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370924",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370924,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Arkol",
+    "url": "https://genius.com/artists/Arkol"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1355477",
+   "apple_music_id": "39280784",
+   "apple_music_player_url": "https://genius.com/songs/1355477/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1355477' class='rg_embed_link' data-song-id='1355477'>Read <a href='https://genius.com/Arkol-vingt-ans-lyrics'>\u201cVingt Ans\u201d by Arkol</a> on Genius</div> <script crossorigin src='//genius.com/songs/1355477/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Vingt Ans by\u00a0Arkol",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1355477,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Arkol-vingt-ans-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vingt Ans",
+   "title_with_featured": "Vingt Ans",
+   "url": "https://genius.com/Arkol-vingt-ans-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/219190",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vue imprenable by Arkol",
+    "id": 219190,
+    "name": "Vue imprenable",
+    "url": "https://genius.com/albums/Arkol/Vue-imprenable",
+    "artist": {
+     "api_path": "/artists/370924",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370924,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arkol",
+     "url": "https://genius.com/artists/Arkol"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5862956",
+    "classification": "needs_exegesis",
+    "fragment": "Vingt Ans",
+    "id": 5862956,
+    "is_description": true,
+    "path": "/5862956/Arkol-vingt-ans/Vingt-ans",
+    "range": {
+     "content": "Vingt Ans"
+    },
+    "song_id": 1355477,
+    "url": "https://genius.com/5862956/Arkol-vingt-ans/Vingt-ans",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1355477",
+     "client_timestamps": {
+      "updated_by_human_at": 1477013861,
+      "lyrics_updated_at": 1429778738
+     },
+     "context": "Arkol",
+     "id": 1355477,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Vingt Ans by\u00a0Arkol",
+     "title": "Vingt Ans",
+     "type": "Song",
+     "url": "https://genius.com/Arkol-vingt-ans-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5862956",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5862956,
+      "pinned": false,
+      "share_url": "https://genius.com/5862956",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5862956/Arkol-vingt-ans/Vingt-ans",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370924",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370924,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Arkol",
+    "url": "https://genius.com/artists/Arkol"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

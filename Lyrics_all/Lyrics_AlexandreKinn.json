@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1023788",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 1023788,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Alexandre Kinn",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Alexandre-kinn",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2171344,
+  "annotator_login": "Crackar",
+  "api_path": "/referents/10743385",
+  "classification": "needs_exegesis",
+  "fragment": "Alexandre Kinn",
+  "id": 10743385,
+  "is_description": true,
+  "path": "/10743385/Alexandre-kinn/Alexandre-kinn",
+  "range": {
+   "content": "Alexandre Kinn"
+  },
+  "song_id": null,
+  "url": "https://genius.com/10743385/Alexandre-kinn/Alexandre-kinn",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1023788",
+   "context": null,
+   "id": 1023788,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Alexandre Kinn",
+   "title": "Alexandre Kinn",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Alexandre-kinn"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/10743385",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 10743385,
+    "pinned": false,
+    "share_url": "https://genius.com/10743385",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/10743385/Alexandre-kinn/Alexandre-kinn",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2171344",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/2925bf00f88d2d073df564add50ac55f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/2925bf00f88d2d073df564add50ac55f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/2925bf00f88d2d073df564add50ac55f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/2925bf00f88d2d073df564add50ac55f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/5b4e37ae61c822095267b1d60445dffa.250x209x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 2171344,
+       "iq": 876662,
+       "login": "Crackar",
+       "name": "\u200bcrackar",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Crackar",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

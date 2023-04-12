@@ -1,0 +1,2524 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/365350",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 365350,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Viktor Lazlo",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Viktor-lazlo",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7083495",
+  "classification": "needs_exegesis",
+  "fragment": "Viktor Lazlo",
+  "id": 7083495,
+  "is_description": true,
+  "path": "/7083495/Viktor-lazlo/Viktor-lazlo",
+  "range": {
+   "content": "Viktor Lazlo"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7083495/Viktor-lazlo/Viktor-lazlo",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/365350",
+   "context": null,
+   "id": 365350,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Viktor Lazlo",
+   "title": "Viktor Lazlo",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Viktor-lazlo"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7083495",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7083495,
+    "pinned": false,
+    "share_url": "https://genius.com/7083495",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7083495/Viktor-lazlo/Viktor-lazlo",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1423945",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1423945/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1423945' class='rg_embed_link' data-song-id='1423945'>Read <a href='https://genius.com/Viktor-lazlo-stories-lyrics'>\u201cStories\u201d by Viktor\u00a0Lazlo</a> on Genius</div> <script crossorigin src='//genius.com/songs/1423945/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Stories by\u00a0Viktor\u00a0Lazlo",
+   "header_image_thumbnail_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.300x300x1.png",
+   "header_image_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+   "id": 1423945,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Viktor-lazlo-stories-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Stories",
+   "title_with_featured": "Stories",
+   "url": "https://genius.com/Viktor-lazlo-stories-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/258799",
+    "cover_art_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+    "full_title": "She by Viktor Lazlo",
+    "id": 258799,
+    "name": "She",
+    "url": "https://genius.com/albums/Viktor-lazlo/She",
+    "artist": {
+     "api_path": "/artists/365350",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 365350,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Viktor Lazlo",
+     "url": "https://genius.com/artists/Viktor-lazlo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5935381",
+    "classification": "needs_exegesis",
+    "fragment": "Stories",
+    "id": 5935381,
+    "is_description": true,
+    "path": "/5935381/Viktor-lazlo-stories/Stories",
+    "range": {
+     "content": "Stories"
+    },
+    "song_id": 1423945,
+    "url": "https://genius.com/5935381/Viktor-lazlo-stories/Stories",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1423945",
+     "client_timestamps": {
+      "updated_by_human_at": 1476920025,
+      "lyrics_updated_at": 1429835717
+     },
+     "context": "Viktor Lazlo",
+     "id": 1423945,
+     "image_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+     "link_title": "Stories by\u00a0Viktor\u00a0Lazlo",
+     "title": "Stories",
+     "type": "Song",
+     "url": "https://genius.com/Viktor-lazlo-stories-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5935381",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5935381,
+      "pinned": false,
+      "share_url": "https://genius.com/5935381",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5935381/Viktor-lazlo-stories/Stories",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/365350",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 365350,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Viktor Lazlo",
+    "url": "https://genius.com/artists/Viktor-lazlo"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2232743",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2232743/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2232743' class='rg_embed_link' data-song-id='2232743'>Read <a href='https://genius.com/Viktor-lazlo-canoe-rose-lyrics'>\u201cCano\u00eb rose\u201d by Viktor\u00a0Lazlo</a> on Genius</div> <script crossorigin src='//genius.com/songs/2232743/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Cano\u00eb rose by\u00a0Viktor\u00a0Lazlo",
+   "header_image_thumbnail_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.300x300x1.png",
+   "header_image_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+   "id": 2232743,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Viktor-lazlo-canoe-rose-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Cano\u00eb rose",
+   "title_with_featured": "Cano\u00eb rose",
+   "url": "https://genius.com/Viktor-lazlo-canoe-rose-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/258799",
+    "cover_art_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+    "full_title": "She by Viktor Lazlo",
+    "id": 258799,
+    "name": "She",
+    "url": "https://genius.com/albums/Viktor-lazlo/She",
+    "artist": {
+     "api_path": "/artists/365350",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 365350,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Viktor Lazlo",
+     "url": "https://genius.com/artists/Viktor-lazlo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7366652",
+    "classification": "needs_exegesis",
+    "fragment": "Cano\u00eb rose",
+    "id": 7366652,
+    "is_description": true,
+    "path": "/7366652/Viktor-lazlo-canoe-rose/Canoe-rose",
+    "range": {
+     "content": "Cano\u00eb rose"
+    },
+    "song_id": 2232743,
+    "url": "https://genius.com/7366652/Viktor-lazlo-canoe-rose/Canoe-rose",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2232743",
+     "client_timestamps": {
+      "updated_by_human_at": 1476916367,
+      "lyrics_updated_at": 1437084663
+     },
+     "context": "Viktor Lazlo",
+     "id": 2232743,
+     "image_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+     "link_title": "Cano\u00eb rose by\u00a0Viktor\u00a0Lazlo",
+     "title": "Cano\u00eb rose",
+     "type": "Song",
+     "url": "https://genius.com/Viktor-lazlo-canoe-rose-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7366652",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7366652,
+      "pinned": false,
+      "share_url": "https://genius.com/7366652",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7366652/Viktor-lazlo-canoe-rose/Canoe-rose",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/365350",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 365350,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Viktor Lazlo",
+    "url": "https://genius.com/artists/Viktor-lazlo"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Parole de chanson Cano\u00eb rose\n\nC'etait pas l'ann\u00e9e derni\u00e8re\nC'\u00e9tait pas \u00e0 Marienbad\nComment voulez-vous que je m'en rappelle\n\u00c0 force de l'attendre\nJe ne savais plus qui l' attendait\nLe temps est un tra\u00eetre de cape et d'\u00e9p\u00e9e\nQui vous glisse sa poudre d'oubli\nDans votre coca\nFaudrait pouvoir choisir son film\nJ'n'avais plus qu'\u00e0 me barricader\nDans la p'tite maison\nPr\u00e8s du lac\nAvec le Cano\u00eb rose, \u00e0 deux places\nQui flotterait, comme \u00e7a\nPour personne\n\n{Refrain:}\nFermer les volets\nEt ne plus changer l'eau des fleurs\nOublier qui tu etais\nNe plus jamais avoir peur\nSe dire qu'on \u00e9tait pas\nVraiment faite pour le r\u00f4le\n\nPleurer plus que le saule\n\nPlonger sous les draps\nEt ne plus jamais remonter\nDormir sur le pont du galion\nQui s'est laiss\u00e9 couler\nParce qu'il t'a connu\nUne de plus \u00e0 t'aimer\n\nLe soleil essaie de se glisser\nPar le store v\u00e9nitien\nC'est pas lui qui m'f'ra lever\nJe commen\u00e7ais une longue nuit\nJ'ai pas l'intention de demander le r\u00e9veil\nJe regarde les photos qu'il \u00e0 prise de moi\nJ'en ai aucune de lui\nIl s'est jamais laiss\u00e9 prendre\nLe vent fait grincer le Cano\u00eb rose, \u00e0 deux places\nIl servira, peut \u00eatre, pour un autre film\n\n{au Refrain}"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2050840",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2050840/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2050840' class='rg_embed_link' data-song-id='2050840'>Read <a href='https://genius.com/Viktor-lazlo-pleurer-des-rivieres-lyrics'>\u201cPleurer des rivi\u00e8res\u201d by Viktor\u00a0Lazlo</a> on Genius</div> <script crossorigin src='//genius.com/songs/2050840/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Pleurer des rivi\u00e8res by\u00a0Viktor\u00a0Lazlo",
+   "header_image_thumbnail_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.300x300x1.png",
+   "header_image_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+   "id": 2050840,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Viktor-lazlo-pleurer-des-rivieres-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Pleurer des rivi\u00e8res",
+   "title_with_featured": "Pleurer des rivi\u00e8res",
+   "url": "https://genius.com/Viktor-lazlo-pleurer-des-rivieres-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/258799",
+    "cover_art_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+    "full_title": "She by Viktor Lazlo",
+    "id": 258799,
+    "name": "She",
+    "url": "https://genius.com/albums/Viktor-lazlo/She",
+    "artist": {
+     "api_path": "/artists/365350",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 365350,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Viktor Lazlo",
+     "url": "https://genius.com/artists/Viktor-lazlo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6790435",
+    "classification": "needs_exegesis",
+    "fragment": "Pleurer des rivi\u00e8res",
+    "id": 6790435,
+    "is_description": true,
+    "path": "/6790435/Viktor-lazlo-pleurer-des-rivieres/Pleurer-des-rivieres",
+    "range": {
+     "content": "Pleurer des rivi\u00e8res"
+    },
+    "song_id": 2050840,
+    "url": "https://genius.com/6790435/Viktor-lazlo-pleurer-des-rivieres/Pleurer-des-rivieres",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2050840",
+     "client_timestamps": {
+      "updated_by_human_at": 1481913056,
+      "lyrics_updated_at": 1433950567
+     },
+     "context": "Viktor Lazlo",
+     "id": 2050840,
+     "image_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+     "link_title": "Pleurer des rivi\u00e8res by\u00a0Viktor\u00a0Lazlo",
+     "title": "Pleurer des rivi\u00e8res",
+     "type": "Song",
+     "url": "https://genius.com/Viktor-lazlo-pleurer-des-rivieres-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6790435",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6790435,
+      "pinned": false,
+      "share_url": "https://genius.com/6790435",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6790435/Viktor-lazlo-pleurer-des-rivieres/Pleurer-des-rivieres",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/365350",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 365350,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Viktor Lazlo",
+    "url": "https://genius.com/artists/Viktor-lazlo"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1035391",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1035391/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1035391' class='rg_embed_link' data-song-id='1035391'>Read <a href='https://genius.com/Viktor-lazlo-backdoor-man-lyrics'>\u201cBackdoor Man\u201d by Viktor\u00a0Lazlo</a> on Genius</div> <script crossorigin src='//genius.com/songs/1035391/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Backdoor Man by\u00a0Viktor\u00a0Lazlo",
+   "header_image_thumbnail_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.300x300x1.png",
+   "header_image_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+   "id": 1035391,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Viktor-lazlo-backdoor-man-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Backdoor Man",
+   "title_with_featured": "Backdoor Man",
+   "url": "https://genius.com/Viktor-lazlo-backdoor-man-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/258799",
+    "cover_art_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+    "full_title": "She by Viktor Lazlo",
+    "id": 258799,
+    "name": "She",
+    "url": "https://genius.com/albums/Viktor-lazlo/She",
+    "artist": {
+     "api_path": "/artists/365350",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 365350,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Viktor Lazlo",
+     "url": "https://genius.com/artists/Viktor-lazlo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5532466",
+    "classification": "needs_exegesis",
+    "fragment": "Backdoor Man",
+    "id": 5532466,
+    "is_description": true,
+    "path": "/5532466/Viktor-lazlo-backdoor-man/Backdoor-man",
+    "range": {
+     "content": "Backdoor Man"
+    },
+    "song_id": 1035391,
+    "url": "https://genius.com/5532466/Viktor-lazlo-backdoor-man/Backdoor-man",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1035391",
+     "client_timestamps": {
+      "updated_by_human_at": 1480529108,
+      "lyrics_updated_at": 1429598419
+     },
+     "context": "Viktor Lazlo",
+     "id": 1035391,
+     "image_url": "https://images.genius.com/83753322ba2515f81e8aa9f285d8254c.500x500x1.png",
+     "link_title": "Backdoor Man by\u00a0Viktor\u00a0Lazlo",
+     "title": "Backdoor Man",
+     "type": "Song",
+     "url": "https://genius.com/Viktor-lazlo-backdoor-man-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5532466",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5532466,
+      "pinned": false,
+      "share_url": "https://genius.com/5532466",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5532466/Viktor-lazlo-backdoor-man/Backdoor-man",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/365350",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 365350,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Viktor Lazlo",
+    "url": "https://genius.com/artists/Viktor-lazlo"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Backdoor man\nOh, don't you leave me\nBackdoor man\nFor if you leave me I'll get in\nA New York state of mind\n\nBackdoor man\nStay till the morning, ten to one\nHusband won't show in before dawn\nWe got a lot of time\n\nThey say\nI don't care 'bout what they say\nYou know my ins\nAnd you will learn 'bout my out\nThe moon is like a flashlight\nWhen you blend in with the night\n\nBackdoor man\nOh, don't you leave me\nI'll feel down\nI'll be day dreamin', prayin' hard\nYou were back in no time\n\nBackdoor man\nWhen the game's over, when we're through\nYou'll run for cover, here they come\nThe New York states of mind\n\nThey say\nI don't care 'bout what they say\nYou know my ins\nAnd you will learn 'bout my out\nThe moon is like a flashlight\nWhen you blend in with the night\n\nBackdoor man\nOh, don't you leave me\nBackdoor man\nFor if you leave me I'll get in\nA New York state of mind\n\nBackdoor man"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/906397",
+   "apple_music_id": "1101265134",
+   "apple_music_player_url": "https://genius.com/songs/906397/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_906397' class='rg_embed_link' data-song-id='906397'>Read <a href='https://genius.com/Viktor-lazlo-my-man-lyrics'>\u201cMy Man\u201d by Viktor\u00a0Lazlo</a> on Genius</div> <script crossorigin src='//genius.com/songs/906397/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "My Man by\u00a0Viktor\u00a0Lazlo",
+   "header_image_thumbnail_url": "https://images.genius.com/7929225bfdb2df248c48c7455e81dc5d.300x265x1.jpg",
+   "header_image_url": "https://images.genius.com/7929225bfdb2df248c48c7455e81dc5d.510x450x1.jpg",
+   "id": 906397,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Viktor-lazlo-my-man-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/7929225bfdb2df248c48c7455e81dc5d.300x265x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7929225bfdb2df248c48c7455e81dc5d.510x450x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "My Man",
+   "title_with_featured": "My Man",
+   "url": "https://genius.com/Viktor-lazlo-my-man-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/310523",
+    "cover_art_url": "https://images.genius.com/7929225bfdb2df248c48c7455e81dc5d.510x450x1.jpg",
+    "full_title": "My Name Is Billie Holiday by Viktor Lazlo",
+    "id": 310523,
+    "name": "My Name Is Billie Holiday",
+    "url": "https://genius.com/albums/Viktor-lazlo/My-name-is-billie-holiday",
+    "artist": {
+     "api_path": "/artists/365350",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 365350,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Viktor Lazlo",
+     "url": "https://genius.com/artists/Viktor-lazlo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5389273",
+    "classification": "needs_exegesis",
+    "fragment": "My Man",
+    "id": 5389273,
+    "is_description": true,
+    "path": "/5389273/Viktor-lazlo-my-man/My-man",
+    "range": {
+     "content": "My Man"
+    },
+    "song_id": 906397,
+    "url": "https://genius.com/5389273/Viktor-lazlo-my-man/My-man",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/906397",
+     "client_timestamps": {
+      "updated_by_human_at": 1481214607,
+      "lyrics_updated_at": 1429310159
+     },
+     "context": "Viktor Lazlo",
+     "id": 906397,
+     "image_url": "https://images.genius.com/7929225bfdb2df248c48c7455e81dc5d.510x450x1.jpg",
+     "link_title": "My Man by\u00a0Viktor\u00a0Lazlo",
+     "title": "My Man",
+     "type": "Song",
+     "url": "https://genius.com/Viktor-lazlo-my-man-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5389273",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5389273,
+      "pinned": false,
+      "share_url": "https://genius.com/5389273",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5389273/Viktor-lazlo-my-man/My-man",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/365350",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 365350,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Viktor Lazlo",
+    "url": "https://genius.com/artists/Viktor-lazlo"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1412053",
+   "apple_music_id": "1299656931",
+   "apple_music_player_url": "https://genius.com/songs/1412053/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1412053' class='rg_embed_link' data-song-id='1412053'>Read <a href='https://genius.com/Viktor-lazlo-breathless-lyrics'>\u201cBreathless\u201d by Viktor\u00a0Lazlo</a> on Genius</div> <script crossorigin src='//genius.com/songs/1412053/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Breathless by\u00a0Viktor\u00a0Lazlo",
+   "header_image_thumbnail_url": "https://images.genius.com/55fe9b5892547dad9732c4efe4ca7d83.300x296x1.jpg",
+   "header_image_url": "https://images.genius.com/55fe9b5892547dad9732c4efe4ca7d83.600x592x1.jpg",
+   "id": 1412053,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Viktor-lazlo-breathless-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/55fe9b5892547dad9732c4efe4ca7d83.300x296x1.jpg",
+   "song_art_image_url": "https://images.genius.com/55fe9b5892547dad9732c4efe4ca7d83.600x592x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Breathless",
+   "title_with_featured": "Breathless",
+   "url": "https://genius.com/Viktor-lazlo-breathless-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/291413",
+    "cover_art_url": "https://images.genius.com/55fe9b5892547dad9732c4efe4ca7d83.600x592x1.jpg",
+    "full_title": "Viktor Lazlo by Viktor Lazlo",
+    "id": 291413,
+    "name": "Viktor Lazlo",
+    "url": "https://genius.com/albums/Viktor-lazlo/Viktor-lazlo",
+    "artist": {
+     "api_path": "/artists/365350",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 365350,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Viktor Lazlo",
+     "url": "https://genius.com/artists/Viktor-lazlo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5923078",
+    "classification": "needs_exegesis",
+    "fragment": "Breathless",
+    "id": 5923078,
+    "is_description": true,
+    "path": "/5923078/Viktor-lazlo-breathless/Breathless",
+    "range": {
+     "content": "Breathless"
+    },
+    "song_id": 1412053,
+    "url": "https://genius.com/5923078/Viktor-lazlo-breathless/Breathless",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1412053",
+     "client_timestamps": {
+      "updated_by_human_at": 1479142217,
+      "lyrics_updated_at": 1429828962
+     },
+     "context": "Viktor Lazlo",
+     "id": 1412053,
+     "image_url": "https://images.genius.com/55fe9b5892547dad9732c4efe4ca7d83.600x592x1.jpg",
+     "link_title": "Breathless by\u00a0Viktor\u00a0Lazlo",
+     "title": "Breathless",
+     "type": "Song",
+     "url": "https://genius.com/Viktor-lazlo-breathless-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5923078",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5923078,
+      "pinned": false,
+      "share_url": "https://genius.com/5923078",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5923078/Viktor-lazlo-breathless/Breathless",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/365350",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 365350,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Viktor Lazlo",
+    "url": "https://genius.com/artists/Viktor-lazlo"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "You make the chills run down my spine\nBoy\nHow it feels good!\nI'm in your body\nYou're in mine\nThe way I love it\nThis time\nI think I'm in love\n\nThis is more than a celebration up above\n\nBreathless\nBreathless\nBreathless\n\nI'm breathless\nBreathless\n\nHoney\nYou're the sweetest man I had\nAnd I wish thatvou will everlast\n\nHoney\nI'm breathless\nBreathless\n\nI'm breathless\nBreathless\nBreathless\n\nHoney\nYou're the sweetest man I know\nAnd I wish that you will never go\n\nBaby\nI'm breathless\nBreathless\n\nBaby\nThe softness of your hands rolling on my skin\nAnd when you come to an end\nBoy\nHow it fills me!\nThis time\nI think I'm in love\n\nThis is more than celebration up above\n\nBreathless\nBreathless\nBreathless\nBreathless\nBreathless\n\nHoney\nYou're the sweetest man I know and I wish that\nBaby\nI'm breathless\nI'm breathless\nBreathless\nI'm bre\nHoney\nYou're the sweetest man I know and I wish that\n\nBreathless\nBreathless\nBreathless\n\nI'm breathless\nBreathless\n. . "
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3006425",
+   "apple_music_id": "1445531647",
+   "apple_music_player_url": "https://genius.com/songs/3006425/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3006425' class='rg_embed_link' data-song-id='3006425'>Read <a href='https://genius.com/Viktor-lazlo-amour-puissance-six-lyrics'>\u201cAmour puissance six\u201d by Viktor\u00a0Lazlo</a> on Genius</div> <script crossorigin src='//genius.com/songs/3006425/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Amour puissance six by\u00a0Viktor\u00a0Lazlo",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 3006425,
+   "lyrics_owner_id": 2813134,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Viktor-lazlo-amour-puissance-six-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1988-01-01",
+   "release_date_for_display": "January 1, 1988",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Amour puissance six",
+   "title_with_featured": "Amour puissance six",
+   "url": "https://genius.com/Viktor-lazlo-amour-puissance-six-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2813134,
+    "annotator_login": "daufresne",
+    "api_path": "/referents/11431426",
+    "classification": "needs_exegesis",
+    "fragment": "Amour puissance six",
+    "id": 11431426,
+    "is_description": true,
+    "path": "/11431426/Viktor-lazlo-amour-puissance-six/Amour-puissance-six",
+    "range": {
+     "content": "Amour puissance six"
+    },
+    "song_id": 3006425,
+    "url": "https://genius.com/11431426/Viktor-lazlo-amour-puissance-six/Amour-puissance-six",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3006425",
+     "client_timestamps": {
+      "updated_by_human_at": 1488345966,
+      "lyrics_updated_at": 1488345966
+     },
+     "context": "Viktor Lazlo",
+     "id": 3006425,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Amour puissance six by\u00a0Viktor\u00a0Lazlo",
+     "title": "Amour puissance six",
+     "type": "Song",
+     "url": "https://genius.com/Viktor-lazlo-amour-puissance-six-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11431426",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11431426,
+      "pinned": false,
+      "share_url": "https://genius.com/11431426",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11431426/Viktor-lazlo-amour-puissance-six/Amour-puissance-six",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2813134",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/edee1f8e27fbd5d8d8edbd674edc3383",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2813134,
+         "iq": 8810,
+         "login": "daufresne",
+         "name": "daufresne",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/daufresne",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=tJklVbtTYpo"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/365350",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 365350,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Viktor Lazlo",
+    "url": "https://genius.com/artists/Viktor-lazlo"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1089628",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1089628,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Guy Bernard Cadi\u00e8re",
+     "url": "https://genius.com/artists/Guy-bernard-cadiere"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/19226",
+     "header_image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "id": 19226,
+     "image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Serge Gainsbourg",
+     "url": "https://genius.com/artists/Serge-gainsbourg"
+    }
+   ],
+   "lyrics": "[Love to the power six]\n\nDreams en X-\nRay quelques ex-\nTraits amour puissance six\n[Love to the power six]\nAvec ces x\nComme love\nUn peu d'ox-\nYg\u00e8ne un peu d'amour\n[Love to the power six]\n\nAm\u00e9rique ou occident\nC'est toujours par accident\nTous plaisirs annexes\n[Love to the power six]\n\nAmour puissance six\nNe serait-ce qu'un temps\nL'amour \u00e7a s'ox-\nYde avec le temps\n\nAmour puissance six\nTuer le temps\nLes passions \u00e7a s'ox-\nYde je t'en prie attends\n\nDreams en X-\nRay quelques ex-\nTraits amour puissance six\n[Love to the power six]\n\nReste bien dans l'axe\nMes r\u00eaves en x\n\nAmour puissance six\nNe serait-ce qu'un temps\nL'amour \u00e7a s'ox-\nYde avec le temps\n\nAmour puissance six\nPas pour longtemps\nBient\u00f4t l'\u00e9quinoxe\nSale temps\n\nAmour puissance six\nNe serait-ce qu'un temps\nL'amour \u00e7a s'ox-\nYde avec le temps"
+  }
+ ]
+}

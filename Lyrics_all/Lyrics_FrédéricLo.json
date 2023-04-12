@@ -1,0 +1,174 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/578455",
+ "description": {
+  "plain": "Fr\u00e9d\u00e9ric Lo, n\u00e9 Fr\u00e9d\u00e9ric Bonnet le 23 ao\u00fbt 1964 \u00e0 Rodez, est un musicien, r\u00e9alisateur musical, compositeur, arrangeur, producteur de musique et auteur-compositeur-interpr\u00e8te fran\u00e7ais."
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 578455,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Fr\u00e9d\u00e9ric Lo",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Frederic-lo",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 8163512,
+  "annotator_login": "LilSmokky",
+  "api_path": "/referents/7970695",
+  "classification": "unreviewed",
+  "fragment": "Fr\u00e9d\u00e9ric Lo",
+  "id": 7970695,
+  "is_description": true,
+  "path": "/7970695/Frederic-lo/Frederic-lo",
+  "range": {
+   "content": "Fr\u00e9d\u00e9ric Lo"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7970695/Frederic-lo/Frederic-lo",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/578455",
+   "context": null,
+   "id": 578455,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Fr\u00e9d\u00e9ric Lo",
+   "title": "Fr\u00e9d\u00e9ric Lo",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Frederic-lo"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7970695",
+    "body": {
+     "plain": "Fr\u00e9d\u00e9ric Lo, n\u00e9 Fr\u00e9d\u00e9ric Bonnet le 23 ao\u00fbt 1964 \u00e0 Rodez, est un musicien, r\u00e9alisateur musical, compositeur, arrangeur, producteur de musique et auteur-compositeur-interpr\u00e8te fran\u00e7ais."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7970695,
+    "pinned": false,
+    "share_url": "https://genius.com/7970695",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/7970695/Frederic-lo/Frederic-lo",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8163512",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/613c3854693e8f28686ec48913aca5e6",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/613c3854693e8f28686ec48913aca5e6",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/613c3854693e8f28686ec48913aca5e6",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/613c3854693e8f28686ec48913aca5e6",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/613c3854693e8f28686ec48913aca5e6",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8163512,
+       "iq": 1282,
+       "login": "LilSmokky",
+       "name": "LilSmokky",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/LilSmokky",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

@@ -1,0 +1,1272 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2156282",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+ "id": 2156282,
+ "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Laura Perrudin",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Laura-perrudin",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3530902,
+  "annotator_login": "EyeSeeOfficial",
+  "api_path": "/referents/19338958",
+  "classification": "needs_exegesis",
+  "fragment": "Laura Perrudin",
+  "id": 19338958,
+  "is_description": true,
+  "path": "/19338958/Laura-perrudin/Laura-perrudin",
+  "range": {
+   "content": "Laura Perrudin"
+  },
+  "song_id": null,
+  "url": "https://genius.com/19338958/Laura-perrudin/Laura-perrudin",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2156282",
+   "context": null,
+   "id": 2156282,
+   "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+   "link_title": "Laura Perrudin",
+   "title": "Laura Perrudin",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Laura-perrudin"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/19338958",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 19338958,
+    "pinned": false,
+    "share_url": "https://genius.com/19338958",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/19338958/Laura-perrudin/Laura-perrudin",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3530902",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/c36084d9ed13ce73983e3aa65301b5d9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/c36084d9ed13ce73983e3aa65301b5d9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/c36084d9ed13ce73983e3aa65301b5d9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/c36084d9ed13ce73983e3aa65301b5d9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/c36084d9ed13ce73983e3aa65301b5d9",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3530902,
+       "iq": 9065,
+       "login": "EyeSeeOfficial",
+       "name": "EyeSeeOfficial",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/EyeSeeOfficial",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/6078608",
+   "apple_music_id": "1529182600",
+   "apple_music_player_url": "https://genius.com/songs/6078608/apple_music_player",
+   "description": {
+    "plain": "\u201cThe W Word\u201d is the sole single off of Perspectives & Avatars, satirically commenting on misogyny and patriarchal oppression through the analogy of a witch hunt.\n\nThe ambiguous title is itself a commentary. Is the W word \u201cwitch\u201d or \u201cwoman\u201d? Or is the distinction becoming blurred in society as radical patriarchs seek to vilify female self-agency?"
+   },
+   "embed_content": "<div id='rg_embed_link_6078608' class='rg_embed_link' data-song-id='6078608'>Read <a href='https://genius.com/Laura-perrudin-the-w-word-lyrics'>\u201cThe W Word\u201d by Laura\u00a0Perrudin</a> on Genius</div> <script crossorigin src='//genius.com/songs/6078608/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "The W Word by\u00a0Laura\u00a0Perrudin (Ft.\u00a0Becca\u00a0Stevens)",
+   "header_image_thumbnail_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.640x640x1.jpg",
+   "id": 6078608,
+   "lyrics_owner_id": 3530902,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Laura-perrudin-the-w-word-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2020-09-04",
+   "release_date_for_display": "September 4, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "The W Word",
+   "title_with_featured": "The W Word (Ft.\u00a0Becca\u00a0Stevens)",
+   "url": "https://genius.com/Laura-perrudin-the-w-word-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/690649",
+    "cover_art_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.640x640x1.jpg",
+    "full_title": "Perspectives & Avatars by Laura Perrudin",
+    "id": 690649,
+    "name": "Perspectives & Avatars",
+    "url": "https://genius.com/albums/Laura-perrudin/Perspectives-avatars",
+    "artist": {
+     "api_path": "/artists/2156282",
+     "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "id": 2156282,
+     "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Perrudin",
+     "url": "https://genius.com/artists/Laura-perrudin"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3530902,
+    "annotator_login": "EyeSeeOfficial",
+    "api_path": "/referents/21109947",
+    "classification": "unreviewed",
+    "fragment": "The W Word",
+    "id": 21109947,
+    "is_description": true,
+    "path": "/21109947/Laura-perrudin-the-w-word/The-w-word",
+    "range": {
+     "content": "The W Word"
+    },
+    "song_id": 6078608,
+    "url": "https://genius.com/21109947/Laura-perrudin-the-w-word/The-w-word",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6078608",
+     "client_timestamps": {
+      "updated_by_human_at": 1603218891,
+      "lyrics_updated_at": 1603218891
+     },
+     "context": "Laura Perrudin",
+     "id": 6078608,
+     "image_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.640x640x1.jpg",
+     "link_title": "The W Word by\u00a0Laura\u00a0Perrudin (Ft.\u00a0Becca\u00a0Stevens)",
+     "title": "The W Word",
+     "type": "Song",
+     "url": "https://genius.com/Laura-perrudin-the-w-word-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21109947",
+      "body": {
+       "plain": "\u201cThe W Word\u201d is the sole single off of Perspectives & Avatars, satirically commenting on misogyny and patriarchal oppression through the analogy of a witch hunt.\n\nThe ambiguous title is itself a commentary. Is the W word \u201cwitch\u201d or \u201cwoman\u201d? Or is the distinction becoming blurred in society as radical patriarchs seek to vilify female self-agency?"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21109947,
+      "pinned": false,
+      "share_url": "https://genius.com/21109947",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/21109947/Laura-perrudin-the-w-word/The-w-word",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3530902",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c36084d9ed13ce73983e3aa65301b5d9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c36084d9ed13ce73983e3aa65301b5d9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c36084d9ed13ce73983e3aa65301b5d9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c36084d9ed13ce73983e3aa65301b5d9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/c36084d9ed13ce73983e3aa65301b5d9",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3530902,
+         "iq": 9065,
+         "login": "EyeSeeOfficial",
+         "name": "EyeSeeOfficial",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/EyeSeeOfficial",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/649567",
+     "header_image_url": "https://images.genius.com/fa0d6dbdce09653a98aa12300470fe05.1000x605x1.jpg",
+     "id": 649567,
+     "image_url": "https://images.genius.com/c5278c6dfdd752a644a840135fd71cd1.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Becca Stevens",
+     "url": "https://genius.com/artists/Becca-stevens"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=34EkijKAfHE"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2156282",
+    "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+    "id": 2156282,
+    "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Laura Perrudin",
+    "url": "https://genius.com/artists/Laura-perrudin"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/2156282",
+     "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "id": 2156282,
+     "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Perrudin",
+     "url": "https://genius.com/artists/Laura-perrudin"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2156282",
+     "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "id": 2156282,
+     "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Perrudin",
+     "url": "https://genius.com/artists/Laura-perrudin"
+    }
+   ],
+   "lyrics": "[Pre-Verse]\nWhat is this thing called magic ?\nWhat is this thing called art ?\n\n[Verse 1: Laura Perrudin]\nMaybe simply Ways\nTo achieve changes\nInto consciousness\nTransformative powers\nTransformative forces\nI shouldn't know about\nDon't need any hat\nDon't need any cat\nDon't need any bat\nTo know that\nDon't need any toad\nDon't need any owl\nDon't need any crow\nTo do so\n\n[Bridge: Laura Perrudin]\nAnd if I do\nAnd if I do\nAnd if I do\nAnd if I do...\nJust catch me\nAnd burn me\nOr drown me\nDisappear me\n\n[Pre-Chorus: Laura Perrudin & Becca Stevens]\nFor what I know (I should know less than you do...)\nFor questioning norms (...and shape myself to your views)\nFor being old (I should always remain...)\nOr being young (...under the care of a man)\n\n[Chorus]\nWring Well the Wicked and Wrong Witch!\nWring Well the Wicked and Wrong Woman!\nWring Well the Wicked and Wrong Witch!\nWring Well the Wicked and Wrong Woman!\nWring Well the Wicked and Wrong Witch!\nWring Well the Wicked and Wrong Woman!\nWring Well the Wicked and Wrong Witch!\nWring Well the Wicked and Wrong Woman!\n\n[Pre-Verse]\nWhat is this thing called magic ?\nWhat is this thing called art ?\n\n[Verse 2: Becca Stevens]\nSome knowledge of language?\nSome science of symbols?\nRelationships between\nHumans and their higher selves?\nSome dangerous awareness\nI shouldn't know about....\nDon't need any toad\nDon't need any owl\nDon't need any crow\nTo do so\nDon't need any hat\nDon't need any cat\nDon't need any bat\nTo know that\n\n[Bridge: Becca Stevens]\nAnd if I do\nAnd if I do\nAnd if I do\nAnd if I do...\nJust bully me\nAnd jail me\nOr kill me\nDisappear me\n\n[Pre-Chorus: Becca Stevens & Laura Perrudin]\nFor being ugly (I should always please your eye...)\nFor being pretty (...but I should never entice)\nFor owning my body (I should belong to you)\nFor being free (My life just shouldn't be mine)\n\n[Chorus]\nWring Well the Wicked and Wrong Witch!\nWring Well the Wicked and Wrong Woman!\nWring Well the Wicked and Wrong Witch!\nWring Well the Wicked and Wrong Woman!\nWring Well the Wicked and Wrong Witch!\nWring Well the Wicked and Wrong Woman!\nWring Well the Wicked and Wrong Witch!\nWring Well the Wicked and Wrong Witch! (Independance: crime!)\nWring Well the Wicked and Wrong Woman! (Knowledge: crime!)\nWring Well the Wicked and Wrong Witch! (Power: crime!)\nWring Well the Wicked and Wrong Woman! (Freedom: crime!)\nWring Well the Wicked and Wrong Witch! (Independance: crime!)\nWring Well the Wicked and Wrong Woman! (Knowledge: crime!)\nWring Well the Wicked and Wrong Witch! (Power: crime!)\nWring Well the Wicked and Wrong Woman! (Freedom: crime!)"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6078668",
+   "apple_music_id": "1529182624",
+   "apple_music_player_url": "https://genius.com/songs/6078668/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6078668' class='rg_embed_link' data-song-id='6078668'>Read <a href='https://genius.com/Laura-perrudin-metasong-lyrics'>\u201cMetaSong\u201d by Laura\u00a0Perrudin</a> on Genius</div> <script crossorigin src='//genius.com/songs/6078668/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "MetaSong by\u00a0Laura\u00a0Perrudin (Ft.\u00a0EMEL)",
+   "header_image_thumbnail_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.640x640x1.jpg",
+   "id": 6078668,
+   "lyrics_owner_id": 10553772,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Laura-perrudin-metasong-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2020-10-09",
+   "release_date_for_display": "October 9, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "MetaSong",
+   "title_with_featured": "MetaSong (Ft.\u00a0EMEL)",
+   "url": "https://genius.com/Laura-perrudin-metasong-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/690649",
+    "cover_art_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.640x640x1.jpg",
+    "full_title": "Perspectives & Avatars by Laura Perrudin",
+    "id": 690649,
+    "name": "Perspectives & Avatars",
+    "url": "https://genius.com/albums/Laura-perrudin/Perspectives-avatars",
+    "artist": {
+     "api_path": "/artists/2156282",
+     "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "id": 2156282,
+     "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Perrudin",
+     "url": "https://genius.com/artists/Laura-perrudin"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3530902,
+    "annotator_login": "EyeSeeOfficial",
+    "api_path": "/referents/21110063",
+    "classification": "needs_exegesis",
+    "fragment": "MetaSong",
+    "id": 21110063,
+    "is_description": true,
+    "path": "/21110063/Laura-perrudin-metasong/Metasong",
+    "range": {
+     "content": "MetaSong"
+    },
+    "song_id": 6078668,
+    "url": "https://genius.com/21110063/Laura-perrudin-metasong/Metasong",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6078668",
+     "client_timestamps": {
+      "updated_by_human_at": 1608484872,
+      "lyrics_updated_at": 1605358554
+     },
+     "context": "Laura Perrudin",
+     "id": 6078668,
+     "image_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.640x640x1.jpg",
+     "link_title": "MetaSong by\u00a0Laura\u00a0Perrudin (Ft.\u00a0EMEL)",
+     "title": "MetaSong",
+     "type": "Song",
+     "url": "https://genius.com/Laura-perrudin-metasong-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21110063",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21110063,
+      "pinned": false,
+      "share_url": "https://genius.com/21110063",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21110063/Laura-perrudin-metasong/Metasong",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3530902",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c36084d9ed13ce73983e3aa65301b5d9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c36084d9ed13ce73983e3aa65301b5d9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c36084d9ed13ce73983e3aa65301b5d9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c36084d9ed13ce73983e3aa65301b5d9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/c36084d9ed13ce73983e3aa65301b5d9",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3530902,
+         "iq": 9065,
+         "login": "EyeSeeOfficial",
+         "name": "EyeSeeOfficial",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/EyeSeeOfficial",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/530201",
+     "header_image_url": "https://images.genius.com/7b2f3e2c329c572d108df8cd01cd8972.1000x500x1.jpg",
+     "id": 530201,
+     "image_url": "https://images.genius.com/688c8fd02596210a6b90c62d166bb91c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMEL",
+     "url": "https://genius.com/artists/Emel"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2156282",
+    "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+    "id": 2156282,
+    "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Laura Perrudin",
+    "url": "https://genius.com/artists/Laura-perrudin"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/2156282",
+     "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "id": 2156282,
+     "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Perrudin",
+     "url": "https://genius.com/artists/Laura-perrudin"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2156282",
+     "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "id": 2156282,
+     "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Perrudin",
+     "url": "https://genius.com/artists/Laura-perrudin"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6078647",
+   "apple_music_id": "1529182602",
+   "apple_music_player_url": "https://genius.com/songs/6078647/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6078647' class='rg_embed_link' data-song-id='6078647'>Read <a href='https://genius.com/Laura-perrudin-light-players-lyrics'>\u201cLight Players\u201d by Laura\u00a0Perrudin</a> on Genius</div> <script crossorigin src='//genius.com/songs/6078647/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Light Players by\u00a0Laura\u00a0Perrudin",
+   "header_image_thumbnail_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.640x640x1.jpg",
+   "id": 6078647,
+   "lyrics_owner_id": 10553772,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Laura-perrudin-light-players-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2020-10-09",
+   "release_date_for_display": "October 9, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Light Players",
+   "title_with_featured": "Light Players",
+   "url": "https://genius.com/Laura-perrudin-light-players-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/690649",
+    "cover_art_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.640x640x1.jpg",
+    "full_title": "Perspectives & Avatars by Laura Perrudin",
+    "id": 690649,
+    "name": "Perspectives & Avatars",
+    "url": "https://genius.com/albums/Laura-perrudin/Perspectives-avatars",
+    "artist": {
+     "api_path": "/artists/2156282",
+     "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "id": 2156282,
+     "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Perrudin",
+     "url": "https://genius.com/artists/Laura-perrudin"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3530902,
+    "annotator_login": "EyeSeeOfficial",
+    "api_path": "/referents/21110035",
+    "classification": "needs_exegesis",
+    "fragment": "Light Players",
+    "id": 21110035,
+    "is_description": true,
+    "path": "/21110035/Laura-perrudin-light-players/Light-players",
+    "range": {
+     "content": "Light Players"
+    },
+    "song_id": 6078647,
+    "url": "https://genius.com/21110035/Laura-perrudin-light-players/Light-players",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6078647",
+     "client_timestamps": {
+      "updated_by_human_at": 1608484998,
+      "lyrics_updated_at": 1608484988
+     },
+     "context": "Laura Perrudin",
+     "id": 6078647,
+     "image_url": "https://images.genius.com/c84b2698163365f60a24c0f5b033954c.640x640x1.jpg",
+     "link_title": "Light Players by\u00a0Laura\u00a0Perrudin",
+     "title": "Light Players",
+     "type": "Song",
+     "url": "https://genius.com/Laura-perrudin-light-players-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21110035",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21110035,
+      "pinned": false,
+      "share_url": "https://genius.com/21110035",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21110035/Laura-perrudin-light-players/Light-players",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3530902",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c36084d9ed13ce73983e3aa65301b5d9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c36084d9ed13ce73983e3aa65301b5d9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c36084d9ed13ce73983e3aa65301b5d9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c36084d9ed13ce73983e3aa65301b5d9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/c36084d9ed13ce73983e3aa65301b5d9",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3530902,
+         "iq": 9065,
+         "login": "EyeSeeOfficial",
+         "name": "EyeSeeOfficial",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/EyeSeeOfficial",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2156282",
+    "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+    "id": 2156282,
+    "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Laura Perrudin",
+    "url": "https://genius.com/artists/Laura-perrudin"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/2156282",
+     "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "id": 2156282,
+     "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Perrudin",
+     "url": "https://genius.com/artists/Laura-perrudin"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2156282",
+     "header_image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "id": 2156282,
+     "image_url": "https://images.genius.com/17bbea6afaf7719bf4990ceda6f9330e.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Perrudin",
+     "url": "https://genius.com/artists/Laura-perrudin"
+    }
+   ],
+   "lyrics": "We have seen so many things\nAround the world, we travelled\nMany things we could teach\nYou if you'd take time\nTo look at us carefully\n\nWe have stories to tell\nPremonitions to reveal\nBut we are just cogs in the wheel\n\u00ab Solve et coagula \u00bb\nIs our serene fate\n\nWe let the wind change our shape\nWe know how beautiful\nIt is when things change\nOur bodys are mirages\nThey just live in your eyes\n\nBut our pow\u0435rs are true\n\nOh don\u2019t fight against time\nBut slowly danc\u0435 with it\nLet your tears flow to earth\nLet the wind lead your feet\n\n\n\nWe are the architects\nOf a realm where the birds\nPerpetually relearn\nTo find their pathways\nInto moody mazes\n\nWe are light players\nPainting new scapes all day long\nWe play to hide and seek\nWith the moon and the sun\nThe stars and the mountains\n\nOur shadows are shelters\nWe carry promises\nOf relief to the trees\nTo the thirsty weeds and the flowers\nTo the frogs and the fields\nTo the forests and the grasses\n\nAnd we have some advice\n\nOh don't fight against time\nBut slowly dance with it\nLet your tears flow to earth\nLet the wind lead your feet"
+  }
+ ]
+}

@@ -1,0 +1,3514 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2340608",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 2340608,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Martin Dupont",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Martin-dupont",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 6392620,
+  "annotator_login": "courtesan",
+  "api_path": "/referents/20469965",
+  "classification": "needs_exegesis",
+  "fragment": "Martin Dupont",
+  "id": 20469965,
+  "is_description": true,
+  "path": "/20469965/Martin-dupont/Martin-dupont",
+  "range": {
+   "content": "Martin Dupont"
+  },
+  "song_id": null,
+  "url": "https://genius.com/20469965/Martin-dupont/Martin-dupont",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2340608",
+   "context": null,
+   "id": 2340608,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Martin Dupont",
+   "title": "Martin Dupont",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Martin-dupont"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/20469965",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 20469965,
+    "pinned": false,
+    "share_url": "https://genius.com/20469965",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/20469965/Martin-dupont/Martin-dupont",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6392620",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/2c54c6a6d9ca3774e5ce943fa6644f0a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/2c54c6a6d9ca3774e5ce943fa6644f0a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/2c54c6a6d9ca3774e5ce943fa6644f0a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/2c54c6a6d9ca3774e5ce943fa6644f0a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/aedd0tvva8g",
+       "human_readable_role_for_display": "Contributor",
+       "id": 6392620,
+       "iq": 25297,
+       "login": "courtesan",
+       "name": "courtesan",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/courtesan",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5818861",
+   "apple_music_id": "1455193557",
+   "apple_music_player_url": "https://genius.com/songs/5818861/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5818861' class='rg_embed_link' data-song-id='5818861'>Read <a href='https://genius.com/Martin-dupont-inside-out-lyrics'>\u201cInside Out\u201d by Martin\u00a0Dupont</a> on Genius</div> <script crossorigin src='//genius.com/songs/5818861/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Inside Out by\u00a0Martin\u00a0Dupont",
+   "header_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "id": 5818861,
+   "lyrics_owner_id": 6392620,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Martin-dupont-inside-out-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": "1987-04-26",
+   "release_date_for_display": "April 26, 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Inside Out",
+   "title_with_featured": "Inside Out",
+   "url": "https://genius.com/Martin-dupont-inside-out-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/662498",
+    "cover_art_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+    "full_title": "Hot Paradox  by Martin Dupont",
+    "id": 662498,
+    "name": "Hot Paradox ",
+    "url": "https://genius.com/albums/Martin-dupont/Hot-paradox",
+    "artist": {
+     "api_path": "/artists/2340608",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2340608,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Martin Dupont",
+     "url": "https://genius.com/artists/Martin-dupont"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6392620,
+    "annotator_login": "courtesan",
+    "api_path": "/referents/20469966",
+    "classification": "needs_exegesis",
+    "fragment": "Inside Out",
+    "id": 20469966,
+    "is_description": true,
+    "path": "/20469966/Martin-dupont-inside-out/Inside-out",
+    "range": {
+     "content": "Inside Out"
+    },
+    "song_id": 5818861,
+    "url": "https://genius.com/20469966/Martin-dupont-inside-out/Inside-out",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5818861",
+     "client_timestamps": {
+      "updated_by_human_at": 1596157139,
+      "lyrics_updated_at": 1596157139
+     },
+     "context": "Martin Dupont",
+     "id": 5818861,
+     "image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+     "link_title": "Inside Out by\u00a0Martin\u00a0Dupont",
+     "title": "Inside Out",
+     "type": "Song",
+     "url": "https://genius.com/Martin-dupont-inside-out-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20469966",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20469966,
+      "pinned": false,
+      "share_url": "https://genius.com/20469966",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20469966/Martin-dupont-inside-out/Inside-out",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6392620",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/aedd0tvva8g",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6392620,
+         "iq": 25297,
+         "login": "courtesan",
+         "name": "courtesan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/courtesan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2340608",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 2340608,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Martin Dupont",
+    "url": "https://genius.com/artists/Martin-dupont"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5818868",
+   "apple_music_id": "1455193556",
+   "apple_music_player_url": "https://genius.com/songs/5818868/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5818868' class='rg_embed_link' data-song-id='5818868'>Read <a href='https://genius.com/Martin-dupont-he-saw-the-light-lyrics'>\u201cHe Saw the Light\u201d by Martin\u00a0Dupont</a> on Genius</div> <script crossorigin src='//genius.com/songs/5818868/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "He Saw the Light by\u00a0Martin\u00a0Dupont",
+   "header_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "id": 5818868,
+   "lyrics_owner_id": 6392620,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Martin-dupont-he-saw-the-light-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1987-04-26",
+   "release_date_for_display": "April 26, 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "He Saw the Light",
+   "title_with_featured": "He Saw the Light",
+   "url": "https://genius.com/Martin-dupont-he-saw-the-light-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/662498",
+    "cover_art_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+    "full_title": "Hot Paradox  by Martin Dupont",
+    "id": 662498,
+    "name": "Hot Paradox ",
+    "url": "https://genius.com/albums/Martin-dupont/Hot-paradox",
+    "artist": {
+     "api_path": "/artists/2340608",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2340608,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Martin Dupont",
+     "url": "https://genius.com/artists/Martin-dupont"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6392620,
+    "annotator_login": "courtesan",
+    "api_path": "/referents/20469982",
+    "classification": "needs_exegesis",
+    "fragment": "He Saw the Light",
+    "id": 20469982,
+    "is_description": true,
+    "path": "/20469982/Martin-dupont-he-saw-the-light/He-saw-the-light",
+    "range": {
+     "content": "He Saw the Light"
+    },
+    "song_id": 5818868,
+    "url": "https://genius.com/20469982/Martin-dupont-he-saw-the-light/He-saw-the-light",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5818868",
+     "client_timestamps": {
+      "updated_by_human_at": 1602866083,
+      "lyrics_updated_at": 1602866083
+     },
+     "context": "Martin Dupont",
+     "id": 5818868,
+     "image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+     "link_title": "He Saw the Light by\u00a0Martin\u00a0Dupont",
+     "title": "He Saw the Light",
+     "type": "Song",
+     "url": "https://genius.com/Martin-dupont-he-saw-the-light-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20469982",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20469982,
+      "pinned": false,
+      "share_url": "https://genius.com/20469982",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20469982/Martin-dupont-he-saw-the-light/He-saw-the-light",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6392620",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/aedd0tvva8g",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6392620,
+         "iq": 25297,
+         "login": "courtesan",
+         "name": "courtesan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/courtesan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2340608",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 2340608,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Martin Dupont",
+    "url": "https://genius.com/artists/Martin-dupont"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5818864",
+   "apple_music_id": "1455193459",
+   "apple_music_player_url": "https://genius.com/songs/5818864/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5818864' class='rg_embed_link' data-song-id='5818864'>Read <a href='https://genius.com/Martin-dupont-hot-paradox-lyrics'>\u201cHot Paradox\u201d by Martin\u00a0Dupont</a> on Genius</div> <script crossorigin src='//genius.com/songs/5818864/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Hot Paradox by\u00a0Martin\u00a0Dupont",
+   "header_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "id": 5818864,
+   "lyrics_owner_id": 6392620,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Martin-dupont-hot-paradox-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1987-04-26",
+   "release_date_for_display": "April 26, 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Hot Paradox",
+   "title_with_featured": "Hot Paradox",
+   "url": "https://genius.com/Martin-dupont-hot-paradox-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/662498",
+    "cover_art_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+    "full_title": "Hot Paradox  by Martin Dupont",
+    "id": 662498,
+    "name": "Hot Paradox ",
+    "url": "https://genius.com/albums/Martin-dupont/Hot-paradox",
+    "artist": {
+     "api_path": "/artists/2340608",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2340608,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Martin Dupont",
+     "url": "https://genius.com/artists/Martin-dupont"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6392620,
+    "annotator_login": "courtesan",
+    "api_path": "/referents/20469978",
+    "classification": "needs_exegesis",
+    "fragment": "Hot Paradox",
+    "id": 20469978,
+    "is_description": true,
+    "path": "/20469978/Martin-dupont-hot-paradox/Hot-paradox",
+    "range": {
+     "content": "Hot Paradox"
+    },
+    "song_id": 5818864,
+    "url": "https://genius.com/20469978/Martin-dupont-hot-paradox/Hot-paradox",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5818864",
+     "client_timestamps": {
+      "updated_by_human_at": 1596157411,
+      "lyrics_updated_at": 1596157399
+     },
+     "context": "Martin Dupont",
+     "id": 5818864,
+     "image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+     "link_title": "Hot Paradox by\u00a0Martin\u00a0Dupont",
+     "title": "Hot Paradox",
+     "type": "Song",
+     "url": "https://genius.com/Martin-dupont-hot-paradox-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20469978",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20469978,
+      "pinned": false,
+      "share_url": "https://genius.com/20469978",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20469978/Martin-dupont-hot-paradox/Hot-paradox",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6392620",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/aedd0tvva8g",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6392620,
+         "iq": 25297,
+         "login": "courtesan",
+         "name": "courtesan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/courtesan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2340608",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 2340608,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Martin Dupont",
+    "url": "https://genius.com/artists/Martin-dupont"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5818869",
+   "apple_music_id": "1455193558",
+   "apple_music_player_url": "https://genius.com/songs/5818869/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5818869' class='rg_embed_link' data-song-id='5818869'>Read <a href='https://genius.com/Martin-dupont-i-never-tried-lyrics'>\u201cI Never Tried\u201d by Martin\u00a0Dupont</a> on Genius</div> <script crossorigin src='//genius.com/songs/5818869/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "I Never Tried by\u00a0Martin\u00a0Dupont",
+   "header_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "id": 5818869,
+   "lyrics_owner_id": 6392620,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Martin-dupont-i-never-tried-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1987-04-26",
+   "release_date_for_display": "April 26, 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "I Never Tried",
+   "title_with_featured": "I Never Tried",
+   "url": "https://genius.com/Martin-dupont-i-never-tried-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/662498",
+    "cover_art_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+    "full_title": "Hot Paradox  by Martin Dupont",
+    "id": 662498,
+    "name": "Hot Paradox ",
+    "url": "https://genius.com/albums/Martin-dupont/Hot-paradox",
+    "artist": {
+     "api_path": "/artists/2340608",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2340608,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Martin Dupont",
+     "url": "https://genius.com/artists/Martin-dupont"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6392620,
+    "annotator_login": "courtesan",
+    "api_path": "/referents/20469983",
+    "classification": "needs_exegesis",
+    "fragment": "I Never Tried",
+    "id": 20469983,
+    "is_description": true,
+    "path": "/20469983/Martin-dupont-i-never-tried/I-never-tried",
+    "range": {
+     "content": "I Never Tried"
+    },
+    "song_id": 5818869,
+    "url": "https://genius.com/20469983/Martin-dupont-i-never-tried/I-never-tried",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5818869",
+     "client_timestamps": {
+      "updated_by_human_at": 1596157459,
+      "lyrics_updated_at": 1596157449
+     },
+     "context": "Martin Dupont",
+     "id": 5818869,
+     "image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+     "link_title": "I Never Tried by\u00a0Martin\u00a0Dupont",
+     "title": "I Never Tried",
+     "type": "Song",
+     "url": "https://genius.com/Martin-dupont-i-never-tried-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20469983",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20469983,
+      "pinned": false,
+      "share_url": "https://genius.com/20469983",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20469983/Martin-dupont-i-never-tried/I-never-tried",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6392620",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/aedd0tvva8g",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6392620,
+         "iq": 25297,
+         "login": "courtesan",
+         "name": "courtesan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/courtesan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2340608",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 2340608,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Martin Dupont",
+    "url": "https://genius.com/artists/Martin-dupont"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5818866",
+   "apple_music_id": "1455193464",
+   "apple_music_player_url": "https://genius.com/songs/5818866/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5818866' class='rg_embed_link' data-song-id='5818866'>Read <a href='https://genius.com/Martin-dupont-pressure-lyrics'>\u201cPressure\u201d by Martin\u00a0Dupont</a> on Genius</div> <script crossorigin src='//genius.com/songs/5818866/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Pressure by\u00a0Martin\u00a0Dupont",
+   "header_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "id": 5818866,
+   "lyrics_owner_id": 6392620,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Martin-dupont-pressure-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1987-04-26",
+   "release_date_for_display": "April 26, 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Pressure",
+   "title_with_featured": "Pressure",
+   "url": "https://genius.com/Martin-dupont-pressure-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/662498",
+    "cover_art_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+    "full_title": "Hot Paradox  by Martin Dupont",
+    "id": 662498,
+    "name": "Hot Paradox ",
+    "url": "https://genius.com/albums/Martin-dupont/Hot-paradox",
+    "artist": {
+     "api_path": "/artists/2340608",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2340608,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Martin Dupont",
+     "url": "https://genius.com/artists/Martin-dupont"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6392620,
+    "annotator_login": "courtesan",
+    "api_path": "/referents/20469980",
+    "classification": "needs_exegesis",
+    "fragment": "Pressure",
+    "id": 20469980,
+    "is_description": true,
+    "path": "/20469980/Martin-dupont-pressure/Pressure",
+    "range": {
+     "content": "Pressure"
+    },
+    "song_id": 5818866,
+    "url": "https://genius.com/20469980/Martin-dupont-pressure/Pressure",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5818866",
+     "client_timestamps": {
+      "updated_by_human_at": 1596157600,
+      "lyrics_updated_at": 1596157584
+     },
+     "context": "Martin Dupont",
+     "id": 5818866,
+     "image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+     "link_title": "Pressure by\u00a0Martin\u00a0Dupont",
+     "title": "Pressure",
+     "type": "Song",
+     "url": "https://genius.com/Martin-dupont-pressure-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20469980",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20469980,
+      "pinned": false,
+      "share_url": "https://genius.com/20469980",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20469980/Martin-dupont-pressure/Pressure",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6392620",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/aedd0tvva8g",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6392620,
+         "iq": 25297,
+         "login": "courtesan",
+         "name": "courtesan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/courtesan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2340608",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 2340608,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Martin Dupont",
+    "url": "https://genius.com/artists/Martin-dupont"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5818863",
+   "apple_music_id": "1455193458",
+   "apple_music_player_url": "https://genius.com/songs/5818863/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5818863' class='rg_embed_link' data-song-id='5818863'>Read <a href='https://genius.com/Martin-dupont-full-moons-and-mouths-lyrics'>\u201cFull Moons and Mouths\u201d by Martin\u00a0Dupont</a> on Genius</div> <script crossorigin src='//genius.com/songs/5818863/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Full Moons and Mouths by\u00a0Martin\u00a0Dupont",
+   "header_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "id": 5818863,
+   "lyrics_owner_id": 6392620,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Martin-dupont-full-moons-and-mouths-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1987-04-26",
+   "release_date_for_display": "April 26, 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Full Moons and Mouths",
+   "title_with_featured": "Full Moons and Mouths",
+   "url": "https://genius.com/Martin-dupont-full-moons-and-mouths-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/662498",
+    "cover_art_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+    "full_title": "Hot Paradox  by Martin Dupont",
+    "id": 662498,
+    "name": "Hot Paradox ",
+    "url": "https://genius.com/albums/Martin-dupont/Hot-paradox",
+    "artist": {
+     "api_path": "/artists/2340608",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2340608,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Martin Dupont",
+     "url": "https://genius.com/artists/Martin-dupont"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6392620,
+    "annotator_login": "courtesan",
+    "api_path": "/referents/20469977",
+    "classification": "needs_exegesis",
+    "fragment": "Full Moons and Mouths",
+    "id": 20469977,
+    "is_description": true,
+    "path": "/20469977/Martin-dupont-full-moons-and-mouths/Full-moons-and-mouths",
+    "range": {
+     "content": "Full Moons and Mouths"
+    },
+    "song_id": 5818863,
+    "url": "https://genius.com/20469977/Martin-dupont-full-moons-and-mouths/Full-moons-and-mouths",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5818863",
+     "client_timestamps": {
+      "updated_by_human_at": 1596157357,
+      "lyrics_updated_at": 1596157345
+     },
+     "context": "Martin Dupont",
+     "id": 5818863,
+     "image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+     "link_title": "Full Moons and Mouths by\u00a0Martin\u00a0Dupont",
+     "title": "Full Moons and Mouths",
+     "type": "Song",
+     "url": "https://genius.com/Martin-dupont-full-moons-and-mouths-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20469977",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20469977,
+      "pinned": false,
+      "share_url": "https://genius.com/20469977",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20469977/Martin-dupont-full-moons-and-mouths/Full-moons-and-mouths",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6392620",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/aedd0tvva8g",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6392620,
+         "iq": 25297,
+         "login": "courtesan",
+         "name": "courtesan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/courtesan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2340608",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 2340608,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Martin Dupont",
+    "url": "https://genius.com/artists/Martin-dupont"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5818865",
+   "apple_music_id": "1455193460",
+   "apple_music_player_url": "https://genius.com/songs/5818865/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5818865' class='rg_embed_link' data-song-id='5818865'>Read <a href='https://genius.com/Martin-dupont-my-analyst-assez-lyrics'>\u201cMy Analyst \"Assez\"\u201d by Martin\u00a0Dupont</a> on Genius</div> <script crossorigin src='//genius.com/songs/5818865/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "My Analyst \"Assez\" by\u00a0Martin\u00a0Dupont",
+   "header_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "id": 5818865,
+   "lyrics_owner_id": 6392620,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Martin-dupont-my-analyst-assez-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1987-04-26",
+   "release_date_for_display": "April 26, 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "My Analyst \u201cAssez\u201d",
+   "title_with_featured": "My Analyst \"Assez\"",
+   "url": "https://genius.com/Martin-dupont-my-analyst-assez-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/662498",
+    "cover_art_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+    "full_title": "Hot Paradox  by Martin Dupont",
+    "id": 662498,
+    "name": "Hot Paradox ",
+    "url": "https://genius.com/albums/Martin-dupont/Hot-paradox",
+    "artist": {
+     "api_path": "/artists/2340608",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2340608,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Martin Dupont",
+     "url": "https://genius.com/artists/Martin-dupont"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6392620,
+    "annotator_login": "courtesan",
+    "api_path": "/referents/20469979",
+    "classification": "needs_exegesis",
+    "fragment": "My Analyst \u201cAssez\u201d",
+    "id": 20469979,
+    "is_description": true,
+    "path": "/20469979/Martin-dupont-my-analyst-assez/My-analyst-assez",
+    "range": {
+     "content": "My Analyst \"Assez\""
+    },
+    "song_id": 5818865,
+    "url": "https://genius.com/20469979/Martin-dupont-my-analyst-assez/My-analyst-assez",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5818865",
+     "client_timestamps": {
+      "updated_by_human_at": 1596157635,
+      "lyrics_updated_at": 1596157635
+     },
+     "context": "Martin Dupont",
+     "id": 5818865,
+     "image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+     "link_title": "My Analyst \u201cAssez\u201d by\u00a0Martin\u00a0Dupont",
+     "title": "My Analyst \"Assez\"",
+     "type": "Song",
+     "url": "https://genius.com/Martin-dupont-my-analyst-assez-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20469979",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20469979,
+      "pinned": false,
+      "share_url": "https://genius.com/20469979",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20469979/Martin-dupont-my-analyst-assez/My-analyst-assez",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6392620",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/aedd0tvva8g",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6392620,
+         "iq": 25297,
+         "login": "courtesan",
+         "name": "courtesan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/courtesan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2340608",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 2340608,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Martin Dupont",
+    "url": "https://genius.com/artists/Martin-dupont"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5818871",
+   "apple_music_id": "1455193564",
+   "apple_music_player_url": "https://genius.com/songs/5818871/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5818871' class='rg_embed_link' data-song-id='5818871'>Read <a href='https://genius.com/Martin-dupont-like-a-lion-lyrics'>\u201cLike a Lion\u201d by Martin\u00a0Dupont</a> on Genius</div> <script crossorigin src='//genius.com/songs/5818871/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Like a Lion by\u00a0Martin\u00a0Dupont",
+   "header_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "id": 5818871,
+   "lyrics_owner_id": 6392620,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Martin-dupont-like-a-lion-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1987-04-26",
+   "release_date_for_display": "April 26, 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Like a Lion",
+   "title_with_featured": "Like a Lion",
+   "url": "https://genius.com/Martin-dupont-like-a-lion-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/662498",
+    "cover_art_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+    "full_title": "Hot Paradox  by Martin Dupont",
+    "id": 662498,
+    "name": "Hot Paradox ",
+    "url": "https://genius.com/albums/Martin-dupont/Hot-paradox",
+    "artist": {
+     "api_path": "/artists/2340608",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2340608,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Martin Dupont",
+     "url": "https://genius.com/artists/Martin-dupont"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6392620,
+    "annotator_login": "courtesan",
+    "api_path": "/referents/20469985",
+    "classification": "needs_exegesis",
+    "fragment": "Like a Lion",
+    "id": 20469985,
+    "is_description": true,
+    "path": "/20469985/Martin-dupont-like-a-lion/Like-a-lion",
+    "range": {
+     "content": "Like a Lion"
+    },
+    "song_id": 5818871,
+    "url": "https://genius.com/20469985/Martin-dupont-like-a-lion/Like-a-lion",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5818871",
+     "client_timestamps": {
+      "updated_by_human_at": 1596157501,
+      "lyrics_updated_at": 1596157483
+     },
+     "context": "Martin Dupont",
+     "id": 5818871,
+     "image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+     "link_title": "Like a Lion by\u00a0Martin\u00a0Dupont",
+     "title": "Like a Lion",
+     "type": "Song",
+     "url": "https://genius.com/Martin-dupont-like-a-lion-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20469985",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20469985,
+      "pinned": false,
+      "share_url": "https://genius.com/20469985",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20469985/Martin-dupont-like-a-lion/Like-a-lion",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6392620",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/aedd0tvva8g",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6392620,
+         "iq": 25297,
+         "login": "courtesan",
+         "name": "courtesan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/courtesan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2340608",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 2340608,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Martin Dupont",
+    "url": "https://genius.com/artists/Martin-dupont"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5818867",
+   "apple_music_id": "1455193465",
+   "apple_music_player_url": "https://genius.com/songs/5818867/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5818867' class='rg_embed_link' data-song-id='5818867'>Read <a href='https://genius.com/Martin-dupont-berlin-wall-lyrics'>\u201cBerlin Wall\u201d by Martin\u00a0Dupont</a> on Genius</div> <script crossorigin src='//genius.com/songs/5818867/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Berlin Wall by\u00a0Martin\u00a0Dupont",
+   "header_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "id": 5818867,
+   "lyrics_owner_id": 6392620,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Martin-dupont-berlin-wall-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1987-04-26",
+   "release_date_for_display": "April 26, 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Berlin Wall",
+   "title_with_featured": "Berlin Wall",
+   "url": "https://genius.com/Martin-dupont-berlin-wall-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/662498",
+    "cover_art_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+    "full_title": "Hot Paradox  by Martin Dupont",
+    "id": 662498,
+    "name": "Hot Paradox ",
+    "url": "https://genius.com/albums/Martin-dupont/Hot-paradox",
+    "artist": {
+     "api_path": "/artists/2340608",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2340608,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Martin Dupont",
+     "url": "https://genius.com/artists/Martin-dupont"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6392620,
+    "annotator_login": "courtesan",
+    "api_path": "/referents/20469981",
+    "classification": "needs_exegesis",
+    "fragment": "Berlin Wall",
+    "id": 20469981,
+    "is_description": true,
+    "path": "/20469981/Martin-dupont-berlin-wall/Berlin-wall",
+    "range": {
+     "content": "Berlin Wall"
+    },
+    "song_id": 5818867,
+    "url": "https://genius.com/20469981/Martin-dupont-berlin-wall/Berlin-wall",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5818867",
+     "client_timestamps": {
+      "updated_by_human_at": 1596157672,
+      "lyrics_updated_at": 1596157662
+     },
+     "context": "Martin Dupont",
+     "id": 5818867,
+     "image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+     "link_title": "Berlin Wall by\u00a0Martin\u00a0Dupont",
+     "title": "Berlin Wall",
+     "type": "Song",
+     "url": "https://genius.com/Martin-dupont-berlin-wall-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20469981",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20469981,
+      "pinned": false,
+      "share_url": "https://genius.com/20469981",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20469981/Martin-dupont-berlin-wall/Berlin-wall",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6392620",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/aedd0tvva8g",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6392620,
+         "iq": 25297,
+         "login": "courtesan",
+         "name": "courtesan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/courtesan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2340608",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 2340608,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Martin Dupont",
+    "url": "https://genius.com/artists/Martin-dupont"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "I feel as if the world\nIs falling down\nBetween my legs\nI feel as if could jump\nOver\u2005the\u2005Berlin Wall\n\nI want\u2005to fly\nBoth ways"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5818870",
+   "apple_music_id": "1455193560",
+   "apple_music_player_url": "https://genius.com/songs/5818870/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5818870' class='rg_embed_link' data-song-id='5818870'>Read <a href='https://genius.com/Martin-dupont-where-to-find-it-lyrics'>\u201cWhere To Find It\u201d by Martin\u00a0Dupont</a> on Genius</div> <script crossorigin src='//genius.com/songs/5818870/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Where To Find It by\u00a0Martin\u00a0Dupont",
+   "header_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "id": 5818870,
+   "lyrics_owner_id": 6392620,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Martin-dupont-where-to-find-it-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1987-04-26",
+   "release_date_for_display": "April 26, 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Where To Find It",
+   "title_with_featured": "Where To Find It",
+   "url": "https://genius.com/Martin-dupont-where-to-find-it-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/662498",
+    "cover_art_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+    "full_title": "Hot Paradox  by Martin Dupont",
+    "id": 662498,
+    "name": "Hot Paradox ",
+    "url": "https://genius.com/albums/Martin-dupont/Hot-paradox",
+    "artist": {
+     "api_path": "/artists/2340608",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2340608,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Martin Dupont",
+     "url": "https://genius.com/artists/Martin-dupont"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6392620,
+    "annotator_login": "courtesan",
+    "api_path": "/referents/20469984",
+    "classification": "needs_exegesis",
+    "fragment": "Where To Find It",
+    "id": 20469984,
+    "is_description": true,
+    "path": "/20469984/Martin-dupont-where-to-find-it/Where-to-find-it",
+    "range": {
+     "content": "Where To Find It"
+    },
+    "song_id": 5818870,
+    "url": "https://genius.com/20469984/Martin-dupont-where-to-find-it/Where-to-find-it",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5818870",
+     "client_timestamps": {
+      "updated_by_human_at": 1596157808,
+      "lyrics_updated_at": 1596157808
+     },
+     "context": "Martin Dupont",
+     "id": 5818870,
+     "image_url": "https://images.genius.com/1c4c313c04931386e8d91973e7468f2a.591x591x1.jpg",
+     "link_title": "Where To Find It by\u00a0Martin\u00a0Dupont",
+     "title": "Where To Find It",
+     "type": "Song",
+     "url": "https://genius.com/Martin-dupont-where-to-find-it-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20469984",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20469984,
+      "pinned": false,
+      "share_url": "https://genius.com/20469984",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20469984/Martin-dupont-where-to-find-it/Where-to-find-it",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6392620",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2c54c6a6d9ca3774e5ce943fa6644f0a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/aedd0tvva8g",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6392620,
+         "iq": 25297,
+         "login": "courtesan",
+         "name": "courtesan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/courtesan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2340608",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 2340608,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Martin Dupont",
+    "url": "https://genius.com/artists/Martin-dupont"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "I don't know\nWhere to find it\n\nI don't know where to find my \"Bonheur\"\nJessica and Gemina\u2005the\u2005vanilla twins?"
+  }
+ ]
+}

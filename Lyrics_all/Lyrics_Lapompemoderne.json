@@ -1,0 +1,1142 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/456226",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 456226,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "La pompe moderne",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/La-pompe-moderne",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7120397",
+  "classification": "needs_exegesis",
+  "fragment": "La pompe moderne",
+  "id": 7120397,
+  "is_description": true,
+  "path": "/7120397/La-pompe-moderne/La-pompe-moderne",
+  "range": {
+   "content": "La pompe moderne"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7120397/La-pompe-moderne/La-pompe-moderne",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/456226",
+   "context": null,
+   "id": 456226,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "La pompe moderne",
+   "title": "La pompe moderne",
+   "type": "Artist",
+   "url": "https://genius.com/artists/La-pompe-moderne"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7120397",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7120397,
+    "pinned": false,
+    "share_url": "https://genius.com/7120397",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7120397/La-pompe-moderne/La-pompe-moderne",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1963146",
+   "apple_music_id": "273833026",
+   "apple_music_player_url": "https://genius.com/songs/1963146/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1963146' class='rg_embed_link' data-song-id='1963146'>Read <a href='https://genius.com/La-pompe-moderne-dj-lyrics'>\u201cDj\u201d by La\u00a0pompe moderne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1963146/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Dj by\u00a0La\u00a0pompe moderne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1963146,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/La-pompe-moderne-dj-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Dj",
+   "title_with_featured": "Dj",
+   "url": "https://genius.com/La-pompe-moderne-dj-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6649425",
+    "classification": "needs_exegesis",
+    "fragment": "Dj",
+    "id": 6649425,
+    "is_description": true,
+    "path": "/6649425/La-pompe-moderne-dj/Dj",
+    "range": {
+     "content": "Dj"
+    },
+    "song_id": 1963146,
+    "url": "https://genius.com/6649425/La-pompe-moderne-dj/Dj",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1963146",
+     "client_timestamps": {
+      "updated_by_human_at": 1446156533,
+      "lyrics_updated_at": 1432926163
+     },
+     "context": "La pompe moderne",
+     "id": 1963146,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Dj by\u00a0La\u00a0pompe moderne",
+     "title": "Dj",
+     "type": "Song",
+     "url": "https://genius.com/La-pompe-moderne-dj-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6649425",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6649425,
+      "pinned": false,
+      "share_url": "https://genius.com/6649425",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6649425/La-pompe-moderne-dj/Dj",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/456226",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 456226,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "La pompe moderne",
+    "url": "https://genius.com/artists/La-pompe-moderne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2258788",
+   "apple_music_id": "273833033",
+   "apple_music_player_url": "https://genius.com/songs/2258788/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2258788' class='rg_embed_link' data-song-id='2258788'>Read <a href='https://genius.com/La-pompe-moderne-plus-dur-meilleur-plus-rapide-plus-fort-lyrics'>\u201cPlus Dur, Meilleur, Plus Rapide, Plus Fort\u201d by La\u00a0pompe moderne</a> on Genius</div> <script crossorigin src='//genius.com/songs/2258788/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Plus Dur, Meilleur, Plus Rapide, Plus Fort by\u00a0La\u00a0pompe moderne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 2258788,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/La-pompe-moderne-plus-dur-meilleur-plus-rapide-plus-fort-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Plus Dur, Meilleur, Plus Rapide, Plus Fort",
+   "title_with_featured": "Plus Dur, Meilleur, Plus Rapide, Plus Fort",
+   "url": "https://genius.com/La-pompe-moderne-plus-dur-meilleur-plus-rapide-plus-fort-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/316932",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Plus dur, meilleur, plus rapide, plus fort by La pompe moderne",
+    "id": 316932,
+    "name": "Plus dur, meilleur, plus rapide, plus fort",
+    "url": "https://genius.com/albums/La-pompe-moderne/Plus-dur-meilleur-plus-rapide-plus-fort",
+    "artist": {
+     "api_path": "/artists/456226",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 456226,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "La pompe moderne",
+     "url": "https://genius.com/artists/La-pompe-moderne"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7428244",
+    "classification": "needs_exegesis",
+    "fragment": "Plus Dur, Meilleur, Plus Rapide, Plus Fort",
+    "id": 7428244,
+    "is_description": true,
+    "path": "/7428244/La-pompe-moderne-plus-dur-meilleur-plus-rapide-plus-fort/Plus-dur-meilleur-plus-rapide-plus-fort",
+    "range": {
+     "content": "Plus Dur, Meilleur, Plus Rapide, Plus Fort"
+    },
+    "song_id": 2258788,
+    "url": "https://genius.com/7428244/La-pompe-moderne-plus-dur-meilleur-plus-rapide-plus-fort/Plus-dur-meilleur-plus-rapide-plus-fort",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2258788",
+     "client_timestamps": {
+      "updated_by_human_at": 1481829496,
+      "lyrics_updated_at": 1437656413
+     },
+     "context": "La pompe moderne",
+     "id": 2258788,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Plus Dur, Meilleur, Plus Rapide, Plus Fort by\u00a0La\u00a0pompe moderne",
+     "title": "Plus Dur, Meilleur, Plus Rapide, Plus Fort",
+     "type": "Song",
+     "url": "https://genius.com/La-pompe-moderne-plus-dur-meilleur-plus-rapide-plus-fort-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7428244",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7428244,
+      "pinned": false,
+      "share_url": "https://genius.com/7428244",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7428244/La-pompe-moderne-plus-dur-meilleur-plus-rapide-plus-fort/Plus-dur-meilleur-plus-rapide-plus-fort",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/456226",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 456226,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "La pompe moderne",
+    "url": "https://genius.com/artists/La-pompe-moderne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1973174",
+   "apple_music_id": "273832856",
+   "apple_music_player_url": "https://genius.com/songs/1973174/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1973174' class='rg_embed_link' data-song-id='1973174'>Read <a href='https://genius.com/La-pompe-moderne-le-mia-lyrics'>\u201cLe mia\u201d by La\u00a0pompe moderne</a> on Genius</div> <script crossorigin src='//genius.com/songs/1973174/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le mia by\u00a0La\u00a0pompe moderne",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1973174,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/La-pompe-moderne-le-mia-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le mia",
+   "title_with_featured": "Le mia",
+   "url": "https://genius.com/La-pompe-moderne-le-mia-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6659747",
+    "classification": "needs_exegesis",
+    "fragment": "Le mia",
+    "id": 6659747,
+    "is_description": true,
+    "path": "/6659747/La-pompe-moderne-le-mia/Le-mia",
+    "range": {
+     "content": "Le mia"
+    },
+    "song_id": 1973174,
+    "url": "https://genius.com/6659747/La-pompe-moderne-le-mia/Le-mia",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1973174",
+     "client_timestamps": {
+      "updated_by_human_at": 1446157187,
+      "lyrics_updated_at": 1432930234
+     },
+     "context": "La pompe moderne",
+     "id": 1973174,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Le mia by\u00a0La\u00a0pompe moderne",
+     "title": "Le mia",
+     "type": "Song",
+     "url": "https://genius.com/La-pompe-moderne-le-mia-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6659747",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6659747,
+      "pinned": false,
+      "share_url": "https://genius.com/6659747",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6659747/La-pompe-moderne-le-mia/Le-mia",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/456226",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 456226,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "La pompe moderne",
+    "url": "https://genius.com/artists/La-pompe-moderne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Tu es fada je crains d\u00e9gun, je vous prends tous ici, un par un !\nAu d\u00e9but des ann\u00e9es 80, je me souviens des soir\u00e9es\nO\u00f9 l'ambiance \u00e9tait chaude et les mecs rentraient\nStan Smith aux pieds le regard froid\nIls scrutaient la salle le trois-quart en cuir roul\u00e9 autour du bras\nRay Ban sur la t\u00eate surv\u00eatement Tacchini\nPour les plus class les mocassins N\u00e9buloni\nD\u00e8s qu'ils passaient Cameo Midnight Star\nSOS Band Delegation ou Shalamar\nTout le monde se levait des cercles se formaient\nDes concours de danse un peu partout s'improvisaient\nJe te propose un voyage dans le temps, via plan\u00e8te Marseille\n\nRefrain/Chorus :\nJe danse le MIA\nHey DJ met nous donc du Funk, que je danse le MIA\nJe danse le MIA\nFait pousser le Pioneer \u00e0 fond pour danser le MIA\nJe danse le MIA\nCe soir les bagues brilleront pour danser le MIA\nJe danse le MIA\nHey DJ met nous donc du Funk, que je danse le MIA\nJe danse le MIA jusqu'\u00e0 c'que la soir\u00e9e vacille\nUne bagarre au fond et tout le monde s'\u00e9parpille\nOn r\u00e2lait que c'\u00e9tait nul que \u00e7a craignait\nLe samedi d'apr\u00e8s on revenait tellement qu'on s'emmerdait\nJ'entends encore le rire des filles\nQui a**istaient au ballet des Renault 12 sur le parking\nA l'int\u00e9rieur, pour elles c'\u00e9tait moins rose\n\"Oh cousine, tu danses ou je t'explose? \"\nVoil\u00e0 comment tout s'aggravait en un quart-d'heure\nLe fr\u00e8re rappliquait : \"oh comment tu parles \u00e0 ma soeur \"\nViens avec moi, on va se filer\nT\u00eate \u00e0 t\u00eate je vais te fumer derri\u00e8re les cypr\u00e8s\nEt tout s'arrangeait ou se r\u00e9glait \u00e0 la danse\nL'un disait \"fils t'as aucune chance \"\nEh les filles, mes chaussures brillent, hop un tour je vrille\nJe te bousille tu te rhabilles et moi je danse le MIA\nComme les voitures c'\u00e9tait le d\u00e9fi\nKUX 73 JM 120 mon petit\nDu grand voyou \u00e0 la plus grosse mauviette\nLa main sur le volant avec la moquette\nPare-soleil Pioneer sur le pare-brise arri\u00e8re\nD\u00e9d\u00e9 et Val\u00e9rie \u00e9crit en gros; sur mon p\u00e8re!\nLa bonne \u00e9poque o\u00f9 on sortait la douze sur magic touch\nOn lui collait la bande rouge \u00e0 la Starsky et Hutch\nJ'avais la nuque longue Eric aussi Malek coco\nLa coupe \u00e0 la Marley Pascal \u00e9tait rasta des affro\nSur Fran\u00e7ois et Joe d\u00e9j\u00e0 \u00e0 la danse \u00e0 c\u00f4t\u00e9 d'eux\nPersonne ne touchait une bille\nOn dansait le MIA\nRefrain/Chorus\nDJ Speech :\nEn direct sur Radio Chacal, en duplex live avec le Starflash\nLaserline Hatchin club c'est tout de suite 3, 2, 1, Dj :\nMerci \u00e0 toutes et \u00e0 tous d'\u00eatre encore avec nous ce soir\nAu New starflash Lazerline Hatchin Club\nNous sommes ensemble ce soir pour une soir\u00e9e de bonheur musical\nAvec un grand concours de danse\nDe nombreux super cadeaux pour les heureux gagnants\nIl y aura les T-shirt Marlboro, les autocollants Pioneer\nLes cale\u00e7ons JB, les peluches\n\u00c0 la technique c'est Michel, le light jockey c'est Momo\nOn monte sur les tables, on l\u00e8ve les bras bien haut\nAllez c'est parti...\nJe danse le mia x2\nJe danse le mia, pas de pacotille\nChemise ouverte, cha\u00eene en or qui brille\nDes gestes lents ils prenaient leur temps pour encha\u00eener\nLes passes qu'ils avaient \u00e9labor\u00e9es dans leur quartier\nC'\u00e9tait vraiment trop beau\nUn mec a**urait tout le monde criait : ah oui minot\nLa piste s'enflammait et tous les yeux convergeaient\nLes diff\u00e9rents s'effa\u00e7aient et les rires \u00e9clataient\nBeaucoup disaient que nos soir\u00e9es \u00e9taient sauvages\nEt qu'il fallait rentrer avec une batte ou une hache\nFoutaises, c'\u00e9taient les ragots des jaloux\nEt quoi qu'on en dise, nous on s'amusait beaucoup\nAujourd'hui, encore on peut entendre des filles dire\nHayya, IAM, ils dansent le MIA\nRefrain\nJe danse le MIA"
+  }
+ ]
+}

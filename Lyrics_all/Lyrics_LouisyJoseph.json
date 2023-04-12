@@ -1,0 +1,3869 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/362674",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+ "id": 362674,
+ "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Louisy Joseph",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Louisy-joseph",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2937273,
+  "annotator_login": "geniusbot",
+  "api_path": "/referents/11812861",
+  "classification": "needs_exegesis",
+  "fragment": "Louisy Joseph",
+  "id": 11812861,
+  "is_description": true,
+  "path": "/11812861/Louisy-joseph/Louisy-joseph",
+  "range": {
+   "content": "Louisy Joseph"
+  },
+  "song_id": null,
+  "url": "https://genius.com/11812861/Louisy-joseph/Louisy-joseph",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/362674",
+   "context": null,
+   "id": 362674,
+   "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+   "link_title": "Louisy Joseph",
+   "title": "Louisy Joseph",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Louisy-joseph"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/11812861",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 11812861,
+    "pinned": false,
+    "share_url": "https://genius.com/11812861",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/11812861/Louisy-joseph/Louisy-joseph",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2937273",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d8178e34dd5f45daf6e9cb62f8e3b996",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d8178e34dd5f45daf6e9cb62f8e3b996",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d8178e34dd5f45daf6e9cb62f8e3b996",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d8178e34dd5f45daf6e9cb62f8e3b996",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/d8178e34dd5f45daf6e9cb62f8e3b996",
+       "human_readable_role_for_display": "Staff",
+       "id": 2937273,
+       "iq": 0,
+       "login": "geniusbot",
+       "name": "geniusbot",
+       "role_for_display": "staff",
+       "url": "https://genius.com/geniusbot",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1069779",
+   "apple_music_id": "296223518",
+   "apple_music_player_url": "https://genius.com/songs/1069779/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1069779' class='rg_embed_link' data-song-id='1069779'>Read <a href='https://genius.com/Louisy-joseph-assis-par-terre-lyrics'>\u201cAssis par terre\u201d by Louisy\u00a0Joseph</a> on Genius</div> <script crossorigin src='//genius.com/songs/1069779/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Assis par terre by\u00a0Louisy\u00a0Joseph",
+   "header_image_thumbnail_url": "https://images.genius.com/2d9d1209986e9fbd9edd7bfb3f557fc3.300x300x1.png",
+   "header_image_url": "https://images.genius.com/2d9d1209986e9fbd9edd7bfb3f557fc3.600x600x1.png",
+   "id": 1069779,
+   "lyrics_owner_id": 314336,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Louisy-joseph-assis-par-terre-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2008-02-25",
+   "release_date_for_display": "February 25, 2008",
+   "song_art_image_thumbnail_url": "https://images.genius.com/2d9d1209986e9fbd9edd7bfb3f557fc3.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/2d9d1209986e9fbd9edd7bfb3f557fc3.600x600x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Assis par terre",
+   "title_with_featured": "Assis par terre",
+   "url": "https://genius.com/Louisy-joseph-assis-par-terre-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198613",
+    "cover_art_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+    "full_title": "La saison des amours by Louisy Joseph",
+    "id": 198613,
+    "name": "La saison des amours",
+    "url": "https://genius.com/albums/Louisy-joseph/La-saison-des-amours",
+    "artist": {
+     "api_path": "/artists/362674",
+     "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "id": 362674,
+     "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Louisy Joseph",
+     "url": "https://genius.com/artists/Louisy-joseph"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5567545",
+    "classification": "needs_exegesis",
+    "fragment": "Assis par terre",
+    "id": 5567545,
+    "is_description": true,
+    "path": "/5567545/Louisy-joseph-assis-par-terre/Assis-par-terre",
+    "range": {
+     "content": "Assis par terre"
+    },
+    "song_id": 1069779,
+    "url": "https://genius.com/5567545/Louisy-joseph-assis-par-terre/Assis-par-terre",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1069779",
+     "client_timestamps": {
+      "updated_by_human_at": 1541855854,
+      "lyrics_updated_at": 1541855653
+     },
+     "context": "Louisy Joseph",
+     "id": 1069779,
+     "image_url": "https://images.genius.com/2d9d1209986e9fbd9edd7bfb3f557fc3.600x600x1.png",
+     "link_title": "Assis par terre by\u00a0Louisy\u00a0Joseph",
+     "title": "Assis par terre",
+     "type": "Song",
+     "url": "https://genius.com/Louisy-joseph-assis-par-terre-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5567545",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5567545,
+      "pinned": false,
+      "share_url": "https://genius.com/5567545",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5567545/Louisy-joseph-assis-par-terre/Assis-par-terre",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=lACT1rmoR3E"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362674",
+    "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "id": 362674,
+    "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Louisy Joseph",
+    "url": "https://genius.com/artists/Louisy-joseph"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/323598",
+     "header_image_url": "https://images.genius.com/483cd8916f2f9e8509b51f625ab4ac75.620x620x1.jpg",
+     "id": 323598,
+     "image_url": "https://images.genius.com/483cd8916f2f9e8509b51f625ab4ac75.620x620x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lionel Florence",
+     "url": "https://genius.com/artists/Lionel-florence"
+    },
+    {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1152578",
+   "apple_music_id": "296223520",
+   "apple_music_player_url": "https://genius.com/songs/1152578/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1152578' class='rg_embed_link' data-song-id='1152578'>Read <a href='https://genius.com/Louisy-joseph-mes-insomnies-lyrics'>\u201cMes insomnies\u201d by Louisy\u00a0Joseph</a> on Genius</div> <script crossorigin src='//genius.com/songs/1152578/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Mes insomnies by\u00a0Louisy\u00a0Joseph",
+   "header_image_thumbnail_url": "https://images.genius.com/5f553e27bcdf8881be3e8f56c77ae4a0.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5f553e27bcdf8881be3e8f56c77ae4a0.1000x1000x1.jpg",
+   "id": 1152578,
+   "lyrics_owner_id": 314336,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Louisy-joseph-mes-insomnies-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/5f553e27bcdf8881be3e8f56c77ae4a0.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5f553e27bcdf8881be3e8f56c77ae4a0.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mes insomnies",
+   "title_with_featured": "Mes insomnies",
+   "url": "https://genius.com/Louisy-joseph-mes-insomnies-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198613",
+    "cover_art_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+    "full_title": "La saison des amours by Louisy Joseph",
+    "id": 198613,
+    "name": "La saison des amours",
+    "url": "https://genius.com/albums/Louisy-joseph/La-saison-des-amours",
+    "artist": {
+     "api_path": "/artists/362674",
+     "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "id": 362674,
+     "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Louisy Joseph",
+     "url": "https://genius.com/artists/Louisy-joseph"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Arranged By",
+     "artists": [
+      {
+       "api_path": "/artists/1137370",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "id": 1137370,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Olivier Reine",
+       "url": "https://genius.com/artists/Olivier-reine"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5654055",
+    "classification": "needs_exegesis",
+    "fragment": "Mes insomnies",
+    "id": 5654055,
+    "is_description": true,
+    "path": "/5654055/Louisy-joseph-mes-insomnies/Mes-insomnies",
+    "range": {
+     "content": "Mes insomnies"
+    },
+    "song_id": 1152578,
+    "url": "https://genius.com/5654055/Louisy-joseph-mes-insomnies/Mes-insomnies",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1152578",
+     "client_timestamps": {
+      "updated_by_human_at": 1541856639,
+      "lyrics_updated_at": 1541856285
+     },
+     "context": "Louisy Joseph",
+     "id": 1152578,
+     "image_url": "https://images.genius.com/5f553e27bcdf8881be3e8f56c77ae4a0.1000x1000x1.jpg",
+     "link_title": "Mes insomnies by\u00a0Louisy\u00a0Joseph",
+     "title": "Mes insomnies",
+     "type": "Song",
+     "url": "https://genius.com/Louisy-joseph-mes-insomnies-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5654055",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5654055,
+      "pinned": false,
+      "share_url": "https://genius.com/5654055",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5654055/Louisy-joseph-mes-insomnies/Mes-insomnies",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bPhXylEQaRo"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362674",
+    "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "id": 362674,
+    "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Louisy Joseph",
+    "url": "https://genius.com/artists/Louisy-joseph"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    },
+    {
+     "api_path": "/artists/1199658",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1199658,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u00c9lodie Hesme",
+     "url": "https://genius.com/artists/Elodie-hesme"
+    }
+   ],
+   "lyrics": "Pas la peine d'appeler les secours\nVous les pompiers, pas la peine, j'en ai fait le tour\nLes gyrophares et les sir\u00e8nes\nNe feraient qu'alourdir, oh, ma peine\n\nJe ne cherche plus \u00e0 les faire taire\nDepuis le temps j'ai laiss\u00e9 faire, oh\n\nMes insomnies\nSont les pages blanches que chaque nuit je remplis\nMes insomnies\nSont aussi blanches que le ciel de Paris\nMais en somme, si je perdais mes insomnies\nJe me perdrais aussi, je me perdrais aussi\n\nPas la peine de dompter mes moutons en me saoulant\nPas la peine, je n'aime pas les bonbons\nTous ces m\u00e9langes d'apothicaire\nMe feraient, oh, la t\u00eate \u00e0 l'envers\n\nJe n'ai plus envie de lutter\nAvec le temps je laisse aller\n\nMes insomnies\nSont les pages blanches que chaque nuit je remplis\nMes insomnies\nSont aussi blanches que le ciel de Paris\nMais en somme, si je perdais mes insomnies (si je perdais)\nJe me perdrais aussi, je me perdrais aussi, oh\n\nMes insomnies\nSont les dimanches que chaque nuit je d\u00e9truits\nMes insomnies\nMon c\u0153ur qui flanche, mes souvenirs aussi\nMais en somme, si je perdais\nOh...\n\nMes insomnies\nSont les archanges qui se penchent sur ma vie (sont les archanges)\nMes insomnies\nSont bien \u00e9tranges, mais elles me gardent en vie\nMais en somme, si je perdais mes insomnies (si je perdais)\nJe me perdrais aussi, je me perdrais aussi"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1421307",
+   "apple_music_id": "296223521",
+   "apple_music_player_url": "https://genius.com/songs/1421307/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1421307' class='rg_embed_link' data-song-id='1421307'>Read <a href='https://genius.com/Louisy-joseph-laissez-faire-lyrics'>\u201cLaissez faire\u201d by Louisy\u00a0Joseph</a> on Genius</div> <script crossorigin src='//genius.com/songs/1421307/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Laissez faire by\u00a0Louisy\u00a0Joseph",
+   "header_image_thumbnail_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+   "id": 1421307,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Louisy-joseph-laissez-faire-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Laissez faire",
+   "title_with_featured": "Laissez faire",
+   "url": "https://genius.com/Louisy-joseph-laissez-faire-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198613",
+    "cover_art_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+    "full_title": "La saison des amours by Louisy Joseph",
+    "id": 198613,
+    "name": "La saison des amours",
+    "url": "https://genius.com/albums/Louisy-joseph/La-saison-des-amours",
+    "artist": {
+     "api_path": "/artists/362674",
+     "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "id": 362674,
+     "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Louisy Joseph",
+     "url": "https://genius.com/artists/Louisy-joseph"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Arranged By",
+     "artists": [
+      {
+       "api_path": "/artists/1137370",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "id": 1137370,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Olivier Reine",
+       "url": "https://genius.com/artists/Olivier-reine"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5932669",
+    "classification": "needs_exegesis",
+    "fragment": "Laissez faire",
+    "id": 5932669,
+    "is_description": true,
+    "path": "/5932669/Louisy-joseph-laissez-faire/Laissez-faire",
+    "range": {
+     "content": "Laissez faire"
+    },
+    "song_id": 1421307,
+    "url": "https://genius.com/5932669/Louisy-joseph-laissez-faire/Laissez-faire",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1421307",
+     "client_timestamps": {
+      "updated_by_human_at": 1541856719,
+      "lyrics_updated_at": 1429834234
+     },
+     "context": "Louisy Joseph",
+     "id": 1421307,
+     "image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+     "link_title": "Laissez faire by\u00a0Louisy\u00a0Joseph",
+     "title": "Laissez faire",
+     "type": "Song",
+     "url": "https://genius.com/Louisy-joseph-laissez-faire-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5932669",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5932669,
+      "pinned": false,
+      "share_url": "https://genius.com/5932669",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5932669/Louisy-joseph-laissez-faire/Laissez-faire",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bT0eupTm_S0"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362674",
+    "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "id": 362674,
+    "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Louisy Joseph",
+    "url": "https://genius.com/artists/Louisy-joseph"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    },
+    {
+     "api_path": "/artists/1633885",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1633885,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fr\u00e9d\u00e9ric Lebovici",
+     "url": "https://genius.com/artists/Frederic-lebovici"
+    }
+   ],
+   "lyrics": "C'est pas de l'or, pas du fer\nC'est plus doux moins amer\nC'est pas dans l'eau, pas sur Terre\nEntre les mots, c'est dans l'air\n\nC'est pas d'ici, c'est plan\u00e9taire\nTrouver l'amour, pas la guerre\nC'est pour demain, pour hier\nC'est comme un flash, un \u00e9clair\n\nLaisser filer, laisser faire\nL'amour laisser laisser faire (bis)\n\nC'est plus l'orage, plus l'enfer\nC'est plus la plage, plus la mer\nSur le b\u00e9ton, sur le verre\nC'est l'amour, qu'on esp\u00e8re\nQu'on esp\u00e8re...\n\nRefrain (X2)"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1445930",
+   "apple_music_id": "296223519",
+   "apple_music_player_url": "https://genius.com/songs/1445930/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1445930' class='rg_embed_link' data-song-id='1445930'>Read <a href='https://genius.com/Louisy-joseph-imagine-de-john-lennon-lyrics'>\u201cImagine de John Lennon\u201d by Louisy\u00a0Joseph</a> on Genius</div> <script crossorigin src='//genius.com/songs/1445930/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Imagine de John Lennon by\u00a0Louisy\u00a0Joseph",
+   "header_image_thumbnail_url": "https://images.genius.com/84b2a80a46c8534ee300be35e0af6909.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/84b2a80a46c8534ee300be35e0af6909.1000x1000x1.jpg",
+   "id": 1445930,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Louisy-joseph-imagine-de-john-lennon-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/84b2a80a46c8534ee300be35e0af6909.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/84b2a80a46c8534ee300be35e0af6909.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Imagine de John Lennon",
+   "title_with_featured": "Imagine de John Lennon",
+   "url": "https://genius.com/Louisy-joseph-imagine-de-john-lennon-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198613",
+    "cover_art_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+    "full_title": "La saison des amours by Louisy Joseph",
+    "id": 198613,
+    "name": "La saison des amours",
+    "url": "https://genius.com/albums/Louisy-joseph/La-saison-des-amours",
+    "artist": {
+     "api_path": "/artists/362674",
+     "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "id": 362674,
+     "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Louisy Joseph",
+     "url": "https://genius.com/artists/Louisy-joseph"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5958001",
+    "classification": "needs_exegesis",
+    "fragment": "Imagine de John Lennon",
+    "id": 5958001,
+    "is_description": true,
+    "path": "/5958001/Louisy-joseph-imagine-de-john-lennon/Imagine-de-john-lennon",
+    "range": {
+     "content": "Imagine de John Lennon"
+    },
+    "song_id": 1445930,
+    "url": "https://genius.com/5958001/Louisy-joseph-imagine-de-john-lennon/Imagine-de-john-lennon",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1445930",
+     "client_timestamps": {
+      "updated_by_human_at": 1541856599,
+      "lyrics_updated_at": 1429848137
+     },
+     "context": "Louisy Joseph",
+     "id": 1445930,
+     "image_url": "https://images.genius.com/84b2a80a46c8534ee300be35e0af6909.1000x1000x1.jpg",
+     "link_title": "Imagine de John Lennon by\u00a0Louisy\u00a0Joseph",
+     "title": "Imagine de John Lennon",
+     "type": "Song",
+     "url": "https://genius.com/Louisy-joseph-imagine-de-john-lennon-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5958001",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5958001,
+      "pinned": false,
+      "share_url": "https://genius.com/5958001",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5958001/Louisy-joseph-imagine-de-john-lennon/Imagine-de-john-lennon",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Qvtw30fWvwQ"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362674",
+    "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "id": 362674,
+    "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Louisy Joseph",
+    "url": "https://genius.com/artists/Louisy-joseph"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/16334",
+     "header_image_url": "https://images.genius.com/87a04c544ce32b0815da89128d2e3a32.1000x625x1.jpg",
+     "id": 16334,
+     "image_url": "https://images.genius.com/31e7728df0338ba3334b1b29433f8965.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pascal Obispo",
+     "url": "https://genius.com/artists/Pascal-obispo"
+    },
+    {
+     "api_path": "/artists/323598",
+     "header_image_url": "https://images.genius.com/483cd8916f2f9e8509b51f625ab4ac75.620x620x1.jpg",
+     "id": 323598,
+     "image_url": "https://images.genius.com/483cd8916f2f9e8509b51f625ab4ac75.620x620x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lionel Florence",
+     "url": "https://genius.com/artists/Lionel-florence"
+    }
+   ],
+   "lyrics": "Nanananaoh (x4)\n\nTu entendras\nQue les hommes naissent \u00e9gaux\nOnt les m\u00eames droits\nIci comme dans les ghettos\nJuge par toi-m\u00eame\nSi tous les mots ont raison\nCeux qui contiennent\nDe trompeurs et de poison\nVas ou tu crois\nQue la justice est la bonne\nRien n'\u00e9galera\nImagine de John Lennon\n\nNanananaoh\nImagine de John Lennon\nNanananaoh\nNanananaoh\n\nTellement de voix\nCe sont \u00e9lev\u00e9es pour rien\nD'autres aux abois\nQui ont fait lever le point\nDes chants d'honneur\nQui m\u00eame repris en cannons\nDes menflowers\nPour des r\u00e9volutions\nFait c'que tu veux\nPour qu'un seul il ne r\u00e9sonne\nOn fera pas mieux\nQu'Imagine de John Lennon\n\nNanananaoh\nImagine de John Lennon\nNanananaoh\n\nFais c'que tu dois\nPour ne decevoir personne\nRien ne remplacera\nImagine de John Lennon Lennon Lennon\n\nNanananaoh\nDes chants d'honneur\nDes revolutions\nDes menflowers\nPour des revolutions\n\nImagine de John Lennon (x2)"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1535000",
+   "apple_music_id": "296223528",
+   "apple_music_player_url": "https://genius.com/songs/1535000/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1535000' class='rg_embed_link' data-song-id='1535000'>Read <a href='https://genius.com/Louisy-joseph-la-saison-des-amours-lyrics'>\u201cLa saison des amours\u201d by Louisy\u00a0Joseph</a> on Genius</div> <script crossorigin src='//genius.com/songs/1535000/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La saison des amours by\u00a0Louisy\u00a0Joseph",
+   "header_image_thumbnail_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+   "id": 1535000,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Louisy-joseph-la-saison-des-amours-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La saison des amours",
+   "title_with_featured": "La saison des amours",
+   "url": "https://genius.com/Louisy-joseph-la-saison-des-amours-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198613",
+    "cover_art_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+    "full_title": "La saison des amours by Louisy Joseph",
+    "id": 198613,
+    "name": "La saison des amours",
+    "url": "https://genius.com/albums/Louisy-joseph/La-saison-des-amours",
+    "artist": {
+     "api_path": "/artists/362674",
+     "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "id": 362674,
+     "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Louisy Joseph",
+     "url": "https://genius.com/artists/Louisy-joseph"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6049533",
+    "classification": "needs_exegesis",
+    "fragment": "La saison des amours",
+    "id": 6049533,
+    "is_description": true,
+    "path": "/6049533/Louisy-joseph-la-saison-des-amours/La-saison-des-amours",
+    "range": {
+     "content": "La saison des amours"
+    },
+    "song_id": 1535000,
+    "url": "https://genius.com/6049533/Louisy-joseph-la-saison-des-amours/La-saison-des-amours",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1535000",
+     "client_timestamps": {
+      "updated_by_human_at": 1541857024,
+      "lyrics_updated_at": 1429895131
+     },
+     "context": "Louisy Joseph",
+     "id": 1535000,
+     "image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+     "link_title": "La saison des amours by\u00a0Louisy\u00a0Joseph",
+     "title": "La saison des amours",
+     "type": "Song",
+     "url": "https://genius.com/Louisy-joseph-la-saison-des-amours-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6049533",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6049533,
+      "pinned": false,
+      "share_url": "https://genius.com/6049533",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6049533/Louisy-joseph-la-saison-des-amours/La-saison-des-amours",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=RzENPdXPTkg"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362674",
+    "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "id": 362674,
+    "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Louisy Joseph",
+    "url": "https://genius.com/artists/Louisy-joseph"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1633893",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1633893,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nicholas Dembling",
+     "url": "https://genius.com/artists/Nicholas-dembling"
+    },
+    {
+     "api_path": "/artists/1199637",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1199637,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fr\u00e9d\u00e9ric Doll",
+     "url": "https://genius.com/artists/Frederic-doll"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1196124",
+   "apple_music_id": "296223525",
+   "apple_music_player_url": "https://genius.com/songs/1196124/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1196124' class='rg_embed_link' data-song-id='1196124'>Read <a href='https://genius.com/Louisy-joseph-sur-la-pointe-des-pieds-lyrics'>\u201cSur la pointe des pieds\u201d by Louisy\u00a0Joseph</a> on Genius</div> <script crossorigin src='//genius.com/songs/1196124/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Sur la pointe des pieds by\u00a0Louisy\u00a0Joseph",
+   "header_image_thumbnail_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+   "id": 1196124,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Louisy-joseph-sur-la-pointe-des-pieds-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sur la pointe des pieds",
+   "title_with_featured": "Sur la pointe des pieds",
+   "url": "https://genius.com/Louisy-joseph-sur-la-pointe-des-pieds-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198613",
+    "cover_art_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+    "full_title": "La saison des amours by Louisy Joseph",
+    "id": 198613,
+    "name": "La saison des amours",
+    "url": "https://genius.com/albums/Louisy-joseph/La-saison-des-amours",
+    "artist": {
+     "api_path": "/artists/362674",
+     "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "id": 362674,
+     "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Louisy Joseph",
+     "url": "https://genius.com/artists/Louisy-joseph"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Arranged By",
+     "artists": [
+      {
+       "api_path": "/artists/1137370",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "id": 1137370,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Olivier Reine",
+       "url": "https://genius.com/artists/Olivier-reine"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5698422",
+    "classification": "needs_exegesis",
+    "fragment": "Sur la pointe des pieds",
+    "id": 5698422,
+    "is_description": true,
+    "path": "/5698422/Louisy-joseph-sur-la-pointe-des-pieds/Sur-la-pointe-des-pieds",
+    "range": {
+     "content": "Sur la pointe des pieds"
+    },
+    "song_id": 1196124,
+    "url": "https://genius.com/5698422/Louisy-joseph-sur-la-pointe-des-pieds/Sur-la-pointe-des-pieds",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1196124",
+     "client_timestamps": {
+      "updated_by_human_at": 1541856839,
+      "lyrics_updated_at": 1429690384
+     },
+     "context": "Louisy Joseph",
+     "id": 1196124,
+     "image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+     "link_title": "Sur la pointe des pieds by\u00a0Louisy\u00a0Joseph",
+     "title": "Sur la pointe des pieds",
+     "type": "Song",
+     "url": "https://genius.com/Louisy-joseph-sur-la-pointe-des-pieds-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5698422",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5698422,
+      "pinned": false,
+      "share_url": "https://genius.com/5698422",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5698422/Louisy-joseph-sur-la-pointe-des-pieds/Sur-la-pointe-des-pieds",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=M5I8-GvBgHA"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362674",
+    "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "id": 362674,
+    "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Louisy Joseph",
+    "url": "https://genius.com/artists/Louisy-joseph"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    },
+    {
+     "api_path": "/artists/1199658",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1199658,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u00c9lodie Hesme",
+     "url": "https://genius.com/artists/Elodie-hesme"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1300082",
+   "apple_music_id": "296223523",
+   "apple_music_player_url": "https://genius.com/songs/1300082/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1300082' class='rg_embed_link' data-song-id='1300082'>Read <a href='https://genius.com/Louisy-joseph-laisse-aller-lyrics'>\u201cLaisse aller\u201d by Louisy\u00a0Joseph</a> on Genius</div> <script crossorigin src='//genius.com/songs/1300082/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Laisse aller by\u00a0Louisy\u00a0Joseph",
+   "header_image_thumbnail_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+   "id": 1300082,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Louisy-joseph-laisse-aller-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Laisse aller",
+   "title_with_featured": "Laisse aller",
+   "url": "https://genius.com/Louisy-joseph-laisse-aller-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198613",
+    "cover_art_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+    "full_title": "La saison des amours by Louisy Joseph",
+    "id": 198613,
+    "name": "La saison des amours",
+    "url": "https://genius.com/albums/Louisy-joseph/La-saison-des-amours",
+    "artist": {
+     "api_path": "/artists/362674",
+     "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "id": 362674,
+     "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Louisy Joseph",
+     "url": "https://genius.com/artists/Louisy-joseph"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Arranged By",
+     "artists": [
+      {
+       "api_path": "/artists/1137370",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "id": 1137370,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Olivier Reine",
+       "url": "https://genius.com/artists/Olivier-reine"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5806408",
+    "classification": "needs_exegesis",
+    "fragment": "Laisse aller",
+    "id": 5806408,
+    "is_description": true,
+    "path": "/5806408/Louisy-joseph-laisse-aller/Laisse-aller",
+    "range": {
+     "content": "Laisse aller"
+    },
+    "song_id": 1300082,
+    "url": "https://genius.com/5806408/Louisy-joseph-laisse-aller/Laisse-aller",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1300082",
+     "client_timestamps": {
+      "updated_by_human_at": 1541856781,
+      "lyrics_updated_at": 1429752482
+     },
+     "context": "Louisy Joseph",
+     "id": 1300082,
+     "image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+     "link_title": "Laisse aller by\u00a0Louisy\u00a0Joseph",
+     "title": "Laisse aller",
+     "type": "Song",
+     "url": "https://genius.com/Louisy-joseph-laisse-aller-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5806408",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5806408,
+      "pinned": false,
+      "share_url": "https://genius.com/5806408",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5806408/Louisy-joseph-laisse-aller/Laisse-aller",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=WQd_nSimuoE"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362674",
+    "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "id": 362674,
+    "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Louisy Joseph",
+    "url": "https://genius.com/artists/Louisy-joseph"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    },
+    {
+     "api_path": "/artists/1633885",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1633885,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fr\u00e9d\u00e9ric Lebovici",
+     "url": "https://genius.com/artists/Frederic-lebovici"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1421003",
+   "apple_music_id": "296223526",
+   "apple_music_player_url": "https://genius.com/songs/1421003/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1421003' class='rg_embed_link' data-song-id='1421003'>Read <a href='https://genius.com/Louisy-joseph-on-croit-rever-lyrics'>\u201cOn croit r\u00eaver\u201d by Louisy\u00a0Joseph</a> on Genius</div> <script crossorigin src='//genius.com/songs/1421003/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "On croit r\u00eaver by\u00a0Louisy\u00a0Joseph",
+   "header_image_thumbnail_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+   "id": 1421003,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Louisy-joseph-on-croit-rever-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "On croit r\u00eaver",
+   "title_with_featured": "On croit r\u00eaver",
+   "url": "https://genius.com/Louisy-joseph-on-croit-rever-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198613",
+    "cover_art_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+    "full_title": "La saison des amours by Louisy Joseph",
+    "id": 198613,
+    "name": "La saison des amours",
+    "url": "https://genius.com/albums/Louisy-joseph/La-saison-des-amours",
+    "artist": {
+     "api_path": "/artists/362674",
+     "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "id": 362674,
+     "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Louisy Joseph",
+     "url": "https://genius.com/artists/Louisy-joseph"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Arranged By",
+     "artists": [
+      {
+       "api_path": "/artists/1137370",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "id": 1137370,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Olivier Reine",
+       "url": "https://genius.com/artists/Olivier-reine"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5932359",
+    "classification": "needs_exegesis",
+    "fragment": "On croit r\u00eaver",
+    "id": 5932359,
+    "is_description": true,
+    "path": "/5932359/Louisy-joseph-on-croit-rever/On-croit-rever",
+    "range": {
+     "content": "On croit r\u00eaver"
+    },
+    "song_id": 1421003,
+    "url": "https://genius.com/5932359/Louisy-joseph-on-croit-rever/On-croit-rever",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1421003",
+     "client_timestamps": {
+      "updated_by_human_at": 1541856895,
+      "lyrics_updated_at": 1429834066
+     },
+     "context": "Louisy Joseph",
+     "id": 1421003,
+     "image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+     "link_title": "On croit r\u00eaver by\u00a0Louisy\u00a0Joseph",
+     "title": "On croit r\u00eaver",
+     "type": "Song",
+     "url": "https://genius.com/Louisy-joseph-on-croit-rever-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5932359",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5932359,
+      "pinned": false,
+      "share_url": "https://genius.com/5932359",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5932359/Louisy-joseph-on-croit-rever/On-croit-rever",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=zd3E3AvcjQg"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362674",
+    "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "id": 362674,
+    "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Louisy Joseph",
+    "url": "https://genius.com/artists/Louisy-joseph"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    },
+    {
+     "api_path": "/artists/308024",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 308024,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alana Filippi",
+     "url": "https://genius.com/artists/Alana-filippi"
+    }
+   ],
+   "lyrics": "Y a des histoires d\u00e9routantes\nQui nous d\u00e9lassent ou qui nous tentent\nLeurre ou r\u00e9alit\u00e9\nOu les deux m\u00e9lang\u00e9s\n\nY a des \u00e9ph\u00e9m\u00e8res partout\nDes hommes de c\u0153ur et des loups\nLes attitudes fatigu\u00e9es\nOu les deux m\u00e9lang\u00e9s\n\n{Refrain, x2}\nOn croit r\u00eaver, on croit r\u00eaver\nComme dans une BD en couleurs\nOn voit des choses dans la vie\nQu'on ne voit pas ailleurs\nTu sais\n\nDes histoires \u00e0 dormir debout\nOu ber\u00e7ant nos envies de tout\nD\u00e9\u00e7u, \u00e9merveill\u00e9\nOu les deux m\u00e9lang\u00e9s\n\nDes sortil\u00e8ges et des r\u00e9ponses\nEntourant l'amour et les ronces\nMenteur ou \u00e9gorg\u00e9\nOu les deux m\u00e9lang\u00e9s\n\n{au Refrain, x4}"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1803237",
+   "apple_music_id": "296223527",
+   "apple_music_player_url": "https://genius.com/songs/1803237/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1803237' class='rg_embed_link' data-song-id='1803237'>Read <a href='https://genius.com/Louisy-joseph-tam-tams-lyrics'>\u201cTam-Tams\u201d by Louisy\u00a0Joseph</a> on Genius</div> <script crossorigin src='//genius.com/songs/1803237/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tam-Tams by\u00a0Louisy\u00a0Joseph",
+   "header_image_thumbnail_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+   "id": 1803237,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Louisy-joseph-tam-tams-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tam-Tams",
+   "title_with_featured": "Tam-Tams",
+   "url": "https://genius.com/Louisy-joseph-tam-tams-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198613",
+    "cover_art_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+    "full_title": "La saison des amours by Louisy Joseph",
+    "id": 198613,
+    "name": "La saison des amours",
+    "url": "https://genius.com/albums/Louisy-joseph/La-saison-des-amours",
+    "artist": {
+     "api_path": "/artists/362674",
+     "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "id": 362674,
+     "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Louisy Joseph",
+     "url": "https://genius.com/artists/Louisy-joseph"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Arranged By",
+     "artists": [
+      {
+       "api_path": "/artists/1137370",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "id": 1137370,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Olivier Reine",
+       "url": "https://genius.com/artists/Olivier-reine"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6415287",
+    "classification": "needs_exegesis",
+    "fragment": "Tam-Tams",
+    "id": 6415287,
+    "is_description": true,
+    "path": "/6415287/Louisy-joseph-tam-tams/Tam-tams",
+    "range": {
+     "content": "Tam-Tams"
+    },
+    "song_id": 1803237,
+    "url": "https://genius.com/6415287/Louisy-joseph-tam-tams/Tam-tams",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1803237",
+     "client_timestamps": {
+      "updated_by_human_at": 1541856948,
+      "lyrics_updated_at": 1431610694
+     },
+     "context": "Louisy Joseph",
+     "id": 1803237,
+     "image_url": "https://images.genius.com/6aac2428912a10e2b13f484882955c8d.640x640x1.jpg",
+     "link_title": "Tam-Tams by\u00a0Louisy\u00a0Joseph",
+     "title": "Tam-Tams",
+     "type": "Song",
+     "url": "https://genius.com/Louisy-joseph-tam-tams-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6415287",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6415287,
+      "pinned": false,
+      "share_url": "https://genius.com/6415287",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6415287/Louisy-joseph-tam-tams/Tam-tams",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=N9LwZJ3w0H8"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362674",
+    "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "id": 362674,
+    "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Louisy Joseph",
+    "url": "https://genius.com/artists/Louisy-joseph"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/306648",
+     "header_image_url": "https://images.genius.com/b9552358868a5dc9e09e3f89ce915b7d.436x327x1.jpg",
+     "id": 306648,
+     "image_url": "https://images.genius.com/9c2070d3fd9f9f5fbf536aa284e37a65.327x327x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Mamann",
+     "url": "https://genius.com/artists/John-mamann"
+    },
+    {
+     "api_path": "/artists/1633885",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1633885,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fr\u00e9d\u00e9ric Lebovici",
+     "url": "https://genius.com/artists/Frederic-lebovici"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4082935",
+   "apple_music_id": "1224186279",
+   "apple_music_player_url": "https://genius.com/songs/4082935/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4082935' class='rg_embed_link' data-song-id='4082935'>Read <a href='https://genius.com/Louisy-joseph-le-meilleur-lyrics'>\u201cLe meilleur\u201d by Louisy\u00a0Joseph</a> on Genius</div> <script crossorigin src='//genius.com/songs/4082935/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le meilleur by\u00a0Louisy\u00a0Joseph",
+   "header_image_thumbnail_url": "https://images.genius.com/644b26d0216012fd7bf85b8b76eb13f4.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/644b26d0216012fd7bf85b8b76eb13f4.640x640x1.jpg",
+   "id": 4082935,
+   "lyrics_owner_id": 314336,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Louisy-joseph-le-meilleur-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2014-11-24",
+   "release_date_for_display": "November 24, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/644b26d0216012fd7bf85b8b76eb13f4.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/644b26d0216012fd7bf85b8b76eb13f4.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le meilleur",
+   "title_with_featured": "Le meilleur",
+   "url": "https://genius.com/Louisy-joseph-le-meilleur-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/478336",
+    "cover_art_url": "https://images.genius.com/9e76f9976a2700ae76466cdf67b77666.1000x1000x1.jpg",
+    "full_title": "Music by Louisy Joseph",
+    "id": 478336,
+    "name": "Music",
+    "url": "https://genius.com/albums/Louisy-joseph/Music",
+    "artist": {
+     "api_path": "/artists/362674",
+     "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "id": 362674,
+     "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Louisy Joseph",
+     "url": "https://genius.com/artists/Louisy-joseph"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 314336,
+    "annotator_login": "ab212",
+    "api_path": "/referents/15770590",
+    "classification": "needs_exegesis",
+    "fragment": "Le meilleur",
+    "id": 15770590,
+    "is_description": true,
+    "path": "/15770590/Louisy-joseph-le-meilleur/Le-meilleur",
+    "range": {
+     "content": "Le meilleur"
+    },
+    "song_id": 4082935,
+    "url": "https://genius.com/15770590/Louisy-joseph-le-meilleur/Le-meilleur",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4082935",
+     "client_timestamps": {
+      "updated_by_human_at": 1541891769,
+      "lyrics_updated_at": 1541891672
+     },
+     "context": "Louisy Joseph",
+     "id": 4082935,
+     "image_url": "https://images.genius.com/644b26d0216012fd7bf85b8b76eb13f4.640x640x1.jpg",
+     "link_title": "Le meilleur by\u00a0Louisy\u00a0Joseph",
+     "title": "Le meilleur",
+     "type": "Song",
+     "url": "https://genius.com/Louisy-joseph-le-meilleur-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15770590",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 15770590,
+      "pinned": false,
+      "share_url": "https://genius.com/15770590",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/15770590/Louisy-joseph-le-meilleur/Le-meilleur",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/314336",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ed43aeeda51920f6b7b0ef638394fd6f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ed43aeeda51920f6b7b0ef638394fd6f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ed43aeeda51920f6b7b0ef638394fd6f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ed43aeeda51920f6b7b0ef638394fd6f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/ed43aeeda51920f6b7b0ef638394fd6f",
+         "human_readable_role_for_display": "Contributor",
+         "id": 314336,
+         "iq": 51026,
+         "login": "ab212",
+         "name": "ab212",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/ab212",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=LxcI0Toenm8"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362674",
+    "header_image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "id": 362674,
+    "image_url": "https://images.genius.com/d248e3768588b4ef5b60867bc2cf6dca.853x853x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Louisy Joseph",
+    "url": "https://genius.com/artists/Louisy-joseph"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

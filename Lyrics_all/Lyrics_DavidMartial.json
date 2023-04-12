@@ -1,0 +1,491 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2084532",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 2084532,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "David Martial",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/David-martial",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 10124394,
+  "annotator_login": "d0oney",
+  "api_path": "/referents/18893690",
+  "classification": "needs_exegesis",
+  "fragment": "David Martial",
+  "id": 18893690,
+  "is_description": true,
+  "path": "/18893690/David-martial/David-martial",
+  "range": {
+   "content": "David Martial"
+  },
+  "song_id": null,
+  "url": "https://genius.com/18893690/David-martial/David-martial",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2084532",
+   "context": null,
+   "id": 2084532,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "David Martial",
+   "title": "David Martial",
+   "type": "Artist",
+   "url": "https://genius.com/artists/David-martial"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/18893690",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 18893690,
+    "pinned": false,
+    "share_url": "https://genius.com/18893690",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/18893690/David-martial/David-martial",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/10124394",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/48b9a6f5ddb3909268f716a7b8b4ceb9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/48b9a6f5ddb3909268f716a7b8b4ceb9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/48b9a6f5ddb3909268f716a7b8b4ceb9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/48b9a6f5ddb3909268f716a7b8b4ceb9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/48b9a6f5ddb3909268f716a7b8b4ceb9",
+       "human_readable_role_for_display": "Contributor",
+       "id": 10124394,
+       "iq": 3767,
+       "login": "d0oney",
+       "name": "d0oney",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/d0oney",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5195930",
+   "apple_music_id": "1487669433",
+   "apple_music_player_url": "https://genius.com/songs/5195930/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5195930' class='rg_embed_link' data-song-id='5195930'>Read <a href='https://genius.com/David-martial-celimene-lyrics'>\u201cC\u00e9lim\u00e8ne\u201d by David\u00a0Martial</a> on Genius</div> <script crossorigin src='//genius.com/songs/5195930/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "C\u00e9lim\u00e8ne by\u00a0David\u00a0Martial",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 5195930,
+   "lyrics_owner_id": 10124394,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/David-martial-celimene-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "C\u00e9lim\u00e8ne",
+   "title_with_featured": "C\u00e9lim\u00e8ne",
+   "url": "https://genius.com/David-martial-celimene-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10124394,
+    "annotator_login": "d0oney",
+    "api_path": "/referents/18893691",
+    "classification": "needs_exegesis",
+    "fragment": "C\u00e9lim\u00e8ne",
+    "id": 18893691,
+    "is_description": true,
+    "path": "/18893691/David-martial-celimene/Celimene",
+    "range": {
+     "content": "C\u00e9lim\u00e8ne"
+    },
+    "song_id": 5195930,
+    "url": "https://genius.com/18893691/David-martial-celimene/Celimene",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5195930",
+     "client_timestamps": {
+      "updated_by_human_at": 1585560074,
+      "lyrics_updated_at": 1585560074
+     },
+     "context": "David Martial",
+     "id": 5195930,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "C\u00e9lim\u00e8ne by\u00a0David\u00a0Martial",
+     "title": "C\u00e9lim\u00e8ne",
+     "type": "Song",
+     "url": "https://genius.com/David-martial-celimene-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18893691",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18893691,
+      "pinned": false,
+      "share_url": "https://genius.com/18893691",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18893691/David-martial-celimene/Celimene",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10124394",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/48b9a6f5ddb3909268f716a7b8b4ceb9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/48b9a6f5ddb3909268f716a7b8b4ceb9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/48b9a6f5ddb3909268f716a7b8b4ceb9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/48b9a6f5ddb3909268f716a7b8b4ceb9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/48b9a6f5ddb3909268f716a7b8b4ceb9",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10124394,
+         "iq": 3767,
+         "login": "d0oney",
+         "name": "d0oney",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/d0oney",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2084532",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 2084532,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "David Martial",
+    "url": "https://genius.com/artists/David-martial"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

@@ -1,0 +1,3213 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/362583",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+ "id": 362583,
+ "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Thierry Cham",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Thierry-cham",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7081665",
+  "classification": "needs_exegesis",
+  "fragment": "Thierry Cham",
+  "id": 7081665,
+  "is_description": true,
+  "path": "/7081665/Thierry-cham/Thierry-cham",
+  "range": {
+   "content": "Thierry Cham"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7081665/Thierry-cham/Thierry-cham",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/362583",
+   "context": null,
+   "id": 362583,
+   "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+   "link_title": "Thierry Cham",
+   "title": "Thierry Cham",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Thierry-cham"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7081665",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7081665,
+    "pinned": false,
+    "share_url": "https://genius.com/7081665",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7081665/Thierry-cham/Thierry-cham",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2000451",
+   "apple_music_id": "339453737",
+   "apple_music_player_url": "https://genius.com/songs/2000451/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2000451' class='rg_embed_link' data-song-id='2000451'>Read <a href='https://genius.com/Thierry-cham-ocean-lyrics'>\u201cOcean\u201d by Thierry\u00a0Cham</a> on Genius</div> <script crossorigin src='//genius.com/songs/2000451/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ocean by\u00a0Thierry\u00a0Cham",
+   "header_image_thumbnail_url": "https://images.genius.com/c34f0da73c977b107f61eba4c2537623.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c34f0da73c977b107f61eba4c2537623.500x500x1.jpg",
+   "id": 2000451,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Thierry-cham-ocean-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "2000",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c34f0da73c977b107f61eba4c2537623.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c34f0da73c977b107f61eba4c2537623.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ocean",
+   "title_with_featured": "Ocean",
+   "url": "https://genius.com/Thierry-cham-ocean-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/273276",
+    "cover_art_url": "https://images.genius.com/c34f0da73c977b107f61eba4c2537623.500x500x1.jpg",
+    "full_title": "Simplement by Thierry Cham",
+    "id": 273276,
+    "name": "Simplement",
+    "url": "https://genius.com/albums/Thierry-cham/Simplement",
+    "artist": {
+     "api_path": "/artists/362583",
+     "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+     "id": 362583,
+     "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Cham",
+     "url": "https://genius.com/artists/Thierry-cham"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6687978",
+    "classification": "needs_exegesis",
+    "fragment": "Ocean",
+    "id": 6687978,
+    "is_description": true,
+    "path": "/6687978/Thierry-cham-ocean/Ocean",
+    "range": {
+     "content": "Ocean"
+    },
+    "song_id": 2000451,
+    "url": "https://genius.com/6687978/Thierry-cham-ocean/Ocean",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2000451",
+     "client_timestamps": {
+      "updated_by_human_at": 1588417132,
+      "lyrics_updated_at": 1432941883
+     },
+     "context": "Thierry Cham",
+     "id": 2000451,
+     "image_url": "https://images.genius.com/c34f0da73c977b107f61eba4c2537623.500x500x1.jpg",
+     "link_title": "Ocean by\u00a0Thierry\u00a0Cham",
+     "title": "Ocean",
+     "type": "Song",
+     "url": "https://genius.com/Thierry-cham-ocean-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6687978",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6687978,
+      "pinned": false,
+      "share_url": "https://genius.com/6687978",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6687978/Thierry-cham-ocean/Ocean",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/362583",
+    "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+    "id": 362583,
+    "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thierry Cham",
+    "url": "https://genius.com/artists/Thierry-cham"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/362583",
+     "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+     "id": 362583,
+     "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Cham",
+     "url": "https://genius.com/artists/Thierry-cham"
+    }
+   ],
+   "lyrics": "Refrain\nTout au fond des oc\u00e9ans\nJ'irais chercher ton reflet\nJ'arr\u00eaterai m\u00eame le temps\nQue tu sois pr\u00e8s de moi tout le temps\nD\u00e9vier les chutes du Niagara\nPour te prouver mon amour\nTraverser le Sahara\nPour toi je ferais tout \u00e7a\n\nJ'invoquerai tous les vents\nPour te souffler mes sentiments\nD\u00e9fierai tous les g\u00e9ants\nTe prouver comme je suis grand\nCe petit bonhomme que je suis\nN'a qu'une id\u00e9e, une seule envie\nVouloir t'aimer pour la vie\n\nRefrain\n\nHypnotis\u00e9 par ta voix\nPar ton odeur et ton aura\nJe ferais tout ce qu'il y aura\nPour te sentir pr\u00e8s de moi\nCe court instant que l'on vit\nCe simple passage qu'est la vie\nJe veux t'aimer aujourd'hui\n\nRefrain\n\nEnvahi par une telle obsession\nJe me sens ivre de toi baby\nMais je ne sais pour quelle raison\nJe suis tomb\u00e9 fou de toi\n\nRefrain\n\nTiens voil\u00e0 mon coeur\nC'est tout ce que j'ai de meilleur\nDonne moi ton corps\nQue l'on vive des moments forts"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2003785",
+   "apple_music_id": "979959597",
+   "apple_music_player_url": "https://genius.com/songs/2003785/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2003785' class='rg_embed_link' data-song-id='2003785'>Read <a href='https://genius.com/Thierry-cham-jai-compris-lyrics'>\u201cJ'ai compris\u201d by Thierry\u00a0Cham</a> on Genius</div> <script crossorigin src='//genius.com/songs/2003785/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "J'ai compris by\u00a0Thierry\u00a0Cham",
+   "header_image_thumbnail_url": "https://images.genius.com/bde985f0bfb535b8142ab52512efa164.300x298x1.jpg",
+   "header_image_url": "https://images.genius.com/bde985f0bfb535b8142ab52512efa164.714x709x1.jpg",
+   "id": 2003785,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Thierry-cham-jai-compris-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/bde985f0bfb535b8142ab52512efa164.300x298x1.jpg",
+   "song_art_image_url": "https://images.genius.com/bde985f0bfb535b8142ab52512efa164.714x709x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "J\u2019ai compris",
+   "title_with_featured": "J'ai compris",
+   "url": "https://genius.com/Thierry-cham-jai-compris-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/170792",
+    "cover_art_url": "https://images.genius.com/bde985f0bfb535b8142ab52512efa164.714x709x1.jpg",
+    "full_title": "L\u00e0 d'o\u00f9 je viens by Thierry Cham",
+    "id": 170792,
+    "name": "L\u00e0 d\u2019o\u00f9 je viens",
+    "url": "https://genius.com/albums/Thierry-cham/La-d-ou-je-viens",
+    "artist": {
+     "api_path": "/artists/362583",
+     "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+     "id": 362583,
+     "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Cham",
+     "url": "https://genius.com/artists/Thierry-cham"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6691422",
+    "classification": "needs_exegesis",
+    "fragment": "J\u2019ai compris",
+    "id": 6691422,
+    "is_description": true,
+    "path": "/6691422/Thierry-cham-jai-compris/Jai-compris",
+    "range": {
+     "content": "J'ai compris"
+    },
+    "song_id": 2003785,
+    "url": "https://genius.com/6691422/Thierry-cham-jai-compris/Jai-compris",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2003785",
+     "client_timestamps": {
+      "updated_by_human_at": 1479151071,
+      "lyrics_updated_at": 1432943241
+     },
+     "context": "Thierry Cham",
+     "id": 2003785,
+     "image_url": "https://images.genius.com/bde985f0bfb535b8142ab52512efa164.714x709x1.jpg",
+     "link_title": "J\u2019ai compris by\u00a0Thierry\u00a0Cham",
+     "title": "J'ai compris",
+     "type": "Song",
+     "url": "https://genius.com/Thierry-cham-jai-compris-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6691422",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6691422,
+      "pinned": false,
+      "share_url": "https://genius.com/6691422",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6691422/Thierry-cham-jai-compris/Jai-compris",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/362583",
+    "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+    "id": 362583,
+    "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thierry Cham",
+    "url": "https://genius.com/artists/Thierry-cham"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2064442",
+   "apple_music_id": "984512573",
+   "apple_music_player_url": "https://genius.com/songs/2064442/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2064442' class='rg_embed_link' data-song-id='2064442'>Read <a href='https://genius.com/Thierry-cham-coup-de-foudre-lyrics'>\u201cCoup de foudre\u201d by Thierry\u00a0Cham</a> on Genius</div> <script crossorigin src='//genius.com/songs/2064442/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Coup de foudre by\u00a0Thierry\u00a0Cham",
+   "header_image_thumbnail_url": "https://images.genius.com/9fbd6544517d4cdb4ae80231b2586f03.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9fbd6544517d4cdb4ae80231b2586f03.900x900x1.jpg",
+   "id": 2064442,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Thierry-cham-coup-de-foudre-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9fbd6544517d4cdb4ae80231b2586f03.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9fbd6544517d4cdb4ae80231b2586f03.900x900x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Coup de foudre",
+   "title_with_featured": "Coup de foudre",
+   "url": "https://genius.com/Thierry-cham-coup-de-foudre-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/283450",
+    "cover_art_url": "https://images.genius.com/9fbd6544517d4cdb4ae80231b2586f03.900x900x1.jpg",
+    "full_title": "Ultime confession by Thierry Cham",
+    "id": 283450,
+    "name": "Ultime confession",
+    "url": "https://genius.com/albums/Thierry-cham/Ultime-confession",
+    "artist": {
+     "api_path": "/artists/362583",
+     "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+     "id": 362583,
+     "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Cham",
+     "url": "https://genius.com/artists/Thierry-cham"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6804211",
+    "classification": "needs_exegesis",
+    "fragment": "Coup de foudre",
+    "id": 6804211,
+    "is_description": true,
+    "path": "/6804211/Thierry-cham-coup-de-foudre/Coup-de-foudre",
+    "range": {
+     "content": "Coup de foudre"
+    },
+    "song_id": 2064442,
+    "url": "https://genius.com/6804211/Thierry-cham-coup-de-foudre/Coup-de-foudre",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2064442",
+     "client_timestamps": {
+      "updated_by_human_at": 1481841999,
+      "lyrics_updated_at": 1433953092
+     },
+     "context": "Thierry Cham",
+     "id": 2064442,
+     "image_url": "https://images.genius.com/9fbd6544517d4cdb4ae80231b2586f03.900x900x1.jpg",
+     "link_title": "Coup de foudre by\u00a0Thierry\u00a0Cham",
+     "title": "Coup de foudre",
+     "type": "Song",
+     "url": "https://genius.com/Thierry-cham-coup-de-foudre-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6804211",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6804211,
+      "pinned": false,
+      "share_url": "https://genius.com/6804211",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6804211/Thierry-cham-coup-de-foudre/Coup-de-foudre",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/362583",
+    "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+    "id": 362583,
+    "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thierry Cham",
+    "url": "https://genius.com/artists/Thierry-cham"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1166380",
+   "apple_music_id": "210386340",
+   "apple_music_player_url": "https://genius.com/songs/1166380/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1166380' class='rg_embed_link' data-song-id='1166380'>Read <a href='https://genius.com/Thierry-cham-je-veux-crier-lyrics'>\u201cJe Veux Crier\u201d by Thierry\u00a0Cham</a> on Genius</div> <script crossorigin src='//genius.com/songs/1166380/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Je Veux Crier by\u00a0Thierry\u00a0Cham",
+   "header_image_thumbnail_url": "https://images.genius.com/9cf497df7dc13f872d0f60c80d21ff46.299x299x1.jpg",
+   "header_image_url": "https://images.genius.com/9cf497df7dc13f872d0f60c80d21ff46.299x299x1.jpg",
+   "id": 1166380,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Thierry-cham-je-veux-crier-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "2003",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9cf497df7dc13f872d0f60c80d21ff46.299x299x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9cf497df7dc13f872d0f60c80d21ff46.299x299x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Je Veux Crier",
+   "title_with_featured": "Je Veux Crier",
+   "url": "https://genius.com/Thierry-cham-je-veux-crier-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/294693",
+    "cover_art_url": "https://images.genius.com/9cf497df7dc13f872d0f60c80d21ff46.299x299x1.jpg",
+    "full_title": "Autrement by Thierry Cham",
+    "id": 294693,
+    "name": "Autrement",
+    "url": "https://genius.com/albums/Thierry-cham/Autrement",
+    "artist": {
+     "api_path": "/artists/362583",
+     "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+     "id": 362583,
+     "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Cham",
+     "url": "https://genius.com/artists/Thierry-cham"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5668263",
+    "classification": "needs_exegesis",
+    "fragment": "Je Veux Crier",
+    "id": 5668263,
+    "is_description": true,
+    "path": "/5668263/Thierry-cham-je-veux-crier/Je-veux-crier",
+    "range": {
+     "content": "Je Veux Crier"
+    },
+    "song_id": 1166380,
+    "url": "https://genius.com/5668263/Thierry-cham-je-veux-crier/Je-veux-crier",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1166380",
+     "client_timestamps": {
+      "updated_by_human_at": 1588417805,
+      "lyrics_updated_at": 1429677628
+     },
+     "context": "Thierry Cham",
+     "id": 1166380,
+     "image_url": "https://images.genius.com/9cf497df7dc13f872d0f60c80d21ff46.299x299x1.jpg",
+     "link_title": "Je Veux Crier by\u00a0Thierry\u00a0Cham",
+     "title": "Je Veux Crier",
+     "type": "Song",
+     "url": "https://genius.com/Thierry-cham-je-veux-crier-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5668263",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5668263,
+      "pinned": false,
+      "share_url": "https://genius.com/5668263",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5668263/Thierry-cham-je-veux-crier/Je-veux-crier",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/362583",
+    "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+    "id": 362583,
+    "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thierry Cham",
+    "url": "https://genius.com/artists/Thierry-cham"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/362583",
+     "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+     "id": 362583,
+     "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Cham",
+     "url": "https://genius.com/artists/Thierry-cham"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1727236",
+   "apple_music_id": "978582035",
+   "apple_music_player_url": "https://genius.com/songs/1727236/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1727236' class='rg_embed_link' data-song-id='1727236'>Read <a href='https://genius.com/Thierry-cham-voyage-lyrics'>\u201cVoyage\u201d by Thierry\u00a0Cham</a> on Genius</div> <script crossorigin src='//genius.com/songs/1727236/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Voyage by\u00a0Thierry\u00a0Cham",
+   "header_image_thumbnail_url": "https://images.genius.com/e6ab69050d40f6a56a92495f99a13315.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e6ab69050d40f6a56a92495f99a13315.600x600x1.jpg",
+   "id": 1727236,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Thierry-cham-voyage-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e6ab69050d40f6a56a92495f99a13315.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e6ab69050d40f6a56a92495f99a13315.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Voyage",
+   "title_with_featured": "Voyage",
+   "url": "https://genius.com/Thierry-cham-voyage-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/279269",
+    "cover_art_url": "https://images.genius.com/e6ab69050d40f6a56a92495f99a13315.600x600x1.jpg",
+    "full_title": "Nuit blanche by Thierry Cham",
+    "id": 279269,
+    "name": "Nuit blanche",
+    "url": "https://genius.com/albums/Thierry-cham/Nuit-blanche",
+    "artist": {
+     "api_path": "/artists/362583",
+     "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+     "id": 362583,
+     "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Cham",
+     "url": "https://genius.com/artists/Thierry-cham"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6242545",
+    "classification": "needs_exegesis",
+    "fragment": "Voyage",
+    "id": 6242545,
+    "is_description": true,
+    "path": "/6242545/Thierry-cham-voyage/Voyage",
+    "range": {
+     "content": "Voyage"
+    },
+    "song_id": 1727236,
+    "url": "https://genius.com/6242545/Thierry-cham-voyage/Voyage",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1727236",
+     "client_timestamps": {
+      "updated_by_human_at": 1477035087,
+      "lyrics_updated_at": 1429906138
+     },
+     "context": "Thierry Cham",
+     "id": 1727236,
+     "image_url": "https://images.genius.com/e6ab69050d40f6a56a92495f99a13315.600x600x1.jpg",
+     "link_title": "Voyage by\u00a0Thierry\u00a0Cham",
+     "title": "Voyage",
+     "type": "Song",
+     "url": "https://genius.com/Thierry-cham-voyage-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6242545",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6242545,
+      "pinned": false,
+      "share_url": "https://genius.com/6242545",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6242545/Thierry-cham-voyage/Voyage",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/362583",
+    "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+    "id": 362583,
+    "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thierry Cham",
+    "url": "https://genius.com/artists/Thierry-cham"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1087093",
+   "apple_music_id": "977960934",
+   "apple_music_player_url": "https://genius.com/songs/1087093/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1087093' class='rg_embed_link' data-song-id='1087093'>Read <a href='https://genius.com/Thierry-cham-planer-lyrics'>\u201cPlaner\u201d by Thierry\u00a0Cham</a> on Genius</div> <script crossorigin src='//genius.com/songs/1087093/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Planer by\u00a0Thierry\u00a0Cham",
+   "header_image_thumbnail_url": "https://images.genius.com/c34f0da73c977b107f61eba4c2537623.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c34f0da73c977b107f61eba4c2537623.500x500x1.jpg",
+   "id": 1087093,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Thierry-cham-planer-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c34f0da73c977b107f61eba4c2537623.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c34f0da73c977b107f61eba4c2537623.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Planer",
+   "title_with_featured": "Planer",
+   "url": "https://genius.com/Thierry-cham-planer-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/273276",
+    "cover_art_url": "https://images.genius.com/c34f0da73c977b107f61eba4c2537623.500x500x1.jpg",
+    "full_title": "Simplement by Thierry Cham",
+    "id": 273276,
+    "name": "Simplement",
+    "url": "https://genius.com/albums/Thierry-cham/Simplement",
+    "artist": {
+     "api_path": "/artists/362583",
+     "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+     "id": 362583,
+     "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Cham",
+     "url": "https://genius.com/artists/Thierry-cham"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5585347",
+    "classification": "needs_exegesis",
+    "fragment": "Planer",
+    "id": 5585347,
+    "is_description": true,
+    "path": "/5585347/Thierry-cham-planer/Planer",
+    "range": {
+     "content": "Planer"
+    },
+    "song_id": 1087093,
+    "url": "https://genius.com/5585347/Thierry-cham-planer/Planer",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1087093",
+     "client_timestamps": {
+      "updated_by_human_at": 1477010141,
+      "lyrics_updated_at": 1429626758
+     },
+     "context": "Thierry Cham",
+     "id": 1087093,
+     "image_url": "https://images.genius.com/c34f0da73c977b107f61eba4c2537623.500x500x1.jpg",
+     "link_title": "Planer by\u00a0Thierry\u00a0Cham",
+     "title": "Planer",
+     "type": "Song",
+     "url": "https://genius.com/Thierry-cham-planer-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5585347",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5585347,
+      "pinned": false,
+      "share_url": "https://genius.com/5585347",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5585347/Thierry-cham-planer/Planer",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/362583",
+    "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+    "id": 362583,
+    "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thierry Cham",
+    "url": "https://genius.com/artists/Thierry-cham"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Planer par dessus les nuages\nSans ne rien craindre des orages\nDans les sillons des oies sauvages\nVoyager rien qu'en fermant les yeux\nSuis moi ce n'est qu'un jeu\n\nS'envoler tr\u00e8s loin de l\u00e0 tous les deux (briser la glace)\nLoin des villes qui font de nous des gens malheureux\n(toucher le soleil)\nS'abandonner sur de nouveaux rivages (seuls sur le sable)\nTu viens tu viens je viens en toi\n\nNager dans des eaux tr\u00e8s profondes\nBerc\u00e9s par des flots \u00e0 la ronde\nDanser sur le chant des sir\u00e9nes\nNaviguer rien qu'en fermant les yeux\nSuis moi juste un peu\n\nS'envoler tr\u00e8s loin de l\u00e0 tous les deux (changer d'espace)\nLoin des villes qui font de nous des gens malheureux\n(respirer mieux)\nS'abandonner sur de nouveaux rivages (toucher ton visage)\nTu viens tu viens je viens en toi\n\nS'envoler tr\u00e8s loin del\u00e0 tous les deux\nLoin des villes qui font les gens malheureux\nS'abandonner sur de nouveaux rivages\nTu viens tu viens je viens en toi (bis)"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1466354",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1466354/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1466354' class='rg_embed_link' data-song-id='1466354'>Read <a href='https://genius.com/Thierry-cham-tout-oublier-lyrics'>\u201cTout Oublier\u201d by Thierry\u00a0Cham</a> on Genius</div> <script crossorigin src='//genius.com/songs/1466354/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tout Oublier by\u00a0Thierry\u00a0Cham",
+   "header_image_thumbnail_url": "https://images.genius.com/edc2cba95128faa8fcecaa26f5366d84.298x298x1.jpg",
+   "header_image_url": "https://images.genius.com/edc2cba95128faa8fcecaa26f5366d84.298x298x1.jpg",
+   "id": 1466354,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Thierry-cham-tout-oublier-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/edc2cba95128faa8fcecaa26f5366d84.298x298x1.jpg",
+   "song_art_image_url": "https://images.genius.com/edc2cba95128faa8fcecaa26f5366d84.298x298x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tout Oublier",
+   "title_with_featured": "Tout Oublier",
+   "url": "https://genius.com/Thierry-cham-tout-oublier-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/263191",
+    "cover_art_url": "https://images.genius.com/edc2cba95128faa8fcecaa26f5366d84.298x298x1.jpg",
+    "full_title": "Ma couleur by Thierry Cham",
+    "id": 263191,
+    "name": "Ma couleur",
+    "url": "https://genius.com/albums/Thierry-cham/Ma-couleur",
+    "artist": {
+     "api_path": "/artists/362583",
+     "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+     "id": 362583,
+     "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Cham",
+     "url": "https://genius.com/artists/Thierry-cham"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5978712",
+    "classification": "needs_exegesis",
+    "fragment": "Tout Oublier",
+    "id": 5978712,
+    "is_description": true,
+    "path": "/5978712/Thierry-cham-tout-oublier/Tout-oublier",
+    "range": {
+     "content": "Tout Oublier"
+    },
+    "song_id": 1466354,
+    "url": "https://genius.com/5978712/Thierry-cham-tout-oublier/Tout-oublier",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1466354",
+     "client_timestamps": {
+      "updated_by_human_at": 1476923532,
+      "lyrics_updated_at": 1429857391
+     },
+     "context": "Thierry Cham",
+     "id": 1466354,
+     "image_url": "https://images.genius.com/edc2cba95128faa8fcecaa26f5366d84.298x298x1.jpg",
+     "link_title": "Tout Oublier by\u00a0Thierry\u00a0Cham",
+     "title": "Tout Oublier",
+     "type": "Song",
+     "url": "https://genius.com/Thierry-cham-tout-oublier-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5978712",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5978712,
+      "pinned": false,
+      "share_url": "https://genius.com/5978712",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5978712/Thierry-cham-tout-oublier/Tout-oublier",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/362583",
+    "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+    "id": 362583,
+    "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thierry Cham",
+    "url": "https://genius.com/artists/Thierry-cham"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1529762",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1529762/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1529762' class='rg_embed_link' data-song-id='1529762'>Read <a href='https://genius.com/Thierry-cham-qui-veut-lyrics'>\u201cQui Veut ?\u201d by Thierry\u00a0Cham</a> on Genius</div> <script crossorigin src='//genius.com/songs/1529762/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Qui Veut ? by\u00a0Thierry\u00a0Cham",
+   "header_image_thumbnail_url": "https://images.genius.com/edc2cba95128faa8fcecaa26f5366d84.298x298x1.jpg",
+   "header_image_url": "https://images.genius.com/edc2cba95128faa8fcecaa26f5366d84.298x298x1.jpg",
+   "id": 1529762,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Thierry-cham-qui-veut-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "2005",
+   "song_art_image_thumbnail_url": "https://images.genius.com/edc2cba95128faa8fcecaa26f5366d84.298x298x1.jpg",
+   "song_art_image_url": "https://images.genius.com/edc2cba95128faa8fcecaa26f5366d84.298x298x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Qui Veut ?",
+   "title_with_featured": "Qui Veut ?",
+   "url": "https://genius.com/Thierry-cham-qui-veut-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/263191",
+    "cover_art_url": "https://images.genius.com/edc2cba95128faa8fcecaa26f5366d84.298x298x1.jpg",
+    "full_title": "Ma couleur by Thierry Cham",
+    "id": 263191,
+    "name": "Ma couleur",
+    "url": "https://genius.com/albums/Thierry-cham/Ma-couleur",
+    "artist": {
+     "api_path": "/artists/362583",
+     "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+     "id": 362583,
+     "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Cham",
+     "url": "https://genius.com/artists/Thierry-cham"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6044263",
+    "classification": "needs_exegesis",
+    "fragment": "Qui Veut ?",
+    "id": 6044263,
+    "is_description": true,
+    "path": "/6044263/Thierry-cham-qui-veut/Qui-veut",
+    "range": {
+     "content": "Qui Veut ?"
+    },
+    "song_id": 1529762,
+    "url": "https://genius.com/6044263/Thierry-cham-qui-veut/Qui-veut",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1529762",
+     "client_timestamps": {
+      "updated_by_human_at": 1588417612,
+      "lyrics_updated_at": 1429894768
+     },
+     "context": "Thierry Cham",
+     "id": 1529762,
+     "image_url": "https://images.genius.com/edc2cba95128faa8fcecaa26f5366d84.298x298x1.jpg",
+     "link_title": "Qui Veut ? by\u00a0Thierry\u00a0Cham",
+     "title": "Qui Veut ?",
+     "type": "Song",
+     "url": "https://genius.com/Thierry-cham-qui-veut-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6044263",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6044263,
+      "pinned": false,
+      "share_url": "https://genius.com/6044263",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6044263/Thierry-cham-qui-veut/Qui-veut",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/362583",
+    "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+    "id": 362583,
+    "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thierry Cham",
+    "url": "https://genius.com/artists/Thierry-cham"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/362583",
+     "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+     "id": 362583,
+     "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Cham",
+     "url": "https://genius.com/artists/Thierry-cham"
+    }
+   ],
+   "lyrics": "Refrain :\nQui veut faire l'amour ?\nJe veux, oh oui je veux\nTu veux quoi ?\nQui veut faire l'amour ?\nJe veux, oh oui je veux\nTu veux quoi ?\n\nThierry :\nSouffler \u00e0 l'oreille des mots doux qui disent tout\nGlisser dans le cou des bisous qui rendent fou\nLequel d'entre nous qui dit n'avoir jamais succomb\u00e9\nLorsqu'une main nous effleure\nLorqu'un sourire est ravageur\n\nComment ?\nJe me demande\n\nLa fille :\nJe voudrais m'abandonner\nJe suis toute \u00e0 toi mon b\u00e9b\u00e9\n\nThierry :\nD'accord\nJe suis d'accord\nMais c'est de ta bouche\nQue je veux te l'entendre dire\n\nRefrain :\nQui veut faire l'amour ?\nJe veux, oh oui je veux\nTu veux quoi ?\nQui veut faire l'amour ?\nJe veux, oh oui je veux\nTu veux quoi ?\n\nTes gestes maladroits\nOu mouvements trop bien contr\u00f4l\u00e9s\nExpert ou novice\nTout cela ne m'interesse pas\nJe suis comme tu vois\nPresque aussi tendu que toi\nAlors l\u00e2che toi\nEt viens te blotir dans mes bras\n\nComment ?\nJe me demande\n\nLa fille :\nJe voudrais m'abandonner\nJe suis toute \u00e0 toi mon b\u00e9b\u00e9\n\nThierry :\nD'accord\nJe suis d'accord\nMais c'est de ta bouche\nQue je veux te l'entendre dire\n\nRefrain :\nQui veut faire l'amour ?\nJe veux, oh oui je veux\nTu veux quoi ?\nQui veut faire l'amour ?\nJe veux, oh oui je veux\nTu veux quoi ?\n\nMonseigneur Mike :\nQui veut faire l'amour ?\nQui veut me sentir ?\nEt qui veut transpirer ?\nA qui je dois faire la cour ?\nQui je dois draguer ?\nEt \u00e0 qui je dois offrir le champ ?\nEt toi dis\nA qui tu veux craquer le bagguy ?\n\nTu me le murmures gazelle\nJ'te d\u00e9shabille avec les dents\nSexe appeal\nPlus par gourmandise que par faim\nHistoire de voir comment se marie nos parfums\n\nQui veut faire l'amour ?\nQui me fera des clics\nQui est athl\u00e8tique ?\nCh\u00e9rie c'est magic ce type\n\nT'a la peau sucr\u00e9e des os de la cheville \u00e0 la nuque\nEt j'arr\u00eaterai quand je serai diab\u00e9tique\nBad boy jv'ais l\u00e0 o\u00f9 sa main m'dis\nL\u00e0 o\u00f9 sa m'gratte\nMais je sais embrasser l\u00e0 o\u00f9 ca chatouille\nD\u00e9j\u00e0 petit paradis\nD\u00e9licieuse fly girl, moi c'est Monseigneur Mike\n\nRefrain : x2\nQui veut faire l'amour ?\nJe veux, oh oui je veux\nTu veux quoi ?\nQui veut faire l'amour ?\nJe veux, oh oui je veux\nTu veux quoi ?\n\nOh oui je veux"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/891316",
+   "apple_music_id": "210386355",
+   "apple_music_player_url": "https://genius.com/songs/891316/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_891316' class='rg_embed_link' data-song-id='891316'>Read <a href='https://genius.com/Thierry-cham-chanter-lyrics'>\u201cChanter\u201d by Thierry\u00a0Cham</a> on Genius</div> <script crossorigin src='//genius.com/songs/891316/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Chanter by\u00a0Thierry\u00a0Cham",
+   "header_image_thumbnail_url": "https://images.genius.com/9cf497df7dc13f872d0f60c80d21ff46.299x299x1.jpg",
+   "header_image_url": "https://images.genius.com/9cf497df7dc13f872d0f60c80d21ff46.299x299x1.jpg",
+   "id": 891316,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Thierry-cham-chanter-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9cf497df7dc13f872d0f60c80d21ff46.299x299x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9cf497df7dc13f872d0f60c80d21ff46.299x299x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Chanter",
+   "title_with_featured": "Chanter",
+   "url": "https://genius.com/Thierry-cham-chanter-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/294693",
+    "cover_art_url": "https://images.genius.com/9cf497df7dc13f872d0f60c80d21ff46.299x299x1.jpg",
+    "full_title": "Autrement by Thierry Cham",
+    "id": 294693,
+    "name": "Autrement",
+    "url": "https://genius.com/albums/Thierry-cham/Autrement",
+    "artist": {
+     "api_path": "/artists/362583",
+     "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+     "id": 362583,
+     "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Cham",
+     "url": "https://genius.com/artists/Thierry-cham"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5373591",
+    "classification": "needs_exegesis",
+    "fragment": "Chanter",
+    "id": 5373591,
+    "is_description": true,
+    "path": "/5373591/Thierry-cham-chanter/Chanter",
+    "range": {
+     "content": "Chanter"
+    },
+    "song_id": 891316,
+    "url": "https://genius.com/5373591/Thierry-cham-chanter/Chanter",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/891316",
+     "client_timestamps": {
+      "updated_by_human_at": 1479161331,
+      "lyrics_updated_at": 1429302463
+     },
+     "context": "Thierry Cham",
+     "id": 891316,
+     "image_url": "https://images.genius.com/9cf497df7dc13f872d0f60c80d21ff46.299x299x1.jpg",
+     "link_title": "Chanter by\u00a0Thierry\u00a0Cham",
+     "title": "Chanter",
+     "type": "Song",
+     "url": "https://genius.com/Thierry-cham-chanter-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5373591",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5373591,
+      "pinned": false,
+      "share_url": "https://genius.com/5373591",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5373591/Thierry-cham-chanter/Chanter",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/362583",
+    "header_image_url": "https://images.genius.com/f74c22c460a51e29e5aa291327f39dd1.1000x600x1.png",
+    "id": 362583,
+    "image_url": "https://images.genius.com/1d8902e4265efc3ed4c60bd1fb87fbb2.516x516x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thierry Cham",
+    "url": "https://genius.com/artists/Thierry-cham"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

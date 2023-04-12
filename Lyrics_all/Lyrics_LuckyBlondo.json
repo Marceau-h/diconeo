@@ -1,0 +1,1810 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/370677",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 370677,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Lucky Blondo",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Lucky-blondo",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7087462",
+  "classification": "needs_exegesis",
+  "fragment": "Lucky Blondo",
+  "id": 7087462,
+  "is_description": true,
+  "path": "/7087462/Lucky-blondo/Lucky-blondo",
+  "range": {
+   "content": "Lucky Blondo"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7087462/Lucky-blondo/Lucky-blondo",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/370677",
+   "context": null,
+   "id": 370677,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Lucky Blondo",
+   "title": "Lucky Blondo",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Lucky-blondo"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7087462",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7087462,
+    "pinned": false,
+    "share_url": "https://genius.com/7087462",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7087462/Lucky-blondo/Lucky-blondo",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1661564",
+   "apple_music_id": "875175948",
+   "apple_music_player_url": "https://genius.com/songs/1661564/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1661564' class='rg_embed_link' data-song-id='1661564'>Read <a href='https://genius.com/Lucky-blondo-sur-ton-visage-une-larme-lyrics'>\u201cSur Ton Visage Une Larme\u201d by Lucky\u00a0Blondo</a> on Genius</div> <script crossorigin src='//genius.com/songs/1661564/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Sur Ton Visage Une Larme by\u00a0Lucky\u00a0Blondo",
+   "header_image_thumbnail_url": "https://images.genius.com/1c629e63964b4f8752fc711d573e2504.300x297x1.jpg",
+   "header_image_url": "https://images.genius.com/1c629e63964b4f8752fc711d573e2504.600x593x1.jpg",
+   "id": 1661564,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lucky-blondo-sur-ton-visage-une-larme-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1c629e63964b4f8752fc711d573e2504.300x297x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1c629e63964b4f8752fc711d573e2504.600x593x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sur Ton Visage Une Larme",
+   "title_with_featured": "Sur Ton Visage Une Larme",
+   "url": "https://genius.com/Lucky-blondo-sur-ton-visage-une-larme-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/290931",
+    "cover_art_url": "https://images.genius.com/1c629e63964b4f8752fc711d573e2504.600x593x1.jpg",
+    "full_title": "Sur ton visage une larme by Lucky Blondo",
+    "id": 290931,
+    "name": "Sur ton visage une larme",
+    "url": "https://genius.com/albums/Lucky-blondo/Sur-ton-visage-une-larme",
+    "artist": {
+     "api_path": "/artists/370677",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370677,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lucky Blondo",
+     "url": "https://genius.com/artists/Lucky-blondo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6176530",
+    "classification": "needs_exegesis",
+    "fragment": "Sur Ton Visage Une Larme",
+    "id": 6176530,
+    "is_description": true,
+    "path": "/6176530/Lucky-blondo-sur-ton-visage-une-larme/Sur-ton-visage-une-larme",
+    "range": {
+     "content": "Sur Ton Visage Une Larme"
+    },
+    "song_id": 1661564,
+    "url": "https://genius.com/6176530/Lucky-blondo-sur-ton-visage-une-larme/Sur-ton-visage-une-larme",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1661564",
+     "client_timestamps": {
+      "updated_by_human_at": 1479140712,
+      "lyrics_updated_at": 1429902528
+     },
+     "context": "Lucky Blondo",
+     "id": 1661564,
+     "image_url": "https://images.genius.com/1c629e63964b4f8752fc711d573e2504.600x593x1.jpg",
+     "link_title": "Sur Ton Visage Une Larme by\u00a0Lucky\u00a0Blondo",
+     "title": "Sur Ton Visage Une Larme",
+     "type": "Song",
+     "url": "https://genius.com/Lucky-blondo-sur-ton-visage-une-larme-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6176530",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6176530,
+      "pinned": false,
+      "share_url": "https://genius.com/6176530",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6176530/Lucky-blondo-sur-ton-visage-une-larme/Sur-ton-visage-une-larme",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370677",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370677,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lucky Blondo",
+    "url": "https://genius.com/artists/Lucky-blondo"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Sur ton visage une larme\nVient de couler en silence\nA l'instant o\u00f9 je t'ai dit tristement :\n\"Je m'en vais demain...\"\nSur ton visage une larme\nEt soudain je r\u00e9alise\nQue je ne pourrais demain te quitter\nNi demain ni jamais\nJe n'osais plus croire\nQue ce jour viendrait\nTout pr\u00e8s de moi\nTu \u00e9tais si loin\nMais tes pleurs ont chang\u00e9 ma vie\nUne larme, une seule a suffi\nSur ton visage une larme\nJ'ai compris sans plus attendre\nQue ton c\u0153ur br\u00fblait autant que le mien\nDepuis d\u00e9j\u00e0 bien longtemps\n\nJe n'osais plus croire\nQue ce jour viendrait\nTout pr\u00e8s de moi\nTu \u00e9tais si loin\nMais tes pleurs ont chang\u00e9 ma vie\nUne larme, une seule a suffi\nSur ton visage une larme\nAussi douce qu'un je t'aime\nS'est fan\u00e9 pour laisser place \u00e0 l'instant\nAu sourire de l'amour\nDe l'amour...\nDe notre amour..."
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1495547",
+   "apple_music_id": "1443243406",
+   "apple_music_player_url": "https://genius.com/songs/1495547/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1495547' class='rg_embed_link' data-song-id='1495547'>Read <a href='https://genius.com/Lucky-blondo-une-fille-me-sourit-lyrics'>\u201cUne Fille Me Sourit\u201d by Lucky\u00a0Blondo</a> on Genius</div> <script crossorigin src='//genius.com/songs/1495547/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Une Fille Me Sourit by\u00a0Lucky\u00a0Blondo",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1495547,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lucky-blondo-une-fille-me-sourit-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Une Fille Me Sourit",
+   "title_with_featured": "Une Fille Me Sourit",
+   "url": "https://genius.com/Lucky-blondo-une-fille-me-sourit-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6009666",
+    "classification": "needs_exegesis",
+    "fragment": "Une Fille Me Sourit",
+    "id": 6009666,
+    "is_description": true,
+    "path": "/6009666/Lucky-blondo-une-fille-me-sourit/Une-fille-me-sourit",
+    "range": {
+     "content": "Une Fille Me Sourit"
+    },
+    "song_id": 1495547,
+    "url": "https://genius.com/6009666/Lucky-blondo-une-fille-me-sourit/Une-fille-me-sourit",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1495547",
+     "client_timestamps": {
+      "updated_by_human_at": 1443119466,
+      "lyrics_updated_at": 1429891514
+     },
+     "context": "Lucky Blondo",
+     "id": 1495547,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Une Fille Me Sourit by\u00a0Lucky\u00a0Blondo",
+     "title": "Une Fille Me Sourit",
+     "type": "Song",
+     "url": "https://genius.com/Lucky-blondo-une-fille-me-sourit-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6009666",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6009666,
+      "pinned": false,
+      "share_url": "https://genius.com/6009666",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6009666/Lucky-blondo-une-fille-me-sourit/Une-fille-me-sourit",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370677",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370677,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lucky Blondo",
+    "url": "https://genius.com/artists/Lucky-blondo"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Une fille me sourit\nEt j'oublie tout\nUne fille me sourit\nEt mon c\u0153ur devient fou\nLa seule chose ici bas\nQui me sauvera toujours\nC'est l'amour\n\nJe n'ai plus un centime\nEt pour me consoler\nMon p\u00e8re m'\u00e9crit\nQue je n'ai plus qu' \u00e0 travailler\nJe me d\u00e9cide \u00e0 m'engager pour vingt ans\nMais au dernier moment\n\nUne fille me sourit\nEt j'oublie tout\nUne fille me sourit\nEt mon c\u0153ur devient fou\nLa seule chose ici bas\nQui me sauvera toujours\nOui c'est l' amour\n\nJe n'ai plus que ma peine\nMon amour est parti\nAlors je d\u00e9cide d'en finir avec la vie\nAu bord de la Seine\nJe viens seul me promener\nMais quand je vais sauter\n\nUne fille me sourit\nEt j'oublie tout\nUne fille me sourit\nEt mon c\u0153ur devient fou\nLa seule chose ici bas\nQui me sauvera toujours\nC'est l'amour\nC'est l' amour\nOui c'est l'amour"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1080831",
+   "apple_music_id": "210531278",
+   "apple_music_player_url": "https://genius.com/songs/1080831/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1080831' class='rg_embed_link' data-song-id='1080831'>Read <a href='https://genius.com/Lucky-blondo-les-dix-petits-indiens-lyrics'>\u201cLes Dix Petits Indiens\u201d by Lucky\u00a0Blondo</a> on Genius</div> <script crossorigin src='//genius.com/songs/1080831/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Les Dix Petits Indiens by\u00a0Lucky\u00a0Blondo",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1080831,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lucky-blondo-les-dix-petits-indiens-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Les Dix Petits Indiens",
+   "title_with_featured": "Les Dix Petits Indiens",
+   "url": "https://genius.com/Lucky-blondo-les-dix-petits-indiens-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5578873",
+    "classification": "needs_exegesis",
+    "fragment": "Les Dix Petits Indiens",
+    "id": 5578873,
+    "is_description": true,
+    "path": "/5578873/Lucky-blondo-les-dix-petits-indiens/Les-dix-petits-indiens",
+    "range": {
+     "content": "Les Dix Petits Indiens"
+    },
+    "song_id": 1080831,
+    "url": "https://genius.com/5578873/Lucky-blondo-les-dix-petits-indiens/Les-dix-petits-indiens",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1080831",
+     "client_timestamps": {
+      "updated_by_human_at": 1436290271,
+      "lyrics_updated_at": 1429623885
+     },
+     "context": "Lucky Blondo",
+     "id": 1080831,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Les Dix Petits Indiens by\u00a0Lucky\u00a0Blondo",
+     "title": "Les Dix Petits Indiens",
+     "type": "Song",
+     "url": "https://genius.com/Lucky-blondo-les-dix-petits-indiens-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5578873",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5578873,
+      "pinned": false,
+      "share_url": "https://genius.com/5578873",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5578873/Lucky-blondo-les-dix-petits-indiens/Les-dix-petits-indiens",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370677",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370677,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lucky Blondo",
+    "url": "https://genius.com/artists/Lucky-blondo"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Pour les jolis yeux d'une indienne\nOn a vu un beau matin\nVenir dix petits indiens\nLe premier avait de plumes\nLe second des mocassins\nLe troisi\u00e8me des dollars\nLe dixi\u00e8me n'avait rien\n\nOn a su que le quatri\u00e8me\nEtait fils d'un grand Sioux\nLe cinqui\u00e8me venait\nD'une tribu estim\u00e9e\nLe sixi\u00e8me \u00e9tait po\u00e8te\nLe septi\u00e8me musicien\nLe dixi\u00e8me n'\u00e9tait rien\n\nMais les jolis yeux de l'indienne\nN'ont rien fait pour le huiti\u00e8me\nEncore moins pour le neuvi\u00e8me\nQui est reparti chez lui\nLe sixi\u00e8me l'a suivi\nMais tout le monde l'a remarquer\nLe dixi\u00e8me est rest\u00e9\n\nComment comprendre qu'une indienne\nAit un beau jour le b\u00e9guin\nPour un tout petit indien\nQui n'a pas de mocassins\nNi de plumes ni de dollars\nQui n'est m\u00eame pas po\u00e8te\nEncore moins musicien ?\n\nCe que poss\u00e8de le dixi\u00e8me\nLe dixi\u00e8me petit indiens\nOn ne peut pas l'expliquer\nTant qu'il y aura des indiennes\nDes indiens et des indiennes\nLe cas se reproduira\nC'est aussi bien comme \u00e7a"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/943222",
+   "apple_music_id": "210531174",
+   "apple_music_player_url": "https://genius.com/songs/943222/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_943222' class='rg_embed_link' data-song-id='943222'>Read <a href='https://genius.com/Lucky-blondo-baby-reste-avec-moi-lyrics'>\u201cBaby Reste Avec Moi\u201d by Lucky\u00a0Blondo</a> on Genius</div> <script crossorigin src='//genius.com/songs/943222/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Baby Reste Avec Moi by\u00a0Lucky\u00a0Blondo",
+   "header_image_thumbnail_url": "https://images.genius.com/54dd238d8550de62e7f5a5670cd30bcd.300x308x1.jpg",
+   "header_image_url": "https://images.genius.com/54dd238d8550de62e7f5a5670cd30bcd.975x1000x1.jpg",
+   "id": 943222,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lucky-blondo-baby-reste-avec-moi-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/54dd238d8550de62e7f5a5670cd30bcd.300x308x1.jpg",
+   "song_art_image_url": "https://images.genius.com/54dd238d8550de62e7f5a5670cd30bcd.975x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Baby Reste Avec Moi",
+   "title_with_featured": "Baby Reste Avec Moi",
+   "url": "https://genius.com/Lucky-blondo-baby-reste-avec-moi-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/262795",
+    "cover_art_url": "https://images.genius.com/54dd238d8550de62e7f5a5670cd30bcd.975x1000x1.jpg",
+    "full_title": "Le rock c'est \u00e7a ! by Lucky Blondo",
+    "id": 262795,
+    "name": "Le rock c\u2019est \u00e7a !",
+    "url": "https://genius.com/albums/Lucky-blondo/Le-rock-c-est-ca",
+    "artist": {
+     "api_path": "/artists/370677",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370677,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lucky Blondo",
+     "url": "https://genius.com/artists/Lucky-blondo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5436807",
+    "classification": "needs_exegesis",
+    "fragment": "Baby Reste Avec Moi",
+    "id": 5436807,
+    "is_description": true,
+    "path": "/5436807/Lucky-blondo-baby-reste-avec-moi/Baby-reste-avec-moi",
+    "range": {
+     "content": "Baby Reste Avec Moi"
+    },
+    "song_id": 943222,
+    "url": "https://genius.com/5436807/Lucky-blondo-baby-reste-avec-moi/Baby-reste-avec-moi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/943222",
+     "client_timestamps": {
+      "updated_by_human_at": 1476922838,
+      "lyrics_updated_at": 1429543401
+     },
+     "context": "Lucky Blondo",
+     "id": 943222,
+     "image_url": "https://images.genius.com/54dd238d8550de62e7f5a5670cd30bcd.975x1000x1.jpg",
+     "link_title": "Baby Reste Avec Moi by\u00a0Lucky\u00a0Blondo",
+     "title": "Baby Reste Avec Moi",
+     "type": "Song",
+     "url": "https://genius.com/Lucky-blondo-baby-reste-avec-moi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5436807",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5436807,
+      "pinned": false,
+      "share_url": "https://genius.com/5436807",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5436807/Lucky-blondo-baby-reste-avec-moi/Baby-reste-avec-moi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370677",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370677,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lucky Blondo",
+    "url": "https://genius.com/artists/Lucky-blondo"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1654826",
+   "apple_music_id": "210531233",
+   "apple_music_player_url": "https://genius.com/songs/1654826/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1654826' class='rg_embed_link' data-song-id='1654826'>Read <a href='https://genius.com/Lucky-blondo-dans-la-rue-des-souvenirs-lyrics'>\u201cDans La Rue Des Souvenirs\u201d by Lucky\u00a0Blondo</a> on Genius</div> <script crossorigin src='//genius.com/songs/1654826/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Dans La Rue Des Souvenirs by\u00a0Lucky\u00a0Blondo",
+   "header_image_thumbnail_url": "https://images.genius.com/54dd238d8550de62e7f5a5670cd30bcd.300x308x1.jpg",
+   "header_image_url": "https://images.genius.com/54dd238d8550de62e7f5a5670cd30bcd.975x1000x1.jpg",
+   "id": 1654826,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lucky-blondo-dans-la-rue-des-souvenirs-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/54dd238d8550de62e7f5a5670cd30bcd.300x308x1.jpg",
+   "song_art_image_url": "https://images.genius.com/54dd238d8550de62e7f5a5670cd30bcd.975x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Dans La Rue Des Souvenirs",
+   "title_with_featured": "Dans La Rue Des Souvenirs",
+   "url": "https://genius.com/Lucky-blondo-dans-la-rue-des-souvenirs-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/262795",
+    "cover_art_url": "https://images.genius.com/54dd238d8550de62e7f5a5670cd30bcd.975x1000x1.jpg",
+    "full_title": "Le rock c'est \u00e7a ! by Lucky Blondo",
+    "id": 262795,
+    "name": "Le rock c\u2019est \u00e7a !",
+    "url": "https://genius.com/albums/Lucky-blondo/Le-rock-c-est-ca",
+    "artist": {
+     "api_path": "/artists/370677",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 370677,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lucky Blondo",
+     "url": "https://genius.com/artists/Lucky-blondo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6169771",
+    "classification": "needs_exegesis",
+    "fragment": "Dans La Rue Des Souvenirs",
+    "id": 6169771,
+    "is_description": true,
+    "path": "/6169771/Lucky-blondo-dans-la-rue-des-souvenirs/Dans-la-rue-des-souvenirs",
+    "range": {
+     "content": "Dans La Rue Des Souvenirs"
+    },
+    "song_id": 1654826,
+    "url": "https://genius.com/6169771/Lucky-blondo-dans-la-rue-des-souvenirs/Dans-la-rue-des-souvenirs",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1654826",
+     "client_timestamps": {
+      "updated_by_human_at": 1481914494,
+      "lyrics_updated_at": 1429902169
+     },
+     "context": "Lucky Blondo",
+     "id": 1654826,
+     "image_url": "https://images.genius.com/54dd238d8550de62e7f5a5670cd30bcd.975x1000x1.jpg",
+     "link_title": "Dans La Rue Des Souvenirs by\u00a0Lucky\u00a0Blondo",
+     "title": "Dans La Rue Des Souvenirs",
+     "type": "Song",
+     "url": "https://genius.com/Lucky-blondo-dans-la-rue-des-souvenirs-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6169771",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6169771,
+      "pinned": false,
+      "share_url": "https://genius.com/6169771",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6169771/Lucky-blondo-dans-la-rue-des-souvenirs/Dans-la-rue-des-souvenirs",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/370677",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 370677,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lucky Blondo",
+    "url": "https://genius.com/artists/Lucky-blondo"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Dans la rue des souvenirs\nOn va r\u00eaver\nOn va refleurir\nUn amour pass\u00e9\n\nC'est le rendez-vous\nDes coeurs malheureux\nRue des souvenirs\nLe ciel para\u00eet moins bleu\n\nIl y a des gars, des filles\nQui pleurent sur leur amour\nOn dit que c'est pour toute la vie\nEt puis \u00e7a dure quelques jours\n\nTous les souvenirs\nSont comme les fleurs\nTout peut refleurir\nDans le ciel de ton coeur\nHumhum\n\nDans la rue des souvenirs\nAh, Mon coeur pense \u00e0 toi, toujours\nMais quand reverrai-je ton sourire?\nMais quand reverrai-je tes yeux si doux?\n\nDans la rue des souvenirs\nJe t'attendrai\nSi tu veux revenir\nRien ne sera chang\u00e9\nHum, hum"
+  }
+ ]
+}

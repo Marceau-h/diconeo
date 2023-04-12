@@ -1,0 +1,2545 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/388060",
+ "description": {
+  "plain": "A"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+ "id": 388060,
+ "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Carte Blanche",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Carte-blanche",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4117910,
+  "annotator_login": "DiegoGarciaKC",
+  "api_path": "/referents/7105253",
+  "classification": "unreviewed",
+  "fragment": "Carte Blanche",
+  "id": 7105253,
+  "is_description": true,
+  "path": "/7105253/Carte-blanche/Carte-blanche",
+  "range": {
+   "content": "Carte Blanche"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7105253/Carte-blanche/Carte-blanche",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/388060",
+   "context": null,
+   "id": 388060,
+   "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+   "link_title": "Carte Blanche",
+   "title": "Carte Blanche",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Carte-blanche"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7105253",
+    "body": {
+     "plain": "A"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7105253,
+    "pinned": false,
+    "share_url": "https://genius.com/7105253",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/7105253/Carte-blanche/Carte-blanche",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4117910",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/30005a7cfb0080c204add3672ed02ba2",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/30005a7cfb0080c204add3672ed02ba2",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/30005a7cfb0080c204add3672ed02ba2",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/30005a7cfb0080c204add3672ed02ba2",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/30005a7cfb0080c204add3672ed02ba2",
+       "human_readable_role_for_display": null,
+       "id": 4117910,
+       "iq": 105,
+       "login": "DiegoGarciaKC",
+       "name": "DiegoGarciaKC",
+       "role_for_display": null,
+       "url": "https://genius.com/DiegoGarciaKC",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1454471",
+   "apple_music_id": "5944237",
+   "apple_music_player_url": "https://genius.com/songs/1454471/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1454471' class='rg_embed_link' data-song-id='1454471'>Read <a href='https://genius.com/Carte-blanche-tell-me-that-you-want-me-lyrics'>\u201cTell Me That You Want Me\u201d by Carte\u00a0Blanche</a> on Genius</div> <script crossorigin src='//genius.com/songs/1454471/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tell Me That You Want Me by\u00a0Carte\u00a0Blanche",
+   "header_image_thumbnail_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.300x300x1.png",
+   "header_image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+   "id": 1454471,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Carte-blanche-tell-me-that-you-want-me-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tell Me That You Want Me",
+   "title_with_featured": "Tell Me That You Want Me",
+   "url": "https://genius.com/Carte-blanche-tell-me-that-you-want-me-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5966704",
+    "classification": "needs_exegesis",
+    "fragment": "Tell Me That You Want Me",
+    "id": 5966704,
+    "is_description": true,
+    "path": "/5966704/Carte-blanche-tell-me-that-you-want-me/Tell-me-that-you-want-me",
+    "range": {
+     "content": "Tell Me That You Want Me"
+    },
+    "song_id": 1454471,
+    "url": "https://genius.com/5966704/Carte-blanche-tell-me-that-you-want-me/Tell-me-that-you-want-me",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1454471",
+     "client_timestamps": {
+      "updated_by_human_at": 1442867271,
+      "lyrics_updated_at": 1429852161
+     },
+     "context": "Carte Blanche",
+     "id": 1454471,
+     "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+     "link_title": "Tell Me That You Want Me by\u00a0Carte\u00a0Blanche",
+     "title": "Tell Me That You Want Me",
+     "type": "Song",
+     "url": "https://genius.com/Carte-blanche-tell-me-that-you-want-me-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5966704",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5966704,
+      "pinned": false,
+      "share_url": "https://genius.com/5966704",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5966704/Carte-blanche-tell-me-that-you-want-me/Tell-me-that-you-want-me",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/388060",
+    "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+    "id": 388060,
+    "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Carte Blanche",
+    "url": "https://genius.com/artists/Carte-blanche"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "You don't seem to wanna go\nBut that's alright with me\nStay right here\nIt's all for love\nAnd you got all I need\n'Cause I want you and you alone\nTake me here and now\n\nI just wanna let you know\nWhen I'm with you, with you\nI'm not afraid, I'm not afraid\nIt seems to me that we were ment to be much more than friends\nAnd all I want is you\n\nTell me that you want me\nTell me that you need me here tonight\nPromise that you'll hold me\n'Cause I just wanna be with you for life\n\nTell me that you want me\nTell me that you need me here tonight\nPromise that you'll hold me\n'Cause I just wanna be with you for life\n\nTell me that you want me\n(Tell me that you want me)\nPromise that you'll hold me\n(Promise that you'll hold me)\n\nTell me that you want me\n(Tell me that you want me)\nPromise that you'll hold me\n(Promise that you'll hold me)\nCause I just wanna be with you for life\nCause I just wanna be with you for life\n\nYou don't seem to wanna go\nBut that's alright with me\nStay right here\nIt's all for love\nAnd you got all I need\n'Cause I want you and you alone\nTake me here and now\n\nI just wanna let you know\nWhen I'm with you, with you\nI'm not afraid, I'm not afraid\nIt seems to me that we were ment to be much more than friends\nAnd all I want is you\n\nTell me that you want me\nTell me that you need me here tonight\nPromise that you'll hold me\n'Cause I just wanna be with you for life\n\nTell me that you want me\nTell me that you need me here tonight\nPromise that you'll hold me\n'Cause I just wanna be with you for life\n\nTell me that you want me\n(Tell me that you want me)\nTell me that you need me here tonight\nPromise that you'll hold me\n(Promise that you'll hold me)\n'Cause I just wanna be with you for life\n\nTell me that you want me\n(Tell me that you want me)\nTell me that you need me here tonight\nPromise that you'll hold me\n'Cause I just wanna be with you for life"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2220136",
+   "apple_music_id": "438676464",
+   "apple_music_player_url": "https://genius.com/songs/2220136/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2220136' class='rg_embed_link' data-song-id='2220136'>Read <a href='https://genius.com/Carte-blanche-with-you-feat-alexis-taylor-lyrics'>\u201cWith You - feat. Alexis Taylor\u201d by Carte\u00a0Blanche</a> on Genius</div> <script crossorigin src='//genius.com/songs/2220136/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "With You - feat. Alexis Taylor by\u00a0Carte\u00a0Blanche",
+   "header_image_thumbnail_url": "https://images.genius.com/e1bd5424e707a25fa7a084b4faecd8df.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e1bd5424e707a25fa7a084b4faecd8df.600x600x1.jpg",
+   "id": 2220136,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Carte-blanche-with-you-feat-alexis-taylor-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e1bd5424e707a25fa7a084b4faecd8df.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e1bd5424e707a25fa7a084b4faecd8df.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "With You - feat. Alexis Taylor",
+   "title_with_featured": "With You - feat. Alexis Taylor",
+   "url": "https://genius.com/Carte-blanche-with-you-feat-alexis-taylor-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/274572",
+    "cover_art_url": "https://images.genius.com/e1bd5424e707a25fa7a084b4faecd8df.600x600x1.jpg",
+    "full_title": "White Man on the Moon by Carte Blanche",
+    "id": 274572,
+    "name": "White Man on the Moon",
+    "url": "https://genius.com/albums/Carte-blanche/White-man-on-the-moon",
+    "artist": {
+     "api_path": "/artists/388060",
+     "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+     "id": 388060,
+     "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carte Blanche",
+     "url": "https://genius.com/artists/Carte-blanche"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7351681",
+    "classification": "needs_exegesis",
+    "fragment": "With You - feat. Alexis Taylor",
+    "id": 7351681,
+    "is_description": true,
+    "path": "/7351681/Carte-blanche-with-you-feat-alexis-taylor/With-you-feat-alexis-taylor",
+    "range": {
+     "content": "With You - feat. Alexis Taylor"
+    },
+    "song_id": 2220136,
+    "url": "https://genius.com/7351681/Carte-blanche-with-you-feat-alexis-taylor/With-you-feat-alexis-taylor",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2220136",
+     "client_timestamps": {
+      "updated_by_human_at": 1477015135,
+      "lyrics_updated_at": 1437076749
+     },
+     "context": "Carte Blanche",
+     "id": 2220136,
+     "image_url": "https://images.genius.com/e1bd5424e707a25fa7a084b4faecd8df.600x600x1.jpg",
+     "link_title": "With You - feat. Alexis Taylor by\u00a0Carte\u00a0Blanche",
+     "title": "With You - feat. Alexis Taylor",
+     "type": "Song",
+     "url": "https://genius.com/Carte-blanche-with-you-feat-alexis-taylor-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7351681",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7351681,
+      "pinned": false,
+      "share_url": "https://genius.com/7351681",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7351681/Carte-blanche-with-you-feat-alexis-taylor/With-you-feat-alexis-taylor",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/388060",
+    "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+    "id": 388060,
+    "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Carte Blanche",
+    "url": "https://genius.com/artists/Carte-blanche"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "You don't seem to wanna go\nBut that's alright with me\nStay right here\nIt's all for love\nAnd you got all I need\n'Cause I want you and you alone\nTake me here and now\n\nI just wanna let you know\nWhen I'm with you, with you\nI'm not afraid, I'm not afraid\nIt seems to me that we were ment to be much more than friends\nAnd all I want is you\n\nTell me that you want me\nTell me that you need me here tonight\nPromise that you'll hold me\n'Cause I just wanna be with you for life\n\nTell me that you want me\nTell me that you need me here tonight\nPromise that you'll hold me\n'Cause I just wanna be with you for life\n\nTell me that you want me\n(Tell me that you want me)\nPromise that you'll hold me\n(Promise that you'll hold me)\n\nTell me that you want me\n(Tell me that you want me)\nPromise that you'll hold me\n(Promise that you'll hold me)\nCause I just wanna be with you for life\nCause I just wanna be with you for life\n\nYou don't seem to wanna go\nBut that's alright with me\nStay right here\nIt's all for love\nAnd you got all I need\n'Cause I want you and you alone\nTake me here and now\n\nI just wanna let you know\nWhen I'm with you, with you\nI'm not afraid, I'm not afraid\nIt seems to me that we were ment to be much more than friends\nAnd all I want is you\n\nTell me that you want me\nTell me that you need me here tonight\nPromise that you'll hold me\n'Cause I just wanna be with you for life\n\nTell me that you want me\nTell me that you need me here tonight\nPromise that you'll hold me\n'Cause I just wanna be with you for life\n\nTell me that you want me\n(Tell me that you want me)\nTell me that you need me here tonight\nPromise that you'll hold me\n(Promise that you'll hold me)\n'Cause I just wanna be with you for life\n\nTell me that you want me\n(Tell me that you want me)\nTell me that you need me here tonight\nPromise that you'll hold me\n'Cause I just wanna be with you for life"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2477984",
+   "apple_music_id": "372284180",
+   "apple_music_player_url": "https://genius.com/songs/2477984/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2477984' class='rg_embed_link' data-song-id='2477984'>Read <a href='https://genius.com/Carte-blanche-gare-du-nord-lyrics'>\u201cGare Du Nord\u201d by Carte\u00a0Blanche</a> on Genius</div> <script crossorigin src='//genius.com/songs/2477984/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Gare Du Nord by\u00a0Carte\u00a0Blanche",
+   "header_image_thumbnail_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.300x300x1.png",
+   "header_image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+   "id": 2477984,
+   "lyrics_owner_id": 3118540,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Carte-blanche-gare-du-nord-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Gare Du Nord",
+   "title_with_featured": "Gare Du Nord",
+   "url": "https://genius.com/Carte-blanche-gare-du-nord-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/153358",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Black Billionaires EP by Carte Blanche",
+    "id": 153358,
+    "name": "Black Billionaires EP",
+    "url": "https://genius.com/albums/Carte-blanche/Black-billionaires-ep",
+    "artist": {
+     "api_path": "/artists/388060",
+     "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+     "id": 388060,
+     "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carte Blanche",
+     "url": "https://genius.com/artists/Carte-blanche"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3118540,
+    "annotator_login": "ThomasGt",
+    "api_path": "/referents/9200109",
+    "classification": "needs_exegesis",
+    "fragment": "Gare Du Nord",
+    "id": 9200109,
+    "is_description": true,
+    "path": "/9200109/Carte-blanche-gare-du-nord/Gare-du-nord",
+    "range": {
+     "content": "Gare Du Nord"
+    },
+    "song_id": 2477984,
+    "url": "https://genius.com/9200109/Carte-blanche-gare-du-nord/Gare-du-nord",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2477984",
+     "client_timestamps": {
+      "updated_by_human_at": 1499886204,
+      "lyrics_updated_at": 1463953576
+     },
+     "context": "Carte Blanche",
+     "id": 2477984,
+     "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+     "link_title": "Gare Du Nord by\u00a0Carte\u00a0Blanche",
+     "title": "Gare Du Nord",
+     "type": "Song",
+     "url": "https://genius.com/Carte-blanche-gare-du-nord-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9200109",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 9200109,
+      "pinned": false,
+      "share_url": "https://genius.com/9200109",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/9200109/Carte-blanche-gare-du-nord/Gare-du-nord",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3118540",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/b2f774d3f1a85497bc5f05ca456966b9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/b2f774d3f1a85497bc5f05ca456966b9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/b2f774d3f1a85497bc5f05ca456966b9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/b2f774d3f1a85497bc5f05ca456966b9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/b2f774d3f1a85497bc5f05ca456966b9",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3118540,
+         "iq": 840,
+         "login": "ThomasGt",
+         "name": "ThomasGt",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/ThomasGt",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=PVv_pVsTXyQ"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/388060",
+    "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+    "id": 388060,
+    "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Carte Blanche",
+    "url": "https://genius.com/artists/Carte-blanche"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/15472",
+     "header_image_url": "https://images.genius.com/89rl5qyms36hd2ceiru9k27kb.1000x667x1.jpg",
+     "id": 15472,
+     "image_url": "https://images.genius.com/89rl5qyms36hd2ceiru9k27kb.1000x667x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Mehdi",
+     "url": "https://genius.com/artists/Dj-mehdi"
+    },
+    {
+     "api_path": "/artists/482806",
+     "header_image_url": "https://images.genius.com/d666aed640b8f3815b0f20430d77d18c.1000x1000x1.jpg",
+     "id": 482806,
+     "image_url": "https://images.genius.com/1d933b6410c16b9cf055d0ed2831dbcf.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Riton",
+     "url": "https://genius.com/artists/Riton"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2052415",
+   "apple_music_id": "372284224",
+   "apple_music_player_url": "https://genius.com/songs/2052415/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2052415' class='rg_embed_link' data-song-id='2052415'>Read <a href='https://genius.com/Carte-blanche-do-do-do-feat-kid-sister-lyrics'>\u201cDo! do! do! [feat. kid sister]\u201d by Carte\u00a0Blanche</a> on Genius</div> <script crossorigin src='//genius.com/songs/2052415/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Do! do! do! [feat. kid sister] by\u00a0Carte\u00a0Blanche",
+   "header_image_thumbnail_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.300x300x1.png",
+   "header_image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+   "id": 2052415,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Carte-blanche-do-do-do-feat-kid-sister-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Do! do! do! [feat. kid sister]",
+   "title_with_featured": "Do! do! do! [feat. kid sister]",
+   "url": "https://genius.com/Carte-blanche-do-do-do-feat-kid-sister-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/153358",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Black Billionaires EP by Carte Blanche",
+    "id": 153358,
+    "name": "Black Billionaires EP",
+    "url": "https://genius.com/albums/Carte-blanche/Black-billionaires-ep",
+    "artist": {
+     "api_path": "/artists/388060",
+     "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+     "id": 388060,
+     "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carte Blanche",
+     "url": "https://genius.com/artists/Carte-blanche"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6792030",
+    "classification": "needs_exegesis",
+    "fragment": "Do! do! do! [feat. kid sister]",
+    "id": 6792030,
+    "is_description": true,
+    "path": "/6792030/Carte-blanche-do-do-do-feat-kid-sister/Do-do-do-feat-kid-sister",
+    "range": {
+     "content": "Do! do! do! [feat. kid sister]"
+    },
+    "song_id": 2052415,
+    "url": "https://genius.com/6792030/Carte-blanche-do-do-do-feat-kid-sister/Do-do-do-feat-kid-sister",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2052415",
+     "client_timestamps": {
+      "updated_by_human_at": 1480533846,
+      "lyrics_updated_at": 1433950840
+     },
+     "context": "Carte Blanche",
+     "id": 2052415,
+     "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+     "link_title": "Do! do! do! [feat. kid sister] by\u00a0Carte\u00a0Blanche",
+     "title": "Do! do! do! [feat. kid sister]",
+     "type": "Song",
+     "url": "https://genius.com/Carte-blanche-do-do-do-feat-kid-sister-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6792030",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6792030,
+      "pinned": false,
+      "share_url": "https://genius.com/6792030",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6792030/Carte-blanche-do-do-do-feat-kid-sister/Do-do-do-feat-kid-sister",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/388060",
+    "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+    "id": 388060,
+    "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Carte Blanche",
+    "url": "https://genius.com/artists/Carte-blanche"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "2 Brothers On The 4th Floor\nMiscellaneous\nAll I wanna do\nOoooh oh baby\nAll I wan, all I wan, all I wanna do ooh\nAll I wan, all I wan, all I wanna do\nOnce, once in your lifetime you'll find that special one\nThe 1 you really need\nI sit and wait for the day you'll come & say\nYour the one for me\nBaby if you want it you've got it\nTell me what can I do, so in love with you\nBaby if u want it you've got it\nI promise I'll treat u right, wanna b right by your side\nAll I wanna do (all I wanna do)\nIs spend some time with you\nAll I wanna do (all I want, all I wanna do)\nIs spend my life with you\nNa nana nana, nana nana nana na nana na (ooh)\nNa nana nana, nana nana nana na nana na (ooh na)\nAll I want, all I wanna do, do\nIs be with u, so tell me what u wanna do\nCheck the flavor I'll be givin\nTell me how you're livin'\nI got the funk that u need\nAnd I'm breakin it, slinging it\nRight, in, over u\nLet's come by cause I wanna b near u\nHotter than sex, complex I'm not\nBut yet it's true, it's u i wanna rock\nSo bring it on, keep it on, u got it going on\nLet me get funky till the break of, break of dawn\nI specialize and it's to make u, break u &\nMake u stress, so let's get wet\nI've been watching u for a long time\nLooking at your hips and not behind\nSo let's get together and let me know when\nCause in my book you're a perfect 10\nBaby if you want it you've got it\nTell me what can I do, so in love with u\nBaby if you want it you've got it\nI promise I'll treat u right, wanna be right by your side\nOooh, get freaky now\nOh baby cause you know just what I like\nAnd I know just what I need\nBut I want you by my side\nAnd I know I will succeed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1941483",
+   "apple_music_id": "438676432",
+   "apple_music_player_url": "https://genius.com/songs/1941483/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1941483' class='rg_embed_link' data-song-id='1941483'>Read <a href='https://genius.com/Carte-blanche-jack-on-the-moon-lyrics'>\u201cJack on the moon\u201d by Carte\u00a0Blanche</a> on Genius</div> <script crossorigin src='//genius.com/songs/1941483/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Jack on the moon by\u00a0Carte\u00a0Blanche",
+   "header_image_thumbnail_url": "https://images.genius.com/e1bd5424e707a25fa7a084b4faecd8df.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e1bd5424e707a25fa7a084b4faecd8df.600x600x1.jpg",
+   "id": 1941483,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Carte-blanche-jack-on-the-moon-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e1bd5424e707a25fa7a084b4faecd8df.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e1bd5424e707a25fa7a084b4faecd8df.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Jack on the moon",
+   "title_with_featured": "Jack on the moon",
+   "url": "https://genius.com/Carte-blanche-jack-on-the-moon-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/274572",
+    "cover_art_url": "https://images.genius.com/e1bd5424e707a25fa7a084b4faecd8df.600x600x1.jpg",
+    "full_title": "White Man on the Moon by Carte Blanche",
+    "id": 274572,
+    "name": "White Man on the Moon",
+    "url": "https://genius.com/albums/Carte-blanche/White-man-on-the-moon",
+    "artist": {
+     "api_path": "/artists/388060",
+     "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+     "id": 388060,
+     "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carte Blanche",
+     "url": "https://genius.com/artists/Carte-blanche"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6627253",
+    "classification": "needs_exegesis",
+    "fragment": "Jack on the moon",
+    "id": 6627253,
+    "is_description": true,
+    "path": "/6627253/Carte-blanche-jack-on-the-moon/Jack-on-the-moon",
+    "range": {
+     "content": "Jack on the moon"
+    },
+    "song_id": 1941483,
+    "url": "https://genius.com/6627253/Carte-blanche-jack-on-the-moon/Jack-on-the-moon",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1941483",
+     "client_timestamps": {
+      "updated_by_human_at": 1481221815,
+      "lyrics_updated_at": 1432918014
+     },
+     "context": "Carte Blanche",
+     "id": 1941483,
+     "image_url": "https://images.genius.com/e1bd5424e707a25fa7a084b4faecd8df.600x600x1.jpg",
+     "link_title": "Jack on the moon by\u00a0Carte\u00a0Blanche",
+     "title": "Jack on the moon",
+     "type": "Song",
+     "url": "https://genius.com/Carte-blanche-jack-on-the-moon-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6627253",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6627253,
+      "pinned": false,
+      "share_url": "https://genius.com/6627253",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6627253/Carte-blanche-jack-on-the-moon/Jack-on-the-moon",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/388060",
+    "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+    "id": 388060,
+    "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Carte Blanche",
+    "url": "https://genius.com/artists/Carte-blanche"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 33,
+   "api_path": "/songs/5268282",
+   "apple_music_id": "1498934194",
+   "apple_music_player_url": "https://genius.com/songs/5268282/apple_music_player",
+   "description": {
+    "plain": "Real Life, A Real Moment"
+   },
+   "embed_content": "<div id='rg_embed_link_5268282' class='rg_embed_link' data-song-id='5268282'>Read <a href='https://genius.com/Carte-blanche-moment-lyrics'>\u201cMoment\u201d by Carte\u00a0Blanche</a> on Genius</div> <script crossorigin src='//genius.com/songs/5268282/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Moment by\u00a0Carte\u00a0Blanche",
+   "header_image_thumbnail_url": "https://images.genius.com/4393736c62f456a3e2d79b944a303c1a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/4393736c62f456a3e2d79b944a303c1a.500x500x1.jpg",
+   "id": 5268282,
+   "lyrics_owner_id": 4520707,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Carte-blanche-moment-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2020-02-14",
+   "release_date_for_display": "February 14, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/4393736c62f456a3e2d79b944a303c1a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/4393736c62f456a3e2d79b944a303c1a.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 33,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Moment",
+   "title_with_featured": "Moment",
+   "url": "https://genius.com/Carte-blanche-moment-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4520707,
+    "annotator_login": "CondidoVerona",
+    "api_path": "/referents/19071768",
+    "classification": "unreviewed",
+    "fragment": "Moment",
+    "id": 19071768,
+    "is_description": true,
+    "path": "/19071768/Carte-blanche-moment/Moment",
+    "range": {
+     "content": "Moment"
+    },
+    "song_id": 5268282,
+    "url": "https://genius.com/19071768/Carte-blanche-moment/Moment",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5268282",
+     "client_timestamps": {
+      "updated_by_human_at": 1582077806,
+      "lyrics_updated_at": 1581920141
+     },
+     "context": "Carte Blanche",
+     "id": 5268282,
+     "image_url": "https://images.genius.com/4393736c62f456a3e2d79b944a303c1a.500x500x1.jpg",
+     "link_title": "Moment by\u00a0Carte\u00a0Blanche",
+     "title": "Moment",
+     "type": "Song",
+     "url": "https://genius.com/Carte-blanche-moment-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19071768",
+      "body": {
+       "plain": "Real Life, A Real Moment"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19071768,
+      "pinned": false,
+      "share_url": "https://genius.com/19071768",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/19071768/Carte-blanche-moment/Moment",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4520707",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/89da26d6fe607253a92b670af029ce96",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/89da26d6fe607253a92b670af029ce96",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/89da26d6fe607253a92b670af029ce96",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/89da26d6fe607253a92b670af029ce96",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/89da26d6fe607253a92b670af029ce96",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4520707,
+         "iq": 385,
+         "login": "CondidoVerona",
+         "name": "CondidoVerona",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/CondidoVerona",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "attribution": "the carte blanche exp",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/the-carte-blanche-exp/moment-carte-blanche"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ACmxfT6sbEQ"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/388060",
+    "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+    "id": 388060,
+    "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Carte Blanche",
+    "url": "https://genius.com/artists/Carte-blanche"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1324045",
+     "header_image_url": "https://images.genius.com/c27f5b7c75177f6d2643596af88ce3da.640x426x1.jpg",
+     "id": 1324045,
+     "image_url": "https://images.genius.com/fdbf1dfb6a629e548efa1fe236a037b7.426x426x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tracksmith",
+     "url": "https://genius.com/artists/Tracksmith",
+     "iq": 562
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/388060",
+     "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+     "id": 388060,
+     "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carte Blanche",
+     "url": "https://genius.com/artists/Carte-blanche"
+    }
+   ],
+   "lyrics": "[Chorus: SASH]\nYea this your moment yea\nAnd its my moment\nWe in a moment yea\nThat\u2019s so important\nNo interruptions\nWe\u2005goin\u2005on n on\nTappin\u2019\u2005deep into your soul\nAin\u2019t gone stop\u2005til it\u2019s the mornin\u2019\n\n[Verse 1: Carte Blanche]\nGettin back to the basics\nPatience, Shaping\nYa life to remind you what taste is..\nYou been on my mind all the time, I been tryin to rewind\nEvery sign of ya fragrance..\nI ain\u2019t seen you in ages\nBoth been through a lot, but the world couldn\u2019t fade us..\nAnd nobody in the world could save us\nNot even a drug could tame us..\nDamn...\nWe fell off for a while\nBut this luv come in stages..\nGot me thinking that ya luvs contagious\nGot me thinking you would love some Arrangements\nDifferent places, face it, fuck the occasion!\nDifferent faces, Haitians, Russians, Jamaicans!\nMany favorites, change and jump in the latest!\nDifferent phases came, this moments the greatest!\n\n[Chorus: SASH]\nYea this your moment yea\nAnd its my moment\nWe in a moment yea\nThat\u2019s so important\nNo interruptions\nWe goin on n on\nTappin\u2019 deep into your soul\nAin\u2019t gone stop til it\u2019s the mornin\u2019\n\n[Verse 2: Carte Blanche]\nI was chillin with shorty when shorty came\nThey kinda of somebodies so I won\u2019t say nobody name..\nAnyways, it was a moment\nI can\u2019t help but think about the way that they performing..\nAnd they gorgeous, every part should be applauded\nAll enthralled an artwork is what I Call it\nVisual, the paint brush\nDip into ya paint, Touch\nYa canvas, Damn it if it ain\u2019t us!\nThe type art you gotta frame up\nFa this type of work you gotta save up\nHow can they defame us\nPut that all to the side\nGet wit it or get lost, Take an alternate vibe\nIt\u2019s a boss in the ride\nTake a ride\nCalm but ain't Gandhi\nMove ya hip.. Make you drip like Dasani\n\n[Chorus: SASH]\nYea this your moment yea\nAnd its my moment\nWe in a moment yea\nThat\u2019s so important\nNo interruptions\nWe goin on n on\nTappin\u2019 deep into your soul\nAin\u2019t gone stop til it\u2019s the mornin\u2019"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5486827",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5486827/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5486827' class='rg_embed_link' data-song-id='5486827'>Read <a href='https://genius.com/Carte-blanche-outside-lyrics'>\u201cOutside\u201d by Carte\u00a0Blanche</a> on Genius</div> <script crossorigin src='//genius.com/songs/5486827/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Outside by\u00a0Carte\u00a0Blanche",
+   "header_image_thumbnail_url": "https://images.genius.com/53920fb588304dd5710891698cda2979.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/53920fb588304dd5710891698cda2979.500x500x1.jpg",
+   "id": 5486827,
+   "lyrics_owner_id": 4520707,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Carte-blanche-outside-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2020-04-20",
+   "release_date_for_display": "April 20, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/53920fb588304dd5710891698cda2979.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/53920fb588304dd5710891698cda2979.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Outside",
+   "title_with_featured": "Outside",
+   "url": "https://genius.com/Carte-blanche-outside-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4520707,
+    "annotator_login": "CondidoVerona",
+    "api_path": "/referents/19629314",
+    "classification": "needs_exegesis",
+    "fragment": "Outside",
+    "id": 19629314,
+    "is_description": true,
+    "path": "/19629314/Carte-blanche-outside/Outside",
+    "range": {
+     "content": "Outside"
+    },
+    "song_id": 5486827,
+    "url": "https://genius.com/19629314/Carte-blanche-outside/Outside",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5486827",
+     "client_timestamps": {
+      "updated_by_human_at": 1587502363,
+      "lyrics_updated_at": 1587502363
+     },
+     "context": "Carte Blanche",
+     "id": 5486827,
+     "image_url": "https://images.genius.com/53920fb588304dd5710891698cda2979.500x500x1.jpg",
+     "link_title": "Outside by\u00a0Carte\u00a0Blanche",
+     "title": "Outside",
+     "type": "Song",
+     "url": "https://genius.com/Carte-blanche-outside-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19629314",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19629314,
+      "pinned": false,
+      "share_url": "https://genius.com/19629314",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19629314/Carte-blanche-outside/Outside",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4520707",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/89da26d6fe607253a92b670af029ce96",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/89da26d6fe607253a92b670af029ce96",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/89da26d6fe607253a92b670af029ce96",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/89da26d6fe607253a92b670af029ce96",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/89da26d6fe607253a92b670af029ce96",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4520707,
+         "iq": 385,
+         "login": "CondidoVerona",
+         "name": "CondidoVerona",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/CondidoVerona",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "attribution": "the carte blanche exp",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/the-carte-blanche-exp/outside"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/388060",
+    "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+    "id": 388060,
+    "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Carte Blanche",
+    "url": "https://genius.com/artists/Carte-blanche"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/388060",
+     "header_image_url": "https://images.genius.com/447d9922222b56d4f343a77a54af8485.1000x1000x1.png",
+     "id": 388060,
+     "image_url": "https://images.genius.com/886d8401c9042909c243fb2490e92715.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carte Blanche",
+     "url": "https://genius.com/artists/Carte-blanche"
+    }
+   ],
+   "lyrics": "[Verse 1 - Carte Blanche]\nWe ain\u2019t thinking a lot\nGood vibes good time\nWe ain\u2019t reaching a lot\nJust keepin it prop\nBelieve\u2005it\u2005or not\nThe key\u2005to the lock\nInside outside\nWe free in\u2005the spot\nYo grip yo hips\nYou teasing a lot\nMy whip got tents\nWe leavin or not\nMulhuland drive\nOr P C H\nTry my drive\nDon\u2019t squeeze the break\nI\u2019m the kind of guy\nDon\u2019t need to wait\nWe can park the ride\nAnd see the scape\nOr start tonight\nBut either way\nEither way? Either way!\nLet me just say what I need to say\nGot cheese for dates\nSo we can change the channel\nYou need to play\nWe eatin great can travel\nYou need a break\nI\u2019m the escape it\u2019s handled\n\n[Chorus: Carte Blanche]\nCome with the kid\nIf nothing else, have fun with the kid\nCome where I live\nTell no-one when we done what we did\n\n[Verse 2 - Carte Blanche]\nRecline ya seat\nShorty a dime a freak\n& she reminding me\nOf the kind of week\nWe can spend\nSpending time in Greece\nMore than a dime of weed\nMore than a zip of hi grade\nI role up she blowin my gage\nHold up you know this my wave\nWe out Santorini on the west side\nI\u2019m in the V like a test drive\nShe was mine & she read mine\nShe know herself, She the best kind\nWe was ridin round, had the best time\nViewed the volcano, that\u2019s a flex line\nTold her hold back, for the next time\nLet\u2019s go!\n\n[Chorus: Carte Blanche]\nCome with the kid\nIf nothing else, have fun with the kid\nCome where I live\nTell no-one when we done what we did"
+  }
+ ]
+}

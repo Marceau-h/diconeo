@@ -1,0 +1,1961 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/457335",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 457335,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Adam Kesher",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Adam-kesher",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7124533",
+  "classification": "needs_exegesis",
+  "fragment": "Adam Kesher",
+  "id": 7124533,
+  "is_description": true,
+  "path": "/7124533/Adam-kesher/Adam-kesher",
+  "range": {
+   "content": "Adam Kesher"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7124533/Adam-kesher/Adam-kesher",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/457335",
+   "context": null,
+   "id": 457335,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Adam Kesher",
+   "title": "Adam Kesher",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Adam-kesher"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7124533",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7124533,
+    "pinned": false,
+    "share_url": "https://genius.com/7124533",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7124533/Adam-kesher/Adam-kesher",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2233025",
+   "apple_music_id": "430344453",
+   "apple_music_player_url": "https://genius.com/songs/2233025/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2233025' class='rg_embed_link' data-song-id='2233025'>Read <a href='https://genius.com/Adam-kesher-hundred-years-later-lyrics'>\u201cHundred Years Later\u201d by Adam\u00a0Kesher</a> on Genius</div> <script crossorigin src='//genius.com/songs/2233025/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Hundred Years Later by\u00a0Adam\u00a0Kesher",
+   "header_image_thumbnail_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+   "id": 2233025,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Adam-kesher-hundred-years-later-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Hundred Years Later",
+   "title_with_featured": "Hundred Years Later",
+   "url": "https://genius.com/Adam-kesher-hundred-years-later-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/301871",
+    "cover_art_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+    "full_title": "Challenging Nature by Adam Kesher",
+    "id": 301871,
+    "name": "Challenging Nature",
+    "url": "https://genius.com/albums/Adam-kesher/Challenging-nature",
+    "artist": {
+     "api_path": "/artists/457335",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 457335,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adam Kesher",
+     "url": "https://genius.com/artists/Adam-kesher"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7366972",
+    "classification": "needs_exegesis",
+    "fragment": "Hundred Years Later",
+    "id": 7366972,
+    "is_description": true,
+    "path": "/7366972/Adam-kesher-hundred-years-later/Hundred-years-later",
+    "range": {
+     "content": "Hundred Years Later"
+    },
+    "song_id": 2233025,
+    "url": "https://genius.com/7366972/Adam-kesher-hundred-years-later/Hundred-years-later",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2233025",
+     "client_timestamps": {
+      "updated_by_human_at": 1479318878,
+      "lyrics_updated_at": 1437084803
+     },
+     "context": "Adam Kesher",
+     "id": 2233025,
+     "image_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+     "link_title": "Hundred Years Later by\u00a0Adam\u00a0Kesher",
+     "title": "Hundred Years Later",
+     "type": "Song",
+     "url": "https://genius.com/Adam-kesher-hundred-years-later-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7366972",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7366972,
+      "pinned": false,
+      "share_url": "https://genius.com/7366972",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7366972/Adam-kesher-hundred-years-later/Hundred-years-later",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/457335",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 457335,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Adam Kesher",
+    "url": "https://genius.com/artists/Adam-kesher"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "You woke up, woke up. You woke up with new teeth. Sharpened and white like porcelain\nThis is a really old song. A really old ogre moan\nYou\u2019re exhausted and replete. You have noticed that your voice had changed\nYou\u2019re an old ogre\n\nOh babe I used to grumble but I was young and I didn\u2019t know (I had seen the end of myself)\nPlease pick me up when I\u2019m down and make me fall when I face up (this is a warning)\nI don\u2019t know how long I\u2019ve been far away but I\u2019m sure I remember everything\nI don\u2019t know when I will be young again (just give me something to dance to)\n\nYou swam into this ocean until the shore faded out of sight, and the water was cold as ice, your arms and legs went numb, a hundred years later you\u2019ll still be so tired"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1975219",
+   "apple_music_id": "275008050",
+   "apple_music_player_url": "https://genius.com/songs/1975219/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1975219' class='rg_embed_link' data-song-id='1975219'>Read <a href='https://genius.com/Adam-kesher-local-girl-lyrics'>\u201cLocal Girl\u201d by Adam\u00a0Kesher</a> on Genius</div> <script crossorigin src='//genius.com/songs/1975219/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Local Girl by\u00a0Adam\u00a0Kesher",
+   "header_image_thumbnail_url": "https://images.genius.com/c713ccf58e10cd75f395d6df0bd0298a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c713ccf58e10cd75f395d6df0bd0298a.1000x1000x1.jpg",
+   "id": 1975219,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Adam-kesher-local-girl-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c713ccf58e10cd75f395d6df0bd0298a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c713ccf58e10cd75f395d6df0bd0298a.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Local Girl",
+   "title_with_featured": "Local Girl",
+   "url": "https://genius.com/Adam-kesher-local-girl-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/319733",
+    "cover_art_url": "https://images.genius.com/c713ccf58e10cd75f395d6df0bd0298a.1000x1000x1.jpg",
+    "full_title": "Heading for the Hills, Feeling Warm Inside by Adam Kesher",
+    "id": 319733,
+    "name": "Heading for the Hills, Feeling Warm Inside",
+    "url": "https://genius.com/albums/Adam-kesher/Heading-for-the-hills-feeling-warm-inside",
+    "artist": {
+     "api_path": "/artists/457335",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 457335,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adam Kesher",
+     "url": "https://genius.com/artists/Adam-kesher"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6661881",
+    "classification": "needs_exegesis",
+    "fragment": "Local Girl",
+    "id": 6661881,
+    "is_description": true,
+    "path": "/6661881/Adam-kesher-local-girl/Local-girl",
+    "range": {
+     "content": "Local Girl"
+    },
+    "song_id": 1975219,
+    "url": "https://genius.com/6661881/Adam-kesher-local-girl/Local-girl",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1975219",
+     "client_timestamps": {
+      "updated_by_human_at": 1481908479,
+      "lyrics_updated_at": 1432931096
+     },
+     "context": "Adam Kesher",
+     "id": 1975219,
+     "image_url": "https://images.genius.com/c713ccf58e10cd75f395d6df0bd0298a.1000x1000x1.jpg",
+     "link_title": "Local Girl by\u00a0Adam\u00a0Kesher",
+     "title": "Local Girl",
+     "type": "Song",
+     "url": "https://genius.com/Adam-kesher-local-girl-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6661881",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6661881,
+      "pinned": false,
+      "share_url": "https://genius.com/6661881",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6661881/Adam-kesher-local-girl/Local-girl",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/457335",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 457335,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Adam Kesher",
+    "url": "https://genius.com/artists/Adam-kesher"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "I wanna meet a Local Girl like you\nTake me to your room and save my life\nI'll go easy on you, if you go easy on me\n\nI forgot my keys on your bed\nBut it's alright i won't go home\nI still got your taste on my lips but it's ok i'm bored with my own\n\nI wanna meet a Local Girl like you\nTake me to your room and save my life\nI'll go easy on you if you go easy on me (X2)\n\nI lost my keys in your sheets but I don't mind I won't go home\nI've got your taste on my lips coz I don't wanna stay alone\n\nI'm gonna meet a Local Girl like you\nTake me to your room and save my life\nI'll go easy on you if you go easy on me (X3)"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3375103",
+   "apple_music_id": "430344458",
+   "apple_music_player_url": "https://genius.com/songs/3375103/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3375103' class='rg_embed_link' data-song-id='3375103'>Read <a href='https://genius.com/Adam-kesher-blue-purple-lyrics'>\u201cBlue Purple\u201d by Adam\u00a0Kesher</a> on Genius</div> <script crossorigin src='//genius.com/songs/3375103/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Blue Purple by\u00a0Adam\u00a0Kesher",
+   "header_image_thumbnail_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+   "id": 3375103,
+   "lyrics_owner_id": 3926755,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Adam-kesher-blue-purple-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Blue Purple",
+   "title_with_featured": "Blue Purple",
+   "url": "https://genius.com/Adam-kesher-blue-purple-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/301871",
+    "cover_art_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+    "full_title": "Challenging Nature by Adam Kesher",
+    "id": 301871,
+    "name": "Challenging Nature",
+    "url": "https://genius.com/albums/Adam-kesher/Challenging-nature",
+    "artist": {
+     "api_path": "/artists/457335",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 457335,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adam Kesher",
+     "url": "https://genius.com/artists/Adam-kesher"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3926755,
+    "annotator_login": "aardvaard",
+    "api_path": "/referents/13286458",
+    "classification": "needs_exegesis",
+    "fragment": "Blue Purple",
+    "id": 13286458,
+    "is_description": true,
+    "path": "/13286458/Adam-kesher-blue-purple/Blue-purple",
+    "range": {
+     "content": "Blue Purple"
+    },
+    "song_id": 3375103,
+    "url": "https://genius.com/13286458/Adam-kesher-blue-purple/Blue-purple",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3375103",
+     "client_timestamps": {
+      "updated_by_human_at": 1513469944,
+      "lyrics_updated_at": 1513469944
+     },
+     "context": "Adam Kesher",
+     "id": 3375103,
+     "image_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+     "link_title": "Blue Purple by\u00a0Adam\u00a0Kesher",
+     "title": "Blue Purple",
+     "type": "Song",
+     "url": "https://genius.com/Adam-kesher-blue-purple-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13286458",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13286458,
+      "pinned": false,
+      "share_url": "https://genius.com/13286458",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13286458/Adam-kesher-blue-purple/Blue-purple",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3926755",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4ecd5f62c9d2820b6e7c8e5dae254307",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4ecd5f62c9d2820b6e7c8e5dae254307",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4ecd5f62c9d2820b6e7c8e5dae254307",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4ecd5f62c9d2820b6e7c8e5dae254307",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4ecd5f62c9d2820b6e7c8e5dae254307",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3926755,
+         "iq": 5392,
+         "login": "aardvaard",
+         "name": "aardvaard",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/aardvaard",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=qIWpbsQd3p4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/457335",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 457335,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Adam Kesher",
+    "url": "https://genius.com/artists/Adam-kesher"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1287431",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1287431,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave One",
+     "url": "https://genius.com/artists/Dave-one"
+    },
+    {
+     "api_path": "/artists/457335",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 457335,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adam Kesher",
+     "url": "https://genius.com/artists/Adam-kesher"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/457335",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 457335,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adam Kesher",
+     "url": "https://genius.com/artists/Adam-kesher"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3375098",
+   "apple_music_id": "430344455",
+   "apple_music_player_url": "https://genius.com/songs/3375098/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3375098' class='rg_embed_link' data-song-id='3375098'>Read <a href='https://genius.com/Adam-kesher-hour-of-the-wolf-lyrics'>\u201cHour of the Wolf\u201d by Adam\u00a0Kesher</a> on Genius</div> <script crossorigin src='//genius.com/songs/3375098/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Hour of the Wolf by\u00a0Adam\u00a0Kesher",
+   "header_image_thumbnail_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+   "id": 3375098,
+   "lyrics_owner_id": 3926755,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Adam-kesher-hour-of-the-wolf-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2010-08-31",
+   "release_date_for_display": "August 31, 2010",
+   "song_art_image_thumbnail_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Hour of the Wolf",
+   "title_with_featured": "Hour of the Wolf",
+   "url": "https://genius.com/Adam-kesher-hour-of-the-wolf-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/301871",
+    "cover_art_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+    "full_title": "Challenging Nature by Adam Kesher",
+    "id": 301871,
+    "name": "Challenging Nature",
+    "url": "https://genius.com/albums/Adam-kesher/Challenging-nature",
+    "artist": {
+     "api_path": "/artists/457335",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 457335,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adam Kesher",
+     "url": "https://genius.com/artists/Adam-kesher"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3926755,
+    "annotator_login": "aardvaard",
+    "api_path": "/referents/13286417",
+    "classification": "needs_exegesis",
+    "fragment": "Hour of the Wolf",
+    "id": 13286417,
+    "is_description": true,
+    "path": "/13286417/Adam-kesher-hour-of-the-wolf/Hour-of-the-wolf",
+    "range": {
+     "content": "Hour of the Wolf"
+    },
+    "song_id": 3375098,
+    "url": "https://genius.com/13286417/Adam-kesher-hour-of-the-wolf/Hour-of-the-wolf",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3375098",
+     "client_timestamps": {
+      "updated_by_human_at": 1513469408,
+      "lyrics_updated_at": 1513469390
+     },
+     "context": "Adam Kesher",
+     "id": 3375098,
+     "image_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+     "link_title": "Hour of the Wolf by\u00a0Adam\u00a0Kesher",
+     "title": "Hour of the Wolf",
+     "type": "Song",
+     "url": "https://genius.com/Adam-kesher-hour-of-the-wolf-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13286417",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13286417,
+      "pinned": false,
+      "share_url": "https://genius.com/13286417",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13286417/Adam-kesher-hour-of-the-wolf/Hour-of-the-wolf",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3926755",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4ecd5f62c9d2820b6e7c8e5dae254307",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4ecd5f62c9d2820b6e7c8e5dae254307",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4ecd5f62c9d2820b6e7c8e5dae254307",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4ecd5f62c9d2820b6e7c8e5dae254307",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4ecd5f62c9d2820b6e7c8e5dae254307",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3926755,
+         "iq": 5392,
+         "login": "aardvaard",
+         "name": "aardvaard",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/aardvaard",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=mlK-RlIXXqA"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/457335",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 457335,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Adam Kesher",
+    "url": "https://genius.com/artists/Adam-kesher"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1287431",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1287431,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave One",
+     "url": "https://genius.com/artists/Dave-one"
+    },
+    {
+     "api_path": "/artists/457335",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 457335,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adam Kesher",
+     "url": "https://genius.com/artists/Adam-kesher"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/457335",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 457335,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adam Kesher",
+     "url": "https://genius.com/artists/Adam-kesher"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3375100",
+   "apple_music_id": "430344457",
+   "apple_music_player_url": "https://genius.com/songs/3375100/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3375100' class='rg_embed_link' data-song-id='3375100'>Read <a href='https://genius.com/Adam-kesher-attraction-lyrics'>\u201cAttraction\u201d by Adam\u00a0Kesher</a> on Genius</div> <script crossorigin src='//genius.com/songs/3375100/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Attraction by\u00a0Adam\u00a0Kesher",
+   "header_image_thumbnail_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+   "id": 3375100,
+   "lyrics_owner_id": 3926755,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Adam-kesher-attraction-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Attraction",
+   "title_with_featured": "Attraction",
+   "url": "https://genius.com/Adam-kesher-attraction-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/301871",
+    "cover_art_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+    "full_title": "Challenging Nature by Adam Kesher",
+    "id": 301871,
+    "name": "Challenging Nature",
+    "url": "https://genius.com/albums/Adam-kesher/Challenging-nature",
+    "artist": {
+     "api_path": "/artists/457335",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 457335,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adam Kesher",
+     "url": "https://genius.com/artists/Adam-kesher"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3926755,
+    "annotator_login": "aardvaard",
+    "api_path": "/referents/13286441",
+    "classification": "needs_exegesis",
+    "fragment": "Attraction",
+    "id": 13286441,
+    "is_description": true,
+    "path": "/13286441/Adam-kesher-attraction/Attraction",
+    "range": {
+     "content": "Attraction"
+    },
+    "song_id": 3375100,
+    "url": "https://genius.com/13286441/Adam-kesher-attraction/Attraction",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3375100",
+     "client_timestamps": {
+      "updated_by_human_at": 1513469706,
+      "lyrics_updated_at": 1513469706
+     },
+     "context": "Adam Kesher",
+     "id": 3375100,
+     "image_url": "https://images.genius.com/5ccd468f78070b5d0885f299aea5bcaa.500x500x1.jpg",
+     "link_title": "Attraction by\u00a0Adam\u00a0Kesher",
+     "title": "Attraction",
+     "type": "Song",
+     "url": "https://genius.com/Adam-kesher-attraction-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13286441",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13286441,
+      "pinned": false,
+      "share_url": "https://genius.com/13286441",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13286441/Adam-kesher-attraction/Attraction",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3926755",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4ecd5f62c9d2820b6e7c8e5dae254307",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4ecd5f62c9d2820b6e7c8e5dae254307",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4ecd5f62c9d2820b6e7c8e5dae254307",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4ecd5f62c9d2820b6e7c8e5dae254307",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4ecd5f62c9d2820b6e7c8e5dae254307",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3926755,
+         "iq": 5392,
+         "login": "aardvaard",
+         "name": "aardvaard",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/aardvaard",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=boyOdL2DS04"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/457335",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 457335,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Adam Kesher",
+    "url": "https://genius.com/artists/Adam-kesher"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1287431",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1287431,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave One",
+     "url": "https://genius.com/artists/Dave-one"
+    },
+    {
+     "api_path": "/artists/457335",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 457335,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adam Kesher",
+     "url": "https://genius.com/artists/Adam-kesher"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/457335",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 457335,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adam Kesher",
+     "url": "https://genius.com/artists/Adam-kesher"
+    }
+   ],
+   "lyrics": "[Verse]\nAttraction\nYou beat me to the ground\nYou're the great destroyer that pulls me down\n\nAttraction\nYou're spinning me around\nYou change my thoughts into wounds\n\n[Chorus]\nYou throw me in the air\nHigher and higher\nWhen I first met you\nYou were just looking for fun\nYou throw me in the air\nFaster and faster\nYou weaken me\nBut you don\u2019t care\n\n[Verse]\nAttraction\nI'm clinging to your harness\nThere is no equal to your grace\n\nAttraction\nHow could you be so heartless\nYou inscribe pain on my face\n\n[Chorus]\nYou throw me in the air\nHigher and higher\nWhen I first met you\nYou were just looking for fun\nYou throw me in the air\nFaster and faster\nYou weaken me\nBut you don\u2019t care\n\n[Bridge]\nYou're the great destroyer that pulls me down\nYou're the great destroyer that pulls me down\nYou're the great destroyer that pulls me down\nYou're the great destroyer that pulls me down\nYou're the great destroyer that pulls me down\nYou're the great destroyer that pulls me down\nYou're the great destroyer that pulls me down\nYou're the great destroyer\n\n[Chorus]\nYou throw me in the air\nHigher and higher\nWhen I first met you\nYou were just looking for fun\nYou throw me in the air\nFaster and faster\nYou weaken me\nBut you don\u2019t care"
+  }
+ ]
+}

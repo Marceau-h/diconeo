@@ -1,0 +1,2495 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/369281",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+ "id": 369281,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "William Bald\u00e9",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/William-balde",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7086506",
+  "classification": "needs_exegesis",
+  "fragment": "William Bald\u00e9",
+  "id": 7086506,
+  "is_description": true,
+  "path": "/7086506/William-balde/William-balde",
+  "range": {
+   "content": "William Bald\u00e9"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7086506/William-balde/William-balde",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/369281",
+   "context": null,
+   "id": 369281,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1611332193",
+   "link_title": "William Bald\u00e9",
+   "title": "William Bald\u00e9",
+   "type": "Artist",
+   "url": "https://genius.com/artists/William-balde"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7086506",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7086506,
+    "pinned": false,
+    "share_url": "https://genius.com/7086506",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7086506/William-balde/William-balde",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/929781",
+   "apple_music_id": "1232708750",
+   "apple_music_player_url": "https://genius.com/songs/929781/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_929781' class='rg_embed_link' data-song-id='929781'>Read <a href='https://genius.com/William-balde-rayon-de-soleil-lyrics'>\u201cRayon De Soleil\u201d by William\u00a0Bald\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/929781/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Rayon De Soleil by\u00a0William\u00a0Bald\u00e9",
+   "header_image_thumbnail_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.360x360x1.jpg",
+   "id": 929781,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/William-balde-rayon-de-soleil-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.360x360x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Rayon De Soleil",
+   "title_with_featured": "Rayon De Soleil",
+   "url": "https://genius.com/William-balde-rayon-de-soleil-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/261820",
+    "cover_art_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.360x360x1.jpg",
+    "full_title": "En corps \u00e9tranger by William Bald\u00e9",
+    "id": 261820,
+    "name": "En corps \u00e9tranger",
+    "url": "https://genius.com/albums/William-balde/En-corps-etranger",
+    "artist": {
+     "api_path": "/artists/369281",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "id": 369281,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "William Bald\u00e9",
+     "url": "https://genius.com/artists/William-balde"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5423043",
+    "classification": "needs_exegesis",
+    "fragment": "Rayon De Soleil",
+    "id": 5423043,
+    "is_description": true,
+    "path": "/5423043/William-balde-rayon-de-soleil/Rayon-de-soleil",
+    "range": {
+     "content": "Rayon De Soleil"
+    },
+    "song_id": 929781,
+    "url": "https://genius.com/5423043/William-balde-rayon-de-soleil/Rayon-de-soleil",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/929781",
+     "client_timestamps": {
+      "updated_by_human_at": 1531236248,
+      "lyrics_updated_at": 1429539662
+     },
+     "context": "William Bald\u00e9",
+     "id": 929781,
+     "image_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.360x360x1.jpg",
+     "link_title": "Rayon De Soleil by\u00a0William\u00a0Bald\u00e9",
+     "title": "Rayon De Soleil",
+     "type": "Song",
+     "url": "https://genius.com/William-balde-rayon-de-soleil-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5423043",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5423043,
+      "pinned": false,
+      "share_url": "https://genius.com/5423043",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5423043/William-balde-rayon-de-soleil/Rayon-de-soleil",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/369281",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "id": 369281,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "William Bald\u00e9",
+    "url": "https://genius.com/artists/William-balde"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "(William Bald\u00e9/Catherine Duval/Gil Gimenez)\nUm ba um ba um ba ba um ba, um ba um ba um ba ba um ba\nUm ba um ba um ba ba um ba, um ba um ba um ba ba um ba\nUn rayon de soleil dort sur tes cheveux longs\nSur nos corps de seigle et nous joue du violon, hou hou hou\nUn rayon de soleil sur le sommeil de plomb\nUne guitare s\u00e8che, Lou Reed \u00e0 la maison\nHey baby, take a walk on the wild side\nUn matin suspendu aux fleurs de ton jardin\nMa main sur ton p'tit cul cherche le chemin\nUn matin suspendu aux fleurs de ton jardin\nMa main sur ton p'tit cul cherche le chemin\nUn rayon de soleil, j'embrasse tes pieds sales\nUn disque de Marley, joue \"No woman, no cry\"\nNo woman, no woman, no woman, no cry\nUn matin suspendu aux fleurs de ton jardin\nMa main sur ton p'tit cul cherche le chemin\nUn matin suspendu aux fleurs de ton jardin\nMa main sur ton p'tit cul qui cherche le chemin\nPar la fen\u00eatre ouverte, l'air que nous respirons\nSes petites poussi\u00e8res si p\u00e2les d'\u00e9motion\nUn rayon de soleil, sur ton si beau visage\nAux abeilles se m\u00eale la voix de Bob Dylan\nKnock knock knockin' on Heaven's door\nUn matin suspendu aux fleurs de ton jardin\nMa main sur ton p'tit cul cherche le chemin\nUn matin suspendu aux fleurs de ton jardin\nMa main sur ton p'tit cul\nUn rayon de soleil, tu t'rhabilles pour de bon\nJ'te ram\u00e8ne par les fraises \u00e0 mon corps de gar\u00e7on, yeah yeah yeah\nUn matin suspendu aux fleurs de ton jardin\nMa main sur ton p'tit cul cherche le chemin\nUn matin suspendu aux fleurs de ton jardin\nMa main sur ton p'tit cul..."
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1023930",
+   "apple_music_id": "1232708756",
+   "apple_music_player_url": "https://genius.com/songs/1023930/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1023930' class='rg_embed_link' data-song-id='1023930'>Read <a href='https://genius.com/William-balde-sur-la-route-de-dakar-lyrics'>\u201cSur La Route De Dakar\u201d by William\u00a0Bald\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/1023930/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Sur La Route De Dakar by\u00a0William\u00a0Bald\u00e9",
+   "header_image_thumbnail_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.360x360x1.jpg",
+   "id": 1023930,
+   "lyrics_owner_id": 5407742,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/William-balde-sur-la-route-de-dakar-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.360x360x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sur La Route De Dakar",
+   "title_with_featured": "Sur La Route De Dakar",
+   "url": "https://genius.com/William-balde-sur-la-route-de-dakar-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/261820",
+    "cover_art_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.360x360x1.jpg",
+    "full_title": "En corps \u00e9tranger by William Bald\u00e9",
+    "id": 261820,
+    "name": "En corps \u00e9tranger",
+    "url": "https://genius.com/albums/William-balde/En-corps-etranger",
+    "artist": {
+     "api_path": "/artists/369281",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "id": 369281,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "William Bald\u00e9",
+     "url": "https://genius.com/artists/William-balde"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5520836",
+    "classification": "needs_exegesis",
+    "fragment": "Sur La Route De Dakar",
+    "id": 5520836,
+    "is_description": true,
+    "path": "/5520836/William-balde-sur-la-route-de-dakar/Sur-la-route-de-dakar",
+    "range": {
+     "content": "Sur La Route De Dakar"
+    },
+    "song_id": 1023930,
+    "url": "https://genius.com/5520836/William-balde-sur-la-route-de-dakar/Sur-la-route-de-dakar",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1023930",
+     "client_timestamps": {
+      "updated_by_human_at": 1531236832,
+      "lyrics_updated_at": 1531236789
+     },
+     "context": "William Bald\u00e9",
+     "id": 1023930,
+     "image_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.360x360x1.jpg",
+     "link_title": "Sur La Route De Dakar by\u00a0William\u00a0Bald\u00e9",
+     "title": "Sur La Route De Dakar",
+     "type": "Song",
+     "url": "https://genius.com/William-balde-sur-la-route-de-dakar-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5520836",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5520836,
+      "pinned": false,
+      "share_url": "https://genius.com/5520836",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5520836/William-balde-sur-la-route-de-dakar/Sur-la-route-de-dakar",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/369281",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "id": 369281,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "William Bald\u00e9",
+    "url": "https://genius.com/artists/William-balde"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Quarante-cinq degr\u00e9s\nEt pas le moindre buisson\nUn enfant aux yeux sombres\nM'indique la direction\nMa japonaise pr\u00eate au carton\nJe mets les gaz pour le nord\nJe suis l\u00e0 pour l'action\nEt l'abandonne \u00e0 son sort...\n\nSur la route de Dakar\nDes souvenirs \u00e0 la pelle\nHantent les semelles\nDes coureurs, dans le brouillard...\nSur la route de Dakar\nOn croise la nature humaine\nQu'est-ce que la vie d'un p'tit Noir\nQue le monde voyait \u00e0 peine ?!..\n\nChaque jour je manque\nDe justesse un gamin\nQuand le convoi s'\u00e9branle\nAu son des tam-tams africains !\nDans le bruit et la poussi\u00e8re\nTant pis les accidents\nLes femmes tr\u00e9moussent leur derri\u00e8re\nEn roulant des yeux blancs...\n\nApr\u00e8s plusieurs semaines\nSur cette terre de palu\nAux chefs \u00e0 grosses bedaines\nAux gosses aux pieds nus\nJe maudis la lat\u00e9rite\nDe mes nombreuses embard\u00e9es\nLe moral en faillite\nJe regrette la terre des nuits \u00e9toil\u00e9es"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1615695",
+   "apple_music_id": "1232708749",
+   "apple_music_player_url": "https://genius.com/songs/1615695/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1615695' class='rg_embed_link' data-song-id='1615695'>Read <a href='https://genius.com/William-balde-en-corps-etranger-lyrics'>\u201cEn Corps \u00c9tranger\u201d by William\u00a0Bald\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/1615695/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "En Corps \u00c9tranger by\u00a0William\u00a0Bald\u00e9",
+   "header_image_thumbnail_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.360x360x1.jpg",
+   "id": 1615695,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/William-balde-en-corps-etranger-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.360x360x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "En Corps \u00c9tranger",
+   "title_with_featured": "En Corps \u00c9tranger",
+   "url": "https://genius.com/William-balde-en-corps-etranger-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/261820",
+    "cover_art_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.360x360x1.jpg",
+    "full_title": "En corps \u00e9tranger by William Bald\u00e9",
+    "id": 261820,
+    "name": "En corps \u00e9tranger",
+    "url": "https://genius.com/albums/William-balde/En-corps-etranger",
+    "artist": {
+     "api_path": "/artists/369281",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "id": 369281,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "William Bald\u00e9",
+     "url": "https://genius.com/artists/William-balde"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6130497",
+    "classification": "needs_exegesis",
+    "fragment": "En Corps \u00c9tranger",
+    "id": 6130497,
+    "is_description": true,
+    "path": "/6130497/William-balde-en-corps-etranger/En-corps-etranger",
+    "range": {
+     "content": "En Corps \u00c9tranger"
+    },
+    "song_id": 1615695,
+    "url": "https://genius.com/6130497/William-balde-en-corps-etranger/En-corps-etranger",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1615695",
+     "client_timestamps": {
+      "updated_by_human_at": 1531236363,
+      "lyrics_updated_at": 1429900095
+     },
+     "context": "William Bald\u00e9",
+     "id": 1615695,
+     "image_url": "https://images.genius.com/2f5652513c3bde2d79ab4a737499440a.360x360x1.jpg",
+     "link_title": "En Corps \u00c9tranger by\u00a0William\u00a0Bald\u00e9",
+     "title": "En Corps \u00c9tranger",
+     "type": "Song",
+     "url": "https://genius.com/William-balde-en-corps-etranger-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6130497",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6130497,
+      "pinned": false,
+      "share_url": "https://genius.com/6130497",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6130497/William-balde-en-corps-etranger/En-corps-etranger",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/369281",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "id": 369281,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "William Bald\u00e9",
+    "url": "https://genius.com/artists/William-balde"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "(Philippe Desbois/Anne-Ga\u00eblle Huot)\nJe m'\u00e9loigne, j'ai la peau tatou\u00e9e\nJ'emm\u00e8ne mon \u00e2me, j'y laisse mes pieds\nTout me nargue ici-bas, j'ai le corps \u00e9tranger\nTout au fond de moi, qu'est-ce qui va rester ?\nC'est comme un jeu, une partie se joue\nLe froid griffe mes yeux, l'air caresse ma joue\nMon c\u0153ur se peint en bleu, des liens qui se d\u00e9nouent\nJ'oublie juste un peu, je suis loin de tout\nOn a beau faire des d\u00e9tours, on y revient, on y revient toujours\nOn a beau faire des d\u00e9tours, on y reviendra un jour\nL'avion se pose, autour, on m'envie, on me respecte et on se m\u00e9fie\nJe n'ai plus la t\u00eate d'un enfant du pays\nPersonne me rejette, d\u00e9j\u00e0, je m'enfuis\nJe perds le go\u00fbt de ces choses d'avant\nJe ne sais plus du tout, sans personne devant\nJ'ai les genoux qui tremblent, je sens de temps en temps\nLes fronti\u00e8res un peu floues qui perturbent mes enfants\nOn a beau faire des d\u00e9tours, on y revient, on y revient toujours\nOn a beau faire des d\u00e9tours, on y reviendra un jour\nOn a beau faire des d\u00e9tours, on y revient, on y revient toujours\nOn a beau faire des d\u00e9tours, on y reviendra un jour\nTout au creux de ma main, cette \u00e9pine plant\u00e9e\nC'est le m\u00eame refrain qui ne fait que tourner\nOu je suis trop loin, ou je suis trop pr\u00e8s\nOn a beau faire des d\u00e9tours, on y revient, on y revient toujours\nOn a beau faire des d\u00e9tours, on y reviendra un jour\nOn a beau faire des d\u00e9tours, on y revient, on y revient toujours\nOn a beau faire des d\u00e9tours, on y reviendra un jour"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3830293",
+   "apple_music_id": "1232356260",
+   "apple_music_player_url": "https://genius.com/songs/3830293/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3830293' class='rg_embed_link' data-song-id='3830293'>Read <a href='https://genius.com/William-balde-elle-reve-lyrics'>\u201cElle r\u00eave\u201d by William\u00a0Bald\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/3830293/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Elle r\u00eave by\u00a0William\u00a0Bald\u00e9",
+   "header_image_thumbnail_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.460x460x1.jpg",
+   "id": 3830293,
+   "lyrics_owner_id": 5407742,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/William-balde-elle-reve-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.460x460x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Elle r\u00eave",
+   "title_with_featured": "Elle r\u00eave",
+   "url": "https://genius.com/William-balde-elle-reve-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/444374",
+    "cover_art_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.460x460x1.jpg",
+    "full_title": "Singles Collection - EP by William Bald\u00e9",
+    "id": 444374,
+    "name": "Singles Collection - EP",
+    "url": "https://genius.com/albums/William-balde/Singles-collection-ep",
+    "artist": {
+     "api_path": "/artists/369281",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "id": 369281,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "William Bald\u00e9",
+     "url": "https://genius.com/artists/William-balde"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5407742,
+    "annotator_login": "le_chalala",
+    "api_path": "/referents/14948379",
+    "classification": "needs_exegesis",
+    "fragment": "Elle r\u00eave",
+    "id": 14948379,
+    "is_description": true,
+    "path": "/14948379/William-balde-elle-reve/Elle-reve",
+    "range": {
+     "content": "Elle r\u00eave"
+    },
+    "song_id": 3830293,
+    "url": "https://genius.com/14948379/William-balde-elle-reve/Elle-reve",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3830293",
+     "client_timestamps": {
+      "updated_by_human_at": 1531237729,
+      "lyrics_updated_at": 1531237729
+     },
+     "context": "William Bald\u00e9",
+     "id": 3830293,
+     "image_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.460x460x1.jpg",
+     "link_title": "Elle r\u00eave by\u00a0William\u00a0Bald\u00e9",
+     "title": "Elle r\u00eave",
+     "type": "Song",
+     "url": "https://genius.com/William-balde-elle-reve-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14948379",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14948379,
+      "pinned": false,
+      "share_url": "https://genius.com/14948379",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14948379/William-balde-elle-reve/Elle-reve",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5407742",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/2bfe45c562edef24cefb65d4d3cec209.640x334x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5407742,
+         "iq": 50915,
+         "login": "le_chalala",
+         "name": "\u200ble_chalala",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/le_chalala",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/369281",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "id": 369281,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "William Bald\u00e9",
+    "url": "https://genius.com/artists/William-balde"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Elle r\u00eave d'\u00e9crire une chanson\nPour lui dire le bonheur dans son c\u0153ur\nLe crayon guide sa main\nPour tracer le meilleur des chemins\nTout d'un coup les mots sonnent, sa voix qui r\u00e9sonne\nElle se sent bien plus forte, la musique la transporte\n\nElle r\u00eave, elle se fait belle\nQu'il l'emm\u00e8ne en week-end\nEt l'amour n'est plus interdit\nElle esp\u00e8re elle se dit que viendra son tour\nElle r\u00eave qu'elle sera un jour la femme de sa vie\nElle r\u00eave, elle se fait belle\nQu'il l'emm\u00e8ne en week-end\nEt l'amour n'est plus interdit\nElle esp\u00e8re elle se dit que viendra son tour\nElle r\u00eave qu'elle sera un jour la femme de sa vie\n\nElle sort enfin de son lit\nSans avoir vraiment envie\nDemain c'est promis jur\u00e9\nL'homme de retour sera f\u00eat\u00e9\nIls pourront s'accorder\nTous les printemps manqu\u00e9s\n\u00c7a fait bient\u00f4t un bail\nQu'il n'est pas rentr\u00e9 au bercail\n\nElle r\u00eave, elle se fait belle\nQu'il l'emm\u00e8ne en week-end\nEt l'amour n'est plus interdit\nElle esp\u00e8re elle se dit que viendra son tour\nElle r\u00eave qu'elle sera un jour la femme de sa vie\n\nR\u00eave ou r\u00e9alit\u00e9\nR\u00eave ou r\u00e9alit\u00e9\n\nElle r\u00eave, elle se fait belle\nQu'il l'emm\u00e8ne en week-end\nEt l'amour n'est plus interdit\nElle esp\u00e8re elle se dit que viendra son tour\nElle r\u00eave qu'elle sera un jour la femme de sa vie\nElle r\u00eave, elle se fait belle\nQu'il l'emm\u00e8ne en week-end\nEt l'amour n'est plus interdit\nElle esp\u00e8re elle se dit que viendra son tour\nElle r\u00eave qu'elle sera un jour la femme de sa vie\nElle r\u00eave\nElle r\u00eave\nElle r\u00eave"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3830304",
+   "apple_music_id": "374404453",
+   "apple_music_player_url": "https://genius.com/songs/3830304/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3830304' class='rg_embed_link' data-song-id='3830304'>Read <a href='https://genius.com/William-balde-on-setait-dit-lyrics'>\u201cOn s'\u00e9tait dit\u201d by William\u00a0Bald\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/3830304/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "On s'\u00e9tait dit by\u00a0William\u00a0Bald\u00e9",
+   "header_image_thumbnail_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.460x460x1.jpg",
+   "id": 3830304,
+   "lyrics_owner_id": 5407742,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/William-balde-on-setait-dit-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.460x460x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "On s\u2019\u00e9tait dit",
+   "title_with_featured": "On s'\u00e9tait dit",
+   "url": "https://genius.com/William-balde-on-setait-dit-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/444374",
+    "cover_art_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.460x460x1.jpg",
+    "full_title": "Singles Collection - EP by William Bald\u00e9",
+    "id": 444374,
+    "name": "Singles Collection - EP",
+    "url": "https://genius.com/albums/William-balde/Singles-collection-ep",
+    "artist": {
+     "api_path": "/artists/369281",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "id": 369281,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "William Bald\u00e9",
+     "url": "https://genius.com/artists/William-balde"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5407742,
+    "annotator_login": "le_chalala",
+    "api_path": "/referents/14948415",
+    "classification": "needs_exegesis",
+    "fragment": "On s\u2019\u00e9tait dit",
+    "id": 14948415,
+    "is_description": true,
+    "path": "/14948415/William-balde-on-setait-dit/On-setait-dit",
+    "range": {
+     "content": "On s'\u00e9tait dit"
+    },
+    "song_id": 3830304,
+    "url": "https://genius.com/14948415/William-balde-on-setait-dit/On-setait-dit",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3830304",
+     "client_timestamps": {
+      "updated_by_human_at": 1531238186,
+      "lyrics_updated_at": 1531238186
+     },
+     "context": "William Bald\u00e9",
+     "id": 3830304,
+     "image_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.460x460x1.jpg",
+     "link_title": "On s\u2019\u00e9tait dit by\u00a0William\u00a0Bald\u00e9",
+     "title": "On s'\u00e9tait dit",
+     "type": "Song",
+     "url": "https://genius.com/William-balde-on-setait-dit-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14948415",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14948415,
+      "pinned": false,
+      "share_url": "https://genius.com/14948415",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14948415/William-balde-on-setait-dit/On-setait-dit",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5407742",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/2bfe45c562edef24cefb65d4d3cec209.640x334x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5407742,
+         "iq": 50915,
+         "login": "le_chalala",
+         "name": "\u200ble_chalala",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/le_chalala",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/369281",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "id": 369281,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "William Bald\u00e9",
+    "url": "https://genius.com/artists/William-balde"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1067165",
+   "apple_music_id": "1232708755",
+   "apple_music_player_url": "https://genius.com/songs/1067165/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1067165' class='rg_embed_link' data-song-id='1067165'>Read <a href='https://genius.com/William-balde-exil-lyrics'>\u201cExil\u201d by William\u00a0Bald\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/1067165/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Exil by\u00a0William\u00a0Bald\u00e9",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "id": 1067165,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/William-balde-exil-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Exil",
+   "title_with_featured": "Exil",
+   "url": "https://genius.com/William-balde-exil-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5564869",
+    "classification": "needs_exegesis",
+    "fragment": "Exil",
+    "id": 5564869,
+    "is_description": true,
+    "path": "/5564869/William-balde-exil/Exil",
+    "range": {
+     "content": "Exil"
+    },
+    "song_id": 1067165,
+    "url": "https://genius.com/5564869/William-balde-exil/Exil",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1067165",
+     "client_timestamps": {
+      "updated_by_human_at": 1436288588,
+      "lyrics_updated_at": 1429618940
+     },
+     "context": "William Bald\u00e9",
+     "id": 1067165,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+     "link_title": "Exil by\u00a0William\u00a0Bald\u00e9",
+     "title": "Exil",
+     "type": "Song",
+     "url": "https://genius.com/William-balde-exil-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5564869",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5564869,
+      "pinned": false,
+      "share_url": "https://genius.com/5564869",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5564869/William-balde-exil/Exil",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/369281",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "id": 369281,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "William Bald\u00e9",
+    "url": "https://genius.com/artists/William-balde"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3830350",
+   "apple_music_id": "374404474",
+   "apple_music_player_url": "https://genius.com/songs/3830350/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3830350' class='rg_embed_link' data-song-id='3830350'>Read <a href='https://genius.com/William-balde-le-quartier-lyrics'>\u201cLe quartier\u201d by William\u00a0Bald\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/3830350/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le quartier by\u00a0William\u00a0Bald\u00e9",
+   "header_image_thumbnail_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.460x460x1.jpg",
+   "id": 3830350,
+   "lyrics_owner_id": 5407742,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/William-balde-le-quartier-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.460x460x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le quartier",
+   "title_with_featured": "Le quartier",
+   "url": "https://genius.com/William-balde-le-quartier-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/444374",
+    "cover_art_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.460x460x1.jpg",
+    "full_title": "Singles Collection - EP by William Bald\u00e9",
+    "id": 444374,
+    "name": "Singles Collection - EP",
+    "url": "https://genius.com/albums/William-balde/Singles-collection-ep",
+    "artist": {
+     "api_path": "/artists/369281",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "id": 369281,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "William Bald\u00e9",
+     "url": "https://genius.com/artists/William-balde"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5407742,
+    "annotator_login": "le_chalala",
+    "api_path": "/referents/14948559",
+    "classification": "needs_exegesis",
+    "fragment": "Le quartier",
+    "id": 14948559,
+    "is_description": true,
+    "path": "/14948559/William-balde-le-quartier/Le-quartier",
+    "range": {
+     "content": "Le quartier"
+    },
+    "song_id": 3830350,
+    "url": "https://genius.com/14948559/William-balde-le-quartier/Le-quartier",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3830350",
+     "client_timestamps": {
+      "updated_by_human_at": 1531239606,
+      "lyrics_updated_at": 1531239606
+     },
+     "context": "William Bald\u00e9",
+     "id": 3830350,
+     "image_url": "https://images.genius.com/c24bd7b4f8c55886e3d812fdf1979fc3.460x460x1.jpg",
+     "link_title": "Le quartier by\u00a0William\u00a0Bald\u00e9",
+     "title": "Le quartier",
+     "type": "Song",
+     "url": "https://genius.com/William-balde-le-quartier-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14948559",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14948559,
+      "pinned": false,
+      "share_url": "https://genius.com/14948559",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14948559/William-balde-le-quartier/Le-quartier",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5407742",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/2bfe45c562edef24cefb65d4d3cec209.640x334x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5407742,
+         "iq": 50915,
+         "login": "le_chalala",
+         "name": "\u200ble_chalala",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/le_chalala",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/369281",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "id": 369281,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "William Bald\u00e9",
+    "url": "https://genius.com/artists/William-balde"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "J'ai toujours aim\u00e9 fl\u00e2ner dans le quartier\nM\u00e2cher de la noix de cola\nSur le rires des mamas elles chantent sans cesse\nQu'ici la vie est une caresse\nJe sent tous les parfums de mon enfance\nQuand je marche avec nonchalance\nSur le boulevard o\u00f9 tatie\nA vu toutes les gazelles de Paris\n\nDans les rues du voisinage\nMoi je suis emball\u00e9\nLoin du soleil j'ai l'image\nDes danseurs sur les pav\u00e9s\nDans les rues du voisinage\nToutes les \u00e2mes s'enchantent\nPour ton moment de partage\nOn boit du th\u00e9 \u00e0 la menthe\n\nC'est aussi sous les ?\nCe quartier de bobos\nJ'aime sa diversit\u00e9\nTant de millier de solitude glac\u00e9es\nC'est Pigale adoss\u00e9e au linge sale\nTous ces touristes qui viennent \u00e0 Paris\nEn laissant leur c\u0153ur aux orties\nEt tu peux voir briller dans mon regard\nLe bonheur que tu sois la ce soir\n\n\nDans les rues du voisinage\nMoi je suis emball\u00e9\nLoin du soleil j'ai l'image\nDes danseurs sur les pav\u00e9s\nDans les rues du voisinage\nToutes les \u00e2mes s'enchantent\nQuand je t'invite au voyage\nOn boit du th\u00e9 \u00e0 la menthe\n\nDans les rues du voisinage\nMoi je suis emball\u00e9\nLoin du soleil j'ai l'image\nDes danseurs sur les pav\u00e9s\nDans les rues du voisinage\nToutes les \u00e2mes s'enchantent\nQuand je t'invite au voyage\nOn boit du th\u00e9 \u00e0 la menthe\n\n?\n?\n?\n?\n\nDans les rues du voisinage\nToutes les \u00e2mes s'enchantent\nQuand je t'invite au partage\nOn boit du th\u00e9 \u00e0 la menthe\n\nDans les rues du voisinage\nMoi je suis emball\u00e9\nLoin du soleil j'ai l'image\nDes danseurs sur les pav\u00e9s\nDans les rues du voisinage\nToutes les \u00e2mes s'enchantent\nQuand je t'invite au voyage\nOn boit du th\u00e9 \u00e0 la menthe"
+  }
+ ]
+}

@@ -1,0 +1,3027 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/368029",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 368029,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Philippe Clay",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Philippe-clay",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7086234",
+  "classification": "needs_exegesis",
+  "fragment": "Philippe Clay",
+  "id": 7086234,
+  "is_description": true,
+  "path": "/7086234/Philippe-clay/Philippe-clay",
+  "range": {
+   "content": "Philippe Clay"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7086234/Philippe-clay/Philippe-clay",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/368029",
+   "context": null,
+   "id": 368029,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Philippe Clay",
+   "title": "Philippe Clay",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Philippe-clay"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7086234",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7086234,
+    "pinned": false,
+    "share_url": "https://genius.com/7086234",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7086234/Philippe-clay/Philippe-clay",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1366723",
+   "apple_music_id": "370557518",
+   "apple_music_player_url": "https://genius.com/songs/1366723/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1366723' class='rg_embed_link' data-song-id='1366723'>Read <a href='https://genius.com/Philippe-clay-le-noye-assassine-lyrics'>\u201cLe Noy\u00e9 Assassin\u00e9\u201d by Philippe\u00a0Clay</a> on Genius</div> <script crossorigin src='//genius.com/songs/1366723/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le Noy\u00e9 Assassin\u00e9 by\u00a0Philippe\u00a0Clay",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1366723,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Philippe-clay-le-noye-assassine-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Noy\u00e9 Assassin\u00e9",
+   "title_with_featured": "Le Noy\u00e9 Assassin\u00e9",
+   "url": "https://genius.com/Philippe-clay-le-noye-assassine-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5874622",
+    "classification": "needs_exegesis",
+    "fragment": "Le Noy\u00e9 Assassin\u00e9",
+    "id": 5874622,
+    "is_description": true,
+    "path": "/5874622/Philippe-clay-le-noye-assassine/Le-noye-assassine",
+    "range": {
+     "content": "Le Noy\u00e9 Assassin\u00e9"
+    },
+    "song_id": 1366723,
+    "url": "https://genius.com/5874622/Philippe-clay-le-noye-assassine/Le-noye-assassine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1366723",
+     "client_timestamps": {
+      "updated_by_human_at": 1441808247,
+      "lyrics_updated_at": 1429791697
+     },
+     "context": "Philippe Clay",
+     "id": 1366723,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Le Noy\u00e9 Assassin\u00e9 by\u00a0Philippe\u00a0Clay",
+     "title": "Le Noy\u00e9 Assassin\u00e9",
+     "type": "Song",
+     "url": "https://genius.com/Philippe-clay-le-noye-assassine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5874622",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5874622,
+      "pinned": false,
+      "share_url": "https://genius.com/5874622",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5874622/Philippe-clay-le-noye-assassine/Le-noye-assassine",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368029",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 368029,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Philippe Clay",
+    "url": "https://genius.com/artists/Philippe-clay"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1163472",
+   "apple_music_id": "370557911",
+   "apple_music_player_url": "https://genius.com/songs/1163472/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1163472' class='rg_embed_link' data-song-id='1163472'>Read <a href='https://genius.com/Philippe-clay-le-danseur-de-charleston-lyrics'>\u201cLe Danseur De Charleston\u201d by Philippe\u00a0Clay</a> on Genius</div> <script crossorigin src='//genius.com/songs/1163472/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le Danseur De Charleston by\u00a0Philippe\u00a0Clay",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1163472,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Philippe-clay-le-danseur-de-charleston-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Danseur De Charleston",
+   "title_with_featured": "Le Danseur De Charleston",
+   "url": "https://genius.com/Philippe-clay-le-danseur-de-charleston-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5665294",
+    "classification": "needs_exegesis",
+    "fragment": "Le Danseur De Charleston",
+    "id": 5665294,
+    "is_description": true,
+    "path": "/5665294/Philippe-clay-le-danseur-de-charleston/Le-danseur-de-charleston",
+    "range": {
+     "content": "Le Danseur De Charleston"
+    },
+    "song_id": 1163472,
+    "url": "https://genius.com/5665294/Philippe-clay-le-danseur-de-charleston/Le-danseur-de-charleston",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1163472",
+     "client_timestamps": {
+      "updated_by_human_at": 1437428224,
+      "lyrics_updated_at": 1429676304
+     },
+     "context": "Philippe Clay",
+     "id": 1163472,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Le Danseur De Charleston by\u00a0Philippe\u00a0Clay",
+     "title": "Le Danseur De Charleston",
+     "type": "Song",
+     "url": "https://genius.com/Philippe-clay-le-danseur-de-charleston-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5665294",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5665294,
+      "pinned": false,
+      "share_url": "https://genius.com/5665294",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5665294/Philippe-clay-le-danseur-de-charleston/Le-danseur-de-charleston",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368029",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 368029,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Philippe Clay",
+    "url": "https://genius.com/artists/Philippe-clay"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/919431",
+   "apple_music_id": "213473559",
+   "apple_music_player_url": "https://genius.com/songs/919431/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_919431' class='rg_embed_link' data-song-id='919431'>Read <a href='https://genius.com/Philippe-clay-ou-sont-les-pepes-lyrics'>\u201cO\u00f9 Sont Les P\u00e9p\u00e9s\u201d by Philippe\u00a0Clay</a> on Genius</div> <script crossorigin src='//genius.com/songs/919431/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "O\u00f9 Sont Les P\u00e9p\u00e9s by\u00a0Philippe\u00a0Clay",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 919431,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Philippe-clay-ou-sont-les-pepes-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "O\u00f9 Sont Les P\u00e9p\u00e9s",
+   "title_with_featured": "O\u00f9 Sont Les P\u00e9p\u00e9s",
+   "url": "https://genius.com/Philippe-clay-ou-sont-les-pepes-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5412505",
+    "classification": "needs_exegesis",
+    "fragment": "O\u00f9 Sont Les P\u00e9p\u00e9s",
+    "id": 5412505,
+    "is_description": true,
+    "path": "/5412505/Philippe-clay-ou-sont-les-pepes/Ou-sont-les-pepes",
+    "range": {
+     "content": "O\u00f9 Sont Les P\u00e9p\u00e9s"
+    },
+    "song_id": 919431,
+    "url": "https://genius.com/5412505/Philippe-clay-ou-sont-les-pepes/Ou-sont-les-pepes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/919431",
+     "client_timestamps": {
+      "updated_by_human_at": 1434116450,
+      "lyrics_updated_at": 1429536928
+     },
+     "context": "Philippe Clay",
+     "id": 919431,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "O\u00f9 Sont Les P\u00e9p\u00e9s by\u00a0Philippe\u00a0Clay",
+     "title": "O\u00f9 Sont Les P\u00e9p\u00e9s",
+     "type": "Song",
+     "url": "https://genius.com/Philippe-clay-ou-sont-les-pepes-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5412505",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5412505,
+      "pinned": false,
+      "share_url": "https://genius.com/5412505",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5412505/Philippe-clay-ou-sont-les-pepes/Ou-sont-les-pepes",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368029",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 368029,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Philippe Clay",
+    "url": "https://genius.com/artists/Philippe-clay"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1622498",
+   "apple_music_id": "213473567",
+   "apple_music_player_url": "https://genius.com/songs/1622498/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1622498' class='rg_embed_link' data-song-id='1622498'>Read <a href='https://genius.com/Philippe-clay-bleu-blanc-rouge-lyrics'>\u201cBleu Blanc Rouge\u201d by Philippe\u00a0Clay</a> on Genius</div> <script crossorigin src='//genius.com/songs/1622498/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Bleu Blanc Rouge by\u00a0Philippe\u00a0Clay",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1622498,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Philippe-clay-bleu-blanc-rouge-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Bleu Blanc Rouge",
+   "title_with_featured": "Bleu Blanc Rouge",
+   "url": "https://genius.com/Philippe-clay-bleu-blanc-rouge-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6137331",
+    "classification": "needs_exegesis",
+    "fragment": "Bleu Blanc Rouge",
+    "id": 6137331,
+    "is_description": true,
+    "path": "/6137331/Philippe-clay-bleu-blanc-rouge/Bleu-blanc-rouge",
+    "range": {
+     "content": "Bleu Blanc Rouge"
+    },
+    "song_id": 1622498,
+    "url": "https://genius.com/6137331/Philippe-clay-bleu-blanc-rouge/Bleu-blanc-rouge",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1622498",
+     "client_timestamps": {
+      "updated_by_human_at": 1444656809,
+      "lyrics_updated_at": 1429900458
+     },
+     "context": "Philippe Clay",
+     "id": 1622498,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Bleu Blanc Rouge by\u00a0Philippe\u00a0Clay",
+     "title": "Bleu Blanc Rouge",
+     "type": "Song",
+     "url": "https://genius.com/Philippe-clay-bleu-blanc-rouge-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6137331",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6137331,
+      "pinned": false,
+      "share_url": "https://genius.com/6137331",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6137331/Philippe-clay-bleu-blanc-rouge/Bleu-blanc-rouge",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368029",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 368029,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Philippe Clay",
+    "url": "https://genius.com/artists/Philippe-clay"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Un vieil accord\u00e9on\nChante dans la ruelle\nUn vol de go\u00e9lands\nValse dans le ciel bleu\n\nUne fille plus tr\u00e8s jeune\nUne fille pas tr\u00e8s belle\nMais qui l'a peut-\u00eatre \u00e9t\u00e9\nChante au matin d'\u00e9t\u00e9\n\nDe bleu, de blanc, de rouge\nIl est v\u00eatu mon matelot\nIl est mieux foutu\nQue leur drapeau\n\nIl a les dents blanches\nEt les l\u00e8vres rouges\nEt le regard bleu\n\nL'accord\u00e9on s'est tu\nLes oiseaux sont partis\nPeut-\u00eatre pour Honolulu\nOu bien pour Tahiti\n\nTout l'hiver il a plu\nEt le vent a g\u00e9mi\nEt la fille a dit oui\nA tous ceux qui ont voulu\n\nDe bleu, de blanc, de rouge\nIl est v\u00eatu mon matelot\nIl est mieux foutu\nQue leur drapeau\n\nIl a les dents blanches\nEt les l\u00e8vres rouges\nEt le regard bleu\n\nLa fille, tu racontes toujours la m\u00eame histoire\nAlors on la conna\u00eet, alors bois ton verre\nBois ton verre, viens, viens\n\nVoil\u00e0 le printemps qui revient\nEt les oiseaux, pareil\nLes bateaux, les marins\nBrillent dans le soleil\n\nLa fille est au bistrot\nLe patron dans sa caisse\nDit qu'elle s'en va de la caisse\nEt m\u00eame du ciboulot\n\nDe vins blancs, de vins rouges\nElle lui a foutu\nUn beau drapeau\nElle s'est tu\u00e9e\n\nD'un coup de couteau\nUn matin de dimanche\nLe soleil \u00e9tait rouge\nEt le ciel tout bleu\n\nAh, c'\u00e9tait pas beau \u00e0 voir\n\u00c7a a fait une dr\u00f4le d'histoire\nEt puis le temps a pass\u00e9\nPersonne n'y a plus pens\u00e9\n\nAh, si! Un jour, un marin\nSalut patron, ben\nUn petit rouge comme d'habitude\nEh, patron, elle est l\u00e0?\nElle c'est pas vrai"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1590483",
+   "apple_music_id": "1104519572",
+   "apple_music_player_url": "https://genius.com/songs/1590483/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1590483' class='rg_embed_link' data-song-id='1590483'>Read <a href='https://genius.com/Philippe-clay-les-voyous-lyrics'>\u201cLes Voyous\u201d by Philippe\u00a0Clay</a> on Genius</div> <script crossorigin src='//genius.com/songs/1590483/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Les Voyous by\u00a0Philippe\u00a0Clay",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1590483,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Philippe-clay-les-voyous-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Les Voyous",
+   "title_with_featured": "Les Voyous",
+   "url": "https://genius.com/Philippe-clay-les-voyous-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6105241",
+    "classification": "needs_exegesis",
+    "fragment": "Les Voyous",
+    "id": 6105241,
+    "is_description": true,
+    "path": "/6105241/Philippe-clay-les-voyous/Les-voyous",
+    "range": {
+     "content": "Les Voyous"
+    },
+    "song_id": 1590483,
+    "url": "https://genius.com/6105241/Philippe-clay-les-voyous/Les-voyous",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1590483",
+     "client_timestamps": {
+      "updated_by_human_at": 1444314002,
+      "lyrics_updated_at": 1429898796
+     },
+     "context": "Philippe Clay",
+     "id": 1590483,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Les Voyous by\u00a0Philippe\u00a0Clay",
+     "title": "Les Voyous",
+     "type": "Song",
+     "url": "https://genius.com/Philippe-clay-les-voyous-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6105241",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6105241,
+      "pinned": false,
+      "share_url": "https://genius.com/6105241",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6105241/Philippe-clay-les-voyous/Les-voyous",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368029",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 368029,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Philippe Clay",
+    "url": "https://genius.com/artists/Philippe-clay"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1191451",
+   "apple_music_id": "213473552",
+   "apple_music_player_url": "https://genius.com/songs/1191451/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1191451' class='rg_embed_link' data-song-id='1191451'>Read <a href='https://genius.com/Philippe-clay-la-gambille-lyrics'>\u201cLa Gambille\u201d by Philippe\u00a0Clay</a> on Genius</div> <script crossorigin src='//genius.com/songs/1191451/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La Gambille by\u00a0Philippe\u00a0Clay",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1191451,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Philippe-clay-la-gambille-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La Gambille",
+   "title_with_featured": "La Gambille",
+   "url": "https://genius.com/Philippe-clay-la-gambille-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5693700",
+    "classification": "needs_exegesis",
+    "fragment": "La Gambille",
+    "id": 5693700,
+    "is_description": true,
+    "path": "/5693700/Philippe-clay-la-gambille/La-gambille",
+    "range": {
+     "content": "La Gambille"
+    },
+    "song_id": 1191451,
+    "url": "https://genius.com/5693700/Philippe-clay-la-gambille/La-gambille",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1191451",
+     "client_timestamps": {
+      "updated_by_human_at": 1437430878,
+      "lyrics_updated_at": 1429688399
+     },
+     "context": "Philippe Clay",
+     "id": 1191451,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "La Gambille by\u00a0Philippe\u00a0Clay",
+     "title": "La Gambille",
+     "type": "Song",
+     "url": "https://genius.com/Philippe-clay-la-gambille-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5693700",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5693700,
+      "pinned": false,
+      "share_url": "https://genius.com/5693700",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5693700/Philippe-clay-la-gambille/La-gambille",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368029",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 368029,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Philippe Clay",
+    "url": "https://genius.com/artists/Philippe-clay"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Viens \u00e0 la gambille, tu verras des filles\nQui fr\u00e9tillent des gambettes\nViens danser au bal musette\nViens \u00e0 la gambille, \u00e9couter les trilles\n\nDe ma petite java, la java c'est \u00e7a qui m'va\nY a pas, y a pas, y a pas, y a pas!\nY a pas, y a pas, y a pas au-dessus de \u00e7a\n\nIl n'y a plus de frappe au quartier des trois temps\nPourtant on y attrape au c\u0153ur \u00e0 bout pourtant\nLa morsure de ce trille et l'on passe de vie \u00e0 tr\u00e9pas\nSi l'on manque le pas, le plafond part en vrille\nDans le ciel tout l\u00e0-bas, en tournant comme \u00e7a!\n\nViens \u00e0 la gambille, tu verras des filles\nQui fr\u00e9tillent des gambettes\nViens danser au bal musette\nViens \u00e0 la gambille, \u00e9couter les trilles\n\nDe ma petite java, la java c'est \u00e7a qui m'va\nY a pas, y a pas, y a pas, y a pas!\nY a pas, y a pas, y a pas au-dessus de \u00e7a\n\nY a pas beaucoup de place alors on se tient tout pr\u00e8s\nOn se serre on s'embrasse et de la t\u00eate aux pieds\nOn se fait des surprises et l'on chavire, vire, \u00e0 petits pas\nOn s'envole, on s'en va et l'on perd sa chemise\nEt sa t\u00eate et ses bas, en tournant comme \u00e7a!\n\nViens \u00e0 la gambille, tu verras des filles\nQui fr\u00e9tillent des gambettes\nViens danser au bal musette\nViens \u00e0 la gambille, \u00e9couter les trilles\n\nDe ma petite java, la java c'est \u00e7a qui m'va\nY a pas, y a pas, y a pas, y a pas!\nY a pas, y a pas, y a pas au-dessus de \u00e7a"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1804921",
+   "apple_music_id": "213473571",
+   "apple_music_player_url": "https://genius.com/songs/1804921/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1804921' class='rg_embed_link' data-song-id='1804921'>Read <a href='https://genius.com/Philippe-clay-cigarettes-whisky-et-ptites-pepees-lyrics'>\u201cCigarettes Whisky Et P'Tites Pepees\u201d by Philippe\u00a0Clay</a> on Genius</div> <script crossorigin src='//genius.com/songs/1804921/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Cigarettes Whisky Et P'Tites Pepees by\u00a0Philippe\u00a0Clay",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1804921,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Philippe-clay-cigarettes-whisky-et-ptites-pepees-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Cigarettes Whisky Et P\u2019Tites Pepees",
+   "title_with_featured": "Cigarettes Whisky Et P'Tites Pepees",
+   "url": "https://genius.com/Philippe-clay-cigarettes-whisky-et-ptites-pepees-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6417015",
+    "classification": "needs_exegesis",
+    "fragment": "Cigarettes Whisky Et P\u2019Tites Pepees",
+    "id": 6417015,
+    "is_description": true,
+    "path": "/6417015/Philippe-clay-cigarettes-whisky-et-ptites-pepees/Cigarettes-whisky-et-ptites-pepees",
+    "range": {
+     "content": "Cigarettes Whisky Et P'Tites Pepees"
+    },
+    "song_id": 1804921,
+    "url": "https://genius.com/6417015/Philippe-clay-cigarettes-whisky-et-ptites-pepees/Cigarettes-whisky-et-ptites-pepees",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1804921",
+     "client_timestamps": {
+      "updated_by_human_at": 1445442243,
+      "lyrics_updated_at": 1431611460
+     },
+     "context": "Philippe Clay",
+     "id": 1804921,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Cigarettes Whisky Et P\u2019Tites Pepees by\u00a0Philippe\u00a0Clay",
+     "title": "Cigarettes Whisky Et P'Tites Pepees",
+     "type": "Song",
+     "url": "https://genius.com/Philippe-clay-cigarettes-whisky-et-ptites-pepees-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6417015",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6417015,
+      "pinned": false,
+      "share_url": "https://genius.com/6417015",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6417015/Philippe-clay-cigarettes-whisky-et-ptites-pepees/Cigarettes-whisky-et-ptites-pepees",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368029",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 368029,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Philippe Clay",
+    "url": "https://genius.com/artists/Philippe-clay"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Je sais que le mauvais tabac c'est pour la voix\nOn dit que l'alcool c'est pas bon pour le foie\nQuant aux petites p\u00e9p\u00e9es c'est fatal pour le coeur\nLes trois \u00e0 la fois, ya pourtant rien de meilleur!\n\nCigarettes et whisky et p'tites p\u00e9p\u00e9es\nNous laissent groggy et nous rendent tous cingl\u00e9s\nCigarettes et whisky et p'tites p\u00e9p\u00e9es\nC'est \u00e7a la vie mais c'est bon de les aimer\n\nJ'ai fum\u00e9 d'Abord Pour faire Comme les copains\nJ'ai pris Une beaut\u00e9 pour faire mon petit malin\nJ'ai bu Dans Verre fils, elle a bu Dans le mien\nPuis j'ai bu tout seul quand j'ai eu du chagrin\n\nCigarettes et whisky et p'tites p\u00e9p\u00e9es\nNous laissent groggy et nous rendent tous cingl\u00e9s\nCigarettes et whisky et p'tites p\u00e9p\u00e9es\nC'est \u00e7a la vie mais c'est bon de les aimer\n\nLes Femmes et le tabac, je l'ai Constate Souvent\nA peine allum\u00e9s, \u00e7a s'envole en fum\u00e9e\nMais j'y ai pris go\u00fbt, vite un whisky, mon gars\nUne blonde \u00e0 mes l\u00e8vres et l'autre dans mes bras\n\nCigarettes et whisky et p'tites p\u00e9p\u00e9es\nNous laissent groggy et nous rendent tous cingl\u00e9s\nCigarettes et whisky et p'tites p\u00e9p\u00e9es\nC'est \u00e7a la vie mais c'est bon de les aimer\n\nQuand mon ange gardien, en se croisant les ailes\nMe dira, tu viens, l\u00e0-haut y a du soleil\nUn M\u00e9got dernier, Le Verre du Condamn\u00e9\nUn baiser de Margot et vive l'\u00e9ternit\u00e9!\n\nCigarettes et whisky et p'tites p\u00e9p\u00e9es\nNous laissent groggy et nous rendent tous cingl\u00e9s\nCigarettes et whisky et p'tites p\u00e9p\u00e9es\nBye, bye la vie y a plus rien \u00e0 regretter!"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1604952",
+   "apple_music_id": "213473514",
+   "apple_music_player_url": "https://genius.com/songs/1604952/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1604952' class='rg_embed_link' data-song-id='1604952'>Read <a href='https://genius.com/Philippe-clay-la-java-de-la-varenne-lyrics'>\u201cLa Java De La Varenne\u201d by Philippe\u00a0Clay</a> on Genius</div> <script crossorigin src='//genius.com/songs/1604952/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La Java De La Varenne by\u00a0Philippe\u00a0Clay",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1604952,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Philippe-clay-la-java-de-la-varenne-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La Java De La Varenne",
+   "title_with_featured": "La Java De La Varenne",
+   "url": "https://genius.com/Philippe-clay-la-java-de-la-varenne-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6119731",
+    "classification": "needs_exegesis",
+    "fragment": "La Java De La Varenne",
+    "id": 6119731,
+    "is_description": true,
+    "path": "/6119731/Philippe-clay-la-java-de-la-varenne/La-java-de-la-varenne",
+    "range": {
+     "content": "La Java De La Varenne"
+    },
+    "song_id": 1604952,
+    "url": "https://genius.com/6119731/Philippe-clay-la-java-de-la-varenne/La-java-de-la-varenne",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1604952",
+     "client_timestamps": {
+      "updated_by_human_at": 1444314276,
+      "lyrics_updated_at": 1429899538
+     },
+     "context": "Philippe Clay",
+     "id": 1604952,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "La Java De La Varenne by\u00a0Philippe\u00a0Clay",
+     "title": "La Java De La Varenne",
+     "type": "Song",
+     "url": "https://genius.com/Philippe-clay-la-java-de-la-varenne-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6119731",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6119731,
+      "pinned": false,
+      "share_url": "https://genius.com/6119731",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6119731/Philippe-clay-la-java-de-la-varenne/La-java-de-la-varenne",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368029",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 368029,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Philippe Clay",
+    "url": "https://genius.com/artists/Philippe-clay"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "A ceux qui ne savent pas\nCe qu'\u00e9tait autrefois\nMon coin de la Varenne\nJ'crois que j' perdrais mon temps\nSi je prenais la peine\nDe le leur raconter\n\nQuand venait le printemps\nDe beaux lilas violets\nFleurissaient par centaines\nTandis qu' de-ci de-l\u00e0\nVoltigeaient des rengaines\nEn forme de triolets\n\nEt c'est l\u00e0 un sam'di\nA c'que maman m'a dit\nQue j'suis v'nu\nEt qu' douc'ment j'ai grandi\n\nLa java de la Varenne\nDans la vie on n'l'oublie pas\nQuand on a le c\u0153ur en peine\nOn la chante et puis \u00e7a va\n\nEt quand vient la fin d'la s'maine\nOn la danse \u00e0 petits pas\nLa java de la Varenne\nC'est la reine des javas\n\nOn croit qu'\u00e7a s'ra sans fin\nLa java et l'amour\nLes filles et la jeunesse\nMais tout finit le jour\nO\u00f9 la France a besoin\nDe ses gars de vingt ans\n\nOn part le c\u0153ur battant\nEt on s'retrouve au loin\nBaladant sa tristesse\nD\u00e9guis\u00e9 en biffin\nEn artilleur de Metz\nOu marin de Lorient\n\nMon copain mon p'tit gars\nQu'elle est loin la java\nRejoue la sur ton harmonica\n\nLa, la, la, la, la, la, la\n(Oui c'est \u00e7a)\nTa, la, la, la\nDi, la, la, la, la, la l\u00e8re\nDi, la, la, ta, di, la, la\n\nAh viv'ment que l'on revienne\nLa danser \u00e0 petits pas\nLa java de la Varenne\nC'est la reine des javas\n\nJ'suis r'venu Dieu merci\nEt j'vis toujours ici\nComme un vrai p\u00e8re tranquille\nPour nourrir ma famille\nPendant vingt ans j'ai pris\nLe m\u00eame train pour Paris\n\nMaint'nant j'nattends plus rien\nJe voudrais seulement\nLorsque le soleil brille\nQuand j'dors dans mon jardin\nQu'une java bonn' fille\nMe prenne par la main\n\nEn m'disant c'est fini\nLa java de ta vie\nA pr\u00e9sent c'est au revoir et merci\n\nLa java de la Varenne\nDoucement me conduira\nEt si j'ai le c\u0153ur en peine\nJ'la chant'rai et \u00e7a ira\nEt bonne chance \u00e0 ceux qui viennent\n\nLa danser \u00e0 petits pas\nLa java de la Varenne\nC'\u00e9tait la reine des javas\nLa java de la Varenne\nC'\u00e9tait la reine des javas"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1445185",
+   "apple_music_id": "677398311",
+   "apple_music_player_url": "https://genius.com/songs/1445185/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1445185' class='rg_embed_link' data-song-id='1445185'>Read <a href='https://genius.com/Philippe-clay-julie-la-rousse-lyrics'>\u201cJulie La Rousse\u201d by Philippe\u00a0Clay</a> on Genius</div> <script crossorigin src='//genius.com/songs/1445185/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Julie La Rousse by\u00a0Philippe\u00a0Clay",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1445185,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Philippe-clay-julie-la-rousse-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Julie La Rousse",
+   "title_with_featured": "Julie La Rousse",
+   "url": "https://genius.com/Philippe-clay-julie-la-rousse-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5957245",
+    "classification": "needs_exegesis",
+    "fragment": "Julie La Rousse",
+    "id": 5957245,
+    "is_description": true,
+    "path": "/5957245/Philippe-clay-julie-la-rousse/Julie-la-rousse",
+    "range": {
+     "content": "Julie La Rousse"
+    },
+    "song_id": 1445185,
+    "url": "https://genius.com/5957245/Philippe-clay-julie-la-rousse/Julie-la-rousse",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1445185",
+     "client_timestamps": {
+      "updated_by_human_at": 1442866973,
+      "lyrics_updated_at": 1429847797
+     },
+     "context": "Philippe Clay",
+     "id": 1445185,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Julie La Rousse by\u00a0Philippe\u00a0Clay",
+     "title": "Julie La Rousse",
+     "type": "Song",
+     "url": "https://genius.com/Philippe-clay-julie-la-rousse-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5957245",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5957245,
+      "pinned": false,
+      "share_url": "https://genius.com/5957245",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5957245/Philippe-clay-julie-la-rousse/Julie-la-rousse",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/368029",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 368029,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Philippe Clay",
+    "url": "https://genius.com/artists/Philippe-clay"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Fais-nous danser, Julie la Rousse\nToi dont les baisers font oublier\n\nPetit'gueule d'amour t'es \u00e0 croquer\nQuand tu passes en tricotant des hanches\nD'un clin d'\u0153il le quartier est dragu\u00e9\nC'est bien toi la rein' de la place Blanche\n\nFais-nous danser, Julie la Rousse\nToi dont les baisers font oublier\n\nPetit'gueule d'amour t'es \u00e0 croquer\nQuand tu trimballes ton \u00e9ventaire\nTon arsenal sans fair' de chiqu\u00e9\nA vaincu plus d'un grand militaire\n\nFais-nous danser, Julie la Rousse\nToi dont les baisers font oublier\n\nPetit'gueule d'amour t'es \u00e0 croquer\nLes gens disent que t'es d'la mauvaise graine\nPar' qu'\u00e0 chaque homme tu donnes la becqu\u00e9e\nEt qu'l'amour pour toi c'est d'la rengaine\n\nFais-nous danser, Julie la Rousse\nToi dont les baisers font oublier\n\nPetit'gueule d'amour t'es \u00e0 croquer\nChapeau bas, t'es un' vraie citoyenne\nTu soulages sans revendiquer\nLes ardeurs extra-r\u00e9publicaines\n\nFais-nous danser, Julie la Rousse\nToi dont les baisers font oublier\n\nPetit'gueule d'amour t'es \u00e0 croquer\nCar parfois tu travailles en artiste\nTon corps tu l'pr\u00eat's sans rien fair' casquer\nA tous les gars qu'ont le regard triste\n\nDans tes baisers Julie la Rousse\nOn peut embrasser le monde entier"
+  }
+ ]
+}

@@ -1,0 +1,1159 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/382419",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 382419,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Lena Ka",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Lena-ka",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7100079",
+  "classification": "needs_exegesis",
+  "fragment": "Lena Ka",
+  "id": 7100079,
+  "is_description": true,
+  "path": "/7100079/Lena-ka/Lena-ka",
+  "range": {
+   "content": "Lena Ka"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7100079/Lena-ka/Lena-ka",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/382419",
+   "context": null,
+   "id": 382419,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Lena Ka",
+   "title": "Lena Ka",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Lena-ka"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7100079",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7100079,
+    "pinned": false,
+    "share_url": "https://genius.com/7100079",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7100079/Lena-ka/Lena-ka",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1669493",
+   "apple_music_id": "21296496",
+   "apple_music_player_url": "https://genius.com/songs/1669493/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1669493' class='rg_embed_link' data-song-id='1669493'>Read <a href='https://genius.com/Lena-ka-aussi-loin-que-tes-reves-lyrics'>\u201cAussi Loin Que Tes R\u00eaves\u201d by Lena\u00a0Ka</a> on Genius</div> <script crossorigin src='//genius.com/songs/1669493/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Aussi Loin Que Tes R\u00eaves by\u00a0Lena\u00a0Ka",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1669493,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lena-ka-aussi-loin-que-tes-reves-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Aussi Loin Que Tes R\u00eaves",
+   "title_with_featured": "Aussi Loin Que Tes R\u00eaves",
+   "url": "https://genius.com/Lena-ka-aussi-loin-que-tes-reves-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/312950",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Entre les mots by Lena Ka",
+    "id": 312950,
+    "name": "Entre les mots",
+    "url": "https://genius.com/albums/Lena-ka/Entre-les-mots",
+    "artist": {
+     "api_path": "/artists/382419",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 382419,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lena Ka",
+     "url": "https://genius.com/artists/Lena-ka"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6184481",
+    "classification": "needs_exegesis",
+    "fragment": "Aussi Loin Que Tes R\u00eaves",
+    "id": 6184481,
+    "is_description": true,
+    "path": "/6184481/Lena-ka-aussi-loin-que-tes-reves/Aussi-loin-que-tes-reves",
+    "range": {
+     "content": "Aussi Loin Que Tes R\u00eaves"
+    },
+    "song_id": 1669493,
+    "url": "https://genius.com/6184481/Lena-ka-aussi-loin-que-tes-reves/Aussi-loin-que-tes-reves",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1669493",
+     "client_timestamps": {
+      "updated_by_human_at": 1481774214,
+      "lyrics_updated_at": 1429902957
+     },
+     "context": "Lena Ka",
+     "id": 1669493,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Aussi Loin Que Tes R\u00eaves by\u00a0Lena\u00a0Ka",
+     "title": "Aussi Loin Que Tes R\u00eaves",
+     "type": "Song",
+     "url": "https://genius.com/Lena-ka-aussi-loin-que-tes-reves-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6184481",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6184481,
+      "pinned": false,
+      "share_url": "https://genius.com/6184481",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6184481/Lena-ka-aussi-loin-que-tes-reves/Aussi-loin-que-tes-reves",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/382419",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 382419,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lena Ka",
+    "url": "https://genius.com/artists/Lena-ka"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1551260",
+   "apple_music_id": "21296331",
+   "apple_music_player_url": "https://genius.com/songs/1551260/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1551260' class='rg_embed_link' data-song-id='1551260'>Read <a href='https://genius.com/Lena-ka-tous-les-cris-les-sos-lyrics'>\u201cTous Les Cris Les S.O.S.\u201d by Lena\u00a0Ka</a> on Genius</div> <script crossorigin src='//genius.com/songs/1551260/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tous Les Cris Les S.O.S. by\u00a0Lena\u00a0Ka",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1551260,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lena-ka-tous-les-cris-les-sos-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tous Les Cris Les S.O.S.",
+   "title_with_featured": "Tous Les Cris Les S.O.S.",
+   "url": "https://genius.com/Lena-ka-tous-les-cris-les-sos-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6065860",
+    "classification": "needs_exegesis",
+    "fragment": "Tous Les Cris Les S.O.S.",
+    "id": 6065860,
+    "is_description": true,
+    "path": "/6065860/Lena-ka-tous-les-cris-les-sos/Tous-les-cris-les-sos",
+    "range": {
+     "content": "Tous Les Cris Les S.O.S."
+    },
+    "song_id": 1551260,
+    "url": "https://genius.com/6065860/Lena-ka-tous-les-cris-les-sos/Tous-les-cris-les-sos",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1551260",
+     "client_timestamps": {
+      "updated_by_human_at": 1444057738,
+      "lyrics_updated_at": 1429896406
+     },
+     "context": "Lena Ka",
+     "id": 1551260,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Tous Les Cris Les S.O.S. by\u00a0Lena\u00a0Ka",
+     "title": "Tous Les Cris Les S.O.S.",
+     "type": "Song",
+     "url": "https://genius.com/Lena-ka-tous-les-cris-les-sos-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6065860",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6065860,
+      "pinned": false,
+      "share_url": "https://genius.com/6065860",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6065860/Lena-ka-tous-les-cris-les-sos/Tous-les-cris-les-sos",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/382419",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 382419,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lena Ka",
+    "url": "https://genius.com/artists/Lena-ka"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Comme un fou va jeter \u00e0 la mer\nDes bouteiiles vides et puis esp\u00e8re\nQu'on pourra lire \u00e0 travers\nS.O.S \u00e9crit avec de l'air\nPour te dire que je me sens seul\nJe dessine \u00e0 l'encre vide un d\u00e9sert\n\nEt je cours\nJe me raccroche \u00e0 la vie\nJe me saoule avec le bruit\nDes corps qui m'entourent\nComme des lianes nou\u00e9es de tresses\nSans comprendre la d\u00e9tresse\nDes mots que j'envois\n\nDifficile d'appeller au secour\nQuand tant de drames nous oppressent\nEt les larmes nou\u00e9es de stress\nEtouffent un peu plus les cris d'amour\nDe ceux qui sont dans la faiblesse\nEt dans un dernier espoir disparaissent\n\nEt je cours\nJe me raccroche \u00e0 la vie\nJe me saoule avec le bruit\nDes corps qui m'entourent\nComme des lianes nou\u00e9es de tresses\nSans comprendre la d\u00e9tresse\nDes mots que j'envois\n\nTous les cris les S.O.S\nPartent dans les airs\nDans l'eau laissent une trace\nDont les \u00e9cumes font la beaut\u00e9\nPris dans leur vaisseau de verre\nLes messages luttent\nMais les vagues les ram\u00e8nent\nEn pierre d'\u00e9toiles sur les rochers\n\nEt j'ai ramass\u00e9 les bouts de verre\nJ'ai r\u00e9colt\u00e9 tous les morceaux\nTout \u00e9tait clair comme de l'eau\nContre le pass\u00e9, y'a rien \u00e0 faire\nIl faudrait changer les h\u00e9ros\nDans un monde o\u00f9 le plus beau reste \u00e0 faire\n\nEt je cours\nJe me raccroche \u00e0 la vie\nJe me saoule avec le bruit\nDes corps qui m'entourent\nComme des lianes nou\u00e9es de tresses\nSans comprendre la d\u00e9tresse\nDes mots que j'envois\n\nTous les cris les S.O.S\nPartent dans les airs\nDans l'eau laissent une trace\nDont les \u00e9cumes font la beaut\u00e9\nPris dans leur vaisseau de verre\nLes messages luttent\nMais les vagues les ram\u00e8nent\nEn pierre d'\u00e9toiles sur les rochers\n\nTous les cris les S.O.S\nPartent dans les airs\nDans l'eau laissent une trace\nDont les \u00e9cumes font la beaut\u00e9\nPris dans leur vaisseau de verre\nLes messages luttent\nMais les vagues les ram\u00e8nent\nEn pierre d'\u00e9toiles sur les rochers\n\nPris dans leur vaisseau de verre\nLes messages luttent\nMais les vagues les ramenent\nEn pierre d'\u00e9toiles sur les rochers"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1195062",
+   "apple_music_id": "21296305",
+   "apple_music_player_url": "https://genius.com/songs/1195062/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1195062' class='rg_embed_link' data-song-id='1195062'>Read <a href='https://genius.com/Lena-ka-sur-mon-epaule-lyrics'>\u201cSur Mon \u00c9paule\u201d by Lena\u00a0Ka</a> on Genius</div> <script crossorigin src='//genius.com/songs/1195062/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Sur Mon \u00c9paule by\u00a0Lena\u00a0Ka",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1195062,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lena-ka-sur-mon-epaule-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sur Mon \u00c9paule",
+   "title_with_featured": "Sur Mon \u00c9paule",
+   "url": "https://genius.com/Lena-ka-sur-mon-epaule-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/312950",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Entre les mots by Lena Ka",
+    "id": 312950,
+    "name": "Entre les mots",
+    "url": "https://genius.com/albums/Lena-ka/Entre-les-mots",
+    "artist": {
+     "api_path": "/artists/382419",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 382419,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lena Ka",
+     "url": "https://genius.com/artists/Lena-ka"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5697342",
+    "classification": "needs_exegesis",
+    "fragment": "Sur Mon \u00c9paule",
+    "id": 5697342,
+    "is_description": true,
+    "path": "/5697342/Lena-ka-sur-mon-epaule/Sur-mon-epaule",
+    "range": {
+     "content": "Sur Mon \u00c9paule"
+    },
+    "song_id": 1195062,
+    "url": "https://genius.com/5697342/Lena-ka-sur-mon-epaule/Sur-mon-epaule",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1195062",
+     "client_timestamps": {
+      "updated_by_human_at": 1481240311,
+      "lyrics_updated_at": 1429689941
+     },
+     "context": "Lena Ka",
+     "id": 1195062,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Sur Mon \u00c9paule by\u00a0Lena\u00a0Ka",
+     "title": "Sur Mon \u00c9paule",
+     "type": "Song",
+     "url": "https://genius.com/Lena-ka-sur-mon-epaule-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5697342",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5697342,
+      "pinned": false,
+      "share_url": "https://genius.com/5697342",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5697342/Lena-ka-sur-mon-epaule/Sur-mon-epaule",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/382419",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 382419,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lena Ka",
+    "url": "https://genius.com/artists/Lena-ka"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "J'aimerais savoir te prot\u00e9ger\nComme tu as su me prot\u00e9ger\nJ'aimerais pouvoir te rassurer\nComme tu m'as toujours rassur\u00e9e\n\nPanser tes plaies, calmer tes peines\nSoigner ce mal qui se d\u00e9cha\u00eene\nPour que tu saches que je suis l\u00e0\nPrenant ma part dans ce combat\n\nEt que tu poses\nSur mon \u00e9paule\nUn peu de ton mal et tes peurs\nQue tu poses\nSur mon \u00e9paule\nUn peu du poids de ta douleur\n\nJe suis ta m\u00e8re, je suis ta fille\nJe suis ton amie et ton fr\u00e8re\nJe ferai fuir ces maux hostiles\nQui ont pris ton corps pour leur terre\n\nEt je suis pr\u00eate \u00e0 tout entendre\nLes cris de col\u00e8re et les pleurs\nPour \u00eatre s\u00fbre que tu d\u00e9fendes\nTa vie de la plus douce ardeur\n\nEt que tu poses\nSur mon \u00e9paule\nUn peu de ton mal et tes peurs\nQue tu poses\nSur mon \u00e9paule\nUn peu du poids de ta douleur\n\nLaisse-moi te donner ce que tu m'as donn\u00e9\nParler doux pour te calmer\nCrier fort pour faire trembler\nCes guerriers si mena\u00e7ants\nTous ces miniscules combattants\nQue l'on enverra balader\nDans les pays d'ou l'on ne revient jamais\n\nEt que tu poses\nSur mon \u00e9paule\nUn peu de ton mal et tes peurs\nQue tu poses\nSur mon \u00e9paule\nUn peu du poids de ta douleur\nDe tes ennemis int\u00e9rieurs\n\nUn peu du poids de ta douleur\nDe tes ennemis int\u00e9rieurs"
+  }
+ ]
+}

@@ -1,0 +1,491 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/403633",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 403633,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Melissa Mars",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Melissa-mars",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7111201",
+  "classification": "needs_exegesis",
+  "fragment": "Melissa Mars",
+  "id": 7111201,
+  "is_description": true,
+  "path": "/7111201/Melissa-mars/Melissa-mars",
+  "range": {
+   "content": "Melissa Mars"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7111201/Melissa-mars/Melissa-mars",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/403633",
+   "context": null,
+   "id": 403633,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Melissa Mars",
+   "title": "Melissa Mars",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Melissa-mars"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7111201",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7111201,
+    "pinned": false,
+    "share_url": "https://genius.com/7111201",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7111201/Melissa-mars/Melissa-mars",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1804471",
+   "apple_music_id": "499321402",
+   "apple_music_player_url": "https://genius.com/songs/1804471/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1804471' class='rg_embed_link' data-song-id='1804471'>Read <a href='https://genius.com/Melissa-mars-quelquun-lyrics'>\u201cQuelqu'un\u201d by Melissa\u00a0Mars</a> on Genius</div> <script crossorigin src='//genius.com/songs/1804471/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Quelqu'un by\u00a0Melissa\u00a0Mars",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 1804471,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melissa-mars-quelquun-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Quelqu\u2019un",
+   "title_with_featured": "Quelqu'un",
+   "url": "https://genius.com/Melissa-mars-quelquun-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6416553",
+    "classification": "needs_exegesis",
+    "fragment": "Quelqu\u2019un",
+    "id": 6416553,
+    "is_description": true,
+    "path": "/6416553/Melissa-mars-quelquun/Quelquun",
+    "range": {
+     "content": "Quelqu'un"
+    },
+    "song_id": 1804471,
+    "url": "https://genius.com/6416553/Melissa-mars-quelquun/Quelquun",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1804471",
+     "client_timestamps": {
+      "updated_by_human_at": 1445441996,
+      "lyrics_updated_at": 1431611270
+     },
+     "context": "Melissa Mars",
+     "id": 1804471,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Quelqu\u2019un by\u00a0Melissa\u00a0Mars",
+     "title": "Quelqu'un",
+     "type": "Song",
+     "url": "https://genius.com/Melissa-mars-quelquun-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6416553",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6416553,
+      "pinned": false,
+      "share_url": "https://genius.com/6416553",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6416553/Melissa-mars-quelquun/Quelquun",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/403633",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 403633,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Melissa Mars",
+    "url": "https://genius.com/artists/Melissa-mars"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Un jeudi matin\nJ'ai suivi quelqu'un\nQue je ne connaissais pas\n\nUne jupe fendue serr\u00e9e\nLes yeux tr\u00e8s maquill\u00e9s\nJe n' me reconnaissais pas\n\nJ' l'ai rep\u00e9r\u00e9 dans un\nCompartiment voisin\nIl ne me voyait pas\n\nEn ayant l'air de rien\nJ'ai effleur\u00e9 sa main\nIl ma regard\u00e9 en coin\nIl ne comprenait pas\nQue ce jeudi matin\nJ'avais pris le train\nPour rencontrer quelqu'un\nQue je ne connaissais pas\n\nJ'osais pas lui parler\nJe me suis rapproch\u00e9\nIl a chang\u00e9 de cot\u00e9\n\nJ'os\u00e9 plus le regard\u00e9\nLe rimmel avait coul\u00e9\nJe gard\u00e9 la t\u00eate baiss\u00e9e\n\nIl a quitt\u00e9 le train\nA la gars de Melun\nO\u00f9 il se passe rien\n(rien rien rien)\n\nEn ayant l'air de rien\nJ'ai effleur\u00e9 sa main\nIl ma regard\u00e9 en coin\nIl ne comprenait pas\nQue ce jeudi matin\nJ'avais pris le train\nPour rencontrer quelqu'un\nQue je ne connaissais pas\n\nYou and me\nMe and you\nYou for me\nAnd me for you\nIt will be a good life\n\nAlors jeudi prochain\nJe suivrai quelqu'un\nQue je ne connais pas\n\nUne jupe \u00e0 mi-mollets\nLes yeux pas maquill\u00e9s\nOn ne me reconna\u00eetra pas\n\nCette fois \u00e7a marchera\nQuelqu'un qui me plaira\nA son tour me suivra\n\nJ'oserai lui parler\nJe me rapprocherai\nIl changera pas de cot\u00e9\n\nJ'oserai le regarder\nLa t\u00eate bien relev\u00e9e\nSans avoir \u00e0 pleurer\n\nIl quittera pas le train\nA la gare de Melun\nO\u00f9 il ne passe rien\n(rien rien rien)\n\nEn ayant l'air de rien\nJ'effleurerai sa main\nIl me regardera en coin\nEt peut \u00eatre qu'il comprendra\nQue ce jeudi matin\nJ'aurai pris le train\nPour rencontre quelqu'un\nQue je ne connais pas\n(Que je ne connais pas)\n\nQuelqu'un, quelqu'un\nQuelqu'un, quelqu'un\nQue je connais pas...\n\nYou and me\nMe and you\nYou for me\nAnd me for you\nIt will be a good life!..."
+  }
+ ]
+}

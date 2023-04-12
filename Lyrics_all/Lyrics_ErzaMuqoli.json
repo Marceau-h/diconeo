@@ -1,0 +1,1139 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2358436",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 2358436,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Erza Muqoli",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Erza-muqoli",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 11391713,
+  "annotator_login": "joelewis_abdallah",
+  "api_path": "/referents/20581672",
+  "classification": "needs_exegesis",
+  "fragment": "Erza Muqoli",
+  "id": 20581672,
+  "is_description": true,
+  "path": "/20581672/Erza-muqoli/Erza-muqoli",
+  "range": {
+   "content": "Erza Muqoli"
+  },
+  "song_id": null,
+  "url": "https://genius.com/20581672/Erza-muqoli/Erza-muqoli",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2358436",
+   "context": null,
+   "id": 2358436,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Erza Muqoli",
+   "title": "Erza Muqoli",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Erza-muqoli"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/20581672",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 20581672,
+    "pinned": false,
+    "share_url": "https://genius.com/20581672",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/20581672/Erza-muqoli/Erza-muqoli",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11391713",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/931095a4dbc901c1c61ba1b3cccaf20c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/931095a4dbc901c1c61ba1b3cccaf20c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/931095a4dbc901c1c61ba1b3cccaf20c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/931095a4dbc901c1c61ba1b3cccaf20c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/931095a4dbc901c1c61ba1b3cccaf20c",
+       "human_readable_role_for_display": null,
+       "id": 11391713,
+       "iq": 190,
+       "login": "joelewis_abdallah",
+       "name": "joelewis_abdallah",
+       "role_for_display": null,
+       "url": "https://genius.com/joelewis_abdallah",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5866667",
+   "apple_music_id": "1478655759",
+   "apple_music_player_url": "https://genius.com/songs/5866667/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5866667' class='rg_embed_link' data-song-id='5866667'>Read <a href='https://genius.com/Erza-muqoli-fillim-lyrics'>\u201cFillim\u201d by Erza\u00a0Muqoli</a> on Genius</div> <script crossorigin src='//genius.com/songs/5866667/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Fillim by\u00a0Erza\u00a0Muqoli",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 5866667,
+   "lyrics_owner_id": 11391713,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Erza-muqoli-fillim-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fillim",
+   "title_with_featured": "Fillim",
+   "url": "https://genius.com/Erza-muqoli-fillim-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11391713,
+    "annotator_login": "joelewis_abdallah",
+    "api_path": "/referents/20581673",
+    "classification": "needs_exegesis",
+    "fragment": "Fillim",
+    "id": 20581673,
+    "is_description": true,
+    "path": "/20581673/Erza-muqoli-fillim/Fillim",
+    "range": {
+     "content": "Fillim"
+    },
+    "song_id": 5866667,
+    "url": "https://genius.com/20581673/Erza-muqoli-fillim/Fillim",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5866667",
+     "client_timestamps": {
+      "updated_by_human_at": 1597393991,
+      "lyrics_updated_at": 1597393991
+     },
+     "context": "Erza Muqoli",
+     "id": 5866667,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Fillim by\u00a0Erza\u00a0Muqoli",
+     "title": "Fillim",
+     "type": "Song",
+     "url": "https://genius.com/Erza-muqoli-fillim-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20581673",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20581673,
+      "pinned": false,
+      "share_url": "https://genius.com/20581673",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20581673/Erza-muqoli-fillim/Fillim",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11391713",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/931095a4dbc901c1c61ba1b3cccaf20c",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/931095a4dbc901c1c61ba1b3cccaf20c",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/931095a4dbc901c1c61ba1b3cccaf20c",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/931095a4dbc901c1c61ba1b3cccaf20c",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/931095a4dbc901c1c61ba1b3cccaf20c",
+         "human_readable_role_for_display": null,
+         "id": 11391713,
+         "iq": 190,
+         "login": "joelewis_abdallah",
+         "name": "joelewis_abdallah",
+         "role_for_display": null,
+         "url": "https://genius.com/joelewis_abdallah",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2358436",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 2358436,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Erza Muqoli",
+    "url": "https://genius.com/artists/Erza-muqoli"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6231936",
+   "apple_music_id": "1462806522",
+   "apple_music_player_url": "https://genius.com/songs/6231936/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6231936' class='rg_embed_link' data-song-id='6231936'>Read <a href='https://genius.com/Erza-muqoli-je-chanterai-lyrics'>\u201cJe chanterai\u201d by Erza\u00a0Muqoli</a> on Genius</div> <script crossorigin src='//genius.com/songs/6231936/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Je chanterai by\u00a0Erza\u00a0Muqoli",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 6231936,
+   "lyrics_owner_id": 12371265,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Erza-muqoli-je-chanterai-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Je chanterai",
+   "title_with_featured": "Je chanterai",
+   "url": "https://genius.com/Erza-muqoli-je-chanterai-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 12371265,
+    "annotator_login": "TStoessel",
+    "api_path": "/referents/21496336",
+    "classification": "needs_exegesis",
+    "fragment": "Je chanterai",
+    "id": 21496336,
+    "is_description": true,
+    "path": "/21496336/Erza-muqoli-je-chanterai/Je-chanterai",
+    "range": {
+     "content": "Je chanterai"
+    },
+    "song_id": 6231936,
+    "url": "https://genius.com/21496336/Erza-muqoli-je-chanterai/Je-chanterai",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6231936",
+     "client_timestamps": {
+      "updated_by_human_at": 1606915192,
+      "lyrics_updated_at": 1606915192
+     },
+     "context": "Erza Muqoli",
+     "id": 6231936,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Je chanterai by\u00a0Erza\u00a0Muqoli",
+     "title": "Je chanterai",
+     "type": "Song",
+     "url": "https://genius.com/Erza-muqoli-je-chanterai-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21496336",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21496336,
+      "pinned": false,
+      "share_url": "https://genius.com/21496336",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21496336/Erza-muqoli-je-chanterai/Je-chanterai",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/12371265",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/53319e22550471210dcf18a709406254",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/53319e22550471210dcf18a709406254",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/53319e22550471210dcf18a709406254",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/53319e22550471210dcf18a709406254",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/53319e22550471210dcf18a709406254",
+         "human_readable_role_for_display": null,
+         "id": 12371265,
+         "iq": 227,
+         "login": "TStoessel",
+         "name": "TStoessel",
+         "role_for_display": null,
+         "url": "https://genius.com/TStoessel",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=EiAej_sSpbI"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2358436",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 2358436,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Erza Muqoli",
+    "url": "https://genius.com/artists/Erza-muqoli"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6231880",
+   "apple_music_id": "1478656054",
+   "apple_music_player_url": "https://genius.com/songs/6231880/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6231880' class='rg_embed_link' data-song-id='6231880'>Read <a href='https://genius.com/Erza-muqoli-vous-etiez-la-lyrics'>\u201cVous \u00e9tiez l\u00e0\u201d by Erza\u00a0Muqoli</a> on Genius</div> <script crossorigin src='//genius.com/songs/6231880/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Vous \u00e9tiez l\u00e0 by\u00a0Erza\u00a0Muqoli",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 6231880,
+   "lyrics_owner_id": 12371265,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Erza-muqoli-vous-etiez-la-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vous \u00e9tiez l\u00e0",
+   "title_with_featured": "Vous \u00e9tiez l\u00e0",
+   "url": "https://genius.com/Erza-muqoli-vous-etiez-la-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 12371265,
+    "annotator_login": "TStoessel",
+    "api_path": "/referents/21496139",
+    "classification": "needs_exegesis",
+    "fragment": "Vous \u00e9tiez l\u00e0",
+    "id": 21496139,
+    "is_description": true,
+    "path": "/21496139/Erza-muqoli-vous-etiez-la/Vous-etiez-la",
+    "range": {
+     "content": "Vous \u00e9tiez l\u00e0"
+    },
+    "song_id": 6231880,
+    "url": "https://genius.com/21496139/Erza-muqoli-vous-etiez-la/Vous-etiez-la",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6231880",
+     "client_timestamps": {
+      "updated_by_human_at": 1606912642,
+      "lyrics_updated_at": 1606912642
+     },
+     "context": "Erza Muqoli",
+     "id": 6231880,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Vous \u00e9tiez l\u00e0 by\u00a0Erza\u00a0Muqoli",
+     "title": "Vous \u00e9tiez l\u00e0",
+     "type": "Song",
+     "url": "https://genius.com/Erza-muqoli-vous-etiez-la-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21496139",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21496139,
+      "pinned": false,
+      "share_url": "https://genius.com/21496139",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21496139/Erza-muqoli-vous-etiez-la/Vous-etiez-la",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/12371265",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/53319e22550471210dcf18a709406254",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/53319e22550471210dcf18a709406254",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/53319e22550471210dcf18a709406254",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/53319e22550471210dcf18a709406254",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/53319e22550471210dcf18a709406254",
+         "human_readable_role_for_display": null,
+         "id": 12371265,
+         "iq": 227,
+         "login": "TStoessel",
+         "name": "TStoessel",
+         "role_for_display": null,
+         "url": "https://genius.com/TStoessel",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=qLqV9PS6EdM"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2358436",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 2358436,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Erza Muqoli",
+    "url": "https://genius.com/artists/Erza-muqoli"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Parfois les gens se souviennent\nEt parfois les gens effacent\nQu'importe ce qu'ils deviennent\nMoi j'\u00e9tais charg\u00e9e de r\u00eaves\nEt vous m'avez donn\u00e9 l'audace\nTous les jours me le rappellent\nFaudrait pas qu'on enterre nos bonheurs\nNon faudrait pas qu'on enterre nos heures\nPrenez-la, ma chanson enchant\u00e9e\nJ'aurais pu laisser tomber\nMais vous \u00e9tiez l\u00e0\nPrenez-la, ma chanson enchant\u00e9e\nJ'aurais pu abandonner\nMais vous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nY'a pas eu que des merveilles\nJ'ai connu les vents et les glaces\nEt soudain le serpent qui s'\u00e9veille\nT'as beau te charger de r\u00eaves\nIl faut leur faire de la place\nEt les gens mauvais les enferment\nMais faudrait pas qu'on oublie les gens bien\nJamais\nNon faudrait pas qu'on oublie le chemin\nPrenez-la, ma chanson enchant\u00e9e\nJ'aurais pu laisser tomber\nMais vous \u00e9tiez l\u00e0\nPrenez-la, ma chanson enchant\u00e9e\nJ'aurais pu abandonner\nMais vous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nVous \u00e9tiez l\u00e0\nMos harro kurr t\u00eb gjith\u00eb\nAta qe t\u00eb dhan\u00eb doren kur ti m\u00ebsoje hapat e par\u00eb\nKurr mos harro nga vjen\nP\u00ebr ju te gjith q\u00eb jeni me mua tash\nMos harroni qe gjithmon\u00eb do jem me ju\nGjithmon\u00eb, do jem me ju"
+  }
+ ]
+}

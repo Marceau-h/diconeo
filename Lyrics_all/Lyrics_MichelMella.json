@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2307247",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 2307247,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Michel Mella",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Michel-mella",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 7396440,
+  "annotator_login": "Kdu93",
+  "api_path": "/referents/20254989",
+  "classification": "needs_exegesis",
+  "fragment": "Michel Mella",
+  "id": 20254989,
+  "is_description": true,
+  "path": "/20254989/Michel-mella/Michel-mella",
+  "range": {
+   "content": "Michel Mella"
+  },
+  "song_id": null,
+  "url": "https://genius.com/20254989/Michel-mella/Michel-mella",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2307247",
+   "context": null,
+   "id": 2307247,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Michel Mella",
+   "title": "Michel Mella",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Michel-mella"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/20254989",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 20254989,
+    "pinned": false,
+    "share_url": "https://genius.com/20254989",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/20254989/Michel-mella/Michel-mella",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7396440",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4a0609b29c04388df6b7a59eee33b9ee",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4a0609b29c04388df6b7a59eee33b9ee",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4a0609b29c04388df6b7a59eee33b9ee",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4a0609b29c04388df6b7a59eee33b9ee",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/4a0609b29c04388df6b7a59eee33b9ee",
+       "human_readable_role_for_display": "Contributor",
+       "id": 7396440,
+       "iq": 5525,
+       "login": "Kdu93",
+       "name": "Kdu93",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Kdu93",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

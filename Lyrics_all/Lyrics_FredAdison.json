@@ -1,0 +1,808 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/375074",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 375074,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Fred Adison",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Fred-adison",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7093237",
+  "classification": "needs_exegesis",
+  "fragment": "Fred Adison",
+  "id": 7093237,
+  "is_description": true,
+  "path": "/7093237/Fred-adison/Fred-adison",
+  "range": {
+   "content": "Fred Adison"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7093237/Fred-adison/Fred-adison",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/375074",
+   "context": null,
+   "id": 375074,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Fred Adison",
+   "title": "Fred Adison",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Fred-adison"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7093237",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7093237,
+    "pinned": false,
+    "share_url": "https://genius.com/7093237",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7093237/Fred-adison/Fred-adison",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1413546",
+   "apple_music_id": "479754821",
+   "apple_music_player_url": "https://genius.com/songs/1413546/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1413546' class='rg_embed_link' data-song-id='1413546'>Read <a href='https://genius.com/Fred-adison-en-cueillant-la-noisette-lyrics'>\u201cEn Cueillant La Noisette\u201d by Fred\u00a0Adison</a> on Genius</div> <script crossorigin src='//genius.com/songs/1413546/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "En Cueillant La Noisette by\u00a0Fred\u00a0Adison",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1413546,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Fred-adison-en-cueillant-la-noisette-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "En Cueillant La Noisette",
+   "title_with_featured": "En Cueillant La Noisette",
+   "url": "https://genius.com/Fred-adison-en-cueillant-la-noisette-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5924633",
+    "classification": "needs_exegesis",
+    "fragment": "En Cueillant La Noisette",
+    "id": 5924633,
+    "is_description": true,
+    "path": "/5924633/Fred-adison-en-cueillant-la-noisette/En-cueillant-la-noisette",
+    "range": {
+     "content": "En Cueillant La Noisette"
+    },
+    "song_id": 1413546,
+    "url": "https://genius.com/5924633/Fred-adison-en-cueillant-la-noisette/En-cueillant-la-noisette",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1413546",
+     "client_timestamps": {
+      "updated_by_human_at": 1442866269,
+      "lyrics_updated_at": 1429829872
+     },
+     "context": "Fred Adison",
+     "id": 1413546,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "En Cueillant La Noisette by\u00a0Fred\u00a0Adison",
+     "title": "En Cueillant La Noisette",
+     "type": "Song",
+     "url": "https://genius.com/Fred-adison-en-cueillant-la-noisette-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5924633",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5924633,
+      "pinned": false,
+      "share_url": "https://genius.com/5924633",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5924633/Fred-adison-en-cueillant-la-noisette/En-cueillant-la-noisette",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375074",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375074,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Fred Adison",
+    "url": "https://genius.com/artists/Fred-adison"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Un jour, la tendre Annette\nLe c\u0153ur plein de d\u00e9sir\nD\u00e9laissant sa chambrette\nA pris bien du plaisir\n\n{Refrain:}\nEn cueillant la noisette et la fraise des bois\nEn cueillant la noisette et en gaulant des noix\nEn cueillant la noisette et la fraise des bois\nEn cueillant la noisette et en gaulant des noix\n\nElle croisa Gustave\nLe gar\u00e7on, fort \u00e9mu\nPrit son bel accent grave\nEt son accent aigu\n\n{au Refrain}\n\nIl la prit par la taille\nIl la sentit fr\u00e9mir\nEt dans ses yeux canailles\nIl lut bien du plaisir\n\n{au Refrain}\n\nIl la prit par la taille\nLa prit par le menton\nElle, dans la bataille\nTomba sur le gazon\n\n{au Refrain}\n\nAh ! Maudite culbute\nJugez du d\u00e9sarroi !\nLe gredin, dans sa chute\nAvait vu... son \u00e9moi... Oh\n\nEn cueillant la noisette et la fraise des bois\nEn cueillant la noisette et en gaulant des noix\n\nDans cette pirouette\nElle eut le c\u0153ur troubl\u00e9\nElle perdit la t\u00eate\nTout en perdant... le pied\n\nEn cueillant la noisette et la fraise des bois\nEn cueillant la noisette et en gaulant des noix\n\nSa robe, sa coiffure\nNe pourront plus servir\nBelles, de l'aventure\nGardez le souvenir"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1002491",
+   "apple_music_id": "406330839",
+   "apple_music_player_url": "https://genius.com/songs/1002491/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1002491' class='rg_embed_link' data-song-id='1002491'>Read <a href='https://genius.com/Fred-adison-avec-les-pompiers-lyrics'>\u201cAvec Les Pompiers\u201d by Fred\u00a0Adison</a> on Genius</div> <script crossorigin src='//genius.com/songs/1002491/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Avec Les Pompiers by\u00a0Fred\u00a0Adison",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1002491,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Fred-adison-avec-les-pompiers-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Avec Les Pompiers",
+   "title_with_featured": "Avec Les Pompiers",
+   "url": "https://genius.com/Fred-adison-avec-les-pompiers-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5498945",
+    "classification": "needs_exegesis",
+    "fragment": "Avec Les Pompiers",
+    "id": 5498945,
+    "is_description": true,
+    "path": "/5498945/Fred-adison-avec-les-pompiers/Avec-les-pompiers",
+    "range": {
+     "content": "Avec Les Pompiers"
+    },
+    "song_id": 1002491,
+    "url": "https://genius.com/5498945/Fred-adison-avec-les-pompiers/Avec-les-pompiers",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1002491",
+     "client_timestamps": {
+      "updated_by_human_at": 1434556412,
+      "lyrics_updated_at": 1429583133
+     },
+     "context": "Fred Adison",
+     "id": 1002491,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Avec Les Pompiers by\u00a0Fred\u00a0Adison",
+     "title": "Avec Les Pompiers",
+     "type": "Song",
+     "url": "https://genius.com/Fred-adison-avec-les-pompiers-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5498945",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5498945,
+      "pinned": false,
+      "share_url": "https://genius.com/5498945",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5498945/Fred-adison-avec-les-pompiers/Avec-les-pompiers",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375074",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375074,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Fred Adison",
+    "url": "https://genius.com/artists/Fred-adison"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "1. Chez nous au village\nOn est \u00e0 la page\nCar nous avons fond\u00e9\nUne compagnie d'pompiers\nIls se pr\u00e9sent\u00e8rent\nChez \"Mossieu\" le Maire\nQui fit un grand discours\nPour f\u00eater ce beau jour\n\n{Refrain:}\nNous avons bien rigol\u00e9\nLa fanfare a d\u00e9fil\u00e9\nAvec les pompom...\nAvec les pompom...\nAvec les pompiers\nAu bistrot l'on a trinqu\u00e9\nEt la jeunesse a dans\u00e9\nAvec les pompom...\nAvec les pompom...\nAvec les pompiers\nY avait l'instituteur\nLe pr\u00e9fet, le facteur\nLa femme au pharmacien\nQui dit du mal de ses voisins\nDans le pays tout entier\nOn a fait tous les caf\u00e9s\nAvec les pompom...\nAvec les pompom...\nAvec les pompiers\n\n2. Hier soir une Delage\nPrit feu dans l'garage\nNe voyant pas la nuit\nLeur pompe \u00e0 incendie\nIls prirent sans m\u00e9fiance\nLa pompe \u00e0 essence\nPour arroser le feu\nIls firent la queue leu leu\n\n{Refrain:}\nNous avons bien rigol\u00e9\nTout le village \u00e0 flamb\u00e9\nAvec les pompom...\nAvec les pompom...\nAvec les pompiers\nComme ils \u00e9taient affol\u00e9s\nOn a fait un d\u00e9fil\u00e9\nAvec les pompom...\nAvec les pompom...\nAvec les pompiers\nLe capitaine avait\nRequis tous les objets\nDes plats, des vieux chapeaux\nPour faire la cha\u00eene avec de l'eau\nEnfin, \u00e7a s'est arr\u00eat\u00e9\nY avait plus rien \u00e0 br\u00fbler\nAvec les pompom...\nAvec les pompom...\nAvec les pompiers\n\n3. Cette chaude alerte\nCausa bien des pertes\nApr\u00e8s les explosions\nCe fut l'inondation\nFallut \u00e0 la nage\nTraverser l'village\nOui, mais pour boire un coup\nY avait plus d'eau du tout\n\n{Refrain:}\nNous avons bien rigol\u00e9\nOn a failli se noyer\nAvec les pompom...\nAvec les pompom...\nAvec les pompiers\nComme il restait un caf\u00e9\nOn y rentra pour s\u00e9cher\nAvec les pompom...\nAvec les pompom...\nAvec les pompiers\nNous n'avions plus beaucoup\nLes yeux en face des trous\nEt tout en nous tordant\nNous tordions aussi nos v\u00eatements\nEn famille on est rentr\u00e9\nMais tous les administr\u00e9s\nAvaient leur pompon\nAvaient leur pompon\nAvec les pompiers"
+  }
+ ]
+}

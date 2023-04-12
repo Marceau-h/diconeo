@@ -1,0 +1,1416 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/108813",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 108813,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Anna Marly",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Anna-marly",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 241166,
+  "annotator_login": "netkingcole",
+  "api_path": "/referents/6996547",
+  "classification": "needs_exegesis",
+  "fragment": "Anna Marly",
+  "id": 6996547,
+  "is_description": true,
+  "path": "/6996547/Anna-marly/Anna-marly",
+  "range": {
+   "content": "Anna Marly"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6996547/Anna-marly/Anna-marly",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/108813",
+   "context": null,
+   "id": 108813,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Anna Marly",
+   "title": "Anna Marly",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Anna-marly"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6996547",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6996547,
+    "pinned": false,
+    "share_url": "https://genius.com/6996547",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/6996547/Anna-marly/Anna-marly",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/241166",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/6dLCFdJFQLSVu3Ln63tP",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/6dLCFdJFQLSVu3Ln63tP",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/6dLCFdJFQLSVu3Ln63tP",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/6dLCFdJFQLSVu3Ln63tP",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/6dLCFdJFQLSVu3Ln63tP",
+       "human_readable_role_for_display": "Editor",
+       "id": 241166,
+       "iq": 2909,
+       "login": "netkingcole",
+       "name": "netkingcole",
+       "role_for_display": "editor",
+       "url": "https://genius.com/netkingcole",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 14,
+   "api_path": "/songs/297435",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/297435/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_297435' class='rg_embed_link' data-song-id='297435'>Read <a href='https://genius.com/Anna-marly-le-chant-des-partisans-lyrics'>\u201cLe Chant des Partisans\u201d by Anna\u00a0Marly</a> on Genius</div> <script crossorigin src='//genius.com/songs/297435/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le Chant des Partisans by\u00a0Anna\u00a0Marly",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 297435,
+   "lyrics_owner_id": 241166,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anna-marly-le-chant-des-partisans-lyrics",
+   "pyongs_count": 2,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 11,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 1,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Chant des Partisans",
+   "title_with_featured": "Le Chant des Partisans",
+   "url": "https://genius.com/Anna-marly-le-chant-des-partisans-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 241166,
+    "annotator_login": "netkingcole",
+    "api_path": "/referents/3698518",
+    "classification": "needs_exegesis",
+    "fragment": "Le Chant des Partisans",
+    "id": 3698518,
+    "is_description": true,
+    "path": "/3698518/Anna-marly-le-chant-des-partisans/Le-chant-des-partisans",
+    "range": {
+     "content": "Le Chant des Partisans"
+    },
+    "song_id": 297435,
+    "url": "https://genius.com/3698518/Anna-marly-le-chant-des-partisans/Le-chant-des-partisans",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/297435",
+     "client_timestamps": {
+      "updated_by_human_at": 1543661464,
+      "lyrics_updated_at": 1543661464
+     },
+     "context": "Anna Marly",
+     "id": 297435,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Le Chant des Partisans by\u00a0Anna\u00a0Marly",
+     "title": "Le Chant des Partisans",
+     "type": "Song",
+     "url": "https://genius.com/Anna-marly-le-chant-des-partisans-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3698518",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3698518,
+      "pinned": false,
+      "share_url": "https://genius.com/3698518",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3698518/Anna-marly-le-chant-des-partisans/Le-chant-des-partisans",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/241166",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/6dLCFdJFQLSVu3Ln63tP",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/6dLCFdJFQLSVu3Ln63tP",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/6dLCFdJFQLSVu3Ln63tP",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/6dLCFdJFQLSVu3Ln63tP",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/6dLCFdJFQLSVu3Ln63tP",
+         "human_readable_role_for_display": "Editor",
+         "id": 241166,
+         "iq": 2909,
+         "login": "netkingcole",
+         "name": "netkingcole",
+         "role_for_display": "editor",
+         "url": "https://genius.com/netkingcole",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=GjyNmllUA0U"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/108813",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 108813,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anna Marly",
+    "url": "https://genius.com/artists/Anna-marly"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/108814",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 108814,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joseph Kessel",
+     "url": "https://genius.com/artists/Joseph-kessel"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4055603",
+       "full_title": "Porcherie by\u00a0Les\u00a0Ramoneurs de Menhirs (Ft.\u00a0Bagad\u00a0Bro Kemperle)",
+       "header_image_thumbnail_url": "https://images.genius.com/53ef2b1e87acd2ebf730f83c971e4699.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/53ef2b1e87acd2ebf730f83c971e4699.793x793x1.jpg",
+       "id": 4055603,
+       "lyrics_owner_id": 7211309,
+       "lyrics_state": "complete",
+       "path": "/Les-ramoneurs-de-menhirs-porcherie-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/53ef2b1e87acd2ebf730f83c971e4699.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/53ef2b1e87acd2ebf730f83c971e4699.793x793x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Porcherie",
+       "title_with_featured": "Porcherie (Ft.\u00a0Bagad\u00a0Bro Kemperle)",
+       "url": "https://genius.com/Les-ramoneurs-de-menhirs-porcherie-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/983647",
+        "header_image_url": "https://images.genius.com/a753661120ec47f201d34d95d775af54.1000x1000x1.jpg",
+        "id": 983647,
+        "image_url": "https://images.genius.com/a753661120ec47f201d34d95d775af54.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Les Ramoneurs de Menhirs",
+        "url": "https://genius.com/artists/Les-ramoneurs-de-menhirs"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 15,
+       "api_path": "/songs/153358",
+       "full_title": "The Partisan by\u00a0Leonard\u00a0Cohen",
+       "header_image_thumbnail_url": "https://images.genius.com/3063841a593b9ff39a19bf253a0c718b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3063841a593b9ff39a19bf253a0c718b.600x600x1.jpg",
+       "id": 153358,
+       "lyrics_owner_id": 48762,
+       "lyrics_state": "complete",
+       "path": "/Leonard-cohen-the-partisan-lyrics",
+       "pyongs_count": 2,
+       "song_art_image_thumbnail_url": "https://images.genius.com/24854927e566639e35f38e22d58e8ff5.300x305x1.jpg",
+       "song_art_image_url": "https://images.genius.com/24854927e566639e35f38e22d58e8ff5.590x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 49163
+       },
+       "title": "The Partisan",
+       "title_with_featured": "The Partisan",
+       "url": "https://genius.com/Leonard-cohen-the-partisan-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/629",
+        "header_image_url": "https://images.genius.com/357bcf113a1333d408d549f19bb67cee.465x310x1.jpg",
+        "id": 629,
+        "image_url": "https://s3.amazonaws.com/rapgenius/1361216578_leonard-cohen.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Leonard Cohen",
+        "url": "https://genius.com/artists/Leonard-cohen"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1548249",
+       "full_title": "The Partisan by\u00a0Electrelane",
+       "header_image_thumbnail_url": "https://images.genius.com/6026fd3e57c6b94bc6d0affce2631c0b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6026fd3e57c6b94bc6d0affce2631c0b.999x1000x1.jpg",
+       "id": 1548249,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Electrelane-the-partisan-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6026fd3e57c6b94bc6d0affce2631c0b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6026fd3e57c6b94bc6d0affce2631c0b.999x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "The Partisan",
+       "title_with_featured": "The Partisan",
+       "url": "https://genius.com/Electrelane-the-partisan-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/357698",
+        "header_image_url": "https://images.genius.com/77ffbcfb9cb7e950d47ca3b6ade03fac.600x245x1.jpg",
+        "id": 357698,
+        "image_url": "https://images.genius.com/3c3ffeae7fa37e1cfbb79c6a17c8e7a4.969x969x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Electrelane",
+        "url": "https://genius.com/artists/Electrelane"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1594111",
+       "full_title": "The Partisan by\u00a016\u00a0Horsepower (Ft.\u00a0Bertrand\u00a0Cantat)",
+       "header_image_thumbnail_url": "https://images.genius.com/139e921a4e21f3d99bdef40b09cb7893.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/139e921a4e21f3d99bdef40b09cb7893.700x700x1.jpg",
+       "id": 1594111,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/16-horsepower-the-partisan-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/139e921a4e21f3d99bdef40b09cb7893.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/139e921a4e21f3d99bdef40b09cb7893.700x700x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "The Partisan",
+       "title_with_featured": "The Partisan (Ft.\u00a0Bertrand\u00a0Cantat)",
+       "url": "https://genius.com/16-horsepower-the-partisan-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/363234",
+        "header_image_url": "https://images.genius.com/b939dffcf95360a35b7c4c9aa9025cec.400x400x1.jpg",
+        "id": 363234,
+        "image_url": "https://images.genius.com/b939dffcf95360a35b7c4c9aa9025cec.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "16 Horsepower",
+        "url": "https://genius.com/artists/16-horsepower"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1626369",
+       "full_title": "Song Of The French Partisan by\u00a0Esther\u00a0Ofarim - \u05d0\u05e1\u05ea\u05e8 \u05e2\u05d5\u05e4\u05e8\u05d9\u05dd",
+       "header_image_thumbnail_url": "https://images.genius.com/aaed5808db0da0d72134231cae1a98fa.250x250x1.jpg",
+       "header_image_url": "https://images.genius.com/aaed5808db0da0d72134231cae1a98fa.250x250x1.jpg",
+       "id": 1626369,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Esther-ofarim-song-of-the-french-partisan-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/aaed5808db0da0d72134231cae1a98fa.250x250x1.jpg",
+       "song_art_image_url": "https://images.genius.com/aaed5808db0da0d72134231cae1a98fa.250x250x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Song Of The French Partisan",
+       "title_with_featured": "Song Of The French Partisan",
+       "url": "https://genius.com/Esther-ofarim-song-of-the-french-partisan-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/353182",
+        "header_image_url": "https://images.genius.com/aaed5808db0da0d72134231cae1a98fa.250x250x1.jpg",
+        "id": 353182,
+        "image_url": "https://images.genius.com/aaed5808db0da0d72134231cae1a98fa.250x250x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Esther Ofarim - \u05d0\u05e1\u05ea\u05e8 \u05e2\u05d5\u05e4\u05e8\u05d9\u05dd",
+        "url": "https://genius.com/artists/Esther-ofarim"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1934504",
+       "full_title": "The Partisan (Live at the Isle of Wight) by\u00a0Leonard\u00a0Cohen",
+       "header_image_thumbnail_url": "https://images.genius.com/3759a6cb39c9fc70096c3a4bd07e30fc.300x268x1.jpg",
+       "header_image_url": "https://images.genius.com/3759a6cb39c9fc70096c3a4bd07e30fc.300x268x1.jpg",
+       "id": 1934504,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Leonard-cohen-the-partisan-live-at-the-isle-of-wight-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/3759a6cb39c9fc70096c3a4bd07e30fc.300x268x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3759a6cb39c9fc70096c3a4bd07e30fc.300x268x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "The Partisan (Live at the Isle of Wight)",
+       "title_with_featured": "The Partisan (Live at the Isle of Wight)",
+       "url": "https://genius.com/Leonard-cohen-the-partisan-live-at-the-isle-of-wight-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/629",
+        "header_image_url": "https://images.genius.com/357bcf113a1333d408d549f19bb67cee.465x310x1.jpg",
+        "id": 629,
+        "image_url": "https://s3.amazonaws.com/rapgenius/1361216578_leonard-cohen.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Leonard Cohen",
+        "url": "https://genius.com/artists/Leonard-cohen"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1934938",
+       "full_title": "The Partisan (Live in Dublin) by\u00a0Leonard\u00a0Cohen",
+       "header_image_thumbnail_url": "https://images.genius.com/6e91fb94562fca7c755f560db11c9e02.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6e91fb94562fca7c755f560db11c9e02.466x466x1.jpg",
+       "id": 1934938,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Leonard-cohen-the-partisan-live-in-dublin-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6e91fb94562fca7c755f560db11c9e02.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6e91fb94562fca7c755f560db11c9e02.466x466x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "The Partisan (Live in Dublin)",
+       "title_with_featured": "The Partisan (Live in Dublin)",
+       "url": "https://genius.com/Leonard-cohen-the-partisan-live-in-dublin-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/629",
+        "header_image_url": "https://images.genius.com/357bcf113a1333d408d549f19bb67cee.465x310x1.jpg",
+        "id": 629,
+        "image_url": "https://s3.amazonaws.com/rapgenius/1361216578_leonard-cohen.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Leonard Cohen",
+        "url": "https://genius.com/artists/Leonard-cohen"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2951749",
+       "full_title": "The Partisan by\u00a0Matthew\u00a0Barber & Jill Barber",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+       "id": 2951749,
+       "lyrics_owner_id": 184747,
+       "lyrics_state": "complete",
+       "path": "/Matthew-barber-and-jill-barber-the-partisan-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "The Partisan",
+       "title_with_featured": "The Partisan",
+       "url": "https://genius.com/Matthew-barber-and-jill-barber-the-partisan-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1050702",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+        "id": 1050702,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Matthew Barber & Jill Barber",
+        "url": "https://genius.com/artists/Matthew-barber-and-jill-barber"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/108813",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 108813,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anna Marly",
+     "url": "https://genius.com/artists/Anna-marly"
+    },
+    {
+     "api_path": "/artists/1251901",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1251901,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emmanuel D\u2019Astier",
+     "url": "https://genius.com/artists/Emmanuel-dastier"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 22,
+   "api_path": "/songs/3436120",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/3436120/apple_music_player",
+   "description": {
+    "plain": "The song \u201c The song of the partisans\u201d is a protest song written during the second world war on 1941, by Anna Marly. This song addresses the people oppressed by France. She calls him to lift up himself against the oppressor, the german army. The title \u201c The song of the partisans \u201d symbolizes a song of fight, a timeless call to resist, but also a hymn the brotherhood and the hope. This song allowed of galvanize the fighters and to push to the action the undecided. this song is relevant today because she was resumed of decades later by numerous artists."
+   },
+   "embed_content": "<div id='rg_embed_link_3436120' class='rg_embed_link' data-song-id='3436120'>Read <a href='https://genius.com/Anna-marly-the-song-of-the-partisans-analysis-by-tanguym-annotated'>\u201c\" The song of the partisans \" Analysis By TanguyM\u201d by Anna\u00a0Marly</a> on Genius</div> <script crossorigin src='//genius.com/songs/3436120/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "\" The song of the partisans \" Analysis By TanguyM by\u00a0Anna\u00a0Marly",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 3436120,
+   "lyrics_owner_id": 5743506,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anna-marly-the-song-of-the-partisans-analysis-by-tanguym-annotated",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 22,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "\u201c The song of the partisans \u201d Analysis By TanguyM",
+   "title_with_featured": "\" The song of the partisans \" Analysis By TanguyM",
+   "url": "https://genius.com/Anna-marly-the-song-of-the-partisans-analysis-by-tanguym-annotated",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5743506,
+    "annotator_login": "ELBASKOOO",
+    "api_path": "/referents/13507879",
+    "classification": "unreviewed",
+    "fragment": "\u201c The song of the partisans \u201d Analysis By TanguyM",
+    "id": 13507879,
+    "is_description": true,
+    "path": "/13507879/Anna-marly-the-song-of-the-partisans-analysis-by-tanguym/The-song-of-the-partisans-analysis-by-tanguym",
+    "range": {
+     "content": "\" The song of the partisans \" Analysis By TanguyM"
+    },
+    "song_id": 3436120,
+    "url": "https://genius.com/13507879/Anna-marly-the-song-of-the-partisans-analysis-by-tanguym/The-song-of-the-partisans-analysis-by-tanguym",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3436120",
+     "client_timestamps": {
+      "updated_by_human_at": 1515944577,
+      "lyrics_updated_at": 1515944577
+     },
+     "context": "Anna Marly",
+     "id": 3436120,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "\u201c The song of the partisans \u201d Analysis By TanguyM by\u00a0Anna\u00a0Marly",
+     "title": "\" The song of the partisans \" Analysis By TanguyM",
+     "type": "Song",
+     "url": "https://genius.com/Anna-marly-the-song-of-the-partisans-analysis-by-tanguym-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13507879",
+      "body": {
+       "plain": "The song \u201c The song of the partisans\u201d is a protest song written during the second world war on 1941, by Anna Marly. This song addresses the people oppressed by France. She calls him to lift up himself against the oppressor, the german army. The title \u201c The song of the partisans \u201d symbolizes a song of fight, a timeless call to resist, but also a hymn the brotherhood and the hope. This song allowed of galvanize the fighters and to push to the action the undecided. this song is relevant today because she was resumed of decades later by numerous artists."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13507879,
+      "pinned": false,
+      "share_url": "https://genius.com/13507879",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/13507879/Anna-marly-the-song-of-the-partisans-analysis-by-tanguym/The-song-of-the-partisans-analysis-by-tanguym",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5743506",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/38b9039a2047716925d9ccf58afb4784",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/38b9039a2047716925d9ccf58afb4784",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/38b9039a2047716925d9ccf58afb4784",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/38b9039a2047716925d9ccf58afb4784",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/38b9039a2047716925d9ccf58afb4784",
+         "human_readable_role_for_display": null,
+         "id": 5743506,
+         "iq": 243,
+         "login": "ELBASKOOO",
+         "name": "ELBASKOOO",
+         "role_for_display": null,
+         "url": "https://genius.com/ELBASKOOO",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/108813",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 108813,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anna Marly",
+    "url": "https://genius.com/artists/Anna-marly"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "{Verse]\nFriend, do you hear the black flight of ravens on our plains?\nFriend, do you hear  the muffled cries of the country which we chain?\nHey, partisans, workers and farmers, it is the alarm.\nThis evening the enemy will know the priceof the blood and the tears.\n\n{Verse}\nGo up of the appearance, lower hills, companions!\nTake  out of the straw rifles, grapeshot, pomegranates.\nHey, the killers in the  bullet or in the knife, kill fast!\nHey, botcher, attention on your burden: dynamite...\n\n{Verse}\nIt is us who break the bars of prisons for our brothers.\nThe hatred on our heels and the hunger which pushes us, the poverty.\nThere are countries where people in the hollow of beds dream.\nHere, us, you see, we walk and we kill, we burst...\n\n{Verse}\nHere each knows what he wants, what he is doing when he passes.\nFriend, if you fall a friend goes out of the shade on your place.\nTomorrow some black blood will dry in the big sun on roads.\nSing, companions , at night the freedom listens to us.."
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3436035",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/3436035/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3436035' class='rg_embed_link' data-song-id='3436035'>Read <a href='https://genius.com/Anna-marly-the-song-of-the-partisans-annotated'>\u201cThe song of the partisans\u201d by Anna\u00a0Marly</a> on Genius</div> <script crossorigin src='//genius.com/songs/3436035/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "The song of the partisans by\u00a0Anna\u00a0Marly",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 3436035,
+   "lyrics_owner_id": 5743506,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Anna-marly-the-song-of-the-partisans-annotated",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "The song of the partisans",
+   "title_with_featured": "The song of the partisans",
+   "url": "https://genius.com/Anna-marly-the-song-of-the-partisans-annotated",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5743506,
+    "annotator_login": "ELBASKOOO",
+    "api_path": "/referents/13507603",
+    "classification": "needs_exegesis",
+    "fragment": "The song of the partisans",
+    "id": 13507603,
+    "is_description": true,
+    "path": "/13507603/Anna-marly-the-song-of-the-partisans/The-song-of-the-partisans",
+    "range": {
+     "content": "The song of the partisans"
+    },
+    "song_id": 3436035,
+    "url": "https://genius.com/13507603/Anna-marly-the-song-of-the-partisans/The-song-of-the-partisans",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3436035",
+     "client_timestamps": {
+      "updated_by_human_at": 1515936003,
+      "lyrics_updated_at": 1515946523
+     },
+     "context": "Anna Marly",
+     "id": 3436035,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "The song of the partisans by\u00a0Anna\u00a0Marly",
+     "title": "The song of the partisans",
+     "type": "Song",
+     "url": "https://genius.com/Anna-marly-the-song-of-the-partisans-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13507603",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13507603,
+      "pinned": false,
+      "share_url": "https://genius.com/13507603",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13507603/Anna-marly-the-song-of-the-partisans/The-song-of-the-partisans",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5743506",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/38b9039a2047716925d9ccf58afb4784",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/38b9039a2047716925d9ccf58afb4784",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/38b9039a2047716925d9ccf58afb4784",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/38b9039a2047716925d9ccf58afb4784",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/38b9039a2047716925d9ccf58afb4784",
+         "human_readable_role_for_display": null,
+         "id": 5743506,
+         "iq": 243,
+         "login": "ELBASKOOO",
+         "name": "ELBASKOOO",
+         "role_for_display": null,
+         "url": "https://genius.com/ELBASKOOO",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/108813",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 108813,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Anna Marly",
+    "url": "https://genius.com/artists/Anna-marly"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

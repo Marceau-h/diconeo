@@ -1,0 +1,540 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2538837",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 2538837,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Les 3 M\u00e9nestrels",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Les-3-menestrels",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 11911441,
+  "annotator_login": "MaximeMaignan",
+  "api_path": "/referents/21730774",
+  "classification": "needs_exegesis",
+  "fragment": "Les 3 M\u00e9nestrels",
+  "id": 21730774,
+  "is_description": true,
+  "path": "/21730774/Les-3-menestrels/Les-3-menestrels",
+  "range": {
+   "content": "Les 3 M\u00e9nestrels"
+  },
+  "song_id": null,
+  "url": "https://genius.com/21730774/Les-3-menestrels/Les-3-menestrels",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2538837",
+   "context": null,
+   "id": 2538837,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Les 3 M\u00e9nestrels",
+   "title": "Les 3 M\u00e9nestrels",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Les-3-menestrels"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/21730774",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 21730774,
+    "pinned": false,
+    "share_url": "https://genius.com/21730774",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/21730774/Les-3-menestrels/Les-3-menestrels",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11911441",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d830c7551698b8343e12f75041e71753",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d830c7551698b8343e12f75041e71753",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d830c7551698b8343e12f75041e71753",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d830c7551698b8343e12f75041e71753",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ljrvv9rdeuf",
+       "human_readable_role_for_display": "Contributor",
+       "id": 11911441,
+       "iq": 4858,
+       "login": "MaximeMaignan",
+       "name": "MaximeMaignan",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/MaximeMaignan",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6320276",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/6320276/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6320276' class='rg_embed_link' data-song-id='6320276'>Read <a href='https://genius.com/Les-3-menestrels-ils-reviendront-lyrics'>\u201cIls Reviendront\u201d by Les\u00a03 M\u00e9nestrels</a> on Genius</div> <script crossorigin src='//genius.com/songs/6320276/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ils Reviendront by\u00a0Les\u00a03 M\u00e9nestrels",
+   "header_image_thumbnail_url": "https://images.genius.com/a5bf6fe74c4c03ecf2cc298a39a1abd2.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a5bf6fe74c4c03ecf2cc298a39a1abd2.597x597x1.jpg",
+   "id": 6320276,
+   "lyrics_owner_id": 11911441,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-3-menestrels-ils-reviendront-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a5bf6fe74c4c03ecf2cc298a39a1abd2.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a5bf6fe74c4c03ecf2cc298a39a1abd2.597x597x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ils Reviendront",
+   "title_with_featured": "Ils Reviendront",
+   "url": "https://genius.com/Les-3-menestrels-ils-reviendront-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/717085",
+    "cover_art_url": "https://images.genius.com/a5bf6fe74c4c03ecf2cc298a39a1abd2.597x597x1.jpg",
+    "full_title": "Ils Reviendront / Gu\u00e9rissez-Moi, Docteur (Jug Band Music) / C'est Pour La Po\u00e9sie / Un Navire Est Arriv\u00e9 by Les 3 M\u00e9nestrels",
+    "id": 717085,
+    "name": "Ils Reviendront / Gu\u00e9rissez-Moi, Docteur (Jug Band Music) / C\u2019est Pour La Po\u00e9sie / Un Navire Est Arriv\u00e9",
+    "url": "https://genius.com/albums/Les-3-menestrels/Ils-reviendront-guerissez-moi-docteur-jug-band-music-c-est-pour-la-poesie-un-navire-est-arrive",
+    "artist": {
+     "api_path": "/artists/2538837",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 2538837,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Les 3 M\u00e9nestrels",
+     "url": "https://genius.com/artists/Les-3-menestrels"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11911441,
+    "annotator_login": "MaximeMaignan",
+    "api_path": "/referents/21730775",
+    "classification": "needs_exegesis",
+    "fragment": "Ils Reviendront",
+    "id": 21730775,
+    "is_description": true,
+    "path": "/21730775/Les-3-menestrels-ils-reviendront/Ils-reviendront",
+    "range": {
+     "content": "Ils Reviendront"
+    },
+    "song_id": 6320276,
+    "url": "https://genius.com/21730775/Les-3-menestrels-ils-reviendront/Ils-reviendront",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6320276",
+     "client_timestamps": {
+      "updated_by_human_at": 1609191131,
+      "lyrics_updated_at": 1609190903
+     },
+     "context": "Les 3 M\u00e9nestrels",
+     "id": 6320276,
+     "image_url": "https://images.genius.com/a5bf6fe74c4c03ecf2cc298a39a1abd2.597x597x1.jpg",
+     "link_title": "Ils Reviendront by\u00a0Les\u00a03 M\u00e9nestrels",
+     "title": "Ils Reviendront",
+     "type": "Song",
+     "url": "https://genius.com/Les-3-menestrels-ils-reviendront-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21730775",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21730775,
+      "pinned": false,
+      "share_url": "https://genius.com/21730775",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21730775/Les-3-menestrels-ils-reviendront/Ils-reviendront",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11911441",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ljrvv9rdeuf",
+         "human_readable_role_for_display": "Contributor",
+         "id": 11911441,
+         "iq": 4858,
+         "login": "MaximeMaignan",
+         "name": "MaximeMaignan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MaximeMaignan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2538837",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 2538837,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les 3 M\u00e9nestrels",
+    "url": "https://genius.com/artists/Les-3-menestrels"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/773387",
+       "full_title": "No Salt on Her Tail by\u00a0The\u00a0Mamas & The Papas",
+       "header_image_thumbnail_url": "https://images.genius.com/c9a064d0a2bf5caa85c1f4ad28e8ca9b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c9a064d0a2bf5caa85c1f4ad28e8ca9b.600x600x1.jpg",
+       "id": 773387,
+       "lyrics_owner_id": 11911441,
+       "lyrics_state": "complete",
+       "path": "/The-mamas-and-the-papas-no-salt-on-her-tail-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c9a064d0a2bf5caa85c1f4ad28e8ca9b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c9a064d0a2bf5caa85c1f4ad28e8ca9b.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "No Salt on Her Tail",
+       "title_with_featured": "No Salt on Her Tail",
+       "url": "https://genius.com/The-mamas-and-the-papas-no-salt-on-her-tail-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/34017",
+        "header_image_url": "https://images.genius.com/7c8ced62b1552951a59f4980bf4311d5.1000x563x1.jpg",
+        "id": 34017,
+        "image_url": "https://images.genius.com/e4c70845a7892809e7c38a989a376d5c.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Mamas & The Papas",
+        "url": "https://genius.com/artists/The-mamas-and-the-papas"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Ils reviendront (Ils reviendront)\nLes oiseaux blancs (les oiseaux blancs)\nQuand les canons (Quand les canons)\nSeront rouill\u00e9s par le vent\n\nIls reviendront (Ils reviendront)\nEt par milliers (Et par milliers)\nQuand elles auront (Quand elles auront)\nDonn\u00e9 un nouveau bl\u00e9\n\nIls sont partis, il y a longtemps d\u00e9j\u00e0\nEn fuyant le fruit digne de tout nos combats\nEt depuis ce jour (Depuis ce jour)\nLe ciel est rest\u00e9 tout vide \u00e0 jamais\n\nIls reviendront\nLes oiseaux blancs (Les oiseaux blancs)\nAvant nos enfants (Avant nos enfants)\nLes chants d'amour et de paix\n\nDepuis tant d'ann\u00e9es, les armes se sont tues\nLes printemps ont pass\u00e9s mais les oiseaux blancs n'ont pas reparus\nPourtant je sais qu'un jour prochain\n\nIls reviendront\nLes oiseaux blancs (Les oiseaux blancs)\nAvant nos enfants (Avant nos enfants)\nLes chants d'amour\n\nLes chants d'amour et de paix\n(Les chants d'amour)\nLes chants d'amour et de paix\n(Les chants d'amour)\nLes chants d'amour et de paix\n(Les chants d'amour)\nLes chants d'amour et de paix"
+  }
+ ]
+}

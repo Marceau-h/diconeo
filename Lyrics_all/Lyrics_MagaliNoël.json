@@ -1,0 +1,825 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/384466",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 384466,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Magali No\u00ebl",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Magali-noel",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7101036",
+  "classification": "needs_exegesis",
+  "fragment": "Magali No\u00ebl",
+  "id": 7101036,
+  "is_description": true,
+  "path": "/7101036/Magali-noel/Magali-noel",
+  "range": {
+   "content": "Magali No\u00ebl"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7101036/Magali-noel/Magali-noel",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/384466",
+   "context": null,
+   "id": 384466,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Magali No\u00ebl",
+   "title": "Magali No\u00ebl",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Magali-noel"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7101036",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7101036,
+    "pinned": false,
+    "share_url": "https://genius.com/7101036",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7101036/Magali-noel/Magali-noel",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1279819",
+   "apple_music_id": "314185963",
+   "apple_music_player_url": "https://genius.com/songs/1279819/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1279819' class='rg_embed_link' data-song-id='1279819'>Read <a href='https://genius.com/Magali-noel-fais-moi-mal-johnny-lyrics'>\u201cFais-moi mal Johnny\u201d by Magali\u00a0No\u00ebl</a> on Genius</div> <script crossorigin src='//genius.com/songs/1279819/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Fais-moi mal Johnny by\u00a0Magali\u00a0No\u00ebl",
+   "header_image_thumbnail_url": "https://images.genius.com/ff0119681e657020d655e60464c5ed62.300x294x1.jpg",
+   "header_image_url": "https://images.genius.com/ff0119681e657020d655e60464c5ed62.1000x980x1.jpg",
+   "id": 1279819,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Magali-noel-fais-moi-mal-johnny-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ff0119681e657020d655e60464c5ed62.300x294x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ff0119681e657020d655e60464c5ed62.1000x980x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fais-moi mal Johnny",
+   "title_with_featured": "Fais-moi mal Johnny",
+   "url": "https://genius.com/Magali-noel-fais-moi-mal-johnny-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/321708",
+    "cover_art_url": "https://images.genius.com/5f428aae7204d027febd26b181331652.500x497x1.jpg",
+    "full_title": "Magali No\u00ebl #2 : Rock and Roll by Magali No\u00ebl",
+    "id": 321708,
+    "name": "Magali No\u00ebl #2 : Rock and Roll",
+    "url": "https://genius.com/albums/Magali-noel/Magali-noel-2-rock-and-roll",
+    "artist": {
+     "api_path": "/artists/384466",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 384466,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Magali No\u00ebl",
+     "url": "https://genius.com/artists/Magali-noel"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5785335",
+    "classification": "needs_exegesis",
+    "fragment": "Fais-moi mal Johnny",
+    "id": 5785335,
+    "is_description": true,
+    "path": "/5785335/Magali-noel-fais-moi-mal-johnny/Fais-moi-mal-johnny",
+    "range": {
+     "content": "Fais-moi mal Johnny"
+    },
+    "song_id": 1279819,
+    "url": "https://genius.com/5785335/Magali-noel-fais-moi-mal-johnny/Fais-moi-mal-johnny",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1279819",
+     "client_timestamps": {
+      "updated_by_human_at": 1482346375,
+      "lyrics_updated_at": 1429740220
+     },
+     "context": "Magali No\u00ebl",
+     "id": 1279819,
+     "image_url": "https://images.genius.com/ff0119681e657020d655e60464c5ed62.1000x980x1.jpg",
+     "link_title": "Fais-moi mal Johnny by\u00a0Magali\u00a0No\u00ebl",
+     "title": "Fais-moi mal Johnny",
+     "type": "Song",
+     "url": "https://genius.com/Magali-noel-fais-moi-mal-johnny-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5785335",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5785335,
+      "pinned": false,
+      "share_url": "https://genius.com/5785335",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5785335/Magali-noel-fais-moi-mal-johnny/Fais-moi-mal-johnny",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/384466",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 384466,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Magali No\u00ebl",
+    "url": "https://genius.com/artists/Magali-noel"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1524811",
+   "apple_music_id": "672761149",
+   "apple_music_player_url": "https://genius.com/songs/1524811/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1524811' class='rg_embed_link' data-song-id='1524811'>Read <a href='https://genius.com/Magali-noel-languille-lyrics'>\u201cL'anguille\u201d by Magali\u00a0No\u00ebl</a> on Genius</div> <script crossorigin src='//genius.com/songs/1524811/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "L'anguille by\u00a0Magali\u00a0No\u00ebl",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 1524811,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Magali-noel-languille-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "L\u2019anguille",
+   "title_with_featured": "L'anguille",
+   "url": "https://genius.com/Magali-noel-languille-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6039293",
+    "classification": "needs_exegesis",
+    "fragment": "L\u2019anguille",
+    "id": 6039293,
+    "is_description": true,
+    "path": "/6039293/Magali-noel-languille/Languille",
+    "range": {
+     "content": "L'anguille"
+    },
+    "song_id": 1524811,
+    "url": "https://genius.com/6039293/Magali-noel-languille/Languille",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1524811",
+     "client_timestamps": {
+      "updated_by_human_at": 1444057163,
+      "lyrics_updated_at": 1429894425
+     },
+     "context": "Magali No\u00ebl",
+     "id": 1524811,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "L\u2019anguille by\u00a0Magali\u00a0No\u00ebl",
+     "title": "L'anguille",
+     "type": "Song",
+     "url": "https://genius.com/Magali-noel-languille-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6039293",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6039293,
+      "pinned": false,
+      "share_url": "https://genius.com/6039293",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6039293/Magali-noel-languille/Languille",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/384466",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 384466,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Magali No\u00ebl",
+    "url": "https://genius.com/artists/Magali-noel"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "J'ai jamais connu qu'une \u00e9cole\nC'est celle de la cambriole\nMon p\u00e8re \u00e9tait un courant d'air\nEt ma m\u00e8re une taloche\nJ'ai pas d'plombs aux ch'villes\nChacun m'appelle \"l'anguille\"\n\nJe suis souple et mince et je glisse\nEntre les mains de la police\nPour moi tous les gens sont pareils\nC'est du fric et des po-ches\nBouclez bien vos grilles\nChacun m'appelle \"l'anguille\"\n\nParmi la foule\nJe me d\u00e9roule\nEt je ramasse\nLes portefeuilles\nQue je recueille\nDans ma vieille paillasse\nJe sais que c'est un paradoxe\nTant pis si c'est pas orthodoxe\nMalgr\u00e9 mon surnom de poisson\nJe m'en vais \u00e0 la p\u00eache\n\nPlanquez vot' jonquille\nVoici venir l'anguille !\n\n(J'ai beau \u00eatre un vrai sp\u00e9cialiste\nPour moi y a pas qu'le fric qu'existe\nIl faut que j'l'avoue j'ai du go\u00fbt\nPour les brunes et les blon-des\nUn regard qui brille...\nAussit\u00f4t je fr\u00e9tille...\n\nLes sous du voisin me passionnent\nMais le c\u0153ur d'une jolie personne\nC'est bien l'coffre-fort le plus fort\nQu'on puisse trouver au mon-de\n\u00c7a tient d'la Bastille\nMais on m'appelle l'anguille)\n\nSur la promenade\nJe me balade\nEt je remarque\nUn type solide\nCa me d\u00e9cide\nIl faut que j'l'embarque !\nJe lui fais comprendre en souplesse\nQue son caract\u00e8re m'int\u00e9resse\nEt sit\u00f4t qu'il mord \u00e0 l'amorce\nEn douceur je le fer-re\n\nPlanquez-vous les filles !\nVoici venir l'anguille !\nL'anguille\nL'anguille\nVoici venir l'anguille !\n\nAttention, planquez-vous !\nJ'arrive\nC'est moi l'anguille !"
+  }
+ ]
+}

@@ -1,0 +1,1199 @@
+{
+ "alternate_names": [
+  "Chantal Bassi"
+ ],
+ "api_path": "/artists/2483809",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/a7c0d2d2312fca6b84f97840ccd056d6.509x234x1.jpg",
+ "id": 2483809,
+ "image_url": "https://images.genius.com/9b44a9e3ff8428a9f93d337b6666a9e5.605x605x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Chantal Kelly",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Chantal-kelly",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 11911441,
+  "annotator_login": "MaximeMaignan",
+  "api_path": "/referents/21380602",
+  "classification": "needs_exegesis",
+  "fragment": "Chantal Kelly",
+  "id": 21380602,
+  "is_description": true,
+  "path": "/21380602/Chantal-kelly/Chantal-kelly",
+  "range": {
+   "content": "Chantal Kelly"
+  },
+  "song_id": null,
+  "url": "https://genius.com/21380602/Chantal-kelly/Chantal-kelly",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2483809",
+   "context": null,
+   "id": 2483809,
+   "image_url": "https://images.genius.com/9b44a9e3ff8428a9f93d337b6666a9e5.605x605x1.jpg",
+   "link_title": "Chantal Kelly",
+   "title": "Chantal Kelly",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Chantal-kelly"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/21380602",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 21380602,
+    "pinned": false,
+    "share_url": "https://genius.com/21380602",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/21380602/Chantal-kelly/Chantal-kelly",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11911441",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d830c7551698b8343e12f75041e71753",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d830c7551698b8343e12f75041e71753",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d830c7551698b8343e12f75041e71753",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d830c7551698b8343e12f75041e71753",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ljrvv9rdeuf",
+       "human_readable_role_for_display": "Contributor",
+       "id": 11911441,
+       "iq": 4510,
+       "login": "MaximeMaignan",
+       "name": "MaximeMaignan",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/MaximeMaignan",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6187128",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/6187128/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6187128' class='rg_embed_link' data-song-id='6187128'>Read <a href='https://genius.com/Chantal-kelly-fragola-lyrics'>\u201cFragola\u201d by Chantal\u00a0Kelly</a> on Genius</div> <script crossorigin src='//genius.com/songs/6187128/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Fragola by\u00a0Chantal\u00a0Kelly",
+   "header_image_thumbnail_url": "https://images.genius.com/d81cf6ff26267caf663721ff45cf833c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/d81cf6ff26267caf663721ff45cf833c.499x499x1.jpg",
+   "id": 6187128,
+   "lyrics_owner_id": 11911441,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Chantal-kelly-fragola-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/d81cf6ff26267caf663721ff45cf833c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d81cf6ff26267caf663721ff45cf833c.499x499x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fragola",
+   "title_with_featured": "Fragola",
+   "url": "https://genius.com/Chantal-kelly-fragola-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/702172",
+    "cover_art_url": "https://images.genius.com/d81cf6ff26267caf663721ff45cf833c.499x499x1.jpg",
+    "full_title": "Fragola / Le Vieux Pin by Chantal Kelly",
+    "id": 702172,
+    "name": "Fragola / Le Vieux Pin",
+    "url": "https://genius.com/albums/Chantal-kelly/Fragola-le-vieux-pin",
+    "artist": {
+     "api_path": "/artists/2483809",
+     "header_image_url": "https://images.genius.com/a7c0d2d2312fca6b84f97840ccd056d6.509x234x1.jpg",
+     "id": 2483809,
+     "image_url": "https://images.genius.com/9b44a9e3ff8428a9f93d337b6666a9e5.605x605x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chantal Kelly",
+     "url": "https://genius.com/artists/Chantal-kelly"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11911441,
+    "annotator_login": "MaximeMaignan",
+    "api_path": "/referents/21380813",
+    "classification": "needs_exegesis",
+    "fragment": "Fragola",
+    "id": 21380813,
+    "is_description": true,
+    "path": "/21380813/Chantal-kelly-fragola/Fragola",
+    "range": {
+     "content": "Fragola"
+    },
+    "song_id": 6187128,
+    "url": "https://genius.com/21380813/Chantal-kelly-fragola/Fragola",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6187128",
+     "client_timestamps": {
+      "updated_by_human_at": 1605783807,
+      "lyrics_updated_at": 1605783807
+     },
+     "context": "Chantal Kelly",
+     "id": 6187128,
+     "image_url": "https://images.genius.com/d81cf6ff26267caf663721ff45cf833c.499x499x1.jpg",
+     "link_title": "Fragola by\u00a0Chantal\u00a0Kelly",
+     "title": "Fragola",
+     "type": "Song",
+     "url": "https://genius.com/Chantal-kelly-fragola-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21380813",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21380813,
+      "pinned": false,
+      "share_url": "https://genius.com/21380813",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21380813/Chantal-kelly-fragola/Fragola",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11911441",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ljrvv9rdeuf",
+         "human_readable_role_for_display": "Contributor",
+         "id": 11911441,
+         "iq": 4510,
+         "login": "MaximeMaignan",
+         "name": "MaximeMaignan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MaximeMaignan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=KlI4f3IuLeM"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2483809",
+    "header_image_url": "https://images.genius.com/a7c0d2d2312fca6b84f97840ccd056d6.509x234x1.jpg",
+    "id": 2483809,
+    "image_url": "https://images.genius.com/9b44a9e3ff8428a9f93d337b6666a9e5.605x605x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Chantal Kelly",
+    "url": "https://genius.com/artists/Chantal-kelly"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6187080",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/6187080/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6187080' class='rg_embed_link' data-song-id='6187080'>Read <a href='https://genius.com/Chantal-kelly-cest-toujours-la-meme-chanson-lyrics'>\u201cC'est Toujours La M\u00eame Chanson\u201d by Chantal\u00a0Kelly</a> on Genius</div> <script crossorigin src='//genius.com/songs/6187080/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "C'est Toujours La M\u00eame Chanson by\u00a0Chantal\u00a0Kelly",
+   "header_image_thumbnail_url": "https://images.genius.com/8529d5a935008fe481acf422748beb83.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8529d5a935008fe481acf422748beb83.497x497x1.jpg",
+   "id": 6187080,
+   "lyrics_owner_id": 11911441,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Chantal-kelly-cest-toujours-la-meme-chanson-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/8529d5a935008fe481acf422748beb83.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8529d5a935008fe481acf422748beb83.497x497x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "C\u2019est Toujours La M\u00eame Chanson",
+   "title_with_featured": "C'est Toujours La M\u00eame Chanson",
+   "url": "https://genius.com/Chantal-kelly-cest-toujours-la-meme-chanson-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/702166",
+    "cover_art_url": "https://images.genius.com/8529d5a935008fe481acf422748beb83.497x497x1.jpg",
+    "full_title": "C'est Toujours La M\u00eame Chanson / Mon Ami, Mon Chien / J'\u00c9coute Cet Air-L\u00e0 / Les Roses De Mon Jardin  by Chantal Kelly",
+    "id": 702166,
+    "name": "C\u2019est Toujours La M\u00eame Chanson / Mon Ami, Mon Chien / J\u2019\u00c9coute Cet Air-L\u00e0 / Les Roses De Mon Jardin ",
+    "url": "https://genius.com/albums/Chantal-kelly/C-est-toujours-la-meme-chanson-mon-ami-mon-chien-j-ecoute-cet-air-la-les-roses-de-mon-jardin",
+    "artist": {
+     "api_path": "/artists/2483809",
+     "header_image_url": "https://images.genius.com/a7c0d2d2312fca6b84f97840ccd056d6.509x234x1.jpg",
+     "id": 2483809,
+     "image_url": "https://images.genius.com/9b44a9e3ff8428a9f93d337b6666a9e5.605x605x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chantal Kelly",
+     "url": "https://genius.com/artists/Chantal-kelly"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11911441,
+    "annotator_login": "MaximeMaignan",
+    "api_path": "/referents/21380714",
+    "classification": "needs_exegesis",
+    "fragment": "C\u2019est Toujours La M\u00eame Chanson",
+    "id": 21380714,
+    "is_description": true,
+    "path": "/21380714/Chantal-kelly-cest-toujours-la-meme-chanson/Cest-toujours-la-meme-chanson",
+    "range": {
+     "content": "C'est Toujours La M\u00eame Chanson"
+    },
+    "song_id": 6187080,
+    "url": "https://genius.com/21380714/Chantal-kelly-cest-toujours-la-meme-chanson/Cest-toujours-la-meme-chanson",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6187080",
+     "client_timestamps": {
+      "updated_by_human_at": 1605782967,
+      "lyrics_updated_at": 1605782737
+     },
+     "context": "Chantal Kelly",
+     "id": 6187080,
+     "image_url": "https://images.genius.com/8529d5a935008fe481acf422748beb83.497x497x1.jpg",
+     "link_title": "C\u2019est Toujours La M\u00eame Chanson by\u00a0Chantal\u00a0Kelly",
+     "title": "C'est Toujours La M\u00eame Chanson",
+     "type": "Song",
+     "url": "https://genius.com/Chantal-kelly-cest-toujours-la-meme-chanson-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21380714",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21380714,
+      "pinned": false,
+      "share_url": "https://genius.com/21380714",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21380714/Chantal-kelly-cest-toujours-la-meme-chanson/Cest-toujours-la-meme-chanson",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11911441",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ljrvv9rdeuf",
+         "human_readable_role_for_display": "Contributor",
+         "id": 11911441,
+         "iq": 4510,
+         "login": "MaximeMaignan",
+         "name": "MaximeMaignan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MaximeMaignan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=2JoSH80s2p0"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2483809",
+    "header_image_url": "https://images.genius.com/a7c0d2d2312fca6b84f97840ccd056d6.509x234x1.jpg",
+    "id": 2483809,
+    "image_url": "https://images.genius.com/9b44a9e3ff8428a9f93d337b6666a9e5.605x605x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Chantal Kelly",
+    "url": "https://genius.com/artists/Chantal-kelly"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6187034",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/6187034/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6187034' class='rg_embed_link' data-song-id='6187034'>Read <a href='https://genius.com/Chantal-kelly-notre-prof-danglais-lyrics'>\u201cNotre Prof' D'anglais\u201d by Chantal\u00a0Kelly</a> on Genius</div> <script crossorigin src='//genius.com/songs/6187034/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Notre Prof' D'anglais by\u00a0Chantal\u00a0Kelly",
+   "header_image_thumbnail_url": "https://images.genius.com/306ef23b77039fe83a59beeb6d8117dc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/306ef23b77039fe83a59beeb6d8117dc.600x600x1.jpg",
+   "id": 6187034,
+   "lyrics_owner_id": 11911441,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Chantal-kelly-notre-prof-danglais-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/306ef23b77039fe83a59beeb6d8117dc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/306ef23b77039fe83a59beeb6d8117dc.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Notre Prof\u2019 D\u2019anglais",
+   "title_with_featured": "Notre Prof' D'anglais",
+   "url": "https://genius.com/Chantal-kelly-notre-prof-danglais-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/702156",
+    "cover_art_url": "https://images.genius.com/306ef23b77039fe83a59beeb6d8117dc.600x600x1.jpg",
+    "full_title": "Interdit Aux Moins De 18 Ans by Chantal Kelly",
+    "id": 702156,
+    "name": "Interdit Aux Moins De 18 Ans",
+    "url": "https://genius.com/albums/Chantal-kelly/Interdit-aux-moins-de-18-ans",
+    "artist": {
+     "api_path": "/artists/2483809",
+     "header_image_url": "https://images.genius.com/a7c0d2d2312fca6b84f97840ccd056d6.509x234x1.jpg",
+     "id": 2483809,
+     "image_url": "https://images.genius.com/9b44a9e3ff8428a9f93d337b6666a9e5.605x605x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chantal Kelly",
+     "url": "https://genius.com/artists/Chantal-kelly"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11911441,
+    "annotator_login": "MaximeMaignan",
+    "api_path": "/referents/21380603",
+    "classification": "needs_exegesis",
+    "fragment": "Notre Prof\u2019 D\u2019anglais",
+    "id": 21380603,
+    "is_description": true,
+    "path": "/21380603/Chantal-kelly-notre-prof-danglais/Notre-prof-danglais",
+    "range": {
+     "content": "Notre Prof' D'anglais"
+    },
+    "song_id": 6187034,
+    "url": "https://genius.com/21380603/Chantal-kelly-notre-prof-danglais/Notre-prof-danglais",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6187034",
+     "client_timestamps": {
+      "updated_by_human_at": 1605781610,
+      "lyrics_updated_at": 1605781610
+     },
+     "context": "Chantal Kelly",
+     "id": 6187034,
+     "image_url": "https://images.genius.com/306ef23b77039fe83a59beeb6d8117dc.600x600x1.jpg",
+     "link_title": "Notre Prof\u2019 D\u2019anglais by\u00a0Chantal\u00a0Kelly",
+     "title": "Notre Prof' D'anglais",
+     "type": "Song",
+     "url": "https://genius.com/Chantal-kelly-notre-prof-danglais-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21380603",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21380603,
+      "pinned": false,
+      "share_url": "https://genius.com/21380603",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21380603/Chantal-kelly-notre-prof-danglais/Notre-prof-danglais",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11911441",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d830c7551698b8343e12f75041e71753",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ljrvv9rdeuf",
+         "human_readable_role_for_display": "Contributor",
+         "id": 11911441,
+         "iq": 4510,
+         "login": "MaximeMaignan",
+         "name": "MaximeMaignan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MaximeMaignan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=aE8xZaa-vSQ"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2483809",
+    "header_image_url": "https://images.genius.com/a7c0d2d2312fca6b84f97840ccd056d6.509x234x1.jpg",
+    "id": 2483809,
+    "image_url": "https://images.genius.com/9b44a9e3ff8428a9f93d337b6666a9e5.605x605x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Chantal Kelly",
+    "url": "https://genius.com/artists/Chantal-kelly"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Laaa lalalala lalalala lalalala\nLalalala lalalala lalalala\n\nTous les lundis matins\nMoi j'aime bien rentrer au lyc\u00e9e\nCar le lundi matin\nCommence par le cours d'anglais\n\nEt notre professeur\nQui n'a je crois gu\u00e8re plus de vingt ans\nNous fait pendant une heure\nUne le\u00e7on \"Made in England\"\n\nI am ? Je suis !\nYou are ? Tu es !\nShe is ? Elle est !\nHe is ? Il est !\n\nHoooo\nLalalalala\nIl est play boy\nLalalala\nEt il nous pla\u00eet\nLalalala\nLe prof' d'anglais\n\nIl est tellement gentil\nQu'avec lui on est vraiment bien sag\u0435s\nOn ne fait pas de bruit\nOn rest\u0435 comme des images\nNous connaissons par c\u0153ur\nDes tas de verbes irr\u00e9guliers\nEt l'on n'a jamais peur\nQuand il vient nous interroger\n\nI am ? Je suis !\nYou are ? Tu es !\nShe is ? Elle est !\nHe is ? Il est !\n\nHoooo\nLalalalala\nIl est play boy\nLalalala\nEt il nous pla\u00eet\nLalalala\nLe prof' d'anglais\n\nMais voil\u00e0 les vacances\nEt loin de lui je vais m'ennuyer\nQuand l'\u00e9t\u00e9 recommence\nFinit pour nous le cours d'anglais\nEt j'attends la rentr\u00e9e\nEn regardant tous mes vieux cahiers\nMais en r\u00e9alit\u00e9\nLe prof' ne me quittera jamais\n\nI love ? Je t'aime !\nYou love ? Tu l'aimes !\nShe loves ? Elle l'aime !\nHe loves ? Il l'aime !\n\nHoooo\nLalalalala\nLaaa lalalala lalalala lalalala\nLalalala lalalala lalalala (x4)"
+  }
+ ]
+}

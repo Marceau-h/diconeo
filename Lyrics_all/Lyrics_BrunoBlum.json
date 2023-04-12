@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1418564",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 1418564,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Bruno Blum",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Bruno-blum",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2797080,
+  "annotator_login": "LuckyKnight",
+  "api_path": "/referents/14073124",
+  "classification": "needs_exegesis",
+  "fragment": "Bruno Blum",
+  "id": 14073124,
+  "is_description": true,
+  "path": "/14073124/Bruno-blum/Bruno-blum",
+  "range": {
+   "content": "Bruno Blum"
+  },
+  "song_id": null,
+  "url": "https://genius.com/14073124/Bruno-blum/Bruno-blum",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1418564",
+   "context": null,
+   "id": 1418564,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Bruno Blum",
+   "title": "Bruno Blum",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Bruno-blum"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/14073124",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 14073124,
+    "pinned": false,
+    "share_url": "https://genius.com/14073124",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/14073124/Bruno-blum/Bruno-blum",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2797080",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/09b54a600dad431c351908e9d7f6497a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/09b54a600dad431c351908e9d7f6497a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/09b54a600dad431c351908e9d7f6497a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/09b54a600dad431c351908e9d7f6497a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/09b54a600dad431c351908e9d7f6497a",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2797080,
+       "iq": 25732,
+       "login": "LuckyKnight",
+       "name": "LuckyKnight",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/LuckyKnight",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

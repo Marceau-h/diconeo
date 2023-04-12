@@ -1,0 +1,2186 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2103198",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+ "id": 2103198,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Rouge Gorge",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Rouge-gorge",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1278691,
+  "annotator_login": "MonsieurLeProf",
+  "api_path": "/referents/19011425",
+  "classification": "needs_exegesis",
+  "fragment": "Rouge Gorge",
+  "id": 19011425,
+  "is_description": true,
+  "path": "/19011425/Rouge-gorge/Rouge-gorge",
+  "range": {
+   "content": "Rouge Gorge"
+  },
+  "song_id": null,
+  "url": "https://genius.com/19011425/Rouge-gorge/Rouge-gorge",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2103198",
+   "context": null,
+   "id": 2103198,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1651176288",
+   "link_title": "Rouge Gorge",
+   "title": "Rouge Gorge",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Rouge-gorge"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/19011425",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 19011425,
+    "pinned": false,
+    "share_url": "https://genius.com/19011425",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/19011425/Rouge-gorge/Rouge-gorge",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1278691",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/5a66e6e33f98ba2bf2140b6fffb74b1d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/5a66e6e33f98ba2bf2140b6fffb74b1d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/5a66e6e33f98ba2bf2140b6fffb74b1d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1278691,
+       "iq": 1318,
+       "login": "MonsieurLeProf",
+       "name": "MonsieurLeProf",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/MonsieurLeProf",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5288013",
+   "apple_music_id": "1441984044",
+   "apple_music_player_url": "https://genius.com/songs/5288013/apple_music_player",
+   "artist_names": "Rouge Gorge",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5288013' class='rg_embed_link' data-song-id='5288013'>Read <a href='https://genius.com/Rouge-gorge-les-primeveres-des-fosses-lyrics'>\u201cLes primev\u00e8res des foss\u00e9s\u201d by Rouge\u00a0Gorge</a> on Genius</div> <script crossorigin src='//genius.com/songs/5288013/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Les primev\u00e8res des foss\u00e9s by\u00a0Rouge\u00a0Gorge",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "id": 5288013,
+   "lyrics_owner_id": 5957905,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Rouge-gorge-les-primeveres-des-fosses-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Les primev\u00e8res des foss\u00e9s",
+   "title_with_featured": "Les primev\u00e8res des foss\u00e9s",
+   "url": "https://genius.com/Rouge-gorge-les-primeveres-des-fosses-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5957905,
+    "annotator_login": "ansbt",
+    "api_path": "/referents/19118626",
+    "classification": "needs_exegesis",
+    "fragment": "Les primev\u00e8res des foss\u00e9s",
+    "id": 19118626,
+    "is_description": true,
+    "path": "/19118626/Rouge-gorge-les-primeveres-des-fosses/Les-primeveres-des-fosses",
+    "range": {
+     "content": "Les primev\u00e8res des foss\u00e9s"
+    },
+    "song_id": 5288013,
+    "url": "https://genius.com/19118626/Rouge-gorge-les-primeveres-des-fosses/Les-primeveres-des-fosses",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5288013",
+     "client_timestamps": {
+      "updated_by_human_at": 1582466081,
+      "lyrics_updated_at": 1582466081
+     },
+     "context": "Rouge Gorge",
+     "id": 5288013,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+     "link_title": "Les primev\u00e8res des foss\u00e9s by\u00a0Rouge\u00a0Gorge",
+     "title": "Les primev\u00e8res des foss\u00e9s",
+     "type": "Song",
+     "url": "https://genius.com/Rouge-gorge-les-primeveres-des-fosses-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19118626",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19118626,
+      "pinned": false,
+      "share_url": "https://genius.com/19118626",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19118626/Rouge-gorge-les-primeveres-des-fosses/Les-primeveres-des-fosses",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5957905",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/538ebbf8f9005f4f0e436bf8d2aa9aee",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/538ebbf8f9005f4f0e436bf8d2aa9aee",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/538ebbf8f9005f4f0e436bf8d2aa9aee",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/538ebbf8f9005f4f0e436bf8d2aa9aee",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/538ebbf8f9005f4f0e436bf8d2aa9aee",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5957905,
+         "iq": 4630,
+         "login": "ansbt",
+         "name": "ansbt",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/ansbt",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2103198",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 2103198,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rouge Gorge",
+    "url": "https://genius.com/artists/Rouge-gorge"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5243511",
+   "apple_music_id": "1487864328",
+   "apple_music_player_url": "https://genius.com/songs/5243511/apple_music_player",
+   "artist_names": "Rouge Gorge",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5243511' class='rg_embed_link' data-song-id='5243511'>Read <a href='https://genius.com/Rouge-gorge-les-profondeurs-lyrics'>\u201cLes profondeurs\u201d by Rouge\u00a0Gorge</a> on Genius</div> <script crossorigin src='//genius.com/songs/5243511/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Les profondeurs by\u00a0Rouge\u00a0Gorge",
+   "header_image_thumbnail_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+   "id": 5243511,
+   "lyrics_owner_id": 1278691,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Rouge-gorge-les-profondeurs-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Les profondeurs",
+   "title_with_featured": "Les profondeurs",
+   "url": "https://genius.com/Rouge-gorge-les-profondeurs-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/601399",
+    "cover_art_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+    "full_title": "Ren\u00e9 by Rouge Gorge",
+    "id": 601399,
+    "name": "Ren\u00e9",
+    "url": "https://genius.com/albums/Rouge-gorge/Rene",
+    "artist": {
+     "api_path": "/artists/2103198",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 2103198,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rouge Gorge",
+     "url": "https://genius.com/artists/Rouge-gorge"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1278691,
+    "annotator_login": "MonsieurLeProf",
+    "api_path": "/referents/19011465",
+    "classification": "needs_exegesis",
+    "fragment": "Les profondeurs",
+    "id": 19011465,
+    "is_description": true,
+    "path": "/19011465/Rouge-gorge-les-profondeurs/Les-profondeurs",
+    "range": {
+     "content": "Les profondeurs"
+    },
+    "song_id": 5243511,
+    "url": "https://genius.com/19011465/Rouge-gorge-les-profondeurs/Les-profondeurs",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5243511",
+     "client_timestamps": {
+      "updated_by_human_at": 1581183293,
+      "lyrics_updated_at": 1581183293
+     },
+     "context": "Rouge Gorge",
+     "id": 5243511,
+     "image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+     "link_title": "Les profondeurs by\u00a0Rouge\u00a0Gorge",
+     "title": "Les profondeurs",
+     "type": "Song",
+     "url": "https://genius.com/Rouge-gorge-les-profondeurs-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19011465",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19011465,
+      "pinned": false,
+      "share_url": "https://genius.com/19011465",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19011465/Rouge-gorge-les-profondeurs/Les-profondeurs",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1278691",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1278691,
+         "iq": 1318,
+         "login": "MonsieurLeProf",
+         "name": "MonsieurLeProf",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MonsieurLeProf",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2103198",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 2103198,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rouge Gorge",
+    "url": "https://genius.com/artists/Rouge-gorge"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5243482",
+   "apple_music_id": "1487864234",
+   "apple_music_player_url": "https://genius.com/songs/5243482/apple_music_player",
+   "artist_names": "Rouge Gorge",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5243482' class='rg_embed_link' data-song-id='5243482'>Read <a href='https://genius.com/Rouge-gorge-allez-vous-en-lyrics'>\u201cAllez-vous-en\u201d by Rouge\u00a0Gorge</a> on Genius</div> <script crossorigin src='//genius.com/songs/5243482/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Allez-vous-en by\u00a0Rouge\u00a0Gorge",
+   "header_image_thumbnail_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+   "id": 5243482,
+   "lyrics_owner_id": 1278691,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Rouge-gorge-allez-vous-en-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2020-02-06",
+   "release_date_for_display": "February 6, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Allez-vous-en",
+   "title_with_featured": "Allez-vous-en",
+   "url": "https://genius.com/Rouge-gorge-allez-vous-en-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/601399",
+    "cover_art_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+    "full_title": "Ren\u00e9 by Rouge Gorge",
+    "id": 601399,
+    "name": "Ren\u00e9",
+    "url": "https://genius.com/albums/Rouge-gorge/Rene",
+    "artist": {
+     "api_path": "/artists/2103198",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 2103198,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rouge Gorge",
+     "url": "https://genius.com/artists/Rouge-gorge"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1278691,
+    "annotator_login": "MonsieurLeProf",
+    "api_path": "/referents/19011426",
+    "classification": "needs_exegesis",
+    "fragment": "Allez-vous-en",
+    "id": 19011426,
+    "is_description": true,
+    "path": "/19011426/Rouge-gorge-allez-vous-en/Allez-vous-en",
+    "range": {
+     "content": "Allez-vous-en"
+    },
+    "song_id": 5243482,
+    "url": "https://genius.com/19011426/Rouge-gorge-allez-vous-en/Allez-vous-en",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5243482",
+     "client_timestamps": {
+      "updated_by_human_at": 1581182405,
+      "lyrics_updated_at": 1581182405
+     },
+     "context": "Rouge Gorge",
+     "id": 5243482,
+     "image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+     "link_title": "Allez-vous-en by\u00a0Rouge\u00a0Gorge",
+     "title": "Allez-vous-en",
+     "type": "Song",
+     "url": "https://genius.com/Rouge-gorge-allez-vous-en-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19011426",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19011426,
+      "pinned": false,
+      "share_url": "https://genius.com/19011426",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19011426/Rouge-gorge-allez-vous-en/Allez-vous-en",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1278691",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1278691,
+         "iq": 1318,
+         "login": "MonsieurLeProf",
+         "name": "MonsieurLeProf",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MonsieurLeProf",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=4hB3TEpTl50"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2103198",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 2103198,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rouge Gorge",
+    "url": "https://genius.com/artists/Rouge-gorge"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5243512",
+   "apple_music_id": "1487864329",
+   "apple_music_player_url": "https://genius.com/songs/5243512/apple_music_player",
+   "artist_names": "Rouge Gorge",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5243512' class='rg_embed_link' data-song-id='5243512'>Read <a href='https://genius.com/Rouge-gorge-des-jolies-choses-lyrics'>\u201cDes jolies choses\u201d by Rouge\u00a0Gorge</a> on Genius</div> <script crossorigin src='//genius.com/songs/5243512/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Des jolies choses by\u00a0Rouge\u00a0Gorge",
+   "header_image_thumbnail_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+   "id": 5243512,
+   "lyrics_owner_id": 1278691,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Rouge-gorge-des-jolies-choses-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Des jolies choses",
+   "title_with_featured": "Des jolies choses",
+   "url": "https://genius.com/Rouge-gorge-des-jolies-choses-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/601399",
+    "cover_art_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+    "full_title": "Ren\u00e9 by Rouge Gorge",
+    "id": 601399,
+    "name": "Ren\u00e9",
+    "url": "https://genius.com/albums/Rouge-gorge/Rene",
+    "artist": {
+     "api_path": "/artists/2103198",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 2103198,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rouge Gorge",
+     "url": "https://genius.com/artists/Rouge-gorge"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1278691,
+    "annotator_login": "MonsieurLeProf",
+    "api_path": "/referents/19011466",
+    "classification": "needs_exegesis",
+    "fragment": "Des jolies choses",
+    "id": 19011466,
+    "is_description": true,
+    "path": "/19011466/Rouge-gorge-des-jolies-choses/Des-jolies-choses",
+    "range": {
+     "content": "Des jolies choses"
+    },
+    "song_id": 5243512,
+    "url": "https://genius.com/19011466/Rouge-gorge-des-jolies-choses/Des-jolies-choses",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5243512",
+     "client_timestamps": {
+      "updated_by_human_at": 1581183872,
+      "lyrics_updated_at": 1581183872
+     },
+     "context": "Rouge Gorge",
+     "id": 5243512,
+     "image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+     "link_title": "Des jolies choses by\u00a0Rouge\u00a0Gorge",
+     "title": "Des jolies choses",
+     "type": "Song",
+     "url": "https://genius.com/Rouge-gorge-des-jolies-choses-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19011466",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19011466,
+      "pinned": false,
+      "share_url": "https://genius.com/19011466",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19011466/Rouge-gorge-des-jolies-choses/Des-jolies-choses",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1278691",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1278691,
+         "iq": 1318,
+         "login": "MonsieurLeProf",
+         "name": "MonsieurLeProf",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MonsieurLeProf",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2103198",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 2103198,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rouge Gorge",
+    "url": "https://genius.com/artists/Rouge-gorge"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5243507",
+   "apple_music_id": "1487864237",
+   "apple_music_player_url": "https://genius.com/songs/5243507/apple_music_player",
+   "artist_names": "Rouge Gorge",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5243507' class='rg_embed_link' data-song-id='5243507'>Read <a href='https://genius.com/Rouge-gorge-un-jour-plus-vieux-lyrics'>\u201cUn jour plus vieux\u201d by Rouge\u00a0Gorge</a> on Genius</div> <script crossorigin src='//genius.com/songs/5243507/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Un jour plus vieux by\u00a0Rouge\u00a0Gorge",
+   "header_image_thumbnail_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+   "id": 5243507,
+   "lyrics_owner_id": 1278691,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Rouge-gorge-un-jour-plus-vieux-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Un jour plus vieux",
+   "title_with_featured": "Un jour plus vieux",
+   "url": "https://genius.com/Rouge-gorge-un-jour-plus-vieux-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/601399",
+    "cover_art_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+    "full_title": "Ren\u00e9 by Rouge Gorge",
+    "id": 601399,
+    "name": "Ren\u00e9",
+    "url": "https://genius.com/albums/Rouge-gorge/Rene",
+    "artist": {
+     "api_path": "/artists/2103198",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 2103198,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rouge Gorge",
+     "url": "https://genius.com/artists/Rouge-gorge"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1278691,
+    "annotator_login": "MonsieurLeProf",
+    "api_path": "/referents/19011461",
+    "classification": "needs_exegesis",
+    "fragment": "Un jour plus vieux",
+    "id": 19011461,
+    "is_description": true,
+    "path": "/19011461/Rouge-gorge-un-jour-plus-vieux/Un-jour-plus-vieux",
+    "range": {
+     "content": "Un jour plus vieux"
+    },
+    "song_id": 5243507,
+    "url": "https://genius.com/19011461/Rouge-gorge-un-jour-plus-vieux/Un-jour-plus-vieux",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5243507",
+     "client_timestamps": {
+      "updated_by_human_at": 1581182851,
+      "lyrics_updated_at": 1581182851
+     },
+     "context": "Rouge Gorge",
+     "id": 5243507,
+     "image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+     "link_title": "Un jour plus vieux by\u00a0Rouge\u00a0Gorge",
+     "title": "Un jour plus vieux",
+     "type": "Song",
+     "url": "https://genius.com/Rouge-gorge-un-jour-plus-vieux-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19011461",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19011461,
+      "pinned": false,
+      "share_url": "https://genius.com/19011461",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19011461/Rouge-gorge-un-jour-plus-vieux/Un-jour-plus-vieux",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1278691",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1278691,
+         "iq": 1318,
+         "login": "MonsieurLeProf",
+         "name": "MonsieurLeProf",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MonsieurLeProf",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2103198",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 2103198,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rouge Gorge",
+    "url": "https://genius.com/artists/Rouge-gorge"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5243510",
+   "apple_music_id": "1487864319",
+   "apple_music_player_url": "https://genius.com/songs/5243510/apple_music_player",
+   "artist_names": "Rouge Gorge",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5243510' class='rg_embed_link' data-song-id='5243510'>Read <a href='https://genius.com/Rouge-gorge-pas-moi-lyrics'>\u201cPas moi\u201d by Rouge\u00a0Gorge</a> on Genius</div> <script crossorigin src='//genius.com/songs/5243510/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Pas moi by\u00a0Rouge\u00a0Gorge",
+   "header_image_thumbnail_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+   "id": 5243510,
+   "lyrics_owner_id": 1278691,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Rouge-gorge-pas-moi-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Pas moi",
+   "title_with_featured": "Pas moi",
+   "url": "https://genius.com/Rouge-gorge-pas-moi-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/601399",
+    "cover_art_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+    "full_title": "Ren\u00e9 by Rouge Gorge",
+    "id": 601399,
+    "name": "Ren\u00e9",
+    "url": "https://genius.com/albums/Rouge-gorge/Rene",
+    "artist": {
+     "api_path": "/artists/2103198",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 2103198,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rouge Gorge",
+     "url": "https://genius.com/artists/Rouge-gorge"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1278691,
+    "annotator_login": "MonsieurLeProf",
+    "api_path": "/referents/19011464",
+    "classification": "needs_exegesis",
+    "fragment": "Pas moi",
+    "id": 19011464,
+    "is_description": true,
+    "path": "/19011464/Rouge-gorge-pas-moi/Pas-moi",
+    "range": {
+     "content": "Pas moi"
+    },
+    "song_id": 5243510,
+    "url": "https://genius.com/19011464/Rouge-gorge-pas-moi/Pas-moi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5243510",
+     "client_timestamps": {
+      "updated_by_human_at": 1581183095,
+      "lyrics_updated_at": 1581183095
+     },
+     "context": "Rouge Gorge",
+     "id": 5243510,
+     "image_url": "https://images.genius.com/b7bf0a788f65174b58534e195fdeaab8.700x700x1.jpg",
+     "link_title": "Pas moi by\u00a0Rouge\u00a0Gorge",
+     "title": "Pas moi",
+     "type": "Song",
+     "url": "https://genius.com/Rouge-gorge-pas-moi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19011464",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19011464,
+      "pinned": false,
+      "share_url": "https://genius.com/19011464",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19011464/Rouge-gorge-pas-moi/Pas-moi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1278691",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1278691,
+         "iq": 1318,
+         "login": "MonsieurLeProf",
+         "name": "MonsieurLeProf",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MonsieurLeProf",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/2103198",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 2103198,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rouge Gorge",
+    "url": "https://genius.com/artists/Rouge-gorge"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

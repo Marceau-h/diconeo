@@ -1,0 +1,1184 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1039150",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 1039150,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Napkey",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Napkey",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3831942,
+  "annotator_login": "SimonAeby",
+  "api_path": "/referents/10922247",
+  "classification": "needs_exegesis",
+  "fragment": "Napkey",
+  "id": 10922247,
+  "is_description": true,
+  "path": "/10922247/Napkey/Napkey",
+  "range": {
+   "content": "Napkey"
+  },
+  "song_id": null,
+  "url": "https://genius.com/10922247/Napkey/Napkey",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1039150",
+   "context": null,
+   "id": 1039150,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Napkey",
+   "title": "Napkey",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Napkey"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/10922247",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 10922247,
+    "pinned": false,
+    "share_url": "https://genius.com/10922247",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/10922247/Napkey/Napkey",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3831942",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4361e0bafb395234f5583fb0b736d3de",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4361e0bafb395234f5583fb0b736d3de",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4361e0bafb395234f5583fb0b736d3de",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4361e0bafb395234f5583fb0b736d3de",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/4361e0bafb395234f5583fb0b736d3de",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3831942,
+       "iq": 360,
+       "login": "SimonAeby",
+       "name": "SimonAeby",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/SimonAeby",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4021532",
+   "apple_music_id": "1228665253",
+   "apple_music_player_url": "https://genius.com/songs/4021532/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4021532' class='rg_embed_link' data-song-id='4021532'>Read <a href='https://genius.com/Napkey-at-least-lyrics'>\u201cAt Least\u201d by Napkey</a> on Genius</div> <script crossorigin src='//genius.com/songs/4021532/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "At Least by\u00a0Napkey",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 4021532,
+   "lyrics_owner_id": 136820,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Napkey-at-least-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "At Least",
+   "title_with_featured": "At Least",
+   "url": "https://genius.com/Napkey-at-least-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 136820,
+    "annotator_login": "GiveMeHope",
+    "api_path": "/referents/15584191",
+    "classification": "needs_exegesis",
+    "fragment": "At Least",
+    "id": 15584191,
+    "is_description": true,
+    "path": "/15584191/Napkey-at-least/At-least",
+    "range": {
+     "content": "At Least"
+    },
+    "song_id": 4021532,
+    "url": "https://genius.com/15584191/Napkey-at-least/At-least",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4021532",
+     "client_timestamps": {
+      "updated_by_human_at": 1539627083,
+      "lyrics_updated_at": 1539627083
+     },
+     "context": "Napkey",
+     "id": 4021532,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "At Least by\u00a0Napkey",
+     "title": "At Least",
+     "type": "Song",
+     "url": "https://genius.com/Napkey-at-least-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15584191",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 15584191,
+      "pinned": false,
+      "share_url": "https://genius.com/15584191",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/15584191/Napkey-at-least/At-least",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/136820",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/81c946644a76c5b1b3ada06a854348da",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/81c946644a76c5b1b3ada06a854348da",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/81c946644a76c5b1b3ada06a854348da",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/81c946644a76c5b1b3ada06a854348da",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/81c946644a76c5b1b3ada06a854348da",
+         "human_readable_role_for_display": "Contributor",
+         "id": 136820,
+         "iq": 1235,
+         "login": "GiveMeHope",
+         "name": "GiveMeHope",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/GiveMeHope",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/1039150",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 1039150,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Napkey",
+    "url": "https://genius.com/artists/Napkey"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2920474",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2920474/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2920474' class='rg_embed_link' data-song-id='2920474'>Read <a href='https://genius.com/Napkey-le-chat-annotated'>\u201cLe Chat\u201d by Napkey</a> on Genius</div> <script crossorigin src='//genius.com/songs/2920474/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le Chat by\u00a0Napkey (Ft.\u00a0Justine\u00a0Rousseau)",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 2920474,
+   "lyrics_owner_id": 3831942,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Napkey-le-chat-annotated",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Chat",
+   "title_with_featured": "Le Chat (Ft.\u00a0Justine\u00a0Rousseau)",
+   "url": "https://genius.com/Napkey-le-chat-annotated",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3831942,
+    "annotator_login": "SimonAeby",
+    "api_path": "/referents/10922249",
+    "classification": "needs_exegesis",
+    "fragment": "Le Chat",
+    "id": 10922249,
+    "is_description": true,
+    "path": "/10922249/Napkey-le-chat/Le-chat",
+    "range": {
+     "content": "Le Chat"
+    },
+    "song_id": 2920474,
+    "url": "https://genius.com/10922249/Napkey-le-chat/Le-chat",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2920474",
+     "client_timestamps": {
+      "updated_by_human_at": 1480433745,
+      "lyrics_updated_at": 1480433745
+     },
+     "context": "Napkey",
+     "id": 2920474,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Le Chat by\u00a0Napkey (Ft.\u00a0Justine\u00a0Rousseau)",
+     "title": "Le Chat",
+     "type": "Song",
+     "url": "https://genius.com/Napkey-le-chat-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10922249",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10922249,
+      "pinned": false,
+      "share_url": "https://genius.com/10922249",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10922249/Napkey-le-chat/Le-chat",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3831942",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4361e0bafb395234f5583fb0b736d3de",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4361e0bafb395234f5583fb0b736d3de",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4361e0bafb395234f5583fb0b736d3de",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4361e0bafb395234f5583fb0b736d3de",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4361e0bafb395234f5583fb0b736d3de",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3831942,
+         "iq": 360,
+         "login": "SimonAeby",
+         "name": "SimonAeby",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/SimonAeby",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/1039151",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1039151,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justine Rousseau",
+     "url": "https://genius.com/artists/Justine-rousseau"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "attribution": "napkey",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/napkey/napkey-le-chat"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1039150",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 1039150,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Napkey",
+    "url": "https://genius.com/artists/Napkey"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Batman a Robin\nBatman a Robin\nEt moi j'ai quoi ?\nEt moi j'ai quoi ?\n\nEt moi j'ai quoi ?\n\nBatman a Robin\nCharles a Magneto\nBernardo a Zorro\nEt moi j'ai quoi?\n\nBatman a Robin\nCharles a Magneto\nBernardo a Zorro\nEt moi j'ai quoi ?\nEt moi j'ai quoi ?\nMoi j'ai le chat\n\nMoi j'ai le chat\n\nMoi j'ai le chat"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5174045",
+   "apple_music_id": "1509788701",
+   "apple_music_player_url": "https://genius.com/songs/5174045/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5174045' class='rg_embed_link' data-song-id='5174045'>Read <a href='https://genius.com/Napkey-rebirth-lyrics'>\u201cRebirth\u201d by Napkey</a> on Genius</div> <script crossorigin src='//genius.com/songs/5174045/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Rebirth by\u00a0Napkey",
+   "header_image_thumbnail_url": "https://images.genius.com/a2b23cdc21cca30a4d2c8ecf3ad09d0f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a2b23cdc21cca30a4d2c8ecf3ad09d0f.800x800x1.jpg",
+   "id": 5174045,
+   "lyrics_owner_id": 10050034,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Napkey-rebirth-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-04-09",
+   "release_date_for_display": "April 9, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a2b23cdc21cca30a4d2c8ecf3ad09d0f.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a2b23cdc21cca30a4d2c8ecf3ad09d0f.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Rebirth",
+   "title_with_featured": "Rebirth",
+   "url": "https://genius.com/Napkey-rebirth-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/594183",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Vanguard by Napkey",
+    "id": 594183,
+    "name": "Vanguard",
+    "url": "https://genius.com/albums/Napkey/Vanguard",
+    "artist": {
+     "api_path": "/artists/1039150",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1039150,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Napkey",
+     "url": "https://genius.com/artists/Napkey"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10050034,
+    "annotator_login": "skabrera",
+    "api_path": "/referents/18837211",
+    "classification": "needs_exegesis",
+    "fragment": "Rebirth",
+    "id": 18837211,
+    "is_description": true,
+    "path": "/18837211/Napkey-rebirth/Rebirth",
+    "range": {
+     "content": "Rebirth"
+    },
+    "song_id": 5174045,
+    "url": "https://genius.com/18837211/Napkey-rebirth/Rebirth",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5174045",
+     "client_timestamps": {
+      "updated_by_human_at": 1579039168,
+      "lyrics_updated_at": 1579039131
+     },
+     "context": "Napkey",
+     "id": 5174045,
+     "image_url": "https://images.genius.com/a2b23cdc21cca30a4d2c8ecf3ad09d0f.800x800x1.jpg",
+     "link_title": "Rebirth by\u00a0Napkey",
+     "title": "Rebirth",
+     "type": "Song",
+     "url": "https://genius.com/Napkey-rebirth-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18837211",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18837211,
+      "pinned": false,
+      "share_url": "https://genius.com/18837211",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18837211/Napkey-rebirth/Rebirth",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10050034",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/1ae5c378d6984febe6ce90c096ec8aaf",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/1ae5c378d6984febe6ce90c096ec8aaf",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/1ae5c378d6984febe6ce90c096ec8aaf",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/1ae5c378d6984febe6ce90c096ec8aaf",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/1ae5c378d6984febe6ce90c096ec8aaf",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10050034,
+         "iq": 747,
+         "login": "skabrera",
+         "name": "skabrera",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/skabrera",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "attribution": "bon entendeur records",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/bon-entendeur-records/napkey-rebirth?in=napkey/sets/napkey-vanguard-ep"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=RPWlA6j2vns"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1039150",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 1039150,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Napkey",
+    "url": "https://genius.com/artists/Napkey"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1039150",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1039150,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Napkey",
+     "url": "https://genius.com/artists/Napkey"
+    }
+   ],
+   "lyrics": "So I gonna go\nFar away from you\nSo I gonna go\nFar away from you\n\nI wanna go\nFar\u2005away\u2005from you\nFar away\u2005with you\n\nSo I gonna go\nFar away\u2005from you\nFar away with you\nLeave this place with you\n\nSet me free\nSo I gonna go\nSet me free\n\nSet me free\nSo I gonna go\nSet me free\nCome with me\n\nSet me free\nSet me free\nLet's escape from this world\nSet me free\nSet me free\nSet me free\nI wanna go\nAnd please come with me\n\nSo I wanna go\nFar away from you\nFar away with you\n\nSo I wanna go\nFar away from you\nFar away with you\nLeave this place with you"
+  }
+ ]
+}

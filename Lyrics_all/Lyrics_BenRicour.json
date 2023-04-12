@@ -1,0 +1,3163 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/50148",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 50148,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Ben Ricour",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Ben-ricour",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 13034,
+  "annotator_login": "Damien_RGF",
+  "api_path": "/referents/6967963",
+  "classification": "needs_exegesis",
+  "fragment": "Ben Ricour",
+  "id": 6967963,
+  "is_description": true,
+  "path": "/6967963/Ben-ricour/Ben-ricour",
+  "range": {
+   "content": "Ben Ricour"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6967963/Ben-ricour/Ben-ricour",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/50148",
+   "context": null,
+   "id": 50148,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Ben Ricour",
+   "title": "Ben Ricour",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Ben-ricour"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6967963",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6967963,
+    "pinned": false,
+    "share_url": "https://genius.com/6967963",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/6967963/Ben-ricour/Ben-ricour",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/13034",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f23a33d42466e73878c05088d224e006",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f23a33d42466e73878c05088d224e006",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f23a33d42466e73878c05088d224e006",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f23a33d42466e73878c05088d224e006",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/f23a33d42466e73878c05088d224e006",
+       "human_readable_role_for_display": "Contributor",
+       "id": 13034,
+       "iq": 18936,
+       "login": "Damien_RGF",
+       "name": "Damien_RGF",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Damien_RGF",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1634479",
+   "apple_music_id": "80468107",
+   "apple_music_player_url": "https://genius.com/songs/1634479/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1634479' class='rg_embed_link' data-song-id='1634479'>Read <a href='https://genius.com/Ben-ricour-le-risque-lyrics'>\u201cLe Risque\u201d by Ben\u00a0Ricour</a> on Genius</div> <script crossorigin src='//genius.com/songs/1634479/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le Risque by\u00a0Ben\u00a0Ricour",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 1634479,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ben-ricour-le-risque-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Risque",
+   "title_with_featured": "Le Risque",
+   "url": "https://genius.com/Ben-ricour-le-risque-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6149341",
+    "classification": "needs_exegesis",
+    "fragment": "Le Risque",
+    "id": 6149341,
+    "is_description": true,
+    "path": "/6149341/Ben-ricour-le-risque/Le-risque",
+    "range": {
+     "content": "Le Risque"
+    },
+    "song_id": 1634479,
+    "url": "https://genius.com/6149341/Ben-ricour-le-risque/Le-risque",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1634479",
+     "client_timestamps": {
+      "updated_by_human_at": 1444657400,
+      "lyrics_updated_at": 1429901083
+     },
+     "context": "Ben Ricour",
+     "id": 1634479,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Le Risque by\u00a0Ben\u00a0Ricour",
+     "title": "Le Risque",
+     "type": "Song",
+     "url": "https://genius.com/Ben-ricour-le-risque-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6149341",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6149341,
+      "pinned": false,
+      "share_url": "https://genius.com/6149341",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6149341/Ben-ricour-le-risque/Le-risque",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/50148",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 50148,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ben Ricour",
+    "url": "https://genius.com/artists/Ben-ricour"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "\u00c0 peine remis d'une br\u00e8ve caresse\nDe notre bon vieux soleil\nC'est tout nu sous serre\nCouch\u00e9 sous terre\nQue l'on va passer l'hiver\nSans hygi\u00e8ne sans voir d'amis\nJuste laisser faire\nCe que nous dicte l'hiver\nJe prends le risque\nDe voir le meilleur entre nous\nJe prends le sexe come moteur\nAllons vers une hibernation\nPort\u00e9e sur de la bonne vibration\nJe prends le risque\nDe voir le meilleur\nJe tiens les rennes de cette source de chaleur\nAllons c'est tout \u00e0 ton honneur\nTout nu c'est l\u00e0 qu'on est de bonne humeur\nSeigneur des sens faites-nous descendre\nAu plus profond de nos draps\nEn une heure \u00e0 peine\nEmmenez-nous dans les sc\u00e8nes\nDe films \u00e0 la tracy lane\nBien couverts sans voir le jour\nJuste laisser faire ce que nous dicte l'hiver\nJe prends le risque\nDe voir le meilleur entre nous\nJe prends le sexe comme moteur\nAllons vers une hibernation\nPort\u00e9e sur de la bonne vibration\nJe prends le risque\nDe voir le meilleur\nJe tiens les rennes de cette source de chaleur\nAllons c'est tout \u00e0 ton honneur\nTout nu c'est l\u00e8 qu'on est de bonne humeur\nJe prends le risque\nDe voir le meilleur entre nous\nJe prends le sexe comme moteur\nAllons vers une hibernation\nPort\u00e9e sur de la bonne vibration\nJe prends le risque\nDe voir le meilleur\nJe tiens les rennes de cette sources de chaleur\nAllons c'est tout \u00e0 ton honneur\nTout nu c'est l\u00e0 qu'on est de bonne humeur"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1731304",
+   "apple_music_id": "80468105",
+   "apple_music_player_url": "https://genius.com/songs/1731304/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1731304' class='rg_embed_link' data-song-id='1731304'>Read <a href='https://genius.com/Ben-ricour-je-me-reveille-lyrics'>\u201cJe Me R\u00e9veille\u201d by Ben\u00a0Ricour</a> on Genius</div> <script crossorigin src='//genius.com/songs/1731304/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Je Me R\u00e9veille by\u00a0Ben\u00a0Ricour",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 1731304,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ben-ricour-je-me-reveille-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Je Me R\u00e9veille",
+   "title_with_featured": "Je Me R\u00e9veille",
+   "url": "https://genius.com/Ben-ricour-je-me-reveille-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/248069",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "L'Aventure by Ben Ricour",
+    "id": 248069,
+    "name": "L\u2019Aventure",
+    "url": "https://genius.com/albums/Ben-ricour/L-aventure",
+    "artist": {
+     "api_path": "/artists/50148",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 50148,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Ricour",
+     "url": "https://genius.com/artists/Ben-ricour"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6246623",
+    "classification": "needs_exegesis",
+    "fragment": "Je Me R\u00e9veille",
+    "id": 6246623,
+    "is_description": true,
+    "path": "/6246623/Ben-ricour-je-me-reveille/Je-me-reveille",
+    "range": {
+     "content": "Je Me R\u00e9veille"
+    },
+    "song_id": 1731304,
+    "url": "https://genius.com/6246623/Ben-ricour-je-me-reveille/Je-me-reveille",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1731304",
+     "client_timestamps": {
+      "updated_by_human_at": 1479248670,
+      "lyrics_updated_at": 1429906375
+     },
+     "context": "Ben Ricour",
+     "id": 1731304,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Je Me R\u00e9veille by\u00a0Ben\u00a0Ricour",
+     "title": "Je Me R\u00e9veille",
+     "type": "Song",
+     "url": "https://genius.com/Ben-ricour-je-me-reveille-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6246623",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6246623,
+      "pinned": false,
+      "share_url": "https://genius.com/6246623",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6246623/Ben-ricour-je-me-reveille/Je-me-reveille",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/50148",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 50148,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ben Ricour",
+    "url": "https://genius.com/artists/Ben-ricour"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/905922",
+   "apple_music_id": "80468086",
+   "apple_music_player_url": "https://genius.com/songs/905922/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_905922' class='rg_embed_link' data-song-id='905922'>Read <a href='https://genius.com/Ben-ricour-dans-la-plaine-lyrics'>\u201cDans La Plaine\u201d by Ben\u00a0Ricour</a> on Genius</div> <script crossorigin src='//genius.com/songs/905922/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Dans La Plaine by\u00a0Ben\u00a0Ricour",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 905922,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ben-ricour-dans-la-plaine-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Dans La Plaine",
+   "title_with_featured": "Dans La Plaine",
+   "url": "https://genius.com/Ben-ricour-dans-la-plaine-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/248069",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "L'Aventure by Ben Ricour",
+    "id": 248069,
+    "name": "L\u2019Aventure",
+    "url": "https://genius.com/albums/Ben-ricour/L-aventure",
+    "artist": {
+     "api_path": "/artists/50148",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 50148,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Ricour",
+     "url": "https://genius.com/artists/Ben-ricour"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5388780",
+    "classification": "needs_exegesis",
+    "fragment": "Dans La Plaine",
+    "id": 5388780,
+    "is_description": true,
+    "path": "/5388780/Ben-ricour-dans-la-plaine/Dans-la-plaine",
+    "range": {
+     "content": "Dans La Plaine"
+    },
+    "song_id": 905922,
+    "url": "https://genius.com/5388780/Ben-ricour-dans-la-plaine/Dans-la-plaine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/905922",
+     "client_timestamps": {
+      "updated_by_human_at": 1476812874,
+      "lyrics_updated_at": 1429309935
+     },
+     "context": "Ben Ricour",
+     "id": 905922,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Dans La Plaine by\u00a0Ben\u00a0Ricour",
+     "title": "Dans La Plaine",
+     "type": "Song",
+     "url": "https://genius.com/Ben-ricour-dans-la-plaine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5388780",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5388780,
+      "pinned": false,
+      "share_url": "https://genius.com/5388780",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5388780/Ben-ricour-dans-la-plaine/Dans-la-plaine",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/50148",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 50148,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ben Ricour",
+    "url": "https://genius.com/artists/Ben-ricour"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1609307",
+   "apple_music_id": "80468096",
+   "apple_music_player_url": "https://genius.com/songs/1609307/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1609307' class='rg_embed_link' data-song-id='1609307'>Read <a href='https://genius.com/Ben-ricour-le-vent-des-vies-lyrics'>\u201cLe Vent Des Vies\u201d by Ben\u00a0Ricour</a> on Genius</div> <script crossorigin src='//genius.com/songs/1609307/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le Vent Des Vies by\u00a0Ben\u00a0Ricour",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 1609307,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ben-ricour-le-vent-des-vies-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Vent Des Vies",
+   "title_with_featured": "Le Vent Des Vies",
+   "url": "https://genius.com/Ben-ricour-le-vent-des-vies-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/248069",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "L'Aventure by Ben Ricour",
+    "id": 248069,
+    "name": "L\u2019Aventure",
+    "url": "https://genius.com/albums/Ben-ricour/L-aventure",
+    "artist": {
+     "api_path": "/artists/50148",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 50148,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Ricour",
+     "url": "https://genius.com/artists/Ben-ricour"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6124103",
+    "classification": "needs_exegesis",
+    "fragment": "Le Vent Des Vies",
+    "id": 6124103,
+    "is_description": true,
+    "path": "/6124103/Ben-ricour-le-vent-des-vies/Le-vent-des-vies",
+    "range": {
+     "content": "Le Vent Des Vies"
+    },
+    "song_id": 1609307,
+    "url": "https://genius.com/6124103/Ben-ricour-le-vent-des-vies/Le-vent-des-vies",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1609307",
+     "client_timestamps": {
+      "updated_by_human_at": 1479166962,
+      "lyrics_updated_at": 1429899765
+     },
+     "context": "Ben Ricour",
+     "id": 1609307,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Le Vent Des Vies by\u00a0Ben\u00a0Ricour",
+     "title": "Le Vent Des Vies",
+     "type": "Song",
+     "url": "https://genius.com/Ben-ricour-le-vent-des-vies-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6124103",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6124103,
+      "pinned": false,
+      "share_url": "https://genius.com/6124103",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6124103/Ben-ricour-le-vent-des-vies/Le-vent-des-vies",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/50148",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 50148,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ben Ricour",
+    "url": "https://genius.com/artists/Ben-ricour"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1267571",
+   "apple_music_id": "80468119",
+   "apple_music_player_url": "https://genius.com/songs/1267571/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1267571' class='rg_embed_link' data-song-id='1267571'>Read <a href='https://genius.com/Ben-ricour-laventure-lyrics'>\u201cL'aventure\u201d by Ben\u00a0Ricour</a> on Genius</div> <script crossorigin src='//genius.com/songs/1267571/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "L'aventure by\u00a0Ben\u00a0Ricour",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 1267571,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ben-ricour-laventure-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "L\u2019aventure",
+   "title_with_featured": "L'aventure",
+   "url": "https://genius.com/Ben-ricour-laventure-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/248069",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "L'Aventure by Ben Ricour",
+    "id": 248069,
+    "name": "L\u2019Aventure",
+    "url": "https://genius.com/albums/Ben-ricour/L-aventure",
+    "artist": {
+     "api_path": "/artists/50148",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 50148,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Ricour",
+     "url": "https://genius.com/artists/Ben-ricour"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5772447",
+    "classification": "needs_exegesis",
+    "fragment": "L\u2019aventure",
+    "id": 5772447,
+    "is_description": true,
+    "path": "/5772447/Ben-ricour-laventure/Laventure",
+    "range": {
+     "content": "L'aventure"
+    },
+    "song_id": 1267571,
+    "url": "https://genius.com/5772447/Ben-ricour-laventure/Laventure",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1267571",
+     "client_timestamps": {
+      "updated_by_human_at": 1477051266,
+      "lyrics_updated_at": 1429732146
+     },
+     "context": "Ben Ricour",
+     "id": 1267571,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "L\u2019aventure by\u00a0Ben\u00a0Ricour",
+     "title": "L'aventure",
+     "type": "Song",
+     "url": "https://genius.com/Ben-ricour-laventure-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5772447",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5772447,
+      "pinned": false,
+      "share_url": "https://genius.com/5772447",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5772447/Ben-ricour-laventure/Laventure",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/50148",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 50148,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ben Ricour",
+    "url": "https://genius.com/artists/Ben-ricour"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Dans la vie il y a le mot \"aventure\"\nPourvu que \u00e7a dure\nPourvu qu'on soit d'accord pour ne pas abandonner\nSi tout bascule \u00e0 la malchance\nEncaisse et avance\nIl n'y a pas une fa\u00e7on de s'y faire, \u00e0 la m\u00e9diocrit\u00e9\nC'est mon \u00e9ternelle m\u00e9ditation\nRomance, jusqu'o\u00f9 tu nous emm\u00e8nes ?\nJamais, jamais ne freines\nUne fois qu'on est parti\nMoi je veux du beau, du grand et du souvent\nFrappant m\u00eame en sommeil\nAux portes du Paradis\nC'est ma prochaine destination\nCe n'est pas un jeu (x2)\nTenter la vie pour ses beaux yeux\nDans la vie il y a le mot \"aventure\"\nPourvu qu'on soit s\u00fbr\nPourvu qu'on soit d'accord pour ne pas abandonner\nCe n'est pas un jeu (x2)\nChasser la vie comme un fou furieux\nCe n'est pas un jeu (x2)\nTenter la vie pour ses beaux yeux\nChasser la vie comme un fou furieux"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1124800",
+   "apple_music_id": "80468123",
+   "apple_music_player_url": "https://genius.com/songs/1124800/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1124800' class='rg_embed_link' data-song-id='1124800'>Read <a href='https://genius.com/Ben-ricour-question-de-peau-lyrics'>\u201cQuestion De Peau\u201d by Ben\u00a0Ricour</a> on Genius</div> <script crossorigin src='//genius.com/songs/1124800/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Question De Peau by\u00a0Ben\u00a0Ricour",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 1124800,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ben-ricour-question-de-peau-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Question De Peau",
+   "title_with_featured": "Question De Peau",
+   "url": "https://genius.com/Ben-ricour-question-de-peau-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/248069",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "L'Aventure by Ben Ricour",
+    "id": 248069,
+    "name": "L\u2019Aventure",
+    "url": "https://genius.com/albums/Ben-ricour/L-aventure",
+    "artist": {
+     "api_path": "/artists/50148",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 50148,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Ricour",
+     "url": "https://genius.com/artists/Ben-ricour"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5624590",
+    "classification": "needs_exegesis",
+    "fragment": "Question De Peau",
+    "id": 5624590,
+    "is_description": true,
+    "path": "/5624590/Ben-ricour-question-de-peau/Question-de-peau",
+    "range": {
+     "content": "Question De Peau"
+    },
+    "song_id": 1124800,
+    "url": "https://genius.com/5624590/Ben-ricour-question-de-peau/Question-de-peau",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1124800",
+     "client_timestamps": {
+      "updated_by_human_at": 1479169725,
+      "lyrics_updated_at": 1429647842
+     },
+     "context": "Ben Ricour",
+     "id": 1124800,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Question De Peau by\u00a0Ben\u00a0Ricour",
+     "title": "Question De Peau",
+     "type": "Song",
+     "url": "https://genius.com/Ben-ricour-question-de-peau-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5624590",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5624590,
+      "pinned": false,
+      "share_url": "https://genius.com/5624590",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5624590/Ben-ricour-question-de-peau/Question-de-peau",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/50148",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 50148,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ben Ricour",
+    "url": "https://genius.com/artists/Ben-ricour"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/986982",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/986982/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_986982' class='rg_embed_link' data-song-id='986982'>Read <a href='https://genius.com/Ben-ricour-vivre-a-meme-lamour-lyrics'>\u201cVivre \u00c0 M\u00eame L'amour\u201d by Ben\u00a0Ricour</a> on Genius</div> <script crossorigin src='//genius.com/songs/986982/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Vivre \u00c0 M\u00eame L'amour by\u00a0Ben\u00a0Ricour",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 986982,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ben-ricour-vivre-a-meme-lamour-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vivre \u00c0 M\u00eame L\u2019amour",
+   "title_with_featured": "Vivre \u00c0 M\u00eame L'amour",
+   "url": "https://genius.com/Ben-ricour-vivre-a-meme-lamour-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/248069",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "L'Aventure by Ben Ricour",
+    "id": 248069,
+    "name": "L\u2019Aventure",
+    "url": "https://genius.com/albums/Ben-ricour/L-aventure",
+    "artist": {
+     "api_path": "/artists/50148",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 50148,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Ricour",
+     "url": "https://genius.com/artists/Ben-ricour"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5482898",
+    "classification": "needs_exegesis",
+    "fragment": "Vivre \u00c0 M\u00eame L\u2019amour",
+    "id": 5482898,
+    "is_description": true,
+    "path": "/5482898/Ben-ricour-vivre-a-meme-lamour/Vivre-a-meme-lamour",
+    "range": {
+     "content": "Vivre \u00c0 M\u00eame L'amour"
+    },
+    "song_id": 986982,
+    "url": "https://genius.com/5482898/Ben-ricour-vivre-a-meme-lamour/Vivre-a-meme-lamour",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/986982",
+     "client_timestamps": {
+      "updated_by_human_at": 1481909368,
+      "lyrics_updated_at": 1429574236
+     },
+     "context": "Ben Ricour",
+     "id": 986982,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Vivre \u00c0 M\u00eame L\u2019amour by\u00a0Ben\u00a0Ricour",
+     "title": "Vivre \u00c0 M\u00eame L'amour",
+     "type": "Song",
+     "url": "https://genius.com/Ben-ricour-vivre-a-meme-lamour-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5482898",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5482898,
+      "pinned": false,
+      "share_url": "https://genius.com/5482898",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5482898/Ben-ricour-vivre-a-meme-lamour/Vivre-a-meme-lamour",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/50148",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 50148,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ben Ricour",
+    "url": "https://genius.com/artists/Ben-ricour"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/922521",
+   "apple_music_id": "80468113",
+   "apple_music_player_url": "https://genius.com/songs/922521/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_922521' class='rg_embed_link' data-song-id='922521'>Read <a href='https://genius.com/Ben-ricour-ami-denfance-lyrics'>\u201cAmi D'enfance\u201d by Ben\u00a0Ricour</a> on Genius</div> <script crossorigin src='//genius.com/songs/922521/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ami D'enfance by\u00a0Ben\u00a0Ricour",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 922521,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ben-ricour-ami-denfance-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ami D\u2019enfance",
+   "title_with_featured": "Ami D'enfance",
+   "url": "https://genius.com/Ben-ricour-ami-denfance-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/248069",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "L'Aventure by Ben Ricour",
+    "id": 248069,
+    "name": "L\u2019Aventure",
+    "url": "https://genius.com/albums/Ben-ricour/L-aventure",
+    "artist": {
+     "api_path": "/artists/50148",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 50148,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Ricour",
+     "url": "https://genius.com/artists/Ben-ricour"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5415647",
+    "classification": "needs_exegesis",
+    "fragment": "Ami D\u2019enfance",
+    "id": 5415647,
+    "is_description": true,
+    "path": "/5415647/Ben-ricour-ami-denfance/Ami-denfance",
+    "range": {
+     "content": "Ami D'enfance"
+    },
+    "song_id": 922521,
+    "url": "https://genius.com/5415647/Ben-ricour-ami-denfance/Ami-denfance",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/922521",
+     "client_timestamps": {
+      "updated_by_human_at": 1481742478,
+      "lyrics_updated_at": 1429537732
+     },
+     "context": "Ben Ricour",
+     "id": 922521,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Ami D\u2019enfance by\u00a0Ben\u00a0Ricour",
+     "title": "Ami D'enfance",
+     "type": "Song",
+     "url": "https://genius.com/Ben-ricour-ami-denfance-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5415647",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5415647,
+      "pinned": false,
+      "share_url": "https://genius.com/5415647",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5415647/Ben-ricour-ami-denfance/Ami-denfance",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/50148",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 50148,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ben Ricour",
+    "url": "https://genius.com/artists/Ben-ricour"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1583705",
+   "apple_music_id": "80468090",
+   "apple_music_player_url": "https://genius.com/songs/1583705/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1583705' class='rg_embed_link' data-song-id='1583705'>Read <a href='https://genius.com/Ben-ricour-plein-soleil-lyrics'>\u201cPlein Soleil\u201d by Ben\u00a0Ricour</a> on Genius</div> <script crossorigin src='//genius.com/songs/1583705/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Plein Soleil by\u00a0Ben\u00a0Ricour",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 1583705,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ben-ricour-plein-soleil-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Plein Soleil",
+   "title_with_featured": "Plein Soleil",
+   "url": "https://genius.com/Ben-ricour-plein-soleil-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/248069",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "L'Aventure by Ben Ricour",
+    "id": 248069,
+    "name": "L\u2019Aventure",
+    "url": "https://genius.com/albums/Ben-ricour/L-aventure",
+    "artist": {
+     "api_path": "/artists/50148",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 50148,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Ricour",
+     "url": "https://genius.com/artists/Ben-ricour"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6098430",
+    "classification": "needs_exegesis",
+    "fragment": "Plein Soleil",
+    "id": 6098430,
+    "is_description": true,
+    "path": "/6098430/Ben-ricour-plein-soleil/Plein-soleil",
+    "range": {
+     "content": "Plein Soleil"
+    },
+    "song_id": 1583705,
+    "url": "https://genius.com/6098430/Ben-ricour-plein-soleil/Plein-soleil",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1583705",
+     "client_timestamps": {
+      "updated_by_human_at": 1476741377,
+      "lyrics_updated_at": 1429898440
+     },
+     "context": "Ben Ricour",
+     "id": 1583705,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Plein Soleil by\u00a0Ben\u00a0Ricour",
+     "title": "Plein Soleil",
+     "type": "Song",
+     "url": "https://genius.com/Ben-ricour-plein-soleil-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6098430",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6098430,
+      "pinned": false,
+      "share_url": "https://genius.com/6098430",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6098430/Ben-ricour-plein-soleil/Plein-soleil",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/50148",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 50148,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ben Ricour",
+    "url": "https://genius.com/artists/Ben-ricour"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

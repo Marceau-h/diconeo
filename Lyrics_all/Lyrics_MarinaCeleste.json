@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/977640",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/0b14465ed3b5d4c1f1ffcd6b970ce6fc.239x239x1.jpg",
+ "id": 977640,
+ "image_url": "https://images.genius.com/0b14465ed3b5d4c1f1ffcd6b970ce6fc.239x239x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Marina Celeste",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Marina-celeste",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 282191,
+  "annotator_login": "qomolangma",
+  "api_path": "/referents/10085000",
+  "classification": "needs_exegesis",
+  "fragment": "Marina Celeste",
+  "id": 10085000,
+  "is_description": true,
+  "path": "/10085000/Marina-celeste/Marina-celeste",
+  "range": {
+   "content": "Marina Celeste"
+  },
+  "song_id": null,
+  "url": "https://genius.com/10085000/Marina-celeste/Marina-celeste",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/977640",
+   "context": null,
+   "id": 977640,
+   "image_url": "https://images.genius.com/0b14465ed3b5d4c1f1ffcd6b970ce6fc.239x239x1.jpg",
+   "link_title": "Marina Celeste",
+   "title": "Marina Celeste",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Marina-celeste"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/10085000",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 10085000,
+    "pinned": false,
+    "share_url": "https://genius.com/10085000",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/10085000/Marina-celeste/Marina-celeste",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/282191",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/558bc2d9797ec47635b6092f3c7aa800",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/558bc2d9797ec47635b6092f3c7aa800",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/558bc2d9797ec47635b6092f3c7aa800",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/558bc2d9797ec47635b6092f3c7aa800",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/558bc2d9797ec47635b6092f3c7aa800",
+       "human_readable_role_for_display": "Contributor",
+       "id": 282191,
+       "iq": 185949,
+       "login": "qomolangma",
+       "name": "qomolangma",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/qomolangma",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

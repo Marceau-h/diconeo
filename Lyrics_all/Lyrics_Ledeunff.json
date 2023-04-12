@@ -1,0 +1,890 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/337089",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 337089,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Ledeunff",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Ledeunff",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1587767,
+  "annotator_login": "Alekazam",
+  "api_path": "/referents/7061568",
+  "classification": "needs_exegesis",
+  "fragment": "Ledeunff",
+  "id": 7061568,
+  "is_description": true,
+  "path": "/7061568/Ledeunff/Ledeunff",
+  "range": {
+   "content": "Ledeunff"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7061568/Ledeunff/Ledeunff",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/337089",
+   "context": null,
+   "id": 337089,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Ledeunff",
+   "title": "Ledeunff",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Ledeunff"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7061568",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7061568,
+    "pinned": false,
+    "share_url": "https://genius.com/7061568",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7061568/Ledeunff/Ledeunff",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1587767",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/17b05ca61c6b7195718ffda95e7d1cb7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/17b05ca61c6b7195718ffda95e7d1cb7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/17b05ca61c6b7195718ffda95e7d1cb7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/17b05ca61c6b7195718ffda95e7d1cb7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/5378832d6ac20f372212ae295c6e1968.708x256x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1587767,
+       "iq": 138478,
+       "login": "Alekazam",
+       "name": "Alekazam",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Alekazam",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2466586",
+   "apple_music_id": "727559853",
+   "apple_music_player_url": "https://genius.com/songs/2466586/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2466586' class='rg_embed_link' data-song-id='2466586'>Read <a href='https://genius.com/Ledeunff-my-storm-lyrics'>\u201cMy Storm\u201d by Ledeunff</a> on Genius</div> <script crossorigin src='//genius.com/songs/2466586/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "My Storm by\u00a0Ledeunff",
+   "header_image_thumbnail_url": "https://images.genius.com/15ea9e833061a562a9e72867c542e610.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/15ea9e833061a562a9e72867c542e610.700x700x1.jpg",
+   "id": 2466586,
+   "lyrics_owner_id": 2576418,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ledeunff-my-storm-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/15ea9e833061a562a9e72867c542e610.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/15ea9e833061a562a9e72867c542e610.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "My Storm",
+   "title_with_featured": "My Storm",
+   "url": "https://genius.com/Ledeunff-my-storm-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/151208",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "My Storm - EP by Ledeunff",
+    "id": 151208,
+    "name": "My Storm - EP",
+    "url": "https://genius.com/albums/Ledeunff/My-storm-ep",
+    "artist": {
+     "api_path": "/artists/337089",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 337089,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ledeunff",
+     "url": "https://genius.com/artists/Ledeunff"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2576418,
+    "annotator_login": "Blatez",
+    "api_path": "/referents/9097573",
+    "classification": "needs_exegesis",
+    "fragment": "My Storm",
+    "id": 9097573,
+    "is_description": true,
+    "path": "/9097573/Ledeunff-my-storm/My-storm",
+    "range": {
+     "content": "My Storm"
+    },
+    "song_id": 2466586,
+    "url": "https://genius.com/9097573/Ledeunff-my-storm/My-storm",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2466586",
+     "client_timestamps": {
+      "updated_by_human_at": 1492308985,
+      "lyrics_updated_at": 1492308985
+     },
+     "context": "Ledeunff",
+     "id": 2466586,
+     "image_url": "https://images.genius.com/15ea9e833061a562a9e72867c542e610.700x700x1.jpg",
+     "link_title": "My Storm by\u00a0Ledeunff",
+     "title": "My Storm",
+     "type": "Song",
+     "url": "https://genius.com/Ledeunff-my-storm-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9097573",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 9097573,
+      "pinned": false,
+      "share_url": "https://genius.com/9097573",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/9097573/Ledeunff-my-storm/My-storm",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2576418",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/4231f1853a107b7def88b321edec2969",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/4231f1853a107b7def88b321edec2969",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/4231f1853a107b7def88b321edec2969",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/4231f1853a107b7def88b321edec2969",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/4231f1853a107b7def88b321edec2969",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2576418,
+         "iq": 6472,
+         "login": "Blatez",
+         "name": "Blatez",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Blatez",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "attribution": "ledeunff",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/ledeunff/my-storm"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=HHaw9t1XPSM"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/337089",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 337089,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ledeunff",
+    "url": "https://genius.com/artists/Ledeunff"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/337089",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 337089,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ledeunff",
+     "url": "https://genius.com/artists/Ledeunff"
+    }
+   ],
+   "lyrics": "[Verse]\nIt's a love, love song that make you so sweet and cheesy\nIt's a love, love song and now that my soul's ready\nYou make the sun fall down in the shade\nTurn the sun from love to set\nYou make the sun fall down in the shade\nAnd I'm still looking for someone to blame\n\n[Chorus]\nI buried your heart\nWith the speeches of those so-called preachers\nI buried your heart\nRight in the middle, right in the middle of my soul\nYou're my storm\n\n[Verse]\nIt's a love, love song that make you so sweet and cheesy\nIt's a love, love song and now that my soul's ready\nYou make the sun fall down in the shade\nTurn the sun from love to set\nYou make the sun fall down in the shade\nAnd I'm still looking for someone to blame\n\n[Chorus]\nI buried your heart\nWith the speeches of those so-called preachers\nI buried your heart\nRight in the middle, right in the middle of my soul\nYou're my storm\nYou're my storm\n\n[Bridge]\nIn the chest if the devil comes back\nI'll be dying\nIn the chest if the devil comes back\nI'll be ready on track and love without trying\nIn the chest if the devil comes back\nI'll be dying\nIn the chest if the devil comes back\nI'll be ready on track and love without trying\n\n[Chorus]\nI buried your heart\nWith the speeches of those so-called preachers\nI buried your heart\nRight in the middle, right in the middle of my soul\nYou're my storm\nYou're my storm\n\n[Verse]\nIt's a love, love song that make you so sweet and cheesy\nIt's a love, love song and now that my soul's ready\nYou make the sun fall down in the shade\nTurn the sun from love to set\nYou make the sun fall down in the shade\nAnd I'm still looking for someone to blame\n\n[Chorus]\nI buried your heart\nWith the speeches of those so-called preachers\nI buried your heart\nRight in the middle, right in the middle of\nI buried your heart\nWith the speeches of those so-called preachers\nI buried your heart\nRight in the middle, right in the middle of my soul\nYou're my storm"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2466582",
+   "apple_music_id": "727559939",
+   "apple_music_player_url": "https://genius.com/songs/2466582/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2466582' class='rg_embed_link' data-song-id='2466582'>Read <a href='https://genius.com/Ledeunff-soul-officer-lyrics'>\u201cSoul Officer\u201d by Ledeunff</a> on Genius</div> <script crossorigin src='//genius.com/songs/2466582/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Soul Officer by\u00a0Ledeunff",
+   "header_image_thumbnail_url": "https://images.genius.com/15ea9e833061a562a9e72867c542e610.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/15ea9e833061a562a9e72867c542e610.700x700x1.jpg",
+   "id": 2466582,
+   "lyrics_owner_id": 2576418,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ledeunff-soul-officer-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/15ea9e833061a562a9e72867c542e610.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/15ea9e833061a562a9e72867c542e610.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Soul Officer",
+   "title_with_featured": "Soul Officer",
+   "url": "https://genius.com/Ledeunff-soul-officer-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/206464",
+    "cover_art_url": "https://images.genius.com/e70741a87be8ca7066cd33c2a7824487.1000x1000x1.jpg",
+    "full_title": "My Storm by Ledeunff",
+    "id": 206464,
+    "name": "My Storm",
+    "url": "https://genius.com/albums/Ledeunff/My-storm",
+    "artist": {
+     "api_path": "/artists/337089",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 337089,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ledeunff",
+     "url": "https://genius.com/artists/Ledeunff"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2576418,
+    "annotator_login": "Blatez",
+    "api_path": "/referents/9097511",
+    "classification": "needs_exegesis",
+    "fragment": "Soul Officer",
+    "id": 9097511,
+    "is_description": true,
+    "path": "/9097511/Ledeunff-soul-officer/Soul-officer",
+    "range": {
+     "content": "Soul Officer"
+    },
+    "song_id": 2466582,
+    "url": "https://genius.com/9097511/Ledeunff-soul-officer/Soul-officer",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2466582",
+     "client_timestamps": {
+      "updated_by_human_at": 1473368628,
+      "lyrics_updated_at": 1462310799
+     },
+     "context": "Ledeunff",
+     "id": 2466582,
+     "image_url": "https://images.genius.com/15ea9e833061a562a9e72867c542e610.700x700x1.jpg",
+     "link_title": "Soul Officer by\u00a0Ledeunff",
+     "title": "Soul Officer",
+     "type": "Song",
+     "url": "https://genius.com/Ledeunff-soul-officer-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9097511",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 9097511,
+      "pinned": false,
+      "share_url": "https://genius.com/9097511",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/9097511/Ledeunff-soul-officer/Soul-officer",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2576418",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/4231f1853a107b7def88b321edec2969",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/4231f1853a107b7def88b321edec2969",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/4231f1853a107b7def88b321edec2969",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/4231f1853a107b7def88b321edec2969",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/4231f1853a107b7def88b321edec2969",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2576418,
+         "iq": 6472,
+         "login": "Blatez",
+         "name": "Blatez",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Blatez",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "attribution": "ledeunff",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/ledeunff/soul-officer"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=SZSh4tvRoQc"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/337089",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 337089,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ledeunff",
+    "url": "https://genius.com/artists/Ledeunff"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/66075",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/david-le-deunff.jpg",
+     "id": 66075,
+     "image_url": "https://s3.amazonaws.com/rapgenius/david-le-deunff.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Le Deunff",
+     "url": "https://genius.com/artists/David-le-deunff"
+    }
+   ],
+   "lyrics": null
+  }
+ ]
+}

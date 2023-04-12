@@ -1,0 +1,174 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1543198",
+ "description": {
+  "plain": "Facebook: https://www.facebook.com/solalofficiel/?ref=page_internal\n\nTwitter: https://twitter.com/universolal\n\nInstagram: https://www.instagram.com/laurent_morhain_solal/?hl=en"
+ },
+ "facebook_name": "SOLAL OFFICIEL",
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/0007ded0c77b47c69722f080cff68d42.1000x1000x1.jpg",
+ "id": 1543198,
+ "image_url": "https://images.genius.com/0007ded0c77b47c69722f080cff68d42.1000x1000x1.jpg",
+ "instagram_name": "laurent_morhain_solal",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Laurent Morhain Solal",
+ "translation_artist": false,
+ "twitter_name": "universolal",
+ "url": "https://genius.com/artists/Laurent-morhain-solal",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 5882953,
+  "annotator_login": "SiriusG",
+  "api_path": "/referents/15104779",
+  "classification": "unreviewed",
+  "fragment": "Laurent Morhain Solal",
+  "id": 15104779,
+  "is_description": true,
+  "path": "/15104779/Laurent-morhain-solal/Laurent-morhain-solal",
+  "range": {
+   "content": "Laurent Morhain Solal"
+  },
+  "song_id": null,
+  "url": "https://genius.com/15104779/Laurent-morhain-solal/Laurent-morhain-solal",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1543198",
+   "context": null,
+   "id": 1543198,
+   "image_url": "https://images.genius.com/0007ded0c77b47c69722f080cff68d42.1000x1000x1.jpg",
+   "link_title": "Laurent Morhain Solal",
+   "title": "Laurent Morhain Solal",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Laurent-morhain-solal"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/15104779",
+    "body": {
+     "plain": "Facebook: https://www.facebook.com/solalofficiel/?ref=page_internal\n\nTwitter: https://twitter.com/universolal\n\nInstagram: https://www.instagram.com/laurent_morhain_solal/?hl=en"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 15104779,
+    "pinned": false,
+    "share_url": "https://genius.com/15104779",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/15104779/Laurent-morhain-solal/Laurent-morhain-solal",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5882953",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ju9ecnc3mej",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ju9ecnc3mej",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ju9ecnc3mej",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ju9ecnc3mej",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w2glxqk7swb",
+       "human_readable_role_for_display": "Contributor",
+       "id": 5882953,
+       "iq": 5597,
+       "login": "SiriusG",
+       "name": "SiriusG",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/SiriusG",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

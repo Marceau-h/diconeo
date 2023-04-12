@@ -1,0 +1,491 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/482371",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 482371,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jess\u00e9 garon\u2019",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Jesse-garon",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7128436",
+  "classification": "needs_exegesis",
+  "fragment": "Jess\u00e9 garon\u2019",
+  "id": 7128436,
+  "is_description": true,
+  "path": "/7128436/Jesse-garon/Jesse-garon",
+  "range": {
+   "content": "Jess\u00e9 garon'"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7128436/Jesse-garon/Jesse-garon",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/482371",
+   "context": null,
+   "id": 482371,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Jess\u00e9 garon\u2019",
+   "title": "Jess\u00e9 garon'",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jesse-garon"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7128436",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7128436,
+    "pinned": false,
+    "share_url": "https://genius.com/7128436",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7128436/Jesse-garon/Jesse-garon",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2072817",
+   "apple_music_id": "382279610",
+   "apple_music_player_url": "https://genius.com/songs/2072817/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2072817' class='rg_embed_link' data-song-id='2072817'>Read <a href='https://genius.com/Jesse-garon-cest-lundi-lyrics'>\u201cC'est lundi\u201d by Jess\u00e9\u00a0garon'</a> on Genius</div> <script crossorigin src='//genius.com/songs/2072817/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "C'est lundi by\u00a0Jess\u00e9\u00a0garon'",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 2072817,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jesse-garon-cest-lundi-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "C\u2019est lundi",
+   "title_with_featured": "C'est lundi",
+   "url": "https://genius.com/Jesse-garon-cest-lundi-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6812690",
+    "classification": "needs_exegesis",
+    "fragment": "C\u2019est lundi",
+    "id": 6812690,
+    "is_description": true,
+    "path": "/6812690/Jesse-garon-cest-lundi/Cest-lundi",
+    "range": {
+     "content": "C'est lundi"
+    },
+    "song_id": 2072817,
+    "url": "https://genius.com/6812690/Jesse-garon-cest-lundi/Cest-lundi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2072817",
+     "client_timestamps": {
+      "updated_by_human_at": 1446503666,
+      "lyrics_updated_at": 1433954617
+     },
+     "context": "Jess\u00e9 garon'",
+     "id": 2072817,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "C\u2019est lundi by\u00a0Jess\u00e9\u00a0garon\u2019",
+     "title": "C'est lundi",
+     "type": "Song",
+     "url": "https://genius.com/Jesse-garon-cest-lundi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6812690",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6812690,
+      "pinned": false,
+      "share_url": "https://genius.com/6812690",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6812690/Jesse-garon-cest-lundi/Cest-lundi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/482371",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 482371,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jess\u00e9 garon\u2019",
+    "url": "https://genius.com/artists/Jesse-garon"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Paroles de la chanson C'est Lundi :\nCOOL\n\nC'est lundi\nDans mon lit\nL'est onze heures\nMal au c\u0153ur\nMal dormi\nEnvie de pipi\n\nD\u00e9jeuner\nMon caf\u00e9\nLa radio\nTrop c'est trop\nFait pas beau\nOuais fait pas chaud !\n\nMe laver\nMe raser\nM'habiller\nMe peigner\nMes cheveux\nHum bien coiff\u00e9s\n\nOuais, l'est midi\nMes parents\nSont rentr\u00e9s\nEn criant :\n\"Faut manger\nApr\u00e8s travailler !\"\n\nOuais\nL'est deux heures - ah ah ah ah !\nJ'suis ch\u00f4meur - ah ah ah ah !\nJe vais pointer - ah ah ah ah !\nPr\u00e8s d'chez mou\u00e9 - ah ah ah ah !\nDans mon c\u0153ur\nY a plein de douleur\nOuais\nJuste apr\u00e8s\nMmmh - Je m'en vais\nMmmh - Au caf\u00e9\nMmmh - D'\u00e0 cot\u00e9\nOuais y a des filles\nEt y a des flippers\nOuais\n\nL'est vingt heures - ah ah ah ah !\nFaut d\u00eener - ah ah ah ah !\nMa maman - ah ah ah ah !\nCuisin\u00e9 - ah ah ah ah !\nMon repas\nOuais\nLa t\u00e9l\u00e9\nOui\nIl est tard - ah ah ah ah !\nJ'ai l'cafard - ah ah ah ah !\nMes id\u00e9es - ah ah ah ah !\nSont brouill\u00e9es - ah ah ah ah !\nJe me couche hum\nEt je dors\nOui\n\nC'est mardi - ah ah ah ah !\nDans mon lit - ah ah ah ah !\nL'est midi - ah ah ah ah !\nEt je suis - ah ah ah ah !\nSoci\u00e9t\u00e9\nOuais\nB\u00e9tonn\u00e9\n\nOui\nMercredi - ah ah ah ah !\nMal dormi - ah ah ah ah !\nC'est jeudi - ah ah ah ah !\nVendredi - ah ah ah ah !\nSamedi\nOuais\nC'est dimanche\n\nOui\nC'est lundi - ah ah ah ah !\nDans mon lit - ah ah ah ah !\nC'est lundi - ah ah ah ah !\nDans mon lit - ah ah ah ah !"
+  }
+ ]
+}

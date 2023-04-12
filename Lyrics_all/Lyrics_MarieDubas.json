@@ -1,0 +1,562 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/505079",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 505079,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Marie Dubas",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Marie-dubas",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1754338,
+  "annotator_login": "Alexxxandre",
+  "api_path": "/referents/7154035",
+  "classification": "needs_exegesis",
+  "fragment": "Marie Dubas",
+  "id": 7154035,
+  "is_description": true,
+  "path": "/7154035/Marie-dubas/Marie-dubas",
+  "range": {
+   "content": "Marie Dubas"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7154035/Marie-dubas/Marie-dubas",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/505079",
+   "context": null,
+   "id": 505079,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Marie Dubas",
+   "title": "Marie Dubas",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Marie-dubas"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7154035",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7154035,
+    "pinned": false,
+    "share_url": "https://genius.com/7154035",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7154035/Marie-dubas/Marie-dubas",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1754338",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/95c05f3d1a7b258a1a106e70a9601c7a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/95c05f3d1a7b258a1a106e70a9601c7a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/95c05f3d1a7b258a1a106e70a9601c7a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/95c05f3d1a7b258a1a106e70a9601c7a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/95c05f3d1a7b258a1a106e70a9601c7a",
+       "human_readable_role_for_display": "Editor",
+       "id": 1754338,
+       "iq": 7351,
+       "login": "Alexxxandre",
+       "name": "Alexxxandre",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Alexxxandre",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2451316",
+   "apple_music_id": "220254881",
+   "apple_music_player_url": "https://genius.com/songs/2451316/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2451316' class='rg_embed_link' data-song-id='2451316'>Read <a href='https://genius.com/Marie-dubas-mon-legionnaire-lyrics'>\u201cMon L\u00e9gionnaire\u201d by Marie\u00a0Dubas</a> on Genius</div> <script crossorigin src='//genius.com/songs/2451316/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Mon L\u00e9gionnaire by\u00a0Marie\u00a0Dubas",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 2451316,
+   "lyrics_owner_id": 316521,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Marie-dubas-mon-legionnaire-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mon L\u00e9gionnaire",
+   "title_with_featured": "Mon L\u00e9gionnaire",
+   "url": "https://genius.com/Marie-dubas-mon-legionnaire-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 316521,
+    "annotator_login": "IgorFG",
+    "api_path": "/referents/8947139",
+    "classification": "needs_exegesis",
+    "fragment": "Mon L\u00e9gionnaire",
+    "id": 8947139,
+    "is_description": true,
+    "path": "/8947139/Marie-dubas-mon-legionnaire/Mon-legionnaire",
+    "range": {
+     "content": "Mon L\u00e9gionnaire"
+    },
+    "song_id": 2451316,
+    "url": "https://genius.com/8947139/Marie-dubas-mon-legionnaire/Mon-legionnaire",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2451316",
+     "client_timestamps": {
+      "updated_by_human_at": 1459961223,
+      "lyrics_updated_at": 1459961122
+     },
+     "context": "Marie Dubas",
+     "id": 2451316,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Mon L\u00e9gionnaire by\u00a0Marie\u00a0Dubas",
+     "title": "Mon L\u00e9gionnaire",
+     "type": "Song",
+     "url": "https://genius.com/Marie-dubas-mon-legionnaire-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8947139",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8947139,
+      "pinned": false,
+      "share_url": "https://genius.com/8947139",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8947139/Marie-dubas-mon-legionnaire/Mon-legionnaire",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/316521",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b0d5d2b0eb03daef6c40603334ecc3e6",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b0d5d2b0eb03daef6c40603334ecc3e6",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b0d5d2b0eb03daef6c40603334ecc3e6",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b0d5d2b0eb03daef6c40603334ecc3e6",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/b0d5d2b0eb03daef6c40603334ecc3e6",
+         "human_readable_role_for_display": "Moderator",
+         "id": 316521,
+         "iq": 287864,
+         "login": "IgorFG",
+         "name": "\u200bigor fran\u00e7a",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/IgorFG",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=lyxqBfuo1CY"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/505079",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 505079,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Marie Dubas",
+    "url": "https://genius.com/artists/Marie-dubas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1510054",
+       "full_title": "Mon l\u00e9gionnaire by\u00a0\u00c9dith\u00a0Piaf",
+       "header_image_thumbnail_url": "https://images.genius.com/954aa9342ca7f0605209c2689b70d696.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/954aa9342ca7f0605209c2689b70d696.356x356x1.jpg",
+       "id": 1510054,
+       "lyrics_owner_id": 5577172,
+       "lyrics_state": "complete",
+       "path": "/Edith-piaf-mon-legionnaire-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/954aa9342ca7f0605209c2689b70d696.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/954aa9342ca7f0605209c2689b70d696.356x356x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Mon l\u00e9gionnaire",
+       "title_with_featured": "Mon l\u00e9gionnaire",
+       "url": "https://genius.com/Edith-piaf-mon-legionnaire-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/350904",
+        "header_image_url": "https://images.genius.com/84bc9967c2bab873a60036ab6cfc4cb3.693x390x1.jpg",
+        "id": 350904,
+        "image_url": "https://images.genius.com/e97296405d42ab005114ec2dac1286b3.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u00c9dith Piaf",
+        "url": "https://genius.com/artists/Edith-piaf"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6270709",
+       "full_title": "My Legionnaire by\u00a0Ellen\u00a0Foley",
+       "header_image_thumbnail_url": "https://images.genius.com/da6ef43168079b2c290c21891ca24101.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/da6ef43168079b2c290c21891ca24101.600x600x1.jpg",
+       "id": 6270709,
+       "lyrics_owner_id": 8613973,
+       "lyrics_state": "complete",
+       "path": "/Ellen-foley-my-legionnaire-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/da6ef43168079b2c290c21891ca24101.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/da6ef43168079b2c290c21891ca24101.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "My Legionnaire",
+       "title_with_featured": "My Legionnaire",
+       "url": "https://genius.com/Ellen-foley-my-legionnaire-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/368488",
+        "header_image_url": "https://images.genius.com/8e61a38ccd5ead5a2334fb8c062733de.1000x667x1.jpg",
+        "id": 368488,
+        "image_url": "https://images.genius.com/8e61a38ccd5ead5a2334fb8c062733de.1000x667x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ellen Foley",
+        "url": "https://genius.com/artists/Ellen-foley"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Il avait de grands yeux tr\u00e8s clairs\nO\u00f9 parfois passaient des \u00e9clairs\nComme au ciel passent des orages\nIl \u00e9tait plein de tatouages\nQue j'ai jamais tr\u00e8s bien compris\nSon cou portait: \"pas vu, pas pris\"\nSur son coeur on lisait: \"personne\"\nSur son bras droit un mot: \"raisonne\"\n\nJe ne sais pas son nom, je ne sais rien de lui\nIl m'a aim\u00e9e toute la nuit\nMon l\u00e9gionnaire!\nEt me laissant \u00e0 mon destin\nIl est parti dans le matin\nPlein de lumi\u00e8re!\nIl \u00e9tait mince il \u00e9tait beau\nIl sentait bon le sable chaud\nMon l\u00e9gionnaire!\nIl y avait du soleil sur son front\nQui mettait dans ses cheveux blonds\nPlein de lumi\u00e8re!\n\nBonheur perdu, bonheur enfui\nToujours je pense \u00e0 cette nuit\nEt l'envie de sa peau me ronge\nParfois je pleure et puis je songe\nQue lorsqu'il \u00e9tait sur mon coeur\nJ'aurais d\u00fb crier mon bonheur\u2026\nMais je n'ai rien os\u00e9 lui dire\nJ'avais peur de le voir sourire!\n\nOn l'a trouv\u00e9 dans le d\u00e9sert\nIl avait ses beaux yeux ouverts\nDans le ciel passaient des nuages\nIl a montr\u00e9 ses tatouages\nEn souriant et puis il a dit\nMontrant son cou: \"pas vu, pas pris\"\nMontrant son coeur: \"ici personne\"\nIl ne savait pas\u2026 Je lui pardonne\n\nJe r\u00eavais pourtant que le destin\nMe ram\u00e8nerait un beau matin\nMon l\u00e9gionnaire!\nQu'on s'en irait loin tous les deux\nDans quelque pays merveilleux\nPlein de lumi\u00e8re!\nIl \u00e9tait mince il \u00e9tait beau\nOn l'a mis sous le sable chaud\nMon l\u00e9gionnaire!\nIl y avait du soleil sur son front\nQui mettait dans ses cheveux blonds\nPlein de lumi\u00e8re"
+  }
+ ]
+}

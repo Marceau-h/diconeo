@@ -1,0 +1,4551 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/309169",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+ "id": 309169,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Stanislas",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Stanislas",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 83343,
+  "annotator_login": "MIKL",
+  "api_path": "/referents/7051779",
+  "classification": "needs_exegesis",
+  "fragment": "Stanislas",
+  "id": 7051779,
+  "is_description": true,
+  "path": "/7051779/Stanislas/Stanislas",
+  "range": {
+   "content": "Stanislas"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7051779/Stanislas/Stanislas",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/309169",
+   "context": null,
+   "id": 309169,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1651176288",
+   "link_title": "Stanislas",
+   "title": "Stanislas",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Stanislas"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7051779",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7051779,
+    "pinned": false,
+    "share_url": "https://genius.com/7051779",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7051779/Stanislas/Stanislas",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/83343",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/502567c847f1776a2266a9098b8169e9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/502567c847f1776a2266a9098b8169e9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/502567c847f1776a2266a9098b8169e9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/502567c847f1776a2266a9098b8169e9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wNxReVqPTD2cYnNHV0H3_La_haine_-_le_monde_est_a_nous.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 83343,
+       "iq": 40866,
+       "login": "MIKL",
+       "name": "MIKL",
+       "role_for_display": "editor",
+       "url": "https://genius.com/MIKL",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/889760",
+   "apple_music_id": "1442670988",
+   "apple_music_player_url": "https://genius.com/songs/889760/apple_music_player",
+   "artist_names": "Stanislas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_889760' class='rg_embed_link' data-song-id='889760'>Read <a href='https://genius.com/Stanislas-le-manege-lyrics'>\u201cLe Man\u00e8ge\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/889760/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le Man\u00e8ge by\u00a0Stanislas",
+   "header_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "id": 889760,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-le-manege-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2007-11-19",
+   "release_date_for_display": "November 19, 2007",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Man\u00e8ge",
+   "title_with_featured": "Le Man\u00e8ge",
+   "url": "https://genius.com/Stanislas-le-manege-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/117947",
+    "cover_art_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+    "full_title": "L\u2019\u00c9quilibre instable by Stanislas",
+    "id": 117947,
+    "name": "L\u2019\u00c9quilibre instable",
+    "url": "https://genius.com/albums/Stanislas/Lequilibre-instable",
+    "artist": {
+     "api_path": "/artists/309169",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 309169,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stanislas",
+     "url": "https://genius.com/artists/Stanislas"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5372011",
+    "classification": "needs_exegesis",
+    "fragment": "Le Man\u00e8ge",
+    "id": 5372011,
+    "is_description": true,
+    "path": "/5372011/Stanislas-le-manege/Le-manege",
+    "range": {
+     "content": "Le Man\u00e8ge"
+    },
+    "song_id": 889760,
+    "url": "https://genius.com/5372011/Stanislas-le-manege/Le-manege",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/889760",
+     "client_timestamps": {
+      "updated_by_human_at": 1565452668,
+      "lyrics_updated_at": 1429301712
+     },
+     "context": "Stanislas",
+     "id": 889760,
+     "image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+     "link_title": "Le Man\u00e8ge by\u00a0Stanislas",
+     "title": "Le Man\u00e8ge",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-le-manege-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5372011",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5372011,
+      "pinned": false,
+      "share_url": "https://genius.com/5372011",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5372011/Stanislas-le-manege/Le-manege",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=wgKv_qXOUuM"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/309169",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 309169,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stanislas",
+     "url": "https://genius.com/artists/Stanislas"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/309169",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 309169,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stanislas",
+     "url": "https://genius.com/artists/Stanislas"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2073291",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2073291/apple_music_player",
+   "artist_names": "Stanislas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2073291' class='rg_embed_link' data-song-id='2073291'>Read <a href='https://genius.com/Stanislas-fou-delle-lyrics'>\u201cFou d'elle\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/2073291/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Fou d'elle by\u00a0Stanislas",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "id": 2073291,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-fou-delle-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fou d\u2019elle",
+   "title_with_featured": "Fou d'elle",
+   "url": "https://genius.com/Stanislas-fou-delle-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/314316",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1651176288",
+    "full_title": "Les Carnets de la vigie by Stanislas",
+    "id": 314316,
+    "name": "Les Carnets de la vigie",
+    "url": "https://genius.com/albums/Stanislas/Les-carnets-de-la-vigie",
+    "artist": {
+     "api_path": "/artists/309169",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 309169,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stanislas",
+     "url": "https://genius.com/artists/Stanislas"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6813168",
+    "classification": "needs_exegesis",
+    "fragment": "Fou d\u2019elle",
+    "id": 6813168,
+    "is_description": true,
+    "path": "/6813168/Stanislas-fou-delle/Fou-delle",
+    "range": {
+     "content": "Fou d'elle"
+    },
+    "song_id": 2073291,
+    "url": "https://genius.com/6813168/Stanislas-fou-delle/Fou-delle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2073291",
+     "client_timestamps": {
+      "updated_by_human_at": 1481743756,
+      "lyrics_updated_at": 1433954702
+     },
+     "context": "Stanislas",
+     "id": 2073291,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+     "link_title": "Fou d\u2019elle by\u00a0Stanislas",
+     "title": "Fou d'elle",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-fou-delle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6813168",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6813168,
+      "pinned": false,
+      "share_url": "https://genius.com/6813168",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6813168/Stanislas-fou-delle/Fou-delle",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/672123",
+   "apple_music_id": "1442670996",
+   "apple_music_player_url": "https://genius.com/songs/672123/apple_music_player",
+   "artist_names": "Stanislas (Ft. Calogero)",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_672123' class='rg_embed_link' data-song-id='672123'>Read <a href='https://genius.com/Stanislas-la-debacle-des-sentiments-lyrics'>\u201cLa d\u00e9b\u00e2cle des sentiments\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/672123/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La d\u00e9b\u00e2cle des sentiments by\u00a0Stanislas (Ft.\u00a0Calogero)",
+   "header_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "id": 672123,
+   "lyrics_owner_id": 83343,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-la-debacle-des-sentiments-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2007-11-19",
+   "release_date_for_display": "November 19, 2007",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La d\u00e9b\u00e2cle des sentiments",
+   "title_with_featured": "La d\u00e9b\u00e2cle des sentiments (Ft.\u00a0Calogero)",
+   "url": "https://genius.com/Stanislas-la-debacle-des-sentiments-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/117947",
+    "cover_art_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+    "full_title": "L\u2019\u00c9quilibre instable by Stanislas",
+    "id": 117947,
+    "name": "L\u2019\u00c9quilibre instable",
+    "url": "https://genius.com/albums/Stanislas/Lequilibre-instable",
+    "artist": {
+     "api_path": "/artists/309169",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 309169,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stanislas",
+     "url": "https://genius.com/artists/Stanislas"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 83343,
+    "annotator_login": "MIKL",
+    "api_path": "/referents/4711072",
+    "classification": "needs_exegesis",
+    "fragment": "La d\u00e9b\u00e2cle des sentiments",
+    "id": 4711072,
+    "is_description": true,
+    "path": "/4711072/Stanislas-la-debacle-des-sentiments/La-debacle-des-sentiments",
+    "range": {
+     "content": "La d\u00e9b\u00e2cle des sentiments"
+    },
+    "song_id": 672123,
+    "url": "https://genius.com/4711072/Stanislas-la-debacle-des-sentiments/La-debacle-des-sentiments",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/672123",
+     "client_timestamps": {
+      "updated_by_human_at": 1421175595,
+      "lyrics_updated_at": 1421175595
+     },
+     "context": "Stanislas",
+     "id": 672123,
+     "image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+     "link_title": "La d\u00e9b\u00e2cle des sentiments by\u00a0Stanislas (Ft.\u00a0Calogero)",
+     "title": "La d\u00e9b\u00e2cle des sentiments",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-la-debacle-des-sentiments-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4711072",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 4711072,
+      "pinned": false,
+      "share_url": "https://genius.com/4711072",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/4711072/Stanislas-la-debacle-des-sentiments/La-debacle-des-sentiments",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/83343",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/502567c847f1776a2266a9098b8169e9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/502567c847f1776a2266a9098b8169e9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/502567c847f1776a2266a9098b8169e9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/502567c847f1776a2266a9098b8169e9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wNxReVqPTD2cYnNHV0H3_La_haine_-_le_monde_est_a_nous.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 83343,
+         "iq": 40866,
+         "login": "MIKL",
+         "name": "MIKL",
+         "role_for_display": "editor",
+         "url": "https://genius.com/MIKL",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/13335",
+     "header_image_url": "https://images.genius.com/acf9fa60394e7859ad92ec6a05134788.380x380x1.jpg",
+     "id": 13335,
+     "image_url": "https://images.genius.com/acf9fa60394e7859ad92ec6a05134788.380x380x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Calogero",
+     "url": "https://genius.com/artists/Calogero"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=lWW_-fgCgyE"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/902791",
+   "apple_music_id": "886498045",
+   "apple_music_player_url": "https://genius.com/songs/902791/apple_music_player",
+   "artist_names": "Stanislas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_902791' class='rg_embed_link' data-song-id='902791'>Read <a href='https://genius.com/Stanislas-la-ou-le-ciel-rejoint-la-terre-lyrics'>\u201cL\u00e0 O\u00f9 Le Ciel Rejoint La Terre\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/902791/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "L\u00e0 O\u00f9 Le Ciel Rejoint La Terre by\u00a0Stanislas",
+   "header_image_thumbnail_url": "https://images.genius.com/8360ebdf2a150b3a328cc5ded8bd5924.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8360ebdf2a150b3a328cc5ded8bd5924.1000x1000x1.jpg",
+   "id": 902791,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-la-ou-le-ciel-rejoint-la-terre-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/8360ebdf2a150b3a328cc5ded8bd5924.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8360ebdf2a150b3a328cc5ded8bd5924.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "L\u00e0 O\u00f9 Le Ciel Rejoint La Terre",
+   "title_with_featured": "L\u00e0 O\u00f9 Le Ciel Rejoint La Terre",
+   "url": "https://genius.com/Stanislas-la-ou-le-ciel-rejoint-la-terre-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/310814",
+    "cover_art_url": "https://images.genius.com/8360ebdf2a150b3a328cc5ded8bd5924.1000x1000x1.jpg",
+    "full_title": "Ma solitude by Stanislas",
+    "id": 310814,
+    "name": "Ma solitude",
+    "url": "https://genius.com/albums/Stanislas/Ma-solitude",
+    "artist": {
+     "api_path": "/artists/309169",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 309169,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stanislas",
+     "url": "https://genius.com/artists/Stanislas"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5385538",
+    "classification": "needs_exegesis",
+    "fragment": "L\u00e0 O\u00f9 Le Ciel Rejoint La Terre",
+    "id": 5385538,
+    "is_description": true,
+    "path": "/5385538/Stanislas-la-ou-le-ciel-rejoint-la-terre/La-ou-le-ciel-rejoint-la-terre",
+    "range": {
+     "content": "L\u00e0 O\u00f9 Le Ciel Rejoint La Terre"
+    },
+    "song_id": 902791,
+    "url": "https://genius.com/5385538/Stanislas-la-ou-le-ciel-rejoint-la-terre/La-ou-le-ciel-rejoint-la-terre",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/902791",
+     "client_timestamps": {
+      "updated_by_human_at": 1481216353,
+      "lyrics_updated_at": 1429308437
+     },
+     "context": "Stanislas",
+     "id": 902791,
+     "image_url": "https://images.genius.com/8360ebdf2a150b3a328cc5ded8bd5924.1000x1000x1.jpg",
+     "link_title": "L\u00e0 O\u00f9 Le Ciel Rejoint La Terre by\u00a0Stanislas",
+     "title": "L\u00e0 O\u00f9 Le Ciel Rejoint La Terre",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-la-ou-le-ciel-rejoint-la-terre-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5385538",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5385538,
+      "pinned": false,
+      "share_url": "https://genius.com/5385538",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5385538/Stanislas-la-ou-le-ciel-rejoint-la-terre/La-ou-le-ciel-rejoint-la-terre",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1216957",
+   "apple_music_id": "886498040",
+   "apple_music_player_url": "https://genius.com/songs/1216957/apple_music_player",
+   "artist_names": "Stanislas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1216957' class='rg_embed_link' data-song-id='1216957'>Read <a href='https://genius.com/Stanislas-ma-solitude-lyrics'>\u201cMa Solitude\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/1216957/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ma Solitude by\u00a0Stanislas",
+   "header_image_thumbnail_url": "https://images.genius.com/8360ebdf2a150b3a328cc5ded8bd5924.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8360ebdf2a150b3a328cc5ded8bd5924.1000x1000x1.jpg",
+   "id": 1216957,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-ma-solitude-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/8360ebdf2a150b3a328cc5ded8bd5924.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8360ebdf2a150b3a328cc5ded8bd5924.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ma Solitude",
+   "title_with_featured": "Ma Solitude",
+   "url": "https://genius.com/Stanislas-ma-solitude-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/310814",
+    "cover_art_url": "https://images.genius.com/8360ebdf2a150b3a328cc5ded8bd5924.1000x1000x1.jpg",
+    "full_title": "Ma solitude by Stanislas",
+    "id": 310814,
+    "name": "Ma solitude",
+    "url": "https://genius.com/albums/Stanislas/Ma-solitude",
+    "artist": {
+     "api_path": "/artists/309169",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 309169,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stanislas",
+     "url": "https://genius.com/artists/Stanislas"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5719804",
+    "classification": "needs_exegesis",
+    "fragment": "Ma Solitude",
+    "id": 5719804,
+    "is_description": true,
+    "path": "/5719804/Stanislas-ma-solitude/Ma-solitude",
+    "range": {
+     "content": "Ma Solitude"
+    },
+    "song_id": 1216957,
+    "url": "https://genius.com/5719804/Stanislas-ma-solitude/Ma-solitude",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1216957",
+     "client_timestamps": {
+      "updated_by_human_at": 1481227177,
+      "lyrics_updated_at": 1429704763
+     },
+     "context": "Stanislas",
+     "id": 1216957,
+     "image_url": "https://images.genius.com/8360ebdf2a150b3a328cc5ded8bd5924.1000x1000x1.jpg",
+     "link_title": "Ma Solitude by\u00a0Stanislas",
+     "title": "Ma Solitude",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-ma-solitude-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5719804",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5719804,
+      "pinned": false,
+      "share_url": "https://genius.com/5719804",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5719804/Stanislas-ma-solitude/Ma-solitude",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/987061",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/987061/apple_music_player",
+   "artist_names": "Stanislas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_987061' class='rg_embed_link' data-song-id='987061'>Read <a href='https://genius.com/Stanislas-la-belle-de-mai-2-lyrics'>\u201cLa Belle De Mai 2\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/987061/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La Belle De Mai 2 by\u00a0Stanislas",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "id": 987061,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-la-belle-de-mai-2-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La Belle De Mai 2",
+   "title_with_featured": "La Belle De Mai 2",
+   "url": "https://genius.com/Stanislas-la-belle-de-mai-2-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5482978",
+    "classification": "needs_exegesis",
+    "fragment": "La Belle De Mai 2",
+    "id": 5482978,
+    "is_description": true,
+    "path": "/5482978/Stanislas-la-belle-de-mai-2/La-belle-de-mai-2",
+    "range": {
+     "content": "La Belle De Mai 2"
+    },
+    "song_id": 987061,
+    "url": "https://genius.com/5482978/Stanislas-la-belle-de-mai-2/La-belle-de-mai-2",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/987061",
+     "client_timestamps": {
+      "updated_by_human_at": 1434556058,
+      "lyrics_updated_at": 1429574283
+     },
+     "context": "Stanislas",
+     "id": 987061,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+     "link_title": "La Belle De Mai 2 by\u00a0Stanislas",
+     "title": "La Belle De Mai 2",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-la-belle-de-mai-2-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5482978",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5482978,
+      "pinned": false,
+      "share_url": "https://genius.com/5482978",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5482978/Stanislas-la-belle-de-mai-2/La-belle-de-mai-2",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1557054",
+   "apple_music_id": "1442671214",
+   "apple_music_player_url": "https://genius.com/songs/1557054/apple_music_player",
+   "artist_names": "Stanislas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1557054' class='rg_embed_link' data-song-id='1557054'>Read <a href='https://genius.com/Stanislas-le-temps-des-roses-lyrics'>\u201cLe Temps Des Roses\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/1557054/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le Temps Des Roses by\u00a0Stanislas",
+   "header_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "id": 1557054,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-le-temps-des-roses-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Temps Des Roses",
+   "title_with_featured": "Le Temps Des Roses",
+   "url": "https://genius.com/Stanislas-le-temps-des-roses-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/117947",
+    "cover_art_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+    "full_title": "L\u2019\u00c9quilibre instable by Stanislas",
+    "id": 117947,
+    "name": "L\u2019\u00c9quilibre instable",
+    "url": "https://genius.com/albums/Stanislas/Lequilibre-instable",
+    "artist": {
+     "api_path": "/artists/309169",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 309169,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stanislas",
+     "url": "https://genius.com/artists/Stanislas"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6071696",
+    "classification": "needs_exegesis",
+    "fragment": "Le Temps Des Roses",
+    "id": 6071696,
+    "is_description": true,
+    "path": "/6071696/Stanislas-le-temps-des-roses/Le-temps-des-roses",
+    "range": {
+     "content": "Le Temps Des Roses"
+    },
+    "song_id": 1557054,
+    "url": "https://genius.com/6071696/Stanislas-le-temps-des-roses/Le-temps-des-roses",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1557054",
+     "client_timestamps": {
+      "updated_by_human_at": 1481844551,
+      "lyrics_updated_at": 1429896801
+     },
+     "context": "Stanislas",
+     "id": 1557054,
+     "image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+     "link_title": "Le Temps Des Roses by\u00a0Stanislas",
+     "title": "Le Temps Des Roses",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-le-temps-des-roses-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6071696",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6071696,
+      "pinned": false,
+      "share_url": "https://genius.com/6071696",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6071696/Stanislas-le-temps-des-roses/Le-temps-des-roses",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1618871",
+   "apple_music_id": "1442670995",
+   "apple_music_player_url": "https://genius.com/songs/1618871/apple_music_player",
+   "artist_names": "Stanislas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1618871' class='rg_embed_link' data-song-id='1618871'>Read <a href='https://genius.com/Stanislas-les-lignes-de-ma-main-lyrics'>\u201cLes Lignes De Ma Main\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/1618871/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Les Lignes De Ma Main by\u00a0Stanislas",
+   "header_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "id": 1618871,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-les-lignes-de-ma-main-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Les Lignes De Ma Main",
+   "title_with_featured": "Les Lignes De Ma Main",
+   "url": "https://genius.com/Stanislas-les-lignes-de-ma-main-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/117947",
+    "cover_art_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+    "full_title": "L\u2019\u00c9quilibre instable by Stanislas",
+    "id": 117947,
+    "name": "L\u2019\u00c9quilibre instable",
+    "url": "https://genius.com/albums/Stanislas/Lequilibre-instable",
+    "artist": {
+     "api_path": "/artists/309169",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 309169,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stanislas",
+     "url": "https://genius.com/artists/Stanislas"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6133683",
+    "classification": "needs_exegesis",
+    "fragment": "Les Lignes De Ma Main",
+    "id": 6133683,
+    "is_description": true,
+    "path": "/6133683/Stanislas-les-lignes-de-ma-main/Les-lignes-de-ma-main",
+    "range": {
+     "content": "Les Lignes De Ma Main"
+    },
+    "song_id": 1618871,
+    "url": "https://genius.com/6133683/Stanislas-les-lignes-de-ma-main/Les-lignes-de-ma-main",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1618871",
+     "client_timestamps": {
+      "updated_by_human_at": 1481907535,
+      "lyrics_updated_at": 1429900257
+     },
+     "context": "Stanislas",
+     "id": 1618871,
+     "image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+     "link_title": "Les Lignes De Ma Main by\u00a0Stanislas",
+     "title": "Les Lignes De Ma Main",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-les-lignes-de-ma-main-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6133683",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6133683,
+      "pinned": false,
+      "share_url": "https://genius.com/6133683",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6133683/Stanislas-les-lignes-de-ma-main/Les-lignes-de-ma-main",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1592897",
+   "apple_music_id": "1442671212",
+   "apple_music_player_url": "https://genius.com/songs/1592897/apple_music_player",
+   "artist_names": "Stanislas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1592897' class='rg_embed_link' data-song-id='1592897'>Read <a href='https://genius.com/Stanislas-nouveau-big-bang-lyrics'>\u201cNouveau Big Bang\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/1592897/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Nouveau Big Bang by\u00a0Stanislas",
+   "header_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "id": 1592897,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-nouveau-big-bang-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Nouveau Big Bang",
+   "title_with_featured": "Nouveau Big Bang",
+   "url": "https://genius.com/Stanislas-nouveau-big-bang-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/117947",
+    "cover_art_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+    "full_title": "L\u2019\u00c9quilibre instable by Stanislas",
+    "id": 117947,
+    "name": "L\u2019\u00c9quilibre instable",
+    "url": "https://genius.com/albums/Stanislas/Lequilibre-instable",
+    "artist": {
+     "api_path": "/artists/309169",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 309169,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stanislas",
+     "url": "https://genius.com/artists/Stanislas"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6107661",
+    "classification": "needs_exegesis",
+    "fragment": "Nouveau Big Bang",
+    "id": 6107661,
+    "is_description": true,
+    "path": "/6107661/Stanislas-nouveau-big-bang/Nouveau-big-bang",
+    "range": {
+     "content": "Nouveau Big Bang"
+    },
+    "song_id": 1592897,
+    "url": "https://genius.com/6107661/Stanislas-nouveau-big-bang/Nouveau-big-bang",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1592897",
+     "client_timestamps": {
+      "updated_by_human_at": 1481740882,
+      "lyrics_updated_at": 1429898919
+     },
+     "context": "Stanislas",
+     "id": 1592897,
+     "image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+     "link_title": "Nouveau Big Bang by\u00a0Stanislas",
+     "title": "Nouveau Big Bang",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-nouveau-big-bang-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6107661",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6107661,
+      "pinned": false,
+      "share_url": "https://genius.com/6107661",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6107661/Stanislas-nouveau-big-bang/Nouveau-big-bang",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1834722",
+   "apple_music_id": "1442671217",
+   "apple_music_player_url": "https://genius.com/songs/1834722/apple_music_player",
+   "artist_names": "Stanislas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1834722' class='rg_embed_link' data-song-id='1834722'>Read <a href='https://genius.com/Stanislas-a-dautres-lyrics'>\u201cA DAutres\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/1834722/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "A DAutres by\u00a0Stanislas",
+   "header_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "id": 1834722,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-a-dautres-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "A DAutres",
+   "title_with_featured": "A DAutres",
+   "url": "https://genius.com/Stanislas-a-dautres-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/117947",
+    "cover_art_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+    "full_title": "L\u2019\u00c9quilibre instable by Stanislas",
+    "id": 117947,
+    "name": "L\u2019\u00c9quilibre instable",
+    "url": "https://genius.com/albums/Stanislas/Lequilibre-instable",
+    "artist": {
+     "api_path": "/artists/309169",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 309169,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stanislas",
+     "url": "https://genius.com/artists/Stanislas"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6448297",
+    "classification": "needs_exegesis",
+    "fragment": "A DAutres",
+    "id": 6448297,
+    "is_description": true,
+    "path": "/6448297/Stanislas-a-dautres/A-dautres",
+    "range": {
+     "content": "A DAutres"
+    },
+    "song_id": 1834722,
+    "url": "https://genius.com/6448297/Stanislas-a-dautres/A-dautres",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1834722",
+     "client_timestamps": {
+      "updated_by_human_at": 1480539023,
+      "lyrics_updated_at": 1431626524
+     },
+     "context": "Stanislas",
+     "id": 1834722,
+     "image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+     "link_title": "A DAutres by\u00a0Stanislas",
+     "title": "A DAutres",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-a-dautres-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6448297",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6448297,
+      "pinned": false,
+      "share_url": "https://genius.com/6448297",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6448297/Stanislas-a-dautres/A-dautres",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1586773",
+   "apple_music_id": "1442671213",
+   "apple_music_player_url": "https://genius.com/songs/1586773/apple_music_player",
+   "artist_names": "Stanislas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1586773' class='rg_embed_link' data-song-id='1586773'>Read <a href='https://genius.com/Stanislas-labsinthe-pour-labsent-lyrics'>\u201cLAbsinthe Pour LAbsent\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/1586773/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "LAbsinthe Pour LAbsent by\u00a0Stanislas",
+   "header_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "id": 1586773,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-labsinthe-pour-labsent-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "LAbsinthe Pour LAbsent",
+   "title_with_featured": "LAbsinthe Pour LAbsent",
+   "url": "https://genius.com/Stanislas-labsinthe-pour-labsent-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/117947",
+    "cover_art_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+    "full_title": "L\u2019\u00c9quilibre instable by Stanislas",
+    "id": 117947,
+    "name": "L\u2019\u00c9quilibre instable",
+    "url": "https://genius.com/albums/Stanislas/Lequilibre-instable",
+    "artist": {
+     "api_path": "/artists/309169",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 309169,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stanislas",
+     "url": "https://genius.com/artists/Stanislas"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6101515",
+    "classification": "needs_exegesis",
+    "fragment": "LAbsinthe Pour LAbsent",
+    "id": 6101515,
+    "is_description": true,
+    "path": "/6101515/Stanislas-labsinthe-pour-labsent/Labsinthe-pour-labsent",
+    "range": {
+     "content": "LAbsinthe Pour LAbsent"
+    },
+    "song_id": 1586773,
+    "url": "https://genius.com/6101515/Stanislas-labsinthe-pour-labsent/Labsinthe-pour-labsent",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1586773",
+     "client_timestamps": {
+      "updated_by_human_at": 1481747707,
+      "lyrics_updated_at": 1429898600
+     },
+     "context": "Stanislas",
+     "id": 1586773,
+     "image_url": "https://images.genius.com/ba8ce952adee9516444969dcf04da3cc.600x600x1.jpg",
+     "link_title": "LAbsinthe Pour LAbsent by\u00a0Stanislas",
+     "title": "LAbsinthe Pour LAbsent",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-labsinthe-pour-labsent-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6101515",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6101515,
+      "pinned": false,
+      "share_url": "https://genius.com/6101515",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6101515/Stanislas-labsinthe-pour-labsent/Labsinthe-pour-labsent",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1438464",
+   "apple_music_id": "1442670998",
+   "apple_music_player_url": "https://genius.com/songs/1438464/apple_music_player",
+   "artist_names": "Stanislas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1438464' class='rg_embed_link' data-song-id='1438464'>Read <a href='https://genius.com/Stanislas-entre-deux-femmes-lyrics'>\u201cEntre Deux Femmes\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/1438464/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Entre Deux Femmes by\u00a0Stanislas",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "id": 1438464,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-entre-deux-femmes-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Entre Deux Femmes",
+   "title_with_featured": "Entre Deux Femmes",
+   "url": "https://genius.com/Stanislas-entre-deux-femmes-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5950390",
+    "classification": "needs_exegesis",
+    "fragment": "Entre Deux Femmes",
+    "id": 5950390,
+    "is_description": true,
+    "path": "/5950390/Stanislas-entre-deux-femmes/Entre-deux-femmes",
+    "range": {
+     "content": "Entre Deux Femmes"
+    },
+    "song_id": 1438464,
+    "url": "https://genius.com/5950390/Stanislas-entre-deux-femmes/Entre-deux-femmes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1438464",
+     "client_timestamps": {
+      "updated_by_human_at": 1442867168,
+      "lyrics_updated_at": 1429844525
+     },
+     "context": "Stanislas",
+     "id": 1438464,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+     "link_title": "Entre Deux Femmes by\u00a0Stanislas",
+     "title": "Entre Deux Femmes",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-entre-deux-femmes-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5950390",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5950390,
+      "pinned": false,
+      "share_url": "https://genius.com/5950390",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5950390/Stanislas-entre-deux-femmes/Entre-deux-femmes",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1518601",
+   "apple_music_id": "1442671222",
+   "apple_music_player_url": "https://genius.com/songs/1518601/apple_music_player",
+   "artist_names": "Stanislas",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1518601' class='rg_embed_link' data-song-id='1518601'>Read <a href='https://genius.com/Stanislas-lhiver-lyrics'>\u201cLHiver\u201d by Stanislas</a> on Genius</div> <script crossorigin src='//genius.com/songs/1518601/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "LHiver by\u00a0Stanislas",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "id": 1518601,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Stanislas-lhiver-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "LHiver",
+   "title_with_featured": "LHiver",
+   "url": "https://genius.com/Stanislas-lhiver-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6033041",
+    "classification": "needs_exegesis",
+    "fragment": "LHiver",
+    "id": 6033041,
+    "is_description": true,
+    "path": "/6033041/Stanislas-lhiver/Lhiver",
+    "range": {
+     "content": "LHiver"
+    },
+    "song_id": 1518601,
+    "url": "https://genius.com/6033041/Stanislas-lhiver/Lhiver",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1518601",
+     "client_timestamps": {
+      "updated_by_human_at": 1444057146,
+      "lyrics_updated_at": 1429893980
+     },
+     "context": "Stanislas",
+     "id": 1518601,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1651176288",
+     "link_title": "LHiver by\u00a0Stanislas",
+     "title": "LHiver",
+     "type": "Song",
+     "url": "https://genius.com/Stanislas-lhiver-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6033041",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6033041,
+      "pinned": false,
+      "share_url": "https://genius.com/6033041",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6033041/Stanislas-lhiver/Lhiver",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/309169",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 309169,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stanislas",
+    "url": "https://genius.com/artists/Stanislas"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

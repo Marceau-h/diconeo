@@ -1,0 +1,4890 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/555618",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 555618,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Lilian Renaud",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Lilian-renaud",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1105397,
+  "annotator_login": "Mopsos",
+  "api_path": "/referents/7684284",
+  "classification": "needs_exegesis",
+  "fragment": "Lilian Renaud",
+  "id": 7684284,
+  "is_description": true,
+  "path": "/7684284/Lilian-renaud/Lilian-renaud",
+  "range": {
+   "content": "Lilian Renaud"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7684284/Lilian-renaud/Lilian-renaud",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/555618",
+   "context": null,
+   "id": 555618,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Lilian Renaud",
+   "title": "Lilian Renaud",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Lilian-renaud"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7684284",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7684284,
+    "pinned": false,
+    "share_url": "https://genius.com/7684284",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7684284/Lilian-renaud/Lilian-renaud",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1105397",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1105397,
+       "iq": 189523,
+       "login": "Mopsos",
+       "name": "Mopsos",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Mopsos",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2336155",
+   "apple_music_id": "1056679386",
+   "apple_music_player_url": "https://genius.com/songs/2336155/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2336155' class='rg_embed_link' data-song-id='2336155'>Read <a href='https://genius.com/Lilian-renaud-pour-ne-plus-avoir-peur-lyrics'>\u201cPour Ne Plus Avoir Peur\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/2336155/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Pour Ne Plus Avoir Peur by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "id": 2336155,
+   "lyrics_owner_id": 1105397,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-pour-ne-plus-avoir-peur-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-10-23",
+   "release_date_for_display": "October 23, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Pour Ne Plus Avoir Peur",
+   "title_with_featured": "Pour Ne Plus Avoir Peur",
+   "url": "https://genius.com/Lilian-renaud-pour-ne-plus-avoir-peur-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133679",
+    "cover_art_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+    "full_title": "Le Bruit De L'aube by Lilian Renaud",
+    "id": 133679,
+    "name": "Le Bruit De L\u2019aube",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-bruit-de-l-aube",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1105397,
+    "annotator_login": "Mopsos",
+    "api_path": "/referents/8027683",
+    "classification": "needs_exegesis",
+    "fragment": "Pour Ne Plus Avoir Peur",
+    "id": 8027683,
+    "is_description": true,
+    "path": "/8027683/Lilian-renaud-pour-ne-plus-avoir-peur/Pour-ne-plus-avoir-peur",
+    "range": {
+     "content": "Pour Ne Plus Avoir Peur"
+    },
+    "song_id": 2336155,
+    "url": "https://genius.com/8027683/Lilian-renaud-pour-ne-plus-avoir-peur/Pour-ne-plus-avoir-peur",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2336155",
+     "client_timestamps": {
+      "updated_by_human_at": 1529420846,
+      "lyrics_updated_at": 1529420846
+     },
+     "context": "Lilian Renaud",
+     "id": 2336155,
+     "image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+     "link_title": "Pour Ne Plus Avoir Peur by\u00a0Lilian\u00a0Renaud",
+     "title": "Pour Ne Plus Avoir Peur",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-pour-ne-plus-avoir-peur-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8027683",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8027683,
+      "pinned": false,
+      "share_url": "https://genius.com/8027683",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8027683/Lilian-renaud-pour-ne-plus-avoir-peur/Pour-ne-plus-avoir-peur",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1105397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1105397,
+         "iq": 189523,
+         "login": "Mopsos",
+         "name": "Mopsos",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Mopsos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ywyKzAo161Q"
+    },
+    {
+     "native_uri": "spotify:track:69piO3eHXjOWxWNNLsveJl",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/69piO3eHXjOWxWNNLsveJl"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Couplet 1]\nIl faut des rires, il faut des pleurs\nFaut des fleurs pour se souvenir\nQu\u2019on a eu des jours meilleurs\nOn dit qu\u2019apr\u00e8s le pire, qu\u2019apr\u00e8s la peur\nIl y a cette chance \u00e0 saisir\nMais quel est le prix du bonheur ?\n\n[Refrain 1]\nCombien de rires, combien de larmes\nCombien d\u2019ann\u00e9es de malheur\nFaut-il pour que mon c\u0153ur s\u2019enflamme ?\nPour enfin ne plus avoir peur\nExplose mon c\u0153ur, explose mon \u00e2me\nRester dans le noir tout seul\nPour enfin ne plus avoir peur\n\n[Couplet 2]\nMieux vaut en rire\nMieux vaut mon c\u0153ur\nFaudra faire avec les sourires\nCeux qui masquent la douleur\nOn dit qu\u2019apr\u00e8s l\u2019orage, le ciel se d\u00e9gage\nQu\u2019il faut savoir tourner les pages\nComme dit l\u2019adage, il n\u2019y a pas d\u2019\u00e2ge\n\n[Refrain 2]\nCombien de rires, combien de larmes\nCombien d\u2019ann\u00e9es de malheur\nFaut-il pour que mon c\u0153ur s\u2019enflamme ?\nPour enfin ne plus avoir peur\nExplose mon c\u0153ur, explose mon \u00e2me\nRester dans le noir des heures\nPour enfin ne plus avoir peur\n\n[Couplet 3]\nJ\u2019ai peur du vide\nJ\u2019ai peur d\u2019avoir peur\nJ\u2019ai peur des rires\nQui d\u00e9comptent nos heures\n\n[Refrain 2]\nCombien de rires, combien de larmes\nCombien d\u2019ann\u00e9es de malheur\nFaut-il pour que mon c\u0153ur s\u2019enflamme ?\nPour enfin ne plus avoir peur\nExplose mon c\u0153ur, explose mon \u00e2me\nRester dans le noir des heures\nPour enfin ne plus avoir peur\n\n[Refrain 1]\nCombien de rires, combien de larmes\nCombien d\u2019ann\u00e9es de malheur\nFaut-il pour que mon c\u0153ur s\u2019enflamme ?\nPour enfin ne plus avoir peur\nExplose mon c\u0153ur, explose mon \u00e2me\nRester dans le noir tout seul\nPour enfin ne plus avoir peur\n\nPour ne plus jamais avoir peur"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2349747",
+   "apple_music_id": "1056679848",
+   "apple_music_player_url": "https://genius.com/songs/2349747/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2349747' class='rg_embed_link' data-song-id='2349747'>Read <a href='https://genius.com/Lilian-renaud-si-tu-cherches-de-lor-lyrics'>\u201cSi Tu Cherches De L\u2019or\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/2349747/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Si Tu Cherches De L\u2019or by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "id": 2349747,
+   "lyrics_owner_id": 1105397,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-si-tu-cherches-de-lor-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-11-06",
+   "release_date_for_display": "November 6, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Si Tu Cherches De L\u2019or",
+   "title_with_featured": "Si Tu Cherches De L\u2019or",
+   "url": "https://genius.com/Lilian-renaud-si-tu-cherches-de-lor-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133679",
+    "cover_art_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+    "full_title": "Le Bruit De L'aube by Lilian Renaud",
+    "id": 133679,
+    "name": "Le Bruit De L\u2019aube",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-bruit-de-l-aube",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1105397,
+    "annotator_login": "Mopsos",
+    "api_path": "/referents/8120775",
+    "classification": "needs_exegesis",
+    "fragment": "Si Tu Cherches De L\u2019or",
+    "id": 8120775,
+    "is_description": true,
+    "path": "/8120775/Lilian-renaud-si-tu-cherches-de-lor/Si-tu-cherches-de-lor",
+    "range": {
+     "content": "Si Tu Cherches De L\u2019or"
+    },
+    "song_id": 2349747,
+    "url": "https://genius.com/8120775/Lilian-renaud-si-tu-cherches-de-lor/Si-tu-cherches-de-lor",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2349747",
+     "client_timestamps": {
+      "updated_by_human_at": 1471622060,
+      "lyrics_updated_at": 1471622060
+     },
+     "context": "Lilian Renaud",
+     "id": 2349747,
+     "image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+     "link_title": "Si Tu Cherches De L\u2019or by\u00a0Lilian\u00a0Renaud",
+     "title": "Si Tu Cherches De L\u2019or",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-si-tu-cherches-de-lor-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8120775",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8120775,
+      "pinned": false,
+      "share_url": "https://genius.com/8120775",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8120775/Lilian-renaud-si-tu-cherches-de-lor/Si-tu-cherches-de-lor",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1105397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1105397,
+         "iq": 189523,
+         "login": "Mopsos",
+         "name": "Mopsos",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Mopsos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=-ADNuxhFKVk"
+    },
+    {
+     "native_uri": "spotify:track:6MER2Kr8XlKeS1FmPoCfKJ",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/6MER2Kr8XlKeS1FmPoCfKJ"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2344110",
+   "apple_music_id": "1056679381",
+   "apple_music_player_url": "https://genius.com/songs/2344110/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2344110' class='rg_embed_link' data-song-id='2344110'>Read <a href='https://genius.com/Lilian-renaud-il-faudra-vivre-lyrics'>\u201cIl Faudra Vivre\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/2344110/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Il Faudra Vivre by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "id": 2344110,
+   "lyrics_owner_id": 1105397,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-il-faudra-vivre-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-10-30",
+   "release_date_for_display": "October 30, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Il Faudra Vivre",
+   "title_with_featured": "Il Faudra Vivre",
+   "url": "https://genius.com/Lilian-renaud-il-faudra-vivre-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133679",
+    "cover_art_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+    "full_title": "Le Bruit De L'aube by Lilian Renaud",
+    "id": 133679,
+    "name": "Le Bruit De L\u2019aube",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-bruit-de-l-aube",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1105397,
+    "annotator_login": "Mopsos",
+    "api_path": "/referents/8082096",
+    "classification": "needs_exegesis",
+    "fragment": "Il Faudra Vivre",
+    "id": 8082096,
+    "is_description": true,
+    "path": "/8082096/Lilian-renaud-il-faudra-vivre/Il-faudra-vivre",
+    "range": {
+     "content": "Il Faudra Vivre"
+    },
+    "song_id": 2344110,
+    "url": "https://genius.com/8082096/Lilian-renaud-il-faudra-vivre/Il-faudra-vivre",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2344110",
+     "client_timestamps": {
+      "updated_by_human_at": 1446289788,
+      "lyrics_updated_at": 1446289788
+     },
+     "context": "Lilian Renaud",
+     "id": 2344110,
+     "image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+     "link_title": "Il Faudra Vivre by\u00a0Lilian\u00a0Renaud",
+     "title": "Il Faudra Vivre",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-il-faudra-vivre-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8082096",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8082096,
+      "pinned": false,
+      "share_url": "https://genius.com/8082096",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8082096/Lilian-renaud-il-faudra-vivre/Il-faudra-vivre",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1105397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1105397,
+         "iq": 189523,
+         "login": "Mopsos",
+         "name": "Mopsos",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Mopsos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=K_UgX-Xa_kA"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2289770",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2289770/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2289770' class='rg_embed_link' data-song-id='2289770'>Read <a href='https://genius.com/Lilian-renaud-promis-jure-lyrics'>\u201cPromis Jur\u00e9\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/2289770/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Promis Jur\u00e9 by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/b58a150f80793ad34712c7ee6fcba933.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/b58a150f80793ad34712c7ee6fcba933.600x600x1.jpg",
+   "id": 2289770,
+   "lyrics_owner_id": 1105397,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-promis-jure-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-08-21",
+   "release_date_for_display": "August 21, 2015",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/b58a150f80793ad34712c7ee6fcba933.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/b58a150f80793ad34712c7ee6fcba933.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Promis Jur\u00e9",
+   "title_with_featured": "Promis Jur\u00e9",
+   "url": "https://genius.com/Lilian-renaud-promis-jure-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133679",
+    "cover_art_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+    "full_title": "Le Bruit De L'aube by Lilian Renaud",
+    "id": 133679,
+    "name": "Le Bruit De L\u2019aube",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-bruit-de-l-aube",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1105397,
+    "annotator_login": "Mopsos",
+    "api_path": "/referents/7684285",
+    "classification": "needs_exegesis",
+    "fragment": "Promis Jur\u00e9",
+    "id": 7684285,
+    "is_description": true,
+    "path": "/7684285/Lilian-renaud-promis-jure/Promis-jure",
+    "range": {
+     "content": "Promis Jur\u00e9"
+    },
+    "song_id": 2289770,
+    "url": "https://genius.com/7684285/Lilian-renaud-promis-jure/Promis-jure",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2289770",
+     "client_timestamps": {
+      "updated_by_human_at": 1440422195,
+      "lyrics_updated_at": 1440422091
+     },
+     "context": "Lilian Renaud",
+     "id": 2289770,
+     "image_url": "https://images.rapgenius.com/b58a150f80793ad34712c7ee6fcba933.600x600x1.jpg",
+     "link_title": "Promis Jur\u00e9 by\u00a0Lilian\u00a0Renaud",
+     "title": "Promis Jur\u00e9",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-promis-jure-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7684285",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7684285,
+      "pinned": false,
+      "share_url": "https://genius.com/7684285",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7684285/Lilian-renaud-promis-jure/Promis-jure",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1105397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1105397,
+         "iq": 189523,
+         "login": "Mopsos",
+         "name": "Mopsos",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Mopsos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=vVCnAZiX_V8"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Couplet 1]\nCombien de navires ont pris l\u2019eau\nAvant de toucher le rivage ?\nCombien de soupirs, de sanglots\nAvant de gu\u00e9rir nos visages ?\nL\u2019adversit\u00e9 \u00e9corche nos r\u00eaves\nQui tracent nos parcours, notre histoire\nEt pour qu\u2019un nouveau jour se l\u00e8ve\nPartir avant qu\u2019il soit trop tard\n\n[Refrain]\nPromis jur\u00e9\nTout ira mieux demain\n\n[Pont]\n\u00c0 l\u2019abri des regrets\nAttendons l\u2019aube, si tu veux bien\nTout ira mieux demain\n\n[Couplet 2]\nCombien de nuits pleines d\u2019\u00e9clairs\nAvant de conna\u00eetre les grands jours ?\nCombien de lumi\u00e8res \u00e9ph\u00e9m\u00e8res\nAvant celle qui brille pour toujours ?\nPourquoi se priver d\u2019\u00eatre nous\nDe faire ce qu\u2019on fait de mieux ?\nPuisque mes espoirs les plus fous\nVivront \u00e0 travers vos yeux\n\n[Refrain]\n\n[Outro]\nPromis jur\u00e9, promis jur\u00e9\nAttendons l\u2019aube, si tu veux bien\nTout ira mieux demain"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2369559",
+   "apple_music_id": "1056679864",
+   "apple_music_player_url": "https://genius.com/songs/2369559/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2369559' class='rg_embed_link' data-song-id='2369559'>Read <a href='https://genius.com/Lilian-renaud-jattends-lyrics'>\u201cJ'attends\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/2369559/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "J'attends by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "id": 2369559,
+   "lyrics_owner_id": 1105397,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-jattends-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-11-13",
+   "release_date_for_display": "November 13, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "J\u2019attends",
+   "title_with_featured": "J'attends",
+   "url": "https://genius.com/Lilian-renaud-jattends-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133679",
+    "cover_art_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+    "full_title": "Le Bruit De L'aube by Lilian Renaud",
+    "id": 133679,
+    "name": "Le Bruit De L\u2019aube",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-bruit-de-l-aube",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1105397,
+    "annotator_login": "Mopsos",
+    "api_path": "/referents/8198342",
+    "classification": "needs_exegesis",
+    "fragment": "J\u2019attends",
+    "id": 8198342,
+    "is_description": true,
+    "path": "/8198342/Lilian-renaud-jattends/Jattends",
+    "range": {
+     "content": "J'attends"
+    },
+    "song_id": 2369559,
+    "url": "https://genius.com/8198342/Lilian-renaud-jattends/Jattends",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2369559",
+     "client_timestamps": {
+      "updated_by_human_at": 1447406691,
+      "lyrics_updated_at": 1447406691
+     },
+     "context": "Lilian Renaud",
+     "id": 2369559,
+     "image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+     "link_title": "J\u2019attends by\u00a0Lilian\u00a0Renaud",
+     "title": "J'attends",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-jattends-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8198342",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8198342,
+      "pinned": false,
+      "share_url": "https://genius.com/8198342",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8198342/Lilian-renaud-jattends/Jattends",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1105397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1105397,
+         "iq": 189523,
+         "login": "Mopsos",
+         "name": "Mopsos",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Mopsos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Couplet 1]\nC\u2019est comme un orage, la pluie sur la peau\nUn presque-naufrage, o\u00f9 mourir est de trop\nC\u2019est comme un crayon \u00e0 la mine bris\u00e9e\nQui trace l\u2019abandon de s\u2019\u00eatre enfin trouv\u00e9s\nC\u2019est comme la r\u00e9ponse \u00e0 toutes mes questions\nUne petite annonce de mon c\u0153ur \u00e0 ton nom\n\n[Refrain]\nMoi je veux bien tomber de haut\nSi c\u2019est tomber pour toi\nMoi je veux bien tomber de haut\nSi c\u2019est tomber pour toi\nSi c\u2019est tomber pour toi\nSi c\u2019est tomber pour toi\n\n[Pont]\nJe m\u2019appelle, j\u2019attends\nTu t\u2019appelles, je t\u2019aime\n\n[Couplet 2]\nJ\u2019attends sur le quai le train o\u00f9 elle sera\nJ\u2019imagine son reflet qui ne verra plus que moi\nJe le veux dans le corps, ce feu qui d\u2019un regard\nBr\u00fblera les accords des heures de mes nuits noires\nEt trouver la r\u00e9ponse \u00e0 toutes ces questions\nUne petite annonce de mon c\u0153ur \u00e0 son nom\n\n[Refrain]\nMoi je veux bien tomber de haut\nSi c\u2019est tomber pour toi\nMoi je veux bien tomber de haut\nSi c\u2019est tomber pour toi\nSi c\u2019est tomber pour toi\nSi c\u2019est tomber pour toi\n\n[Pont]\nJe m\u2019appelle, j\u2019attends\nTu t\u2019appelles, je t\u2019aime\n\nC\u2019est comme la r\u00e9ponse \u00e0 toutes mes questions\nUne petite annonce de mon c\u0153ur \u00e0 ton nom\n\n[Refrain] (x2)\nMoi je veux bien tomber de haut\nSi c\u2019est tomber pour toi\nMoi je veux bien tomber de haut\nSi c\u2019est tomber pour toi\nSi c\u2019est tomber pour toi\nSi c\u2019est tomber pour toi\n\n[Pont]\nJe m\u2019appelle, j\u2019attends\nTu t\u2019appelles, je t\u2019aime"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2369557",
+   "apple_music_id": "1056679865",
+   "apple_music_player_url": "https://genius.com/songs/2369557/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2369557' class='rg_embed_link' data-song-id='2369557'>Read <a href='https://genius.com/Lilian-renaud-octobre-lyrics'>\u201cOctobre\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/2369557/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Octobre by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "id": 2369557,
+   "lyrics_owner_id": 1105397,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-octobre-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-11-13",
+   "release_date_for_display": "November 13, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Octobre",
+   "title_with_featured": "Octobre",
+   "url": "https://genius.com/Lilian-renaud-octobre-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133679",
+    "cover_art_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+    "full_title": "Le Bruit De L'aube by Lilian Renaud",
+    "id": 133679,
+    "name": "Le Bruit De L\u2019aube",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-bruit-de-l-aube",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1105397,
+    "annotator_login": "Mopsos",
+    "api_path": "/referents/8198338",
+    "classification": "needs_exegesis",
+    "fragment": "Octobre",
+    "id": 8198338,
+    "is_description": true,
+    "path": "/8198338/Lilian-renaud-octobre/Octobre",
+    "range": {
+     "content": "Octobre"
+    },
+    "song_id": 2369557,
+    "url": "https://genius.com/8198338/Lilian-renaud-octobre/Octobre",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2369557",
+     "client_timestamps": {
+      "updated_by_human_at": 1447406641,
+      "lyrics_updated_at": 1447406641
+     },
+     "context": "Lilian Renaud",
+     "id": 2369557,
+     "image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+     "link_title": "Octobre by\u00a0Lilian\u00a0Renaud",
+     "title": "Octobre",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-octobre-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8198338",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8198338,
+      "pinned": false,
+      "share_url": "https://genius.com/8198338",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8198338/Lilian-renaud-octobre/Octobre",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1105397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1105397,
+         "iq": 189523,
+         "login": "Mopsos",
+         "name": "Mopsos",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Mopsos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2369562",
+   "apple_music_id": "1056679850",
+   "apple_music_player_url": "https://genius.com/songs/2369562/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2369562' class='rg_embed_link' data-song-id='2369562'>Read <a href='https://genius.com/Lilian-renaud-nos-larmes-lyrics'>\u201cNos Larmes\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/2369562/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Nos Larmes by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "id": 2369562,
+   "lyrics_owner_id": 1105397,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-nos-larmes-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-11-13",
+   "release_date_for_display": "November 13, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Nos Larmes",
+   "title_with_featured": "Nos Larmes",
+   "url": "https://genius.com/Lilian-renaud-nos-larmes-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133679",
+    "cover_art_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+    "full_title": "Le Bruit De L'aube by Lilian Renaud",
+    "id": 133679,
+    "name": "Le Bruit De L\u2019aube",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-bruit-de-l-aube",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1105397,
+    "annotator_login": "Mopsos",
+    "api_path": "/referents/8198347",
+    "classification": "needs_exegesis",
+    "fragment": "Nos Larmes",
+    "id": 8198347,
+    "is_description": true,
+    "path": "/8198347/Lilian-renaud-nos-larmes/Nos-larmes",
+    "range": {
+     "content": "Nos Larmes"
+    },
+    "song_id": 2369562,
+    "url": "https://genius.com/8198347/Lilian-renaud-nos-larmes/Nos-larmes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2369562",
+     "client_timestamps": {
+      "updated_by_human_at": 1447406828,
+      "lyrics_updated_at": 1447406828
+     },
+     "context": "Lilian Renaud",
+     "id": 2369562,
+     "image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+     "link_title": "Nos Larmes by\u00a0Lilian\u00a0Renaud",
+     "title": "Nos Larmes",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-nos-larmes-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8198347",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8198347,
+      "pinned": false,
+      "share_url": "https://genius.com/8198347",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8198347/Lilian-renaud-nos-larmes/Nos-larmes",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1105397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1105397,
+         "iq": 189523,
+         "login": "Mopsos",
+         "name": "Mopsos",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Mopsos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Couplet 1]\nNos larmes, elles arrivent sans pr\u00e9venir\nElles brouillent la vision\nElles nous emp\u00eachent de mentir\nLes petites s\u0153urs de l\u2019\u00e9motion\nNos larmes, nos larmes, nos larmes\nNos larmes parlent pour nous\nElles viennent \u00e0 notre secours\nPour repousser le trop-plein\nLes sentiments devenus lourds\nLourds, nos larmes, nos larmes\nNos larmes sont nos alli\u00e9es\nElles sont justes et morales\nElles traduisent notre esprit\nEn version originale\n\n[Refrain]\nJ\u2019ai fait le choix des larmes\nJ\u2019ai fait le choix des larmes\nElles me rassurent dans ce vacarme\nJ\u2019ai fait le choix des larmes\nEt quand le destin nous d\u00e9sarme\nLe choix des larmes\n\n[Couplet 2]\nNos larmes\nNos larmes, c\u2019est notre instinct\nNotre \u00e9moi qui d\u00e9borde\nC\u2019est tous nos sens, et l\u2019intuition\nQui se rencontrent et s\u2019accordent\nNos larmes, nos larmes\nNos larmes elles grattent nos joues\nViennent saler nos l\u00e8vres\nEt nous r\u00e9parent, nous nettoient\nPour attraper les prochains r\u00eaves\n\n[Refrain] (x2)\nJ\u2019ai fait le choix des larmes\nJ\u2019ai fait le choix des larmes\nElles me rassurent dans ce vacarme\nJ\u2019ai fait le choix des larmes\nEt quand le destin nous d\u00e9sarme\nLe choix des larmes"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2369565",
+   "apple_music_id": "1056679388",
+   "apple_music_player_url": "https://genius.com/songs/2369565/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2369565' class='rg_embed_link' data-song-id='2369565'>Read <a href='https://genius.com/Lilian-renaud-je-suis-un-enfant-lyrics'>\u201cJe Suis Un Enfant\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/2369565/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Je Suis Un Enfant by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "id": 2369565,
+   "lyrics_owner_id": 1105397,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-je-suis-un-enfant-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-11-13",
+   "release_date_for_display": "November 13, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Je Suis Un Enfant",
+   "title_with_featured": "Je Suis Un Enfant",
+   "url": "https://genius.com/Lilian-renaud-je-suis-un-enfant-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133679",
+    "cover_art_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+    "full_title": "Le Bruit De L'aube by Lilian Renaud",
+    "id": 133679,
+    "name": "Le Bruit De L\u2019aube",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-bruit-de-l-aube",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1105397,
+    "annotator_login": "Mopsos",
+    "api_path": "/referents/8198352",
+    "classification": "needs_exegesis",
+    "fragment": "Je Suis Un Enfant",
+    "id": 8198352,
+    "is_description": true,
+    "path": "/8198352/Lilian-renaud-je-suis-un-enfant/Je-suis-un-enfant",
+    "range": {
+     "content": "Je Suis Un Enfant"
+    },
+    "song_id": 2369565,
+    "url": "https://genius.com/8198352/Lilian-renaud-je-suis-un-enfant/Je-suis-un-enfant",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2369565",
+     "client_timestamps": {
+      "updated_by_human_at": 1447406971,
+      "lyrics_updated_at": 1447406971
+     },
+     "context": "Lilian Renaud",
+     "id": 2369565,
+     "image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+     "link_title": "Je Suis Un Enfant by\u00a0Lilian\u00a0Renaud",
+     "title": "Je Suis Un Enfant",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-je-suis-un-enfant-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8198352",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8198352,
+      "pinned": false,
+      "share_url": "https://genius.com/8198352",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8198352/Lilian-renaud-je-suis-un-enfant/Je-suis-un-enfant",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1105397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1105397,
+         "iq": 189523,
+         "login": "Mopsos",
+         "name": "Mopsos",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Mopsos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Je suis un enfant, Maman\nQui ne veut pas s\u2019\u00e9loigner\nQui pr\u00e9f\u00e8re rester o\u00f9 il est n\u00e9\nJ\u2019veux seulement aimer la terre\nEt balayer les couleurs sans v\u00e9rit\u00e9\nJ\u2019voudrais \u00eatre po\u00e8te, Maman\nPour d\u00e9crire tout ce que je vois\nUn peu comme tu me le racontes\nMes pens\u00e9es sont des fleuves d\u2019images\nQui m\u2019\u00e9claboussent et coulent en moi\nMais y\u2019en a trop, qui m\u2019plaisent pas\nAlors, j\u2019veux chanter, Mama\nTous mes mots, toutes les notes\nLes faire voler comme les oiseaux\nPour que l\u2019on reste comme le temps\nDes messagers impr\u00e9visibles\nQui s\u2019amusent sous un ciel d\u2019eau\nTu vois, Maman, je cherche une \u00e9toile\nMais aucune n\u2019est aussi belle que toi\nTu vois, Maman, je cherche une \u00e9toile\nAlors je reste pr\u00e8s de toi"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2369563",
+   "apple_music_id": "1056679849",
+   "apple_music_player_url": "https://genius.com/songs/2369563/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2369563' class='rg_embed_link' data-song-id='2369563'>Read <a href='https://genius.com/Lilian-renaud-le-bruit-de-laube-lyrics'>\u201cLe Bruit De L'aube\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/2369563/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le Bruit De L'aube by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "id": 2369563,
+   "lyrics_owner_id": 1105397,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-le-bruit-de-laube-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-11-13",
+   "release_date_for_display": "November 13, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Bruit De L\u2019aube",
+   "title_with_featured": "Le Bruit De L'aube",
+   "url": "https://genius.com/Lilian-renaud-le-bruit-de-laube-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133679",
+    "cover_art_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+    "full_title": "Le Bruit De L'aube by Lilian Renaud",
+    "id": 133679,
+    "name": "Le Bruit De L\u2019aube",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-bruit-de-l-aube",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1105397,
+    "annotator_login": "Mopsos",
+    "api_path": "/referents/8198348",
+    "classification": "needs_exegesis",
+    "fragment": "Le Bruit De L\u2019aube",
+    "id": 8198348,
+    "is_description": true,
+    "path": "/8198348/Lilian-renaud-le-bruit-de-laube/Le-bruit-de-laube",
+    "range": {
+     "content": "Le Bruit De L'aube"
+    },
+    "song_id": 2369563,
+    "url": "https://genius.com/8198348/Lilian-renaud-le-bruit-de-laube/Le-bruit-de-laube",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2369563",
+     "client_timestamps": {
+      "updated_by_human_at": 1447406877,
+      "lyrics_updated_at": 1447406877
+     },
+     "context": "Lilian Renaud",
+     "id": 2369563,
+     "image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+     "link_title": "Le Bruit De L\u2019aube by\u00a0Lilian\u00a0Renaud",
+     "title": "Le Bruit De L'aube",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-le-bruit-de-laube-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8198348",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8198348,
+      "pinned": false,
+      "share_url": "https://genius.com/8198348",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8198348/Lilian-renaud-le-bruit-de-laube/Le-bruit-de-laube",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1105397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1105397,
+         "iq": 189523,
+         "login": "Mopsos",
+         "name": "Mopsos",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Mopsos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Couplet 1]\nIl y a toujours eu, derri\u00e8re la derni\u00e8re des maisons\nUn lit pour le soleil, un regard pos\u00e9 sur mon front\nComme un immense appel d\u2019air\nAu creux des bras de l\u2019horizon\nDe quoi sauter la barri\u00e8re, de quoi d\u00e9tourner la raison\n\n[Refrain 1]\nEt puis il y avait cette voix, cach\u00e9e dans l\u2019aube\nQui me parlait de toi, qui me parlait du monde\nEt puis il y avait cette voix, cach\u00e9e dans l\u2019aube\nQui me parlait de toi, qui me parlait du monde\n\n[Couplet 2]\nJ\u2019ai gliss\u00e9 l\u2019espoir dans les mains de mon p\u00e8re\nUne promesse de retour dans les yeux de ma m\u00e8re\nJ\u2019ai pris mon sac, ma guitare\nUne paire de r\u00eaves et j\u2019ai march\u00e9\nLaissant les jardins, peu \u00e0 peu faire place aux cours\n\n[Refrain 2]\nPour suivre cette voix, cach\u00e9e dans l\u2019aube\nQui me parlait de toi, qui me parlait du monde\nPour suivre cette voix, cach\u00e9e dans l\u2019aube\nQui me parlait de toi, qui me parlait du monde\n\n[Couplet 3]\nLa boussole de mes veines\nMe guide loin des noirceurs\nMe pousse \u00e0 aborder chaque nuit\n\u00c0 saluer les premi\u00e8res heures\nEt quand au bout du dernier pr\u00e9\nApr\u00e8s la plus lointaine colline\nJe retrouverai sans regret\nLe foyer de mes racines\nJe me glisserai dans l\u2019aube\nPour lui parler de toi, en lui chantant le monde\nJe me glisserai dans l\u2019aube\nPour lui parler de toi, en lui chantant le monde\nPour lui parler de toi, en lui chantant le monde"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2369564",
+   "apple_music_id": "1056679813",
+   "apple_music_player_url": "https://genius.com/songs/2369564/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2369564' class='rg_embed_link' data-song-id='2369564'>Read <a href='https://genius.com/Lilian-renaud-ma-priere-lyrics'>\u201cMa Pri\u00e8re\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/2369564/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ma Pri\u00e8re by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "id": 2369564,
+   "lyrics_owner_id": 1105397,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-ma-priere-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-11-13",
+   "release_date_for_display": "November 13, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ma Pri\u00e8re",
+   "title_with_featured": "Ma Pri\u00e8re",
+   "url": "https://genius.com/Lilian-renaud-ma-priere-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133679",
+    "cover_art_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+    "full_title": "Le Bruit De L'aube by Lilian Renaud",
+    "id": 133679,
+    "name": "Le Bruit De L\u2019aube",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-bruit-de-l-aube",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1105397,
+    "annotator_login": "Mopsos",
+    "api_path": "/referents/8198349",
+    "classification": "needs_exegesis",
+    "fragment": "Ma Pri\u00e8re",
+    "id": 8198349,
+    "is_description": true,
+    "path": "/8198349/Lilian-renaud-ma-priere/Ma-priere",
+    "range": {
+     "content": "Ma Pri\u00e8re"
+    },
+    "song_id": 2369564,
+    "url": "https://genius.com/8198349/Lilian-renaud-ma-priere/Ma-priere",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2369564",
+     "client_timestamps": {
+      "updated_by_human_at": 1447406929,
+      "lyrics_updated_at": 1447406929
+     },
+     "context": "Lilian Renaud",
+     "id": 2369564,
+     "image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+     "link_title": "Ma Pri\u00e8re by\u00a0Lilian\u00a0Renaud",
+     "title": "Ma Pri\u00e8re",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-ma-priere-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8198349",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8198349,
+      "pinned": false,
+      "share_url": "https://genius.com/8198349",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8198349/Lilian-renaud-ma-priere/Ma-priere",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1105397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1105397,
+         "iq": 189523,
+         "login": "Mopsos",
+         "name": "Mopsos",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Mopsos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Couplet 1]\nIci le soleil s\u2019endort sur la campagne claire\nIci la lumi\u00e8re est d\u2019or, et l\u2019horizon vert\nMais ailleurs dans le monde\nL\u00e0 o\u00f9 l\u2019herbe ne pousse pas\nSous un orage de bombes, j\u2019ai peur pour toi\n\n[Refrain]\nEntends-tu ma pri\u00e8re ?\nCelle que je glisse sous mes paupi\u00e8res\nEntends-tu ma pri\u00e8re ?\nCelle que j\u2019esquisse depuis l\u2019autre bout de la Terre\nEntends-tu ma pri\u00e8re ?\nDepuis l\u2019autre bout de la Terre\n\n[Couplet 2]\nIci veillent les \u00e9toiles, sur la plaine d\u00e9serte\nTout me semble doux et calme, et la nature offerte\nEt du coup, de ma voix, je t\u2019envoie mes joies\nDeux ou trois de mes larmes, un peu de mon \u00e2me\n\n[Refrain]\nEntends-tu ma pri\u00e8re ?\nCelle que je glisse sous mes paupi\u00e8res\nEntends-tu ma pri\u00e8re ?\nCelle que j\u2019esquisse depuis l\u2019autre bout de la Terre\nEntends-tu ma pri\u00e8re ?\nDepuis l\u2019autre bout de la Terre"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2369560",
+   "apple_music_id": "1056679861",
+   "apple_music_player_url": "https://genius.com/songs/2369560/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2369560' class='rg_embed_link' data-song-id='2369560'>Read <a href='https://genius.com/Lilian-renaud-ma-terre-lyrics'>\u201cMa Terre\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/2369560/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ma Terre by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "id": 2369560,
+   "lyrics_owner_id": 1105397,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-ma-terre-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-11-13",
+   "release_date_for_display": "November 13, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ma Terre",
+   "title_with_featured": "Ma Terre",
+   "url": "https://genius.com/Lilian-renaud-ma-terre-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133679",
+    "cover_art_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+    "full_title": "Le Bruit De L'aube by Lilian Renaud",
+    "id": 133679,
+    "name": "Le Bruit De L\u2019aube",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-bruit-de-l-aube",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1105397,
+    "annotator_login": "Mopsos",
+    "api_path": "/referents/8198344",
+    "classification": "needs_exegesis",
+    "fragment": "Ma Terre",
+    "id": 8198344,
+    "is_description": true,
+    "path": "/8198344/Lilian-renaud-ma-terre/Ma-terre",
+    "range": {
+     "content": "Ma Terre"
+    },
+    "song_id": 2369560,
+    "url": "https://genius.com/8198344/Lilian-renaud-ma-terre/Ma-terre",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2369560",
+     "client_timestamps": {
+      "updated_by_human_at": 1447406745,
+      "lyrics_updated_at": 1447406745
+     },
+     "context": "Lilian Renaud",
+     "id": 2369560,
+     "image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+     "link_title": "Ma Terre by\u00a0Lilian\u00a0Renaud",
+     "title": "Ma Terre",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-ma-terre-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8198344",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8198344,
+      "pinned": false,
+      "share_url": "https://genius.com/8198344",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8198344/Lilian-renaud-ma-terre/Ma-terre",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1105397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1105397,
+         "iq": 189523,
+         "login": "Mopsos",
+         "name": "Mopsos",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Mopsos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Couplet 1]\nLes gens dorment encore\nGliss\u00e9s sous leurs draps d\u2019eau\nMa journ\u00e9e commence\nSur la fin de la nuit\nLa cotte et les bottes\nPour aller nourrir les b\u00eates\nOn attend de la flotte\nPour l\u2019heure de la traite\n\n[Refrain] (x2)\nJe n\u2019\u00e9changerai jamais\nMon m\u00e9tier contre un autre\nEt ce pays qui m\u2019a fait\nQui m\u2019allie aux autres\n\n[Couplet 2]\nOn a vendu la maison\nD\u2019autres d\u00e9parts, c\u2019est la vie\nMais on a tenu bon\nMalgr\u00e9 le prix \u00e0 payer\nOn s\u2019entraide entre serfs\nPour \u00e9duquer nos m\u00f4mes\n\u00c0 l\u2019abri, au grand air\nDes cales dans les paumes\n\n[Refrain] (x4)\nJe n\u2019\u00e9changerai jamais\nMon m\u00e9tier contre un autre\nEt ce pays qui m\u2019a fait\nQui m\u2019allie aux autres\n\n[Outro]\nCe pays qui m\u2019a fait\nCe pays qui m\u2019a fait\nQui m\u2019allie aux autres\nCe pays qui m\u2019a fait"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2369561",
+   "apple_music_id": "1056679860",
+   "apple_music_player_url": "https://genius.com/songs/2369561/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2369561' class='rg_embed_link' data-song-id='2369561'>Read <a href='https://genius.com/Lilian-renaud-les-enfants-de-loubli-lyrics'>\u201cLes Enfants De L'oubli\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/2369561/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Les Enfants De L'oubli by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "id": 2369561,
+   "lyrics_owner_id": 1105397,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-les-enfants-de-loubli-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2015-11-13",
+   "release_date_for_display": "November 13, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Les Enfants De L\u2019oubli",
+   "title_with_featured": "Les Enfants De L'oubli",
+   "url": "https://genius.com/Lilian-renaud-les-enfants-de-loubli-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/133679",
+    "cover_art_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+    "full_title": "Le Bruit De L'aube by Lilian Renaud",
+    "id": 133679,
+    "name": "Le Bruit De L\u2019aube",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-bruit-de-l-aube",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1105397,
+    "annotator_login": "Mopsos",
+    "api_path": "/referents/8198346",
+    "classification": "needs_exegesis",
+    "fragment": "Les Enfants De L\u2019oubli",
+    "id": 8198346,
+    "is_description": true,
+    "path": "/8198346/Lilian-renaud-les-enfants-de-loubli/Les-enfants-de-loubli",
+    "range": {
+     "content": "Les Enfants De L'oubli"
+    },
+    "song_id": 2369561,
+    "url": "https://genius.com/8198346/Lilian-renaud-les-enfants-de-loubli/Les-enfants-de-loubli",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2369561",
+     "client_timestamps": {
+      "updated_by_human_at": 1447406784,
+      "lyrics_updated_at": 1447406784
+     },
+     "context": "Lilian Renaud",
+     "id": 2369561,
+     "image_url": "https://images.genius.com/c16190c280e90fc353a324420a707d50.1000x1000x1.jpg",
+     "link_title": "Les Enfants De L\u2019oubli by\u00a0Lilian\u00a0Renaud",
+     "title": "Les Enfants De L'oubli",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-les-enfants-de-loubli-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8198346",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8198346,
+      "pinned": false,
+      "share_url": "https://genius.com/8198346",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8198346/Lilian-renaud-les-enfants-de-loubli/Les-enfants-de-loubli",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1105397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3dd2937af5f7d605bb0557c48fda3e8d",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1105397,
+         "iq": 189523,
+         "login": "Mopsos",
+         "name": "Mopsos",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Mopsos",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3515041",
+   "apple_music_id": "1168650291",
+   "apple_music_player_url": "https://genius.com/songs/3515041/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3515041' class='rg_embed_link' data-song-id='3515041'>Read <a href='https://genius.com/Lilian-renaud-le-loir-et-cher-lyrics'>\u201cLe Loir-et-Cher\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/3515041/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le Loir-et-Cher by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://images.genius.com/878865cf26eca8f25093712464699e2a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/878865cf26eca8f25093712464699e2a.1000x1000x1.jpg",
+   "id": 3515041,
+   "lyrics_owner_id": 2148092,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-le-loir-et-cher-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/878865cf26eca8f25093712464699e2a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/878865cf26eca8f25093712464699e2a.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Loir-et-Cher",
+   "title_with_featured": "Le Loir-et-Cher",
+   "url": "https://genius.com/Lilian-renaud-le-loir-et-cher-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/354349",
+    "cover_art_url": "https://images.genius.com/878865cf26eca8f25093712464699e2a.1000x1000x1.jpg",
+    "full_title": "J'\u00e9tais un ange - Michel Delpech by Michel Delpech",
+    "id": 354349,
+    "name": "J\u2019\u00e9tais un ange - Michel Delpech",
+    "url": "https://genius.com/albums/Michel-delpech/J-etais-un-ange-michel-delpech",
+    "artist": {
+     "api_path": "/artists/354018",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 354018,
+     "image_url": "https://images.genius.com/44a5108616713a8cfa4426c3ccad5ae7.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michel Delpech",
+     "url": "https://genius.com/artists/Michel-delpech"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2148092,
+    "annotator_login": "Kaerra",
+    "api_path": "/referents/13824690",
+    "classification": "needs_exegesis",
+    "fragment": "Le Loir-et-Cher",
+    "id": 13824690,
+    "is_description": true,
+    "path": "/13824690/Lilian-renaud-le-loir-et-cher/Le-loir-et-cher",
+    "range": {
+     "content": "Le Loir-et-Cher"
+    },
+    "song_id": 3515041,
+    "url": "https://genius.com/13824690/Lilian-renaud-le-loir-et-cher/Le-loir-et-cher",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3515041",
+     "client_timestamps": {
+      "updated_by_human_at": 1518363116,
+      "lyrics_updated_at": 1518363116
+     },
+     "context": "Lilian Renaud",
+     "id": 3515041,
+     "image_url": "https://images.genius.com/878865cf26eca8f25093712464699e2a.1000x1000x1.jpg",
+     "link_title": "Le Loir-et-Cher by\u00a0Lilian\u00a0Renaud",
+     "title": "Le Loir-et-Cher",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-le-loir-et-cher-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13824690",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13824690,
+      "pinned": false,
+      "share_url": "https://genius.com/13824690",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13824690/Lilian-renaud-le-loir-et-cher/Le-loir-et-cher",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2148092",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4e6265da7ea5fe57f0b6104e4a9af2b2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4e6265da7ea5fe57f0b6104e4a9af2b2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4e6265da7ea5fe57f0b6104e4a9af2b2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4e6265da7ea5fe57f0b6104e4a9af2b2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4e6265da7ea5fe57f0b6104e4a9af2b2",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2148092,
+         "iq": 5020,
+         "login": "Kaerra",
+         "name": "Kaerra",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Kaerra",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Ma famille habite dans le Loir et Cher\nCes gens-l\u00e0 ne font pas de mani\u00e8res\nIls passent tout l'automne \u00e0 creuser des sillons\nA retourner des hectares de terre\nJe n'ai jamais eu grand chose \u00e0 leur dire\nMais je les aime depuis toujours\nDe temps en temps, je vais les voir\nJe passe le dimanche dans l'Loir et Cher\n\nIls me disent, ils me disent :\n\"Tu vis sans jamais voir un cheval, un hibou!\"\nIls me disent :\n\"Tu viens plus, m\u00eame pour p\u00e9cher un poisson\nTu ne penses plus \u00e0 nous!\nOn dirait que \u00e7a te g\u00eane de marcher dans la boue\nOn dirait que \u00e7a te g\u00eane de d\u00eener avec nous\nOn dirait que \u00e7a te g\u00eane de marcher dans la boue\nOn dirait que \u00e7a te g\u00eane de d\u00eener avec nous.\"\n\nChaque fois que je m'arr\u00eate dans le Loir et Cher\nIls ne m'laissent plus partir de chez eux\nJe leur dis qu'il faut que je rentre sur Paris\nQue je ne fais pas toujours ce que j'veux\nEt qu'il faut encore que je trouve un poste d'essence\nQue j'n'ai pas le temps de finir ma bi\u00e8re\nEt que je reviendrai un de ces dimanches\nPasser la nuit dans le Loir et Cher\n\nIls me disent, ils me disent :\n\"Tu vis sans jamais voir un cheval, un hibou!\"\nIls me disent :\n\"Tu viens plus, m\u00eame pour p\u00e9cher un poisson\nTu ne penses plus \u00e0 nous!\nOn dirait que \u00e7a te g\u00eane de marcher dans la boue\nOn dirait que \u00e7a te g\u00eane de d\u00eener avec nous\nOn dirait que \u00e7a te g\u00eane de marcher dans la boue\nOn dirait que \u00e7a te g\u00eane de d\u00eener avec nous\n\nOn dirait que \u00e7a te g\u00eane de marcher dans la boue\nOn dirait que \u00e7a te g\u00eane de d\u00eener avec nous\nOn dirait que \u00e7a te g\u00eane de marcher dans la boue\nOn dirait que \u00e7a te g\u00eane de d\u00eener avec nous.\""
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4709070",
+   "apple_music_id": "1443211532",
+   "apple_music_player_url": "https://genius.com/songs/4709070/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4709070' class='rg_embed_link' data-song-id='4709070'>Read <a href='https://genius.com/Lilian-renaud-savoir-dire-merci-lyrics'>\u201cSavoir dire merci\u201d by Lilian\u00a0Renaud</a> on Genius</div> <script crossorigin src='//genius.com/songs/4709070/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Savoir dire merci by\u00a0Lilian\u00a0Renaud",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 4709070,
+   "lyrics_owner_id": 8933051,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Lilian-renaud-savoir-dire-merci-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Savoir dire merci",
+   "title_with_featured": "Savoir dire merci",
+   "url": "https://genius.com/Lilian-renaud-savoir-dire-merci-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/545437",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610729910",
+    "full_title": "Le coeur qui cogne by Lilian Renaud",
+    "id": 545437,
+    "name": "Le coeur qui cogne",
+    "url": "https://genius.com/albums/Lilian-renaud/Le-coeur-qui-cogne",
+    "artist": {
+     "api_path": "/artists/555618",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 555618,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilian Renaud",
+     "url": "https://genius.com/artists/Lilian-renaud"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8933051,
+    "annotator_login": "AudreyNol",
+    "api_path": "/referents/17616999",
+    "classification": "needs_exegesis",
+    "fragment": "Savoir dire merci",
+    "id": 17616999,
+    "is_description": true,
+    "path": "/17616999/Lilian-renaud-savoir-dire-merci/Savoir-dire-merci",
+    "range": {
+     "content": "Savoir dire merci"
+    },
+    "song_id": 4709070,
+    "url": "https://genius.com/17616999/Lilian-renaud-savoir-dire-merci/Savoir-dire-merci",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4709070",
+     "client_timestamps": {
+      "updated_by_human_at": 1563453516,
+      "lyrics_updated_at": 1563453516
+     },
+     "context": "Lilian Renaud",
+     "id": 4709070,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Savoir dire merci by\u00a0Lilian\u00a0Renaud",
+     "title": "Savoir dire merci",
+     "type": "Song",
+     "url": "https://genius.com/Lilian-renaud-savoir-dire-merci-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17616999",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17616999,
+      "pinned": false,
+      "share_url": "https://genius.com/17616999",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17616999/Lilian-renaud-savoir-dire-merci/Savoir-dire-merci",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8933051",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4b726a0879659d82541f94617c2d6808",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4b726a0879659d82541f94617c2d6808",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4b726a0879659d82541f94617c2d6808",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4b726a0879659d82541f94617c2d6808",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4b726a0879659d82541f94617c2d6808",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8933051,
+         "iq": 513,
+         "login": "AudreyNol",
+         "name": "AudreyNol",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AudreyNol",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/555618",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 555618,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilian Renaud",
+    "url": "https://genius.com/artists/Lilian-renaud"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Passe, passe le bonheur joie\nCache cache, parfois la vie me d\u00e9passe\nEt pourtant je souris\nJe passe tous les jours par la m\u00eame place\nOn m'd\u00e9figure on me froisse\nEt pourtant je souris\nLe temps ne donne jamais rien qu'il ne reprend\nOn regarde nos vies\nSans jamais dire merci\nA ceux qui nous font grandir\nAu meilleur et au rire\nA ceux qu'elle peut nous prendre\nAux pi\u00e8ges qu'elle peut nous tendre\nM\u00eame si \u00e7a ne dure qu'une nuit\nEt qu'au matin la gr\u00e2ce s'enfuit\nIl faut savoir dire merci\nTrace, trace il faut vite prendre ta place\nAvant qu'on ne te remplace\nOn court derri\u00e8re sa vie\nJ'efface mes revers de manches l'espace\nLes distances qui nous terrassent\nJe souris donc je suis\nLe temps ne donne jamais rien qu'il ne reprend\nOn regarde nos vies\nSans jamais dire merci\nA ceux qui nous font grandir\nAu meilleur et au rire\nA ceux qu'elle peut nous prendre\nAux pi\u00e8ges qu'elle peut nous tendre\nM\u00eame si \u00e7a ne dure qu'une nuit\nEt qu'au matin la gr\u00e2ce s'enfuit\nIl faut savoir dire merci\nOn regarde nos vies\nSans jamais dire merci\nA ceux qui nous font grandir\nAu meilleur et au rire\nA ceux qu'elle peut nous prendre\nAux pi\u00e8ges qu'elle peut nous tendre\nM\u00eame si \u00e7a ne dure qu'une nuit\nEt qu'au matin la gr\u00e2ce s'enfuit\nIl faut savoir dire merci"
+  }
+ ]
+}

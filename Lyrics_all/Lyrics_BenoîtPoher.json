@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/670760",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 670760,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Beno\u00eet Poher",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Benoit-poher",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 261541,
+  "annotator_login": "GuillaumeSimonin",
+  "api_path": "/referents/9175155",
+  "classification": "needs_exegesis",
+  "fragment": "Beno\u00eet Poher",
+  "id": 9175155,
+  "is_description": true,
+  "path": "/9175155/Benoit-poher/Benoit-poher",
+  "range": {
+   "content": "Beno\u00eet Poher"
+  },
+  "song_id": null,
+  "url": "https://genius.com/9175155/Benoit-poher/Benoit-poher",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/670760",
+   "context": null,
+   "id": 670760,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Beno\u00eet Poher",
+   "title": "Beno\u00eet Poher",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Benoit-poher"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/9175155",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 9175155,
+    "pinned": false,
+    "share_url": "https://genius.com/9175155",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/9175155/Benoit-poher/Benoit-poher",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/261541",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/72142ff442dda7760ebb6ab0f8ecb56e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/72142ff442dda7760ebb6ab0f8ecb56e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/72142ff442dda7760ebb6ab0f8ecb56e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/72142ff442dda7760ebb6ab0f8ecb56e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/8f4ad1fb6e1a2c4cb51eb4944c384301.545x1000x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 261541,
+       "iq": 460776,
+       "login": "GuillaumeSimonin",
+       "name": "MrSimonin",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/GuillaumeSimonin",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

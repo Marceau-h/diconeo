@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2424593",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 2424593,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Bill Andre Bellochy",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Bill-andre-bellochy",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 5588551,
+  "annotator_login": "whoisfurick",
+  "api_path": "/referents/21001176",
+  "classification": "needs_exegesis",
+  "fragment": "Bill Andre Bellochy",
+  "id": 21001176,
+  "is_description": true,
+  "path": "/21001176/Bill-andre-bellochy/Bill-andre-bellochy",
+  "range": {
+   "content": "Bill Andre Bellochy"
+  },
+  "song_id": null,
+  "url": "https://genius.com/21001176/Bill-andre-bellochy/Bill-andre-bellochy",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2424593",
+   "context": null,
+   "id": 2424593,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Bill Andre Bellochy",
+   "title": "Bill Andre Bellochy",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Bill-andre-bellochy"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/21001176",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 21001176,
+    "pinned": false,
+    "share_url": "https://genius.com/21001176",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/21001176/Bill-andre-bellochy/Bill-andre-bellochy",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5588551",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/05d20984e425f9a23bfbca2e1f097f1e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/05d20984e425f9a23bfbca2e1f097f1e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/05d20984e425f9a23bfbca2e1f097f1e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/05d20984e425f9a23bfbca2e1f097f1e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/3abd3a87272b51a59e75c67f1eb707c0.1000x1000x1.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 5588551,
+       "iq": 1326,
+       "login": "whoisfurick",
+       "name": "Furick",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/whoisfurick",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

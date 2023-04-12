@@ -1,0 +1,862 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/68491",
+ "description": {
+  "plain": "Chagrin d'amour est un groupe franco-am\u00e9ricain form\u00e9 de Gr\u00e9gory Ken et Valli fond\u00e9 \u00e0 l'\u00e9t\u00e9 1981 pour l'enregistrement du titre \u201cChacun fait (c'qui lui pla\u00eet)\u201d"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/716ad4cd1fe24cd43ec8e5409f29bfa5.280x220x1.jpg",
+ "id": 68491,
+ "image_url": "https://images.genius.com/45b5d7bd4983df53114540490714b3dd.325x325x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Chagrin d\u2019amour",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Chagrin-damour",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3663220,
+  "annotator_login": "Quatrelle",
+  "api_path": "/referents/6983328",
+  "classification": "unreviewed",
+  "fragment": "Chagrin d\u2019amour",
+  "id": 6983328,
+  "is_description": true,
+  "path": "/6983328/Chagrin-damour/Chagrin-damour",
+  "range": {
+   "content": "Chagrin d'amour"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6983328/Chagrin-damour/Chagrin-damour",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/68491",
+   "context": null,
+   "id": 68491,
+   "image_url": "https://images.genius.com/45b5d7bd4983df53114540490714b3dd.325x325x1.jpg",
+   "link_title": "Chagrin d\u2019amour",
+   "title": "Chagrin d'amour",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Chagrin-damour"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6983328",
+    "body": {
+     "plain": "Chagrin d'amour est un groupe franco-am\u00e9ricain form\u00e9 de Gr\u00e9gory Ken et Valli fond\u00e9 \u00e0 l'\u00e9t\u00e9 1981 pour l'enregistrement du titre \u201cChacun fait (c'qui lui pla\u00eet)\u201d"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6983328,
+    "pinned": false,
+    "share_url": "https://genius.com/6983328",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/6983328/Chagrin-damour/Chagrin-damour",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3663220",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/dd2b8d97f50e2930d64ad4cafb9ac3a8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/dd2b8d97f50e2930d64ad4cafb9ac3a8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/dd2b8d97f50e2930d64ad4cafb9ac3a8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/dd2b8d97f50e2930d64ad4cafb9ac3a8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/dd2b8d97f50e2930d64ad4cafb9ac3a8",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3663220,
+       "iq": 7518,
+       "login": "Quatrelle",
+       "name": "Quatrelle",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Quatrelle",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/211729",
+   "apple_music_id": "1438143604",
+   "apple_music_player_url": "https://genius.com/songs/211729/apple_music_player",
+   "description": {
+    "plain": "Consid\u00e9r\u00e9e comme la premi\u00e8re chanson rap par beaucoup. Cette chanson du duo Chagrin d'Amour, form\u00e9 pour l'occasion, est initi\u00e9e par Philippe Bourgoin et orient\u00e9 vers le rap d\u00e9lib\u00e9r\u00e9ment au d\u00e9but des ann\u00e9es 80, apr\u00e8s en avoir eu des \u00e9chos r\u00e9cents."
+   },
+   "embed_content": "<div id='rg_embed_link_211729' class='rg_embed_link' data-song-id='211729'>Read <a href='https://genius.com/Chagrin-damour-chacun-fait-cqui-lui-plait-lyrics'>\u201cChacun fait (c'qui lui pla\u00eet)\u201d by Chagrin\u00a0d'amour</a> on Genius</div> <script crossorigin src='//genius.com/songs/211729/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Chacun fait (c'qui lui pla\u00eet) by\u00a0Chagrin\u00a0d'amour",
+   "header_image_thumbnail_url": "https://images.genius.com/e65918214349ca7fb420e067e0c186ab.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e65918214349ca7fb420e067e0c186ab.600x599x1.jpg",
+   "id": 211729,
+   "lyrics_owner_id": 27550,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Chagrin-damour-chacun-fait-cqui-lui-plait-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "August 1981",
+   "song_art_image_thumbnail_url": "https://images.genius.com/e65918214349ca7fb420e067e0c186ab.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e65918214349ca7fb420e067e0c186ab.600x599x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 9,
+    "iq_earners": 8,
+    "transcribers": 1,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Chacun fait (c\u2019qui lui pla\u00eet)",
+   "title_with_featured": "Chacun fait (c'qui lui pla\u00eet)",
+   "url": "https://genius.com/Chagrin-damour-chacun-fait-cqui-lui-plait-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/437281",
+    "cover_art_url": "https://images.genius.com/e494be5ceedcf5d060118c7b35634328.300x300x1.jpg",
+    "full_title": "Chagrin D'Amour by Chagrin d'amour",
+    "id": 437281,
+    "name": "Chagrin D\u2019Amour",
+    "url": "https://genius.com/albums/Chagrin-damour/Chagrin-d-amour",
+    "artist": {
+     "api_path": "/artists/68491",
+     "header_image_url": "https://images.genius.com/716ad4cd1fe24cd43ec8e5409f29bfa5.280x220x1.jpg",
+     "id": 68491,
+     "image_url": "https://images.genius.com/45b5d7bd4983df53114540490714b3dd.325x325x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chagrin d\u2019amour",
+     "url": "https://genius.com/artists/Chagrin-damour"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 27550,
+    "annotator_login": "Sazamizir",
+    "api_path": "/referents/3853473",
+    "classification": "accepted",
+    "fragment": "Chacun fait (c\u2019qui lui pla\u00eet)",
+    "id": 3853473,
+    "is_description": true,
+    "path": "/3853473/Chagrin-damour-chacun-fait-cqui-lui-plait/Chacun-fait-cqui-lui-plait",
+    "range": {
+     "content": "Chacun fait (c'qui lui pla\u00eet)"
+    },
+    "song_id": 211729,
+    "url": "https://genius.com/3853473/Chagrin-damour-chacun-fait-cqui-lui-plait/Chacun-fait-cqui-lui-plait",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/211729",
+     "client_timestamps": {
+      "updated_by_human_at": 1565595786,
+      "lyrics_updated_at": 1525281564
+     },
+     "context": "Chagrin d'amour",
+     "id": 211729,
+     "image_url": "https://images.genius.com/e65918214349ca7fb420e067e0c186ab.600x599x1.jpg",
+     "link_title": "Chacun fait (c\u2019qui lui pla\u00eet) by\u00a0Chagrin\u00a0d\u2019amour",
+     "title": "Chacun fait (c'qui lui pla\u00eet)",
+     "type": "Song",
+     "url": "https://genius.com/Chagrin-damour-chacun-fait-cqui-lui-plait-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3853473",
+      "body": {
+       "plain": "Consid\u00e9r\u00e9e comme la premi\u00e8re chanson rap par beaucoup. Cette chanson du duo Chagrin d'Amour, form\u00e9 pour l'occasion, est initi\u00e9e par Philippe Bourgoin et orient\u00e9 vers le rap d\u00e9lib\u00e9r\u00e9ment au d\u00e9but des ann\u00e9es 80, apr\u00e8s en avoir eu des \u00e9chos r\u00e9cents."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3853473,
+      "pinned": false,
+      "share_url": "https://genius.com/3853473",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3853473/Chagrin-damour-chacun-fait-cqui-lui-plait/Chacun-fait-cqui-lui-plait",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3808963",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7f018421d31beecd6bd2a0e7c57b556f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7f018421d31beecd6bd2a0e7c57b556f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7f018421d31beecd6bd2a0e7c57b556f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7f018421d31beecd6bd2a0e7c57b556f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/7f018421d31beecd6bd2a0e7c57b556f",
+         "human_readable_role_for_display": "Moderator",
+         "id": 3808963,
+         "iq": 53532,
+         "login": "Amoneptah",
+         "name": "Amoneptah",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Amoneptah",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1yxezWuLTKCn8jyB4OwGVl",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1yxezWuLTKCn8jyB4OwGVl"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=rYP5Cd_hf7c"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/68491",
+    "header_image_url": "https://images.genius.com/716ad4cd1fe24cd43ec8e5409f29bfa5.280x220x1.jpg",
+    "id": 68491,
+    "image_url": "https://images.genius.com/45b5d7bd4983df53114540490714b3dd.325x325x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Chagrin d\u2019amour",
+    "url": "https://genius.com/artists/Chagrin-damour"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/365937",
+     "header_image_url": "https://images.genius.com/66fdca1593fde8986013caf8211b966d.283x283x1.jpg",
+     "id": 365937,
+     "image_url": "https://images.genius.com/66fdca1593fde8986013caf8211b966d.283x283x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "G\u00e9rard Presgurvic",
+     "url": "https://genius.com/artists/Gerard-presgurvic"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1499023",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1499023,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Philippe Bourgoin",
+     "url": "https://genius.com/artists/Philippe-bourgoin"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2110065",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2110065/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2110065' class='rg_embed_link' data-song-id='2110065'>Read <a href='https://genius.com/Chagrin-damour-chacun-fait-cqui-lui-plat-version-originale-1981-lyrics'>\u201cChacun fait (c'qui lui pla\u201dt) - version originale 1981\u201d by Chagrin\u00a0d'amour</a> on Genius</div> <script crossorigin src='//genius.com/songs/2110065/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Chacun fait (c'qui lui pla\u201dt) - version originale 1981 by\u00a0Chagrin\u00a0d'amour",
+   "header_image_thumbnail_url": "https://images.genius.com/45b5d7bd4983df53114540490714b3dd.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/45b5d7bd4983df53114540490714b3dd.325x325x1.jpg",
+   "id": 2110065,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Chagrin-damour-chacun-fait-cqui-lui-plat-version-originale-1981-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/45b5d7bd4983df53114540490714b3dd.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/45b5d7bd4983df53114540490714b3dd.325x325x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Chacun fait (c\u2019qui lui pla\u201dt) - version originale 1981",
+   "title_with_featured": "Chacun fait (c'qui lui pla\u201dt) - version originale 1981",
+   "url": "https://genius.com/Chagrin-damour-chacun-fait-cqui-lui-plat-version-originale-1981-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6860433",
+    "classification": "needs_exegesis",
+    "fragment": "Chacun fait (c\u2019qui lui pla\u201dt) - version originale 1981",
+    "id": 6860433,
+    "is_description": true,
+    "path": "/6860433/Chagrin-damour-chacun-fait-cqui-lui-plat-version-originale-1981/Chacun-fait-cqui-lui-plat-version-originale-1981",
+    "range": {
+     "content": "Chacun fait (c'qui lui pla\u201dt) - version originale 1981"
+    },
+    "song_id": 2110065,
+    "url": "https://genius.com/6860433/Chagrin-damour-chacun-fait-cqui-lui-plat-version-originale-1981/Chacun-fait-cqui-lui-plat-version-originale-1981",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2110065",
+     "client_timestamps": {
+      "updated_by_human_at": 1446849019,
+      "lyrics_updated_at": 1434137320
+     },
+     "context": "Chagrin d'amour",
+     "id": 2110065,
+     "image_url": "https://images.genius.com/45b5d7bd4983df53114540490714b3dd.325x325x1.jpg",
+     "link_title": "Chacun fait (c\u2019qui lui pla\u201dt) - version originale 1981 by\u00a0Chagrin\u00a0d\u2019amour",
+     "title": "Chacun fait (c'qui lui pla\u201dt) - version originale 1981",
+     "type": "Song",
+     "url": "https://genius.com/Chagrin-damour-chacun-fait-cqui-lui-plat-version-originale-1981-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6860433",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6860433,
+      "pinned": false,
+      "share_url": "https://genius.com/6860433",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6860433/Chagrin-damour-chacun-fait-cqui-lui-plat-version-originale-1981/Chacun-fait-cqui-lui-plat-version-originale-1981",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/68491",
+    "header_image_url": "https://images.genius.com/716ad4cd1fe24cd43ec8e5409f29bfa5.280x220x1.jpg",
+    "id": 68491,
+    "image_url": "https://images.genius.com/45b5d7bd4983df53114540490714b3dd.325x325x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Chagrin d\u2019amour",
+    "url": "https://genius.com/artists/Chagrin-damour"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

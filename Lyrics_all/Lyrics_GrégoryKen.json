@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2076115",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 2076115,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Gr\u00e9gory Ken",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Gregory-ken",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 7644302,
+  "annotator_login": "hollowbirds",
+  "api_path": "/referents/18839799",
+  "classification": "needs_exegesis",
+  "fragment": "Gr\u00e9gory Ken",
+  "id": 18839799,
+  "is_description": true,
+  "path": "/18839799/Gregory-ken/Gregory-ken",
+  "range": {
+   "content": "Gr\u00e9gory Ken"
+  },
+  "song_id": null,
+  "url": "https://genius.com/18839799/Gregory-ken/Gregory-ken",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2076115",
+   "context": null,
+   "id": 2076115,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Gr\u00e9gory Ken",
+   "title": "Gr\u00e9gory Ken",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Gregory-ken"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/18839799",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 18839799,
+    "pinned": false,
+    "share_url": "https://genius.com/18839799",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/18839799/Gregory-ken/Gregory-ken",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7644302",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/c001c826ae2393f699170fa8cf526b07",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/c001c826ae2393f699170fa8cf526b07",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/c001c826ae2393f699170fa8cf526b07",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/c001c826ae2393f699170fa8cf526b07",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/c001c826ae2393f699170fa8cf526b07",
+       "human_readable_role_for_display": "Contributor",
+       "id": 7644302,
+       "iq": 460,
+       "login": "hollowbirds",
+       "name": "hollowbirds",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/hollowbirds",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

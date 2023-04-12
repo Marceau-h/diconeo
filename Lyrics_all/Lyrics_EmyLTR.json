@@ -1,0 +1,879 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1803926",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 1803926,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Emy LTR",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Emy-ltr",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 8392470,
+  "annotator_login": "Rednels",
+  "api_path": "/referents/17034812",
+  "classification": "needs_exegesis",
+  "fragment": "Emy LTR",
+  "id": 17034812,
+  "is_description": true,
+  "path": "/17034812/Emy-ltr/Emy-ltr",
+  "range": {
+   "content": "Emy LTR"
+  },
+  "song_id": null,
+  "url": "https://genius.com/17034812/Emy-ltr/Emy-ltr",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1803926",
+   "context": null,
+   "id": 1803926,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Emy LTR",
+   "title": "Emy LTR",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Emy-ltr"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17034812",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 17034812,
+    "pinned": false,
+    "share_url": "https://genius.com/17034812",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/17034812/Emy-ltr/Emy-ltr",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8392470",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4d97a5f6489d6fb155cb655b752887f9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4d97a5f6489d6fb155cb655b752887f9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4d97a5f6489d6fb155cb655b752887f9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4d97a5f6489d6fb155cb655b752887f9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/4d97a5f6489d6fb155cb655b752887f9",
+       "human_readable_role_for_display": null,
+       "id": 8392470,
+       "iq": 119,
+       "login": "Rednels",
+       "name": "Rednels",
+       "role_for_display": null,
+       "url": "https://genius.com/Rednels",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4869489",
+   "apple_music_id": "1478121081",
+   "apple_music_player_url": "https://genius.com/songs/4869489/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4869489' class='rg_embed_link' data-song-id='4869489'>Read <a href='https://genius.com/Emy-ltr-frequence-lyrics'>\u201cFREQUENCE\u201d by Emy\u00a0LTR</a> on Genius</div> <script crossorigin src='//genius.com/songs/4869489/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "FREQUENCE by\u00a0Emy\u00a0LTR",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 4869489,
+   "lyrics_owner_id": 9351710,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Emy-ltr-frequence-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2019-09-12",
+   "release_date_for_display": "September 12, 2019",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "FREQUENCE",
+   "title_with_featured": "FREQUENCE",
+   "url": "https://genius.com/Emy-ltr-frequence-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9351710,
+    "annotator_login": "PaulinMusic",
+    "api_path": "/referents/18040707",
+    "classification": "needs_exegesis",
+    "fragment": "FREQUENCE",
+    "id": 18040707,
+    "is_description": true,
+    "path": "/18040707/Emy-ltr-frequence/Frequence",
+    "range": {
+     "content": "FREQUENCE"
+    },
+    "song_id": 4869489,
+    "url": "https://genius.com/18040707/Emy-ltr-frequence/Frequence",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4869489",
+     "client_timestamps": {
+      "updated_by_human_at": 1568489374,
+      "lyrics_updated_at": 1568489374
+     },
+     "context": "Emy LTR",
+     "id": 4869489,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "FREQUENCE by\u00a0Emy\u00a0LTR",
+     "title": "FREQUENCE",
+     "type": "Song",
+     "url": "https://genius.com/Emy-ltr-frequence-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18040707",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18040707,
+      "pinned": false,
+      "share_url": "https://genius.com/18040707",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18040707/Emy-ltr-frequence/Frequence",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9351710",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/e59fd3b62ed77123f16e26ee0f4e0a1f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/e59fd3b62ed77123f16e26ee0f4e0a1f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/e59fd3b62ed77123f16e26ee0f4e0a1f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/e59fd3b62ed77123f16e26ee0f4e0a1f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/e59fd3b62ed77123f16e26ee0f4e0a1f",
+         "human_readable_role_for_display": null,
+         "id": 9351710,
+         "iq": 121,
+         "login": "PaulinMusic",
+         "name": "PaulinMusic",
+         "role_for_display": null,
+         "url": "https://genius.com/PaulinMusic",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=CqkDNniyxZk"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1803926",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 1803926,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Emy LTR",
+    "url": "https://genius.com/artists/Emy-ltr"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1262779",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1262779,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean-Etienne Maillard",
+     "url": "https://genius.com/artists/Jean-etienne-maillard"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1262779",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1262779,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean-Etienne Maillard",
+     "url": "https://genius.com/artists/Jean-etienne-maillard"
+    },
+    {
+     "api_path": "/artists/1950035",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1950035,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AntoineGraugnard",
+     "url": "https://genius.com/artists/Antoinegraugnard"
+    },
+    {
+     "api_path": "/artists/1803926",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1803926,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emy LTR",
+     "url": "https://genius.com/artists/Emy-ltr"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4505608",
+   "apple_music_id": "1371038369",
+   "apple_music_player_url": "https://genius.com/songs/4505608/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4505608' class='rg_embed_link' data-song-id='4505608'>Read <a href='https://genius.com/Emy-ltr-essentiel-lyrics'>\u201cEssentiel\u201d by Emy\u00a0LTR</a> on Genius</div> <script crossorigin src='//genius.com/songs/4505608/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Essentiel by\u00a0Emy\u00a0LTR",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 4505608,
+   "lyrics_owner_id": 8392470,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Emy-ltr-essentiel-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2018-04-13",
+   "release_date_for_display": "April 13, 2018",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Essentiel",
+   "title_with_featured": "Essentiel",
+   "url": "https://genius.com/Emy-ltr-essentiel-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8392470,
+    "annotator_login": "Rednels",
+    "api_path": "/referents/17034822",
+    "classification": "needs_exegesis",
+    "fragment": "Essentiel",
+    "id": 17034822,
+    "is_description": true,
+    "path": "/17034822/Emy-ltr-essentiel/Essentiel",
+    "range": {
+     "content": "Essentiel"
+    },
+    "song_id": 4505608,
+    "url": "https://genius.com/17034822/Emy-ltr-essentiel/Essentiel",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4505608",
+     "client_timestamps": {
+      "updated_by_human_at": 1560185887,
+      "lyrics_updated_at": 1560185887
+     },
+     "context": "Emy LTR",
+     "id": 4505608,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Essentiel by\u00a0Emy\u00a0LTR",
+     "title": "Essentiel",
+     "type": "Song",
+     "url": "https://genius.com/Emy-ltr-essentiel-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17034822",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17034822,
+      "pinned": false,
+      "share_url": "https://genius.com/17034822",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17034822/Emy-ltr-essentiel/Essentiel",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8392470",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4d97a5f6489d6fb155cb655b752887f9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4d97a5f6489d6fb155cb655b752887f9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4d97a5f6489d6fb155cb655b752887f9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4d97a5f6489d6fb155cb655b752887f9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4d97a5f6489d6fb155cb655b752887f9",
+         "human_readable_role_for_display": null,
+         "id": 8392470,
+         "iq": 119,
+         "login": "Rednels",
+         "name": "Rednels",
+         "role_for_display": null,
+         "url": "https://genius.com/Rednels",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/1803926",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 1803926,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Emy LTR",
+    "url": "https://genius.com/artists/Emy-ltr"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1803925",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1803925,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Coca-Cola France",
+     "url": "https://genius.com/artists/Coca-cola-france"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1803926",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1803926,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emy LTR",
+     "url": "https://genius.com/artists/Emy-ltr"
+    }
+   ],
+   "lyrics": "Sur la route, je roule contre le vent\nTant qu'il est encore temps\nJe retrouve l'oc\u00e9an\n\nQuelques heures, sur ma voie en couleur\nQuelques heures de cavale en douceur\nAllong\u00e9e sur le sable, dans la chaleur du soir\nJe sais au fond de moi, que tu es l\u00e0, que tu me vois\nTout s'\u00e9claire, tu deviens l'essentiel\nCommence une nouvelle aire avec toi pr\u00e8s de moi\n\nA l'horizon, je te cherche comme une enfant\nJe sais que tu me vois, que tu m'attends\n\nQuelques heures, sur ma voie en couleur\nQuelques heures de cavale en douceur\nAllong\u00e9e sur le sable (la, la, la, la)\nDans la chaleur du soir\nJe sais au fond de moi (au fond de moi)\nQue tu es l\u00e0\n\nAllong\u00e9e sur le sable, dans la chaleur du soir\nJe sais au fond de moi, que tu es l\u00e0, que tu me vois\nTout s'\u00e9claire, tu deviens l'essentiel\nCommence une nouvelle aire avec moi\n\nAllong\u00e9e sur le sable (quelques heures, sur ma voie, en couleur)\nQue tu es l\u00e0 (quelques heures, sur ma voie, en couleur)\nAvec moi"
+  }
+ ]
+}

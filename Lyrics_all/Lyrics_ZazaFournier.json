@@ -1,0 +1,1176 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/480882",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+ "id": 480882,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Zaza Fournier",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Zaza-fournier",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7127824",
+  "classification": "needs_exegesis",
+  "fragment": "Zaza Fournier",
+  "id": 7127824,
+  "is_description": true,
+  "path": "/7127824/Zaza-fournier/Zaza-fournier",
+  "range": {
+   "content": "Zaza Fournier"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7127824/Zaza-fournier/Zaza-fournier",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/480882",
+   "context": null,
+   "id": 480882,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1611332193",
+   "link_title": "Zaza Fournier",
+   "title": "Zaza Fournier",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Zaza-fournier"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7127824",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7127824,
+    "pinned": false,
+    "share_url": "https://genius.com/7127824",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7127824/Zaza-fournier/Zaza-fournier",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2071377",
+   "apple_music_id": "1232317743",
+   "apple_music_player_url": "https://genius.com/songs/2071377/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2071377' class='rg_embed_link' data-song-id='2071377'>Read <a href='https://genius.com/Zaza-fournier-vodka-fraise-lyrics'>\u201cVodka fraise\u201d by Zaza\u00a0Fournier</a> on Genius</div> <script crossorigin src='//genius.com/songs/2071377/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Vodka fraise by\u00a0Zaza\u00a0Fournier",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "id": 2071377,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Zaza-fournier-vodka-fraise-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vodka fraise",
+   "title_with_featured": "Vodka fraise",
+   "url": "https://genius.com/Zaza-fournier-vodka-fraise-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/257028",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1611332193",
+    "full_title": "Regarde-moi by Zaza Fournier",
+    "id": 257028,
+    "name": "Regarde-moi",
+    "url": "https://genius.com/albums/Zaza-fournier/Regarde-moi",
+    "artist": {
+     "api_path": "/artists/480882",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "id": 480882,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zaza Fournier",
+     "url": "https://genius.com/artists/Zaza-fournier"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6811232",
+    "classification": "needs_exegesis",
+    "fragment": "Vodka fraise",
+    "id": 6811232,
+    "is_description": true,
+    "path": "/6811232/Zaza-fournier-vodka-fraise/Vodka-fraise",
+    "range": {
+     "content": "Vodka fraise"
+    },
+    "song_id": 2071377,
+    "url": "https://genius.com/6811232/Zaza-fournier-vodka-fraise/Vodka-fraise",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2071377",
+     "client_timestamps": {
+      "updated_by_human_at": 1477093798,
+      "lyrics_updated_at": 1433954356
+     },
+     "context": "Zaza Fournier",
+     "id": 2071377,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+     "link_title": "Vodka fraise by\u00a0Zaza\u00a0Fournier",
+     "title": "Vodka fraise",
+     "type": "Song",
+     "url": "https://genius.com/Zaza-fournier-vodka-fraise-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6811232",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6811232,
+      "pinned": false,
+      "share_url": "https://genius.com/6811232",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6811232/Zaza-fournier-vodka-fraise/Vodka-fraise",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/480882",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "id": 480882,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zaza Fournier",
+    "url": "https://genius.com/artists/Zaza-fournier"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2059480",
+   "apple_music_id": "1232317742",
+   "apple_music_player_url": "https://genius.com/songs/2059480/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2059480' class='rg_embed_link' data-song-id='2059480'>Read <a href='https://genius.com/Zaza-fournier-comme-il-est-doux-lyrics'>\u201cComme il est doux\u201d by Zaza\u00a0Fournier</a> on Genius</div> <script crossorigin src='//genius.com/songs/2059480/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Comme il est doux by\u00a0Zaza\u00a0Fournier",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "id": 2059480,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Zaza-fournier-comme-il-est-doux-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Comme il est doux",
+   "title_with_featured": "Comme il est doux",
+   "url": "https://genius.com/Zaza-fournier-comme-il-est-doux-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/257028",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1611332193",
+    "full_title": "Regarde-moi by Zaza Fournier",
+    "id": 257028,
+    "name": "Regarde-moi",
+    "url": "https://genius.com/albums/Zaza-fournier/Regarde-moi",
+    "artist": {
+     "api_path": "/artists/480882",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "id": 480882,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zaza Fournier",
+     "url": "https://genius.com/artists/Zaza-fournier"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6799193",
+    "classification": "needs_exegesis",
+    "fragment": "Comme il est doux",
+    "id": 6799193,
+    "is_description": true,
+    "path": "/6799193/Zaza-fournier-comme-il-est-doux/Comme-il-est-doux",
+    "range": {
+     "content": "Comme il est doux"
+    },
+    "song_id": 2059480,
+    "url": "https://genius.com/6799193/Zaza-fournier-comme-il-est-doux/Comme-il-est-doux",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2059480",
+     "client_timestamps": {
+      "updated_by_human_at": 1476914990,
+      "lyrics_updated_at": 1433952181
+     },
+     "context": "Zaza Fournier",
+     "id": 2059480,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+     "link_title": "Comme il est doux by\u00a0Zaza\u00a0Fournier",
+     "title": "Comme il est doux",
+     "type": "Song",
+     "url": "https://genius.com/Zaza-fournier-comme-il-est-doux-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6799193",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6799193,
+      "pinned": false,
+      "share_url": "https://genius.com/6799193",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6799193/Zaza-fournier-comme-il-est-doux/Comme-il-est-doux",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/480882",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "id": 480882,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zaza Fournier",
+    "url": "https://genius.com/artists/Zaza-fournier"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2089816",
+   "apple_music_id": "1232317745",
+   "apple_music_player_url": "https://genius.com/songs/2089816/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2089816' class='rg_embed_link' data-song-id='2089816'>Read <a href='https://genius.com/Zaza-fournier-regarde-moi-lyrics'>\u201cRegarde-moi\u201d by Zaza\u00a0Fournier</a> on Genius</div> <script crossorigin src='//genius.com/songs/2089816/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Regarde-moi by\u00a0Zaza\u00a0Fournier",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "id": 2089816,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Zaza-fournier-regarde-moi-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Regarde-moi",
+   "title_with_featured": "Regarde-moi",
+   "url": "https://genius.com/Zaza-fournier-regarde-moi-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/257028",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1611332193",
+    "full_title": "Regarde-moi by Zaza Fournier",
+    "id": 257028,
+    "name": "Regarde-moi",
+    "url": "https://genius.com/albums/Zaza-fournier/Regarde-moi",
+    "artist": {
+     "api_path": "/artists/480882",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "id": 480882,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zaza Fournier",
+     "url": "https://genius.com/artists/Zaza-fournier"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6829835",
+    "classification": "needs_exegesis",
+    "fragment": "Regarde-moi",
+    "id": 6829835,
+    "is_description": true,
+    "path": "/6829835/Zaza-fournier-regarde-moi/Regarde-moi",
+    "range": {
+     "content": "Regarde-moi"
+    },
+    "song_id": 2089816,
+    "url": "https://genius.com/6829835/Zaza-fournier-regarde-moi/Regarde-moi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2089816",
+     "client_timestamps": {
+      "updated_by_human_at": 1476933537,
+      "lyrics_updated_at": 1433957901
+     },
+     "context": "Zaza Fournier",
+     "id": 2089816,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1611332193",
+     "link_title": "Regarde-moi by\u00a0Zaza\u00a0Fournier",
+     "title": "Regarde-moi",
+     "type": "Song",
+     "url": "https://genius.com/Zaza-fournier-regarde-moi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6829835",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6829835,
+      "pinned": false,
+      "share_url": "https://genius.com/6829835",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6829835/Zaza-fournier-regarde-moi/Regarde-moi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/480882",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "id": 480882,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1611332193",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zaza Fournier",
+    "url": "https://genius.com/artists/Zaza-fournier"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Regarde-moi\nJe vais mettre ma jupe\nEt mes talons hauts\nRegarde-moi\nRelever mes cheveux\nTe dire que tu es beau\nRegarde-moi\nRegarde-moi\nEncore\nEncore\nCaresse-moi\nRien qu'avec les yeux\nNe me touche pas\nCaresse-moi\nJe veux du grand frisson\nJe veux du cin\u00e9ma\nRegarde-moi\nRegarde-moi\nEncore\nEncore\nMa bouche, mes reins et mon cou\nLe dessin derri\u00e8re mes genoux\nEt puis le creux dans la cheville\nMes \u00e9paules qui se d\u00e9shabillent\nAgrippe-toi\nA l'espoir de m'avoir\n\nA ton envie de moi\nAgrippe-toi\nAu roulement de mes hanches\nAu souffle de ma voix\nRegarde-moi\nRegarde-moi\nEncore\nEncore\nD\u00e9taille-moi\nEt je prendrai le temps\nJe veux que tu me voies\nD\u00e9taille-moi\nEt je prendrai le temps\nTu seras fou de moi\nRegarde-moi\nRegarde-moi\nEncore\nEncore\nMa bouche, mes reins et mon cou\nLe dessin derri\u00e8re mes genoux\nEt puis le creux dans la cheville\nMes \u00e9paules qui se d\u00e9shabillent\nMes mains, ma nuque et mon dos\nLe chemin que tu suis sur ma peau\nMon ventre, mes fesses et mon grain\nDe beaut\u00e9 tout pr\u00e8s du sein\nRegarde-moi"
+  }
+ ]
+}

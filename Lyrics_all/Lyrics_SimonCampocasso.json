@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1439309",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 1439309,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Simon Campocasso",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Simon-campocasso",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4867107,
+  "annotator_login": "cle3m",
+  "api_path": "/referents/14257687",
+  "classification": "needs_exegesis",
+  "fragment": "Simon Campocasso",
+  "id": 14257687,
+  "is_description": true,
+  "path": "/14257687/Simon-campocasso/Simon-campocasso",
+  "range": {
+   "content": "Simon Campocasso"
+  },
+  "song_id": null,
+  "url": "https://genius.com/14257687/Simon-campocasso/Simon-campocasso",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1439309",
+   "context": null,
+   "id": 1439309,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Simon Campocasso",
+   "title": "Simon Campocasso",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Simon-campocasso"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/14257687",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 14257687,
+    "pinned": false,
+    "share_url": "https://genius.com/14257687",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/14257687/Simon-campocasso/Simon-campocasso",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4867107",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f14d7a362e25ccdf34e273d0477f7299",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f14d7a362e25ccdf34e273d0477f7299",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f14d7a362e25ccdf34e273d0477f7299",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f14d7a362e25ccdf34e273d0477f7299",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/f14d7a362e25ccdf34e273d0477f7299",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4867107,
+       "iq": 2869,
+       "login": "cle3m",
+       "name": "cle3m",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/cle3m",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

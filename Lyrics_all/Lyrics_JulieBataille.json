@@ -1,0 +1,808 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/352938",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 352938,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Julie Bataille",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Julie-bataille",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7069201",
+  "classification": "needs_exegesis",
+  "fragment": "Julie Bataille",
+  "id": 7069201,
+  "is_description": true,
+  "path": "/7069201/Julie-bataille/Julie-bataille",
+  "range": {
+   "content": "Julie Bataille"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7069201/Julie-bataille/Julie-bataille",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/352938",
+   "context": null,
+   "id": 352938,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Julie Bataille",
+   "title": "Julie Bataille",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Julie-bataille"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7069201",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7069201,
+    "pinned": false,
+    "share_url": "https://genius.com/7069201",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7069201/Julie-bataille/Julie-bataille",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/858191",
+   "apple_music_id": "909143683",
+   "apple_music_player_url": "https://genius.com/songs/858191/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_858191' class='rg_embed_link' data-song-id='858191'>Read <a href='https://genius.com/Julie-bataille-la-petite-minette-lyrics'>\u201cLa Petite Minette\u201d by Julie\u00a0Bataille</a> on Genius</div> <script crossorigin src='//genius.com/songs/858191/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La Petite Minette by\u00a0Julie\u00a0Bataille",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 858191,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Julie-bataille-la-petite-minette-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La Petite Minette",
+   "title_with_featured": "La Petite Minette",
+   "url": "https://genius.com/Julie-bataille-la-petite-minette-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5339462",
+    "classification": "needs_exegesis",
+    "fragment": "La Petite Minette",
+    "id": 5339462,
+    "is_description": true,
+    "path": "/5339462/Julie-bataille-la-petite-minette/La-petite-minette",
+    "range": {
+     "content": "La Petite Minette"
+    },
+    "song_id": 858191,
+    "url": "https://genius.com/5339462/Julie-bataille-la-petite-minette/La-petite-minette",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/858191",
+     "client_timestamps": {
+      "updated_by_human_at": 1433778117,
+      "lyrics_updated_at": 1429285854
+     },
+     "context": "Julie Bataille",
+     "id": 858191,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "La Petite Minette by\u00a0Julie\u00a0Bataille",
+     "title": "La Petite Minette",
+     "type": "Song",
+     "url": "https://genius.com/Julie-bataille-la-petite-minette-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5339462",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5339462,
+      "pinned": false,
+      "share_url": "https://genius.com/5339462",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5339462/Julie-bataille-la-petite-minette/La-petite-minette",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/352938",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 352938,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Julie Bataille",
+    "url": "https://genius.com/artists/Julie-bataille"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "D\u00e8s qu'une fille a 15 ans\nEt qu'elle sourit en marchant\nTous les garcons la regardent passer\nEn la sifflant, en lui disant\nQu'elle n'est qu'une gentille petite minette\nMais, toutes les filles ne sont pas aussi faciles que l'on croit\nM\u00eame si elles donnent l'impression du contraire\nM\u00eame si elles ont l'allure un peu l\u00e9g\u00e9re\nFaut pas toutes les ranger dans le m\u00eame panier\n\n(Refrain:)\nUne petite minette\nJ'accepte de l'\u00eatre\nPas seulement pour une nuit avec toi\nJe ne suis pas si folle\nJe ne suis pas frivole\nPas tant que tu crois\nUne petite minette\nPas une marionnette\nPas une fille qu'on aime qu'une fois\nJe veux \u00eatre celle qui n'existe que pour toi\nRien que pour toi\n\nAvec mon jean d\u00e9lav\u00e9 et mon blouson trop serr\u00e9\nTu dis que j'ai la cervelle d'un oiseau\nEt qu'il suffit de me dire quelques mots\nPour que j'accepte une amourette\nMais c'est toi seul que je veux\nEt je ferais de mon mieux\nPour te prouver que mon c\u0153ur est sinc\u00e8re\nDe toutes les filles, je serais la premi\u00e8re\nQui t'aura fait mentir sans m\u00eame t'appartenir\n\n(Au refrain)\n\nFr\u00e9n\u00e9sie, harmonie pour la vie\nMon c\u0153ur est pr\u00eat \u00e0 tout t'donner\nAttendrie, assagie, assouvie\nTous tes d\u00e9sirs seront exauc\u00e9s\n\n(Au refrain) X2"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/857719",
+   "apple_music_id": "763059962",
+   "apple_music_player_url": "https://genius.com/songs/857719/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_857719' class='rg_embed_link' data-song-id='857719'>Read <a href='https://genius.com/Julie-bataille-tu-es-la-plus-belle-lyrics'>\u201cTu Es La Plus Belle\u201d by Julie\u00a0Bataille</a> on Genius</div> <script crossorigin src='//genius.com/songs/857719/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tu Es La Plus Belle by\u00a0Julie\u00a0Bataille",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 857719,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Julie-bataille-tu-es-la-plus-belle-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tu Es La Plus Belle",
+   "title_with_featured": "Tu Es La Plus Belle",
+   "url": "https://genius.com/Julie-bataille-tu-es-la-plus-belle-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5338992",
+    "classification": "needs_exegesis",
+    "fragment": "Tu Es La Plus Belle",
+    "id": 5338992,
+    "is_description": true,
+    "path": "/5338992/Julie-bataille-tu-es-la-plus-belle/Tu-es-la-plus-belle",
+    "range": {
+     "content": "Tu Es La Plus Belle"
+    },
+    "song_id": 857719,
+    "url": "https://genius.com/5338992/Julie-bataille-tu-es-la-plus-belle/Tu-es-la-plus-belle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/857719",
+     "client_timestamps": {
+      "updated_by_human_at": 1433777844,
+      "lyrics_updated_at": 1429285689
+     },
+     "context": "Julie Bataille",
+     "id": 857719,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Tu Es La Plus Belle by\u00a0Julie\u00a0Bataille",
+     "title": "Tu Es La Plus Belle",
+     "type": "Song",
+     "url": "https://genius.com/Julie-bataille-tu-es-la-plus-belle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5338992",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5338992,
+      "pinned": false,
+      "share_url": "https://genius.com/5338992",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5338992/Julie-bataille-tu-es-la-plus-belle/Tu-es-la-plus-belle",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/352938",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 352938,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Julie Bataille",
+    "url": "https://genius.com/artists/Julie-bataille"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Parce que je n'ai pas encore 17 ans\nOn dit que je n'ai rien dans la t\u00eate\nQue je ne suis qu'une petite sotte\nUne \u00e9cervel\u00e9e\n\nParce que je n'ai pas encore 17 ans\nOn me croit incapable\nD'\u00e9prouver des sentiments de femme\nD'\u00eatre passionn\u00e9e\n\nParce que je n'ai pas encore 17 ans\nToi aussi tu t'imagines\nQue je ne suis q'une gamine stupide\nQui ne pense qu'\u00e0 rire, \u00e0 s'amuser\nEt tu crois s\u00fbrement que \u00e7\u00e0 me suffit\nQuand tu m'emm\u00e8nes dans ta belle voiture\nEt que tu veux m'impressionner\nAvec tes airs de prince charmant\nTous ces petits cadeaux que tu m'offres\nComme \u00e0 une enfant que l'on veut \u00e9blouir\nSans jamais me demander\nSi \u00e7\u00e0 me fait vraiment plaisir\nOh, je sais, tu vois beaucoup de filles qui sont plus jolies que moi\nMais quand m\u00eame, de temps en temps\nJe voudrais que tu me dises:\n\nTu es la plus belle (x2)\nDis moi que de toutes les filles\nJe suis la plus belle\nTu es la plus belle (x2)\nDis moi que je suis la seule\nLa seule que tu aimes, aimes, aimes-moi\n\nParce que je n'ai pas encore 17 ans\nTu joues vraiment avec mon c\u0153ur\nTu me traites comme une petite fille\nQu'on aime le temps d'un \u00e9t\u00e9\nAu lieu de \u00e7\u00e0, demandes moi\nTout ce qu'un homme demande \u00e0 une femme\nEt tu verras ce que je suis capable de te donner\nLa premi\u00e8re nuit, mon premier amour\nEt peut-\u00eatre m\u00eame bien le dernier\nAlors devient s\u00e9rieux, regarde moi\nEt serre moi fort dans tes bras\nC'est une femme qui te parle\nEt qui attend que tu lui dises:\n\nTu es la plus belle (x2)\nDis moi que de toutes les filles\nJe suis la plus belle\nTu es la plus belle (x2)\nDis moi que je suis la seule\nLa seule que tu aimes\n\nTu es la plus belle (x2)\nDis moi que de toutes les filles\nJe suis la plus belle\nTu es la plus belle (x2)"
+  }
+ ]
+}

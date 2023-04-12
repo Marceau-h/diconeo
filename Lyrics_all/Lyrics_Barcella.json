@@ -1,0 +1,3551 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/391921",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 2,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+ "id": 391921,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Barcella",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Barcella",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7107726",
+  "classification": "needs_exegesis",
+  "fragment": "Barcella",
+  "id": 7107726,
+  "is_description": true,
+  "path": "/7107726/Barcella/Barcella",
+  "range": {
+   "content": "Barcella"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7107726/Barcella/Barcella",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/391921",
+   "context": null,
+   "id": 391921,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1651176288",
+   "link_title": "Barcella",
+   "title": "Barcella",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Barcella"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7107726",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7107726,
+    "pinned": false,
+    "share_url": "https://genius.com/7107726",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7107726/Barcella/Barcella",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1976146",
+   "apple_music_id": "521767020",
+   "apple_music_player_url": "https://genius.com/songs/1976146/apple_music_player",
+   "artist_names": "Barcella",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1976146' class='rg_embed_link' data-song-id='1976146'>Read <a href='https://genius.com/Barcella-mixtape-lyrics'>\u201cMixtape\u201d by Barcella</a> on Genius</div> <script crossorigin src='//genius.com/songs/1976146/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Mixtape by\u00a0Barcella",
+   "header_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "id": 1976146,
+   "lyrics_owner_id": 1904943,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Barcella-mixtape-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mixtape",
+   "title_with_featured": "Mixtape",
+   "url": "https://genius.com/Barcella-mixtape-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/216327",
+    "cover_art_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+    "full_title": "Charabia by Barcella",
+    "id": 216327,
+    "name": "Charabia",
+    "url": "https://genius.com/albums/Barcella/Charabia",
+    "artist": {
+     "api_path": "/artists/391921",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 391921,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barcella",
+     "url": "https://genius.com/artists/Barcella"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6662848",
+    "classification": "needs_exegesis",
+    "fragment": "Mixtape",
+    "id": 6662848,
+    "is_description": true,
+    "path": "/6662848/Barcella-mixtape/Mixtape",
+    "range": {
+     "content": "Mixtape"
+    },
+    "song_id": 1976146,
+    "url": "https://genius.com/6662848/Barcella-mixtape/Mixtape",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1976146",
+     "client_timestamps": {
+      "updated_by_human_at": 1592301910,
+      "lyrics_updated_at": 1592301910
+     },
+     "context": "Barcella",
+     "id": 1976146,
+     "image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+     "link_title": "Mixtape by\u00a0Barcella",
+     "title": "Mixtape",
+     "type": "Song",
+     "url": "https://genius.com/Barcella-mixtape-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6662848",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6662848,
+      "pinned": false,
+      "share_url": "https://genius.com/6662848",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6662848/Barcella-mixtape/Mixtape",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/391921",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 391921,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Barcella",
+    "url": "https://genius.com/artists/Barcella"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1965132",
+   "apple_music_id": "521767013",
+   "apple_music_player_url": "https://genius.com/songs/1965132/apple_music_player",
+   "artist_names": "Barcella",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1965132' class='rg_embed_link' data-song-id='1965132'>Read <a href='https://genius.com/Barcella-de-si-de-larmes-lyrics'>\u201cDe si de larmes\u201d by Barcella</a> on Genius</div> <script crossorigin src='//genius.com/songs/1965132/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "De si de larmes by\u00a0Barcella",
+   "header_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "id": 1965132,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Barcella-de-si-de-larmes-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "De si de larmes",
+   "title_with_featured": "De si de larmes",
+   "url": "https://genius.com/Barcella-de-si-de-larmes-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/216327",
+    "cover_art_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+    "full_title": "Charabia by Barcella",
+    "id": 216327,
+    "name": "Charabia",
+    "url": "https://genius.com/albums/Barcella/Charabia",
+    "artist": {
+     "api_path": "/artists/391921",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 391921,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barcella",
+     "url": "https://genius.com/artists/Barcella"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6651462",
+    "classification": "needs_exegesis",
+    "fragment": "De si de larmes",
+    "id": 6651462,
+    "is_description": true,
+    "path": "/6651462/Barcella-de-si-de-larmes/De-si-de-larmes",
+    "range": {
+     "content": "De si de larmes"
+    },
+    "song_id": 1965132,
+    "url": "https://genius.com/6651462/Barcella-de-si-de-larmes/De-si-de-larmes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1965132",
+     "client_timestamps": {
+      "updated_by_human_at": 1479140534,
+      "lyrics_updated_at": 1432926900
+     },
+     "context": "Barcella",
+     "id": 1965132,
+     "image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+     "link_title": "De si de larmes by\u00a0Barcella",
+     "title": "De si de larmes",
+     "type": "Song",
+     "url": "https://genius.com/Barcella-de-si-de-larmes-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6651462",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6651462,
+      "pinned": false,
+      "share_url": "https://genius.com/6651462",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6651462/Barcella-de-si-de-larmes/De-si-de-larmes",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/391921",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 391921,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Barcella",
+    "url": "https://genius.com/artists/Barcella"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2065047",
+   "apple_music_id": "521767014",
+   "apple_music_player_url": "https://genius.com/songs/2065047/apple_music_player",
+   "artist_names": "Barcella",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2065047' class='rg_embed_link' data-song-id='2065047'>Read <a href='https://genius.com/Barcella-claire-fontaine-lyrics'>\u201cClaire fontaine\u201d by Barcella</a> on Genius</div> <script crossorigin src='//genius.com/songs/2065047/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Claire fontaine by\u00a0Barcella",
+   "header_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "id": 2065047,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Barcella-claire-fontaine-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Claire fontaine",
+   "title_with_featured": "Claire fontaine",
+   "url": "https://genius.com/Barcella-claire-fontaine-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/216327",
+    "cover_art_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+    "full_title": "Charabia by Barcella",
+    "id": 216327,
+    "name": "Charabia",
+    "url": "https://genius.com/albums/Barcella/Charabia",
+    "artist": {
+     "api_path": "/artists/391921",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 391921,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barcella",
+     "url": "https://genius.com/artists/Barcella"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6804823",
+    "classification": "needs_exegesis",
+    "fragment": "Claire fontaine",
+    "id": 6804823,
+    "is_description": true,
+    "path": "/6804823/Barcella-claire-fontaine/Claire-fontaine",
+    "range": {
+     "content": "Claire fontaine"
+    },
+    "song_id": 2065047,
+    "url": "https://genius.com/6804823/Barcella-claire-fontaine/Claire-fontaine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2065047",
+     "client_timestamps": {
+      "updated_by_human_at": 1473413557,
+      "lyrics_updated_at": 1433953196
+     },
+     "context": "Barcella",
+     "id": 2065047,
+     "image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+     "link_title": "Claire fontaine by\u00a0Barcella",
+     "title": "Claire fontaine",
+     "type": "Song",
+     "url": "https://genius.com/Barcella-claire-fontaine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6804823",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6804823,
+      "pinned": false,
+      "share_url": "https://genius.com/6804823",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6804823/Barcella-claire-fontaine/Claire-fontaine",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/391921",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 391921,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Barcella",
+    "url": "https://genius.com/artists/Barcella"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1719380",
+   "apple_music_id": "521767010",
+   "apple_music_player_url": "https://genius.com/songs/1719380/apple_music_player",
+   "artist_names": "Barcella",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1719380' class='rg_embed_link' data-song-id='1719380'>Read <a href='https://genius.com/Barcella-ma-douce-lyrics'>\u201cMa Douce\u201d by Barcella</a> on Genius</div> <script crossorigin src='//genius.com/songs/1719380/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ma Douce by\u00a0Barcella",
+   "header_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "id": 1719380,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Barcella-ma-douce-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ma Douce",
+   "title_with_featured": "Ma Douce",
+   "url": "https://genius.com/Barcella-ma-douce-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/216327",
+    "cover_art_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+    "full_title": "Charabia by Barcella",
+    "id": 216327,
+    "name": "Charabia",
+    "url": "https://genius.com/albums/Barcella/Charabia",
+    "artist": {
+     "api_path": "/artists/391921",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 391921,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barcella",
+     "url": "https://genius.com/artists/Barcella"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6234659",
+    "classification": "needs_exegesis",
+    "fragment": "Ma Douce",
+    "id": 6234659,
+    "is_description": true,
+    "path": "/6234659/Barcella-ma-douce/Ma-douce",
+    "range": {
+     "content": "Ma Douce"
+    },
+    "song_id": 1719380,
+    "url": "https://genius.com/6234659/Barcella-ma-douce/Ma-douce",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1719380",
+     "client_timestamps": {
+      "updated_by_human_at": 1480525704,
+      "lyrics_updated_at": 1429905669
+     },
+     "context": "Barcella",
+     "id": 1719380,
+     "image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+     "link_title": "Ma Douce by\u00a0Barcella",
+     "title": "Ma Douce",
+     "type": "Song",
+     "url": "https://genius.com/Barcella-ma-douce-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6234659",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6234659,
+      "pinned": false,
+      "share_url": "https://genius.com/6234659",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6234659/Barcella-ma-douce/Ma-douce",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/391921",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 391921,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Barcella",
+    "url": "https://genius.com/artists/Barcella"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1967399",
+   "apple_music_id": "829692259",
+   "apple_music_player_url": "https://genius.com/songs/1967399/apple_music_player",
+   "artist_names": "Barcella",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1967399' class='rg_embed_link' data-song-id='1967399'>Read <a href='https://genius.com/Barcella-puzzle-lyrics'>\u201cPuzzle\u201d by Barcella</a> on Genius</div> <script crossorigin src='//genius.com/songs/1967399/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Puzzle by\u00a0Barcella",
+   "header_image_thumbnail_url": "https://images.genius.com/a77132c37e455dd3cf3249d167545e12.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a77132c37e455dd3cf3249d167545e12.1000x1000x1.jpg",
+   "id": 1967399,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Barcella-puzzle-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a77132c37e455dd3cf3249d167545e12.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a77132c37e455dd3cf3249d167545e12.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Puzzle",
+   "title_with_featured": "Puzzle",
+   "url": "https://genius.com/Barcella-puzzle-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/229976",
+    "cover_art_url": "https://images.genius.com/a77132c37e455dd3cf3249d167545e12.1000x1000x1.jpg",
+    "full_title": "Puzzle by Barcella",
+    "id": 229976,
+    "name": "Puzzle",
+    "url": "https://genius.com/albums/Barcella/Puzzle",
+    "artist": {
+     "api_path": "/artists/391921",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 391921,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barcella",
+     "url": "https://genius.com/artists/Barcella"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6653805",
+    "classification": "needs_exegesis",
+    "fragment": "Puzzle",
+    "id": 6653805,
+    "is_description": true,
+    "path": "/6653805/Barcella-puzzle/Puzzle",
+    "range": {
+     "content": "Puzzle"
+    },
+    "song_id": 1967399,
+    "url": "https://genius.com/6653805/Barcella-puzzle/Puzzle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1967399",
+     "client_timestamps": {
+      "updated_by_human_at": 1476110198,
+      "lyrics_updated_at": 1432927978
+     },
+     "context": "Barcella",
+     "id": 1967399,
+     "image_url": "https://images.genius.com/a77132c37e455dd3cf3249d167545e12.1000x1000x1.jpg",
+     "link_title": "Puzzle by\u00a0Barcella",
+     "title": "Puzzle",
+     "type": "Song",
+     "url": "https://genius.com/Barcella-puzzle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6653805",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6653805,
+      "pinned": false,
+      "share_url": "https://genius.com/6653805",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6653805/Barcella-puzzle/Puzzle",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/391921",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 391921,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Barcella",
+    "url": "https://genius.com/artists/Barcella"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1785369",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1785369/apple_music_player",
+   "artist_names": "Barcella",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1785369' class='rg_embed_link' data-song-id='1785369'>Read <a href='https://genius.com/Barcella-salope-annotated'>\u201cSalope\u201d by Barcella</a> on Genius</div> <script crossorigin src='//genius.com/songs/1785369/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Salope by\u00a0Barcella",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/56e1eaddb72ae3d9acb67da6e6c825c0.300x295x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/56e1eaddb72ae3d9acb67da6e6c825c0.1000x984x1.jpg",
+   "id": 1785369,
+   "lyrics_owner_id": 1718228,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Barcella-salope-annotated",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/56e1eaddb72ae3d9acb67da6e6c825c0.300x295x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/56e1eaddb72ae3d9acb67da6e6c825c0.1000x984x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Salope",
+   "title_with_featured": "Salope",
+   "url": "https://genius.com/Barcella-salope-annotated",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/216327",
+    "cover_art_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+    "full_title": "Charabia by Barcella",
+    "id": 216327,
+    "name": "Charabia",
+    "url": "https://genius.com/albums/Barcella/Charabia",
+    "artist": {
+     "api_path": "/artists/391921",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 391921,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barcella",
+     "url": "https://genius.com/artists/Barcella"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1718228,
+    "annotator_login": "UlysseR",
+    "api_path": "/referents/6360289",
+    "classification": "needs_exegesis",
+    "fragment": "Salope",
+    "id": 6360289,
+    "is_description": true,
+    "path": "/6360289/Barcella-salope/Salope",
+    "range": {
+     "content": "Salope"
+    },
+    "song_id": 1785369,
+    "url": "https://genius.com/6360289/Barcella-salope/Salope",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1785369",
+     "client_timestamps": {
+      "updated_by_human_at": 1481214742,
+      "lyrics_updated_at": 1430949159
+     },
+     "context": "Barcella",
+     "id": 1785369,
+     "image_url": "https://images.rapgenius.com/56e1eaddb72ae3d9acb67da6e6c825c0.1000x984x1.jpg",
+     "link_title": "Salope by\u00a0Barcella",
+     "title": "Salope",
+     "type": "Song",
+     "url": "https://genius.com/Barcella-salope-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6360289",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6360289,
+      "pinned": false,
+      "share_url": "https://genius.com/6360289",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6360289/Barcella-salope/Salope",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1718228",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/205a8786be394a989a53502ca3af7dbd",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/205a8786be394a989a53502ca3af7dbd",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/205a8786be394a989a53502ca3af7dbd",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/205a8786be394a989a53502ca3af7dbd",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/205a8786be394a989a53502ca3af7dbd",
+         "human_readable_role_for_display": null,
+         "id": 1718228,
+         "iq": 254,
+         "login": "UlysseR",
+         "name": "UlysseR",
+         "role_for_display": null,
+         "url": "https://genius.com/UlysseR",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Vrb4T4u-b9M"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/391921",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 391921,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Barcella",
+    "url": "https://genius.com/artists/Barcella"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1983762",
+   "apple_music_id": "521767016",
+   "apple_music_player_url": "https://genius.com/songs/1983762/apple_music_player",
+   "artist_names": "Barcella",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1983762' class='rg_embed_link' data-song-id='1983762'>Read <a href='https://genius.com/Barcella-tes-belle-lyrics'>\u201cT'es belle\u201d by Barcella</a> on Genius</div> <script crossorigin src='//genius.com/songs/1983762/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "T'es belle by\u00a0Barcella",
+   "header_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "id": 1983762,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Barcella-tes-belle-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "T\u2019es belle",
+   "title_with_featured": "T'es belle",
+   "url": "https://genius.com/Barcella-tes-belle-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/216327",
+    "cover_art_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+    "full_title": "Charabia by Barcella",
+    "id": 216327,
+    "name": "Charabia",
+    "url": "https://genius.com/albums/Barcella/Charabia",
+    "artist": {
+     "api_path": "/artists/391921",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 391921,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barcella",
+     "url": "https://genius.com/artists/Barcella"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6670698",
+    "classification": "needs_exegesis",
+    "fragment": "T\u2019es belle",
+    "id": 6670698,
+    "is_description": true,
+    "path": "/6670698/Barcella-tes-belle/Tes-belle",
+    "range": {
+     "content": "T'es belle"
+    },
+    "song_id": 1983762,
+    "url": "https://genius.com/6670698/Barcella-tes-belle/Tes-belle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1983762",
+     "client_timestamps": {
+      "updated_by_human_at": 1477012619,
+      "lyrics_updated_at": 1432934612
+     },
+     "context": "Barcella",
+     "id": 1983762,
+     "image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+     "link_title": "T\u2019es belle by\u00a0Barcella",
+     "title": "T'es belle",
+     "type": "Song",
+     "url": "https://genius.com/Barcella-tes-belle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6670698",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6670698,
+      "pinned": false,
+      "share_url": "https://genius.com/6670698",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6670698/Barcella-tes-belle/Tes-belle",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/391921",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 391921,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Barcella",
+    "url": "https://genius.com/artists/Barcella"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1952924",
+   "apple_music_id": "521767015",
+   "apple_music_player_url": "https://genius.com/songs/1952924/apple_music_player",
+   "artist_names": "Barcella",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1952924' class='rg_embed_link' data-song-id='1952924'>Read <a href='https://genius.com/Barcella-lage-dor-lyrics'>\u201cL'\u00e2ge d'or\u201d by Barcella</a> on Genius</div> <script crossorigin src='//genius.com/songs/1952924/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "L'\u00e2ge d'or by\u00a0Barcella",
+   "header_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "id": 1952924,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Barcella-lage-dor-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "L\u2019\u00e2ge d\u2019or",
+   "title_with_featured": "L'\u00e2ge d'or",
+   "url": "https://genius.com/Barcella-lage-dor-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/216327",
+    "cover_art_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+    "full_title": "Charabia by Barcella",
+    "id": 216327,
+    "name": "Charabia",
+    "url": "https://genius.com/albums/Barcella/Charabia",
+    "artist": {
+     "api_path": "/artists/391921",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 391921,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barcella",
+     "url": "https://genius.com/artists/Barcella"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6638965",
+    "classification": "needs_exegesis",
+    "fragment": "L\u2019\u00e2ge d\u2019or",
+    "id": 6638965,
+    "is_description": true,
+    "path": "/6638965/Barcella-lage-dor/Lage-dor",
+    "range": {
+     "content": "L'\u00e2ge d'or"
+    },
+    "song_id": 1952924,
+    "url": "https://genius.com/6638965/Barcella-lage-dor/Lage-dor",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1952924",
+     "client_timestamps": {
+      "updated_by_human_at": 1477101189,
+      "lyrics_updated_at": 1432922150
+     },
+     "context": "Barcella",
+     "id": 1952924,
+     "image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+     "link_title": "L\u2019\u00e2ge d\u2019or by\u00a0Barcella",
+     "title": "L'\u00e2ge d'or",
+     "type": "Song",
+     "url": "https://genius.com/Barcella-lage-dor-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6638965",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6638965,
+      "pinned": false,
+      "share_url": "https://genius.com/6638965",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6638965/Barcella-lage-dor/Lage-dor",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/391921",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 391921,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Barcella",
+    "url": "https://genius.com/artists/Barcella"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1956063",
+   "apple_music_id": "521767011",
+   "apple_music_player_url": "https://genius.com/songs/1956063/apple_music_player",
+   "artist_names": "Barcella",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1956063' class='rg_embed_link' data-song-id='1956063'>Read <a href='https://genius.com/Barcella-le-cahier-de-vacances-lyrics'>\u201cLe cahier de vacances\u201d by Barcella</a> on Genius</div> <script crossorigin src='//genius.com/songs/1956063/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le cahier de vacances by\u00a0Barcella",
+   "header_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "id": 1956063,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Barcella-le-cahier-de-vacances-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le cahier de vacances",
+   "title_with_featured": "Le cahier de vacances",
+   "url": "https://genius.com/Barcella-le-cahier-de-vacances-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/216327",
+    "cover_art_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+    "full_title": "Charabia by Barcella",
+    "id": 216327,
+    "name": "Charabia",
+    "url": "https://genius.com/albums/Barcella/Charabia",
+    "artist": {
+     "api_path": "/artists/391921",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 391921,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barcella",
+     "url": "https://genius.com/artists/Barcella"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6642176",
+    "classification": "needs_exegesis",
+    "fragment": "Le cahier de vacances",
+    "id": 6642176,
+    "is_description": true,
+    "path": "/6642176/Barcella-le-cahier-de-vacances/Le-cahier-de-vacances",
+    "range": {
+     "content": "Le cahier de vacances"
+    },
+    "song_id": 1956063,
+    "url": "https://genius.com/6642176/Barcella-le-cahier-de-vacances/Le-cahier-de-vacances",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1956063",
+     "client_timestamps": {
+      "updated_by_human_at": 1476915943,
+      "lyrics_updated_at": 1432923360
+     },
+     "context": "Barcella",
+     "id": 1956063,
+     "image_url": "https://images.genius.com/3beca06482977e75ff00bb939b793aaa.1000x1000x1.jpg",
+     "link_title": "Le cahier de vacances by\u00a0Barcella",
+     "title": "Le cahier de vacances",
+     "type": "Song",
+     "url": "https://genius.com/Barcella-le-cahier-de-vacances-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6642176",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6642176,
+      "pinned": false,
+      "share_url": "https://genius.com/6642176",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6642176/Barcella-le-cahier-de-vacances/Le-cahier-de-vacances",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/391921",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 391921,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Barcella",
+    "url": "https://genius.com/artists/Barcella"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2101731",
+   "apple_music_id": "829692261",
+   "apple_music_player_url": "https://genius.com/songs/2101731/apple_music_player",
+   "artist_names": "Barcella",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2101731' class='rg_embed_link' data-song-id='2101731'>Read <a href='https://genius.com/Barcella-sur-la-route-lyrics'>\u201cSur la route\u201d by Barcella</a> on Genius</div> <script crossorigin src='//genius.com/songs/2101731/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Sur la route by\u00a0Barcella",
+   "header_image_thumbnail_url": "https://images.genius.com/a77132c37e455dd3cf3249d167545e12.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a77132c37e455dd3cf3249d167545e12.1000x1000x1.jpg",
+   "id": 2101731,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Barcella-sur-la-route-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a77132c37e455dd3cf3249d167545e12.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a77132c37e455dd3cf3249d167545e12.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sur la route",
+   "title_with_featured": "Sur la route",
+   "url": "https://genius.com/Barcella-sur-la-route-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/229976",
+    "cover_art_url": "https://images.genius.com/a77132c37e455dd3cf3249d167545e12.1000x1000x1.jpg",
+    "full_title": "Puzzle by Barcella",
+    "id": 229976,
+    "name": "Puzzle",
+    "url": "https://genius.com/albums/Barcella/Puzzle",
+    "artist": {
+     "api_path": "/artists/391921",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 391921,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barcella",
+     "url": "https://genius.com/artists/Barcella"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6841966",
+    "classification": "needs_exegesis",
+    "fragment": "Sur la route",
+    "id": 6841966,
+    "is_description": true,
+    "path": "/6841966/Barcella-sur-la-route/Sur-la-route",
+    "range": {
+     "content": "Sur la route"
+    },
+    "song_id": 2101731,
+    "url": "https://genius.com/6841966/Barcella-sur-la-route/Sur-la-route",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2101731",
+     "client_timestamps": {
+      "updated_by_human_at": 1476222200,
+      "lyrics_updated_at": 1433961016
+     },
+     "context": "Barcella",
+     "id": 2101731,
+     "image_url": "https://images.genius.com/a77132c37e455dd3cf3249d167545e12.1000x1000x1.jpg",
+     "link_title": "Sur la route by\u00a0Barcella",
+     "title": "Sur la route",
+     "type": "Song",
+     "url": "https://genius.com/Barcella-sur-la-route-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6841966",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6841966,
+      "pinned": false,
+      "share_url": "https://genius.com/6841966",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6841966/Barcella-sur-la-route/Sur-la-route",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/391921",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 391921,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Barcella",
+    "url": "https://genius.com/artists/Barcella"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

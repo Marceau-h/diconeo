@@ -1,0 +1,836 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/372607",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/cf18c50fcd086c93b4cd106284ce42a1.474x474x1.jpg",
+ "id": 372607,
+ "image_url": "https://images.genius.com/cf18c50fcd086c93b4cd106284ce42a1.474x474x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "S\u00e9verine",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Severine",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7089038",
+  "classification": "needs_exegesis",
+  "fragment": "S\u00e9verine",
+  "id": 7089038,
+  "is_description": true,
+  "path": "/7089038/Severine/Severine",
+  "range": {
+   "content": "S\u00e9verine"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7089038/Severine/Severine",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/372607",
+   "context": null,
+   "id": 372607,
+   "image_url": "https://images.genius.com/cf18c50fcd086c93b4cd106284ce42a1.474x474x1.jpg",
+   "link_title": "S\u00e9verine",
+   "title": "S\u00e9verine",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Severine"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7089038",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7089038,
+    "pinned": false,
+    "share_url": "https://genius.com/7089038",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7089038/Severine/Severine",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/965489",
+   "apple_music_id": "104660824",
+   "apple_music_player_url": "https://genius.com/songs/965489/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_965489' class='rg_embed_link' data-song-id='965489'>Read <a href='https://genius.com/Severine-un-banc-un-arbre-une-rue-lyrics'>\u201cUn banc, un arbre, une rue\u201d by S\u00e9verine</a> on Genius</div> <script crossorigin src='//genius.com/songs/965489/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Un banc, un arbre, une rue by\u00a0S\u00e9verine",
+   "header_image_thumbnail_url": "https://images.genius.com/c9787805ab8f26e4137bb1ab937d2bd3.300x306x1.jpg",
+   "header_image_url": "https://images.genius.com/c9787805ab8f26e4137bb1ab937d2bd3.981x1000x1.jpg",
+   "id": 965489,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Severine-un-banc-un-arbre-une-rue-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "1971",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c9787805ab8f26e4137bb1ab937d2bd3.300x306x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c9787805ab8f26e4137bb1ab937d2bd3.981x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Un banc, un arbre, une rue",
+   "title_with_featured": "Un banc, un arbre, une rue",
+   "url": "https://genius.com/Severine-un-banc-un-arbre-une-rue-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5459920",
+    "classification": "needs_exegesis",
+    "fragment": "Un banc, un arbre, une rue",
+    "id": 5459920,
+    "is_description": true,
+    "path": "/5459920/Severine-un-banc-un-arbre-une-rue/Un-banc-un-arbre-une-rue",
+    "range": {
+     "content": "Un banc, un arbre, une rue"
+    },
+    "song_id": 965489,
+    "url": "https://genius.com/5459920/Severine-un-banc-un-arbre-une-rue/Un-banc-un-arbre-une-rue",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/965489",
+     "client_timestamps": {
+      "updated_by_human_at": 1585678090,
+      "lyrics_updated_at": 1429554065
+     },
+     "context": "S\u00e9verine",
+     "id": 965489,
+     "image_url": "https://images.genius.com/c9787805ab8f26e4137bb1ab937d2bd3.981x1000x1.jpg",
+     "link_title": "Un banc, un arbre, une rue by\u00a0S\u00e9verine",
+     "title": "Un banc, un arbre, une rue",
+     "type": "Song",
+     "url": "https://genius.com/Severine-un-banc-un-arbre-une-rue-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5459920",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5459920,
+      "pinned": false,
+      "share_url": "https://genius.com/5459920",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5459920/Severine-un-banc-un-arbre-une-rue/Un-banc-un-arbre-une-rue",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=uFJ2CyPwwQg"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/372607",
+    "header_image_url": "https://images.genius.com/cf18c50fcd086c93b4cd106284ce42a1.474x474x1.jpg",
+    "id": 372607,
+    "image_url": "https://images.genius.com/cf18c50fcd086c93b4cd106284ce42a1.474x474x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "S\u00e9verine",
+    "url": "https://genius.com/artists/Severine"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/641428",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 641428,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yves Dessca",
+     "url": "https://genius.com/artists/Yves-dessca"
+    },
+    {
+     "api_path": "/artists/1011458",
+     "header_image_url": "https://images.genius.com/cd89d41cfc6833c5c41b643c17152758.1000x1000x1.jpg",
+     "id": 1011458,
+     "image_url": "https://images.genius.com/cd89d41cfc6833c5c41b643c17152758.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean-Pierre Bourtayre",
+     "url": "https://genius.com/artists/Jean-pierre-bourtayre"
+    }
+   ],
+   "lyrics": "On a tous un banc, un arbre, une rue\nO\u00f9 l'on a berc\u00e9 nos r\u00eaves\nOn a tous un banc, un arbre, une rue\nUne enfance trop br\u00e8ve\n\nUn jour ou l'autre il faut partir\nPour se construire un avenir\nUn avenir\nEt c'est l'inoubliable instant\nO\u00f9 l'on rend ses habits d'enfant\nD'enfant\n\nChacun s'en va rempli d'espoir\nSur le chemin qu'il s'est choisi\nQu'il s'est choisi\nVers la richesse ou vers la gloire\nPourtant quelle que soit notre vie\nNotre vie\n\nOn a tous un banc, un arbre, une rue\nO\u00f9 l'on a berc\u00e9 nos r\u00eaves\nOn a tous un banc, un arbre, une rue\nUne enfance trop br\u00e8ve\n\nChacun, dans son coin d'horizon\nNe d\u00e9fend que ses ambitions\nSes ambitions\nMais si nous ne partageons rien\nQue nous reste-t-il en commun?\nEn commun\n\nOn a tous un banc, un arbre, une rue\nO\u00f9 l'on a berc\u00e9 nos r\u00eaves\nOn a tous un banc, un arbre, une rue\nUne enfance trop br\u00e8ve\n\nLa la la la la\u2026 la la la la la la\u2026\nLa la la la la la la la"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1744418",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1744418/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1744418' class='rg_embed_link' data-song-id='1744418'>Read <a href='https://genius.com/Severine-sieben-tranen-lyrics'>\u201cSieben Tr\u00e4nen\u201d by S\u00e9verine</a> on Genius</div> <script crossorigin src='//genius.com/songs/1744418/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Sieben Tr\u00e4nen by\u00a0S\u00e9verine",
+   "header_image_thumbnail_url": "https://images.genius.com/cf18c50fcd086c93b4cd106284ce42a1.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cf18c50fcd086c93b4cd106284ce42a1.474x474x1.jpg",
+   "id": 1744418,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Severine-sieben-tranen-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/cf18c50fcd086c93b4cd106284ce42a1.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cf18c50fcd086c93b4cd106284ce42a1.474x474x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sieben Tr\u00e4nen",
+   "title_with_featured": "Sieben Tr\u00e4nen",
+   "url": "https://genius.com/Severine-sieben-tranen-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6275267",
+    "classification": "needs_exegesis",
+    "fragment": "Sieben Tr\u00e4nen",
+    "id": 6275267,
+    "is_description": true,
+    "path": "/6275267/Severine-sieben-tranen/Sieben-tranen",
+    "range": {
+     "content": "Sieben Tr\u00e4nen"
+    },
+    "song_id": 1744418,
+    "url": "https://genius.com/6275267/Severine-sieben-tranen/Sieben-tranen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1744418",
+     "client_timestamps": {
+      "updated_by_human_at": 1445006839,
+      "lyrics_updated_at": 1430202215
+     },
+     "context": "S\u00e9verine",
+     "id": 1744418,
+     "image_url": "https://images.genius.com/cf18c50fcd086c93b4cd106284ce42a1.474x474x1.jpg",
+     "link_title": "Sieben Tr\u00e4nen by\u00a0S\u00e9verine",
+     "title": "Sieben Tr\u00e4nen",
+     "type": "Song",
+     "url": "https://genius.com/Severine-sieben-tranen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6275267",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6275267,
+      "pinned": false,
+      "share_url": "https://genius.com/6275267",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6275267/Severine-sieben-tranen/Sieben-tranen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/372607",
+    "header_image_url": "https://images.genius.com/cf18c50fcd086c93b4cd106284ce42a1.474x474x1.jpg",
+    "id": 372607,
+    "image_url": "https://images.genius.com/cf18c50fcd086c93b4cd106284ce42a1.474x474x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "S\u00e9verine",
+    "url": "https://genius.com/artists/Severine"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

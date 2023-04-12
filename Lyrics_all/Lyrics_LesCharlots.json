@@ -1,0 +1,5672 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/348723",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 348723,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Les Charlots",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Les-charlots",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7066849",
+  "classification": "needs_exegesis",
+  "fragment": "Les Charlots",
+  "id": 7066849,
+  "is_description": true,
+  "path": "/7066849/Les-charlots/Les-charlots",
+  "range": {
+   "content": "Les Charlots"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7066849/Les-charlots/Les-charlots",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/348723",
+   "context": null,
+   "id": 348723,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Les Charlots",
+   "title": "Les Charlots",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Les-charlots"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7066849",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7066849,
+    "pinned": false,
+    "share_url": "https://genius.com/7066849",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7066849/Les-charlots/Les-charlots",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/773677",
+   "apple_music_id": "276953131",
+   "apple_music_player_url": "https://genius.com/songs/773677/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_773677' class='rg_embed_link' data-song-id='773677'>Read <a href='https://genius.com/Les-charlots-merci-patron-lyrics'>\u201cMerci Patron\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/773677/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Merci Patron by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 773677,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-merci-patron-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Merci Patron",
+   "title_with_featured": "Merci Patron",
+   "url": "https://genius.com/Les-charlots-merci-patron-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5249521",
+    "classification": "needs_exegesis",
+    "fragment": "Merci Patron",
+    "id": 5249521,
+    "is_description": true,
+    "path": "/5249521/Les-charlots-merci-patron/Merci-patron",
+    "range": {
+     "content": "Merci Patron"
+    },
+    "song_id": 773677,
+    "url": "https://genius.com/5249521/Les-charlots-merci-patron/Merci-patron",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/773677",
+     "client_timestamps": {
+      "updated_by_human_at": 1456792015,
+      "lyrics_updated_at": 1456792015
+     },
+     "context": "Les Charlots",
+     "id": 773677,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Merci Patron by\u00a0Les\u00a0Charlots",
+     "title": "Merci Patron",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-merci-patron-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5249521",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5249521,
+      "pinned": false,
+      "share_url": "https://genius.com/5249521",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5249521/Les-charlots-merci-patron/Merci-patron",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/773078",
+   "apple_music_id": "293734209",
+   "apple_music_player_url": "https://genius.com/songs/773078/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_773078' class='rg_embed_link' data-song-id='773078'>Read <a href='https://genius.com/Les-charlots-paulette-la-reine-des-paupiettes-lyrics'>\u201cPaulette, La Reine Des Paupiettes\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/773078/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Paulette, La Reine Des Paupiettes by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+   "header_image_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+   "id": 773078,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-paulette-la-reine-des-paupiettes-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+   "song_art_image_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Paulette, La Reine Des Paupiettes",
+   "title_with_featured": "Paulette, La Reine Des Paupiettes",
+   "url": "https://genius.com/Les-charlots-paulette-la-reine-des-paupiettes-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/310291",
+    "cover_art_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+    "full_title": "Charlow-up by Les Charlots",
+    "id": 310291,
+    "name": "Charlow-up",
+    "url": "https://genius.com/albums/Les-charlots/Charlow-up",
+    "artist": {
+     "api_path": "/artists/348723",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 348723,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Les Charlots",
+     "url": "https://genius.com/artists/Les-charlots"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5248909",
+    "classification": "needs_exegesis",
+    "fragment": "Paulette, La Reine Des Paupiettes",
+    "id": 5248909,
+    "is_description": true,
+    "path": "/5248909/Les-charlots-paulette-la-reine-des-paupiettes/Paulette-la-reine-des-paupiettes",
+    "range": {
+     "content": "Paulette, La Reine Des Paupiettes"
+    },
+    "song_id": 773078,
+    "url": "https://genius.com/5248909/Les-charlots-paulette-la-reine-des-paupiettes/Paulette-la-reine-des-paupiettes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/773078",
+     "client_timestamps": {
+      "updated_by_human_at": 1481843672,
+      "lyrics_updated_at": 1429191737
+     },
+     "context": "Les Charlots",
+     "id": 773078,
+     "image_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+     "link_title": "Paulette, La Reine Des Paupiettes by\u00a0Les\u00a0Charlots",
+     "title": "Paulette, La Reine Des Paupiettes",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-paulette-la-reine-des-paupiettes-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5248909",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5248909,
+      "pinned": false,
+      "share_url": "https://genius.com/5248909",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5248909/Les-charlots-paulette-la-reine-des-paupiettes/Paulette-la-reine-des-paupiettes",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2014451",
+   "apple_music_id": "276953132",
+   "apple_music_player_url": "https://genius.com/songs/2014451/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2014451' class='rg_embed_link' data-song-id='2014451'>Read <a href='https://genius.com/Les-charlots-laperobic-lyrics'>\u201cL'aperobic\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/2014451/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "L'aperobic by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://images.genius.com/89693ad38a97c6b831b394f669efcde2.300x299x1.jpg",
+   "header_image_url": "https://images.genius.com/89693ad38a97c6b831b394f669efcde2.300x299x1.jpg",
+   "id": 2014451,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-laperobic-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/89693ad38a97c6b831b394f669efcde2.300x299x1.jpg",
+   "song_art_image_url": "https://images.genius.com/89693ad38a97c6b831b394f669efcde2.300x299x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "L\u2019aperobic",
+   "title_with_featured": "L'aperobic",
+   "url": "https://genius.com/Les-charlots-laperobic-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6702332",
+    "classification": "needs_exegesis",
+    "fragment": "L\u2019aperobic",
+    "id": 6702332,
+    "is_description": true,
+    "path": "/6702332/Les-charlots-laperobic/Laperobic",
+    "range": {
+     "content": "L'aperobic"
+    },
+    "song_id": 2014451,
+    "url": "https://genius.com/6702332/Les-charlots-laperobic/Laperobic",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2014451",
+     "client_timestamps": {
+      "updated_by_human_at": 1527691754,
+      "lyrics_updated_at": 1432947638
+     },
+     "context": "Les Charlots",
+     "id": 2014451,
+     "image_url": "https://images.genius.com/89693ad38a97c6b831b394f669efcde2.300x299x1.jpg",
+     "link_title": "L\u2019aperobic by\u00a0Les\u00a0Charlots",
+     "title": "L'aperobic",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-laperobic-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6702332",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6702332,
+      "pinned": false,
+      "share_url": "https://genius.com/6702332",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6702332/Les-charlots-laperobic/Laperobic",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=0qYHSbKLrE4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/773083",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/773083/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_773083' class='rg_embed_link' data-song-id='773083'>Read <a href='https://genius.com/Les-charlots-tu-sens-la-menthe-lyrics'>\u201cTu Sens La Menthe\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/773083/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tu Sens La Menthe by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 773083,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-tu-sens-la-menthe-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tu Sens La Menthe",
+   "title_with_featured": "Tu Sens La Menthe",
+   "url": "https://genius.com/Les-charlots-tu-sens-la-menthe-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5248902",
+    "classification": "needs_exegesis",
+    "fragment": "Tu Sens La Menthe",
+    "id": 5248902,
+    "is_description": true,
+    "path": "/5248902/Les-charlots-tu-sens-la-menthe/Tu-sens-la-menthe",
+    "range": {
+     "content": "Tu Sens La Menthe"
+    },
+    "song_id": 773083,
+    "url": "https://genius.com/5248902/Les-charlots-tu-sens-la-menthe/Tu-sens-la-menthe",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/773083",
+     "client_timestamps": {
+      "updated_by_human_at": 1429191737,
+      "lyrics_updated_at": 1429191737
+     },
+     "context": "Les Charlots",
+     "id": 773083,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Tu Sens La Menthe by\u00a0Les\u00a0Charlots",
+     "title": "Tu Sens La Menthe",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-tu-sens-la-menthe-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5248902",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5248902,
+      "pinned": false,
+      "share_url": "https://genius.com/5248902",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5248902/Les-charlots-tu-sens-la-menthe/Tu-sens-la-menthe",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "D'chez l'coiffeur sortant l'autre semaine\nO\u00f9 je m'\u00e9tais fait raser le menton\nDans la rue je rencontre une ancienne\nQui m'embrasse et me dit tu sens bon\nMoi tr\u00e8s flatt\u00e9 du compliment\nJe lui r\u00e9ponds fort galamment\n\n{Refrain:}\nP\u00e9tronille tu sens la menthe\nTu sens la pastille de menthe\nTu sens la menthe pastill\u00e9e\nEntortill\u00e9e dans du papier\n\nPapier papier papier m\u00e2ch\u00e9\n\nLe soir m\u00eame de mon hym\u00e9n\u00e9e\nQuand l'c\u00e9r\u00e9monial fut fini\nMa femm' me dit tr\u00e8s emball\u00e9e\nUne heure avant de se mettre au lit\nJe sens que j't'adore mon gros ch\u00e9ri\nC'est pas \u00e7a qu' tu sens que j'y dis\n\n{au Refrain}\nPapier papier papier verg\u00e9\n\nSous le balcon de son idole\nGuitare en mains plume au chapeau\nPlein d'une insouciance folle\nSoupirait le beau Rom\u00e9o\nLe tendre amant qui s'emballait\nComme une baleine lui gueulait\n\n{au Refrain}\nPapier papier papier graiss\u00e9\n\nCe matin j'rencontre ma cousine\nElle avait un air tout chang\u00e9\nJe lui dis tu n'as pas bonne mine\nElle me r\u00e9pond je viens de me purger\nJe dois sentir les pois d'senteur\nNon j'lui r\u00e9plique mon joli c\u0153ur\n\n{au Refrain}\nPapier papier papier perc\u00e9"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/773305",
+   "apple_music_id": "293236387",
+   "apple_music_player_url": "https://genius.com/songs/773305/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_773305' class='rg_embed_link' data-song-id='773305'>Read <a href='https://genius.com/Les-charlots-fais-moi-mal-johnny-lyrics'>\u201cFais-moi Mal Johnny\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/773305/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Fais-moi Mal Johnny by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 773305,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-fais-moi-mal-johnny-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fais-moi Mal Johnny",
+   "title_with_featured": "Fais-moi Mal Johnny",
+   "url": "https://genius.com/Les-charlots-fais-moi-mal-johnny-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5249131",
+    "classification": "needs_exegesis",
+    "fragment": "Fais-moi Mal Johnny",
+    "id": 5249131,
+    "is_description": true,
+    "path": "/5249131/Les-charlots-fais-moi-mal-johnny/Fais-moi-mal-johnny",
+    "range": {
+     "content": "Fais-moi Mal Johnny"
+    },
+    "song_id": 773305,
+    "url": "https://genius.com/5249131/Les-charlots-fais-moi-mal-johnny/Fais-moi-mal-johnny",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/773305",
+     "client_timestamps": {
+      "updated_by_human_at": 1429191801,
+      "lyrics_updated_at": 1429191801
+     },
+     "context": "Les Charlots",
+     "id": 773305,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Fais-moi Mal Johnny by\u00a0Les\u00a0Charlots",
+     "title": "Fais-moi Mal Johnny",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-fais-moi-mal-johnny-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5249131",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5249131,
+      "pinned": false,
+      "share_url": "https://genius.com/5249131",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5249131/Les-charlots-fais-moi-mal-johnny/Fais-moi-mal-johnny",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/772951",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/772951/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_772951' class='rg_embed_link' data-song-id='772951'>Read <a href='https://genius.com/Les-charlots-le-mistingo-lyrics'>\u201cLe Mistingo\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/772951/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le Mistingo by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://images.genius.com/5ef347cdbff143bf23ebd1aa869917ef.300x297x1.jpg",
+   "header_image_url": "https://images.genius.com/5ef347cdbff143bf23ebd1aa869917ef.599x593x1.jpg",
+   "id": 772951,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-le-mistingo-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/5ef347cdbff143bf23ebd1aa869917ef.300x297x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5ef347cdbff143bf23ebd1aa869917ef.599x593x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Mistingo",
+   "title_with_featured": "Le Mistingo",
+   "url": "https://genius.com/Les-charlots-le-mistingo-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/197703",
+    "cover_art_url": "https://images.genius.com/5ef347cdbff143bf23ebd1aa869917ef.599x593x1.jpg",
+    "full_title": "Caf' Conc' Charlots by Les Charlots",
+    "id": 197703,
+    "name": "Caf\u2019 Conc\u2019 Charlots",
+    "url": "https://genius.com/albums/Les-charlots/Caf-conc-charlots",
+    "artist": {
+     "api_path": "/artists/348723",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 348723,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Les Charlots",
+     "url": "https://genius.com/artists/Les-charlots"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5248765",
+    "classification": "needs_exegesis",
+    "fragment": "Le Mistingo",
+    "id": 5248765,
+    "is_description": true,
+    "path": "/5248765/Les-charlots-le-mistingo/Le-mistingo",
+    "range": {
+     "content": "Le Mistingo"
+    },
+    "song_id": 772951,
+    "url": "https://genius.com/5248765/Les-charlots-le-mistingo/Le-mistingo",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/772951",
+     "client_timestamps": {
+      "updated_by_human_at": 1473332893,
+      "lyrics_updated_at": 1429191697
+     },
+     "context": "Les Charlots",
+     "id": 772951,
+     "image_url": "https://images.genius.com/5ef347cdbff143bf23ebd1aa869917ef.599x593x1.jpg",
+     "link_title": "Le Mistingo by\u00a0Les\u00a0Charlots",
+     "title": "Le Mistingo",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-le-mistingo-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5248765",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5248765,
+      "pinned": false,
+      "share_url": "https://genius.com/5248765",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5248765/Les-charlots-le-mistingo/Le-mistingo",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Quand on est en marche militaire\nOn chante en ch\u0153ur pour passer l' temps\nPour passer l' temps\nUn refrain qu'est pas ordinaire\nVous allez voir, c'est \u00e9patant\nAh ! Sacr\u00e9 nom, qu'est-ce que c'est donc ?\n\n{Refrain :}\nSac \u00e0 brosse, plaque de crosse\nArdillon de ceinturon\nC'est le refrain du mistingo\nDare dare tirelire\nMistingo dare dare larira\nTire larira pan pan tirelire\nTire larigot flingot\nEt laribibi pan pan la ripompette\nSi vous attrapez ce joli refrain\nVous aurez un mistingo\nDare dare tirelire\nMistingo bezef larira\nTire larira pan pan tirelire\nTire larigot flingot\n\nOn le chante dans l'infanterie\nChez les zouaves et chez les chasseurs\nChez les chasseurs\nOn le chante dans la cavalerie\nOn le chante chez les artilleurs\nMais sacr\u00e9 nom, qu'est-ce que c'est donc ?\n\n{au Refrain}\n\nCe refrain doit s\u00fbrement vous plaire\nEt va devenir une obsession\nUne obsession\nVous n' pourrez plus vous en d\u00e9faire\nEt vous chanterez dans tous les tons\nAh ! Nom de nom, qu'est-ce que c'est donc ?\n\n{au Refrain}"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/773610",
+   "apple_music_id": "276953134",
+   "apple_music_player_url": "https://genius.com/songs/773610/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_773610' class='rg_embed_link' data-song-id='773610'>Read <a href='https://genius.com/Les-charlots-la-biguine-au-biniou-lyrics'>\u201cLa Biguine Au Biniou\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/773610/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La Biguine Au Biniou by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 773610,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-la-biguine-au-biniou-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La Biguine Au Biniou",
+   "title_with_featured": "La Biguine Au Biniou",
+   "url": "https://genius.com/Les-charlots-la-biguine-au-biniou-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5249465",
+    "classification": "needs_exegesis",
+    "fragment": "La Biguine Au Biniou",
+    "id": 5249465,
+    "is_description": true,
+    "path": "/5249465/Les-charlots-la-biguine-au-biniou/La-biguine-au-biniou",
+    "range": {
+     "content": "La Biguine Au Biniou"
+    },
+    "song_id": 773610,
+    "url": "https://genius.com/5249465/Les-charlots-la-biguine-au-biniou/La-biguine-au-biniou",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/773610",
+     "client_timestamps": {
+      "updated_by_human_at": 1429191892,
+      "lyrics_updated_at": 1429191892
+     },
+     "context": "Les Charlots",
+     "id": 773610,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "La Biguine Au Biniou by\u00a0Les\u00a0Charlots",
+     "title": "La Biguine Au Biniou",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-la-biguine-au-biniou-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5249465",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5249465,
+      "pinned": false,
+      "share_url": "https://genius.com/5249465",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5249465/Les-charlots-la-biguine-au-biniou/La-biguine-au-biniou",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "On n'fait pas du sucre de canne\nDans le Morbihan\nOn n'cultive pas la banane\nDans le Morbihan\nIl n'y a pas de vaudou \u00e0 Vannes\nDans le Morbihan\nOui mais quand vient le sam'di soir, mon vieux !\nDans les cr\u00eaperies, dans les bars\nOn peut dire que tout l'monde est noir\nDans le Morbihan\n\n{Refrain:}\nEt moi je danse avec la Mawie\nLa biguine au biniou\nOh je lui fais voir du pays\nAvec la biguine au biniou\nJe lui prouve que les bananes - Oh you you\nQui font plaisir aux doudous\nOn peut en trouver \u00e0 Vannes\nEn dansant la biguine au biniou - A\u00efe, a\u00efe, a\u00efe\n\nOn n'conna\u00eet pas l'argent-braguette\nDans le Morbihan\nLe piment t'chauffe pas les counettes dis donc\nDans le Morbihan\nY a pas de punch coco en cannettes\nDans le Morbihan\nOuais mais pour faire malice aux filles\nLe calva nous \u00e9moustille\nEt \u00e7a swingue comme aux Antilles mon vieux\nDans le Morbihan\n\n{au Refrain}\n\nDans le Morbihan\nDans le Morbihan\nDans le Morbihan\nOui mais quand vient le sam'di soir\nDans les cr\u00eaperies, dans les bars\nOn peut dire que tout l'monde est noir\nDans le Morbihan\n\n{au Refrain}\n\nAh dis donc !\nOn peut en trouver \u00e0 Vannes\nEn dansant la biguine au biniou"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/772772",
+   "apple_music_id": "293734385",
+   "apple_music_player_url": "https://genius.com/songs/772772/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_772772' class='rg_embed_link' data-song-id='772772'>Read <a href='https://genius.com/Les-charlots-albert-lyrics'>\u201cAlbert\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/772772/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Albert by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+   "header_image_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+   "id": 772772,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-albert-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+   "song_art_image_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Albert",
+   "title_with_featured": "Albert",
+   "url": "https://genius.com/Les-charlots-albert-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/310291",
+    "cover_art_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+    "full_title": "Charlow-up by Les Charlots",
+    "id": 310291,
+    "name": "Charlow-up",
+    "url": "https://genius.com/albums/Les-charlots/Charlow-up",
+    "artist": {
+     "api_path": "/artists/348723",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 348723,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Les Charlots",
+     "url": "https://genius.com/artists/Les-charlots"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5248599",
+    "classification": "needs_exegesis",
+    "fragment": "Albert",
+    "id": 5248599,
+    "is_description": true,
+    "path": "/5248599/Les-charlots-albert/Albert",
+    "range": {
+     "content": "Albert"
+    },
+    "song_id": 772772,
+    "url": "https://genius.com/5248599/Les-charlots-albert/Albert",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/772772",
+     "client_timestamps": {
+      "updated_by_human_at": 1481742752,
+      "lyrics_updated_at": 1429191651
+     },
+     "context": "Les Charlots",
+     "id": 772772,
+     "image_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+     "link_title": "Albert by\u00a0Les\u00a0Charlots",
+     "title": "Albert",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-albert-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5248599",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5248599,
+      "pinned": false,
+      "share_url": "https://genius.com/5248599",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5248599/Les-charlots-albert/Albert",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/772689",
+   "apple_music_id": "293236383",
+   "apple_music_player_url": "https://genius.com/songs/772689/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_772689' class='rg_embed_link' data-song-id='772689'>Read <a href='https://genius.com/Les-charlots-on-nest-pas-la-pour-se-faire-engueuler-lyrics'>\u201cOn NEst Pas L\u00e0 Pour Se Faire Engueuler\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/772689/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "On NEst Pas L\u00e0 Pour Se Faire Engueuler by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 772689,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-on-nest-pas-la-pour-se-faire-engueuler-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "On NEst Pas L\u00e0 Pour Se Faire Engueuler",
+   "title_with_featured": "On NEst Pas L\u00e0 Pour Se Faire Engueuler",
+   "url": "https://genius.com/Les-charlots-on-nest-pas-la-pour-se-faire-engueuler-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5248523",
+    "classification": "needs_exegesis",
+    "fragment": "On NEst Pas L\u00e0 Pour Se Faire Engueuler",
+    "id": 5248523,
+    "is_description": true,
+    "path": "/5248523/Les-charlots-on-nest-pas-la-pour-se-faire-engueuler/On-nest-pas-la-pour-se-faire-engueuler",
+    "range": {
+     "content": "On NEst Pas L\u00e0 Pour Se Faire Engueuler"
+    },
+    "song_id": 772689,
+    "url": "https://genius.com/5248523/Les-charlots-on-nest-pas-la-pour-se-faire-engueuler/On-nest-pas-la-pour-se-faire-engueuler",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/772689",
+     "client_timestamps": {
+      "updated_by_human_at": 1429191624,
+      "lyrics_updated_at": 1429191625
+     },
+     "context": "Les Charlots",
+     "id": 772689,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "On NEst Pas L\u00e0 Pour Se Faire Engueuler by\u00a0Les\u00a0Charlots",
+     "title": "On NEst Pas L\u00e0 Pour Se Faire Engueuler",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-on-nest-pas-la-pour-se-faire-engueuler-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5248523",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5248523,
+      "pinned": false,
+      "share_url": "https://genius.com/5248523",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5248523/Les-charlots-on-nest-pas-la-pour-se-faire-engueuler/On-nest-pas-la-pour-se-faire-engueuler",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Un beau matin de juillet, le r\u00e9veil\nA sonn\u00e9 d\u00e8s le lever du soleil\nEt j'ai dit \u00e0 ma poup\u00e9e : \"Faut te s'couer\nC'est aujourd'hui qu'il passe\"\nOn arrive sur le boulevard sans retard\nPour voir d\u00e9filer le roi d'Zanzibar\nMais sur-le-champ on est r'foul\u00e9 par les agents\n\nAlors j'ai dit :\n\nOn n'est pas l\u00e0 pour se faire engueuler\nOn est l\u00e0 pour voir le d\u00e9fil\u00e9\nOn n'est pas l\u00e0 pour se faire pi\u00e9tiner\nOn est l\u00e0 pour voir le d\u00e9fil\u00e9\nSi tout le monde \u00e9tait rest\u00e9 chez soi\n\u00c7a f'rait du tort \u00e0 la R\u00e9publique\nLaissez-nous donc qu'on le regarde\nSinon plus tard quand la reine reviendra\nMa parole, nous on r'viendra pas\n\nL'jour de la f\u00eate \u00e0 Julot, mon poteau\nJe l'ai invit\u00e9 dans un p'tit bistro\nO\u00f9 l'on sert un beaujolais vrai de vrai\nUn nectar de premi\u00e8re\nOn est sorti tr\u00e8s \u00e0 l'aise et voil\u00e0\nQue j'ai eu l'id\u00e9e de l'ram'ner chez moi\nMais j'ai compris devant l'rouleau \u00e0 p\u00e2tisserie\n\nAlors j'ai dit :\n\nOn n'est pas l\u00e0 pour se faire engueuler\nOn est venu pour faire une tite belote\nOn n'est pas l\u00e0 pour se faire assommer\nOn est l\u00e0 pour la f\u00eate \u00e0 mon pote\nSi tout le monde restait toujours tout seul\n\u00c7a serait d'une tristesse pas croyable\nOuvre ta porte et sors des verres\nNe t'obstine pas ou sans \u00e7a l'prochain coup\nMa parole, j'rentre plus du tout\n\nMa femme a cogn\u00e9 si dur cette fois-l\u00e0\nQu'on a tr\u00e9pass\u00e9 l'soir m\u00eame et voil\u00e0\nQu'on se r'trouve au paradis vers minuit\nDevant Monsieur Saint Pierre\nIl y avait quelques \u00e9lus qui rentraient\nMais sit\u00f4t que l'on s'approche du guichet\nOn est r'foul\u00e9 et Saint Pierre se met \u00e0 r\u00e2ler\n\nAlors j'ai dit :\n\nOn n'est pas l\u00e0 pour se faire engueuler\nOn est v'nus essayer l'aur\u00e9ole\nOn n'est pas l\u00e0 pour se faire renvoyer\nOn est mort, il est temps qu'on rigole\nSi vous jetez les ivrognes \u00e0 la porte\nIl doit pas vous rester beaucoup d'monde\nPortez-vous bien, mais nous on s'barre\nEt puis on est descendu chez Satan\nEt l\u00e0-bas c'\u00e9tait \u00e9patant !\n\nC'qui prouve qu'en protestant quand il est encore temps\nOn peut finir par obtenir des m\u00e9nagements !"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/772992",
+   "apple_music_id": "276953135",
+   "apple_music_player_url": "https://genius.com/songs/772992/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_772992' class='rg_embed_link' data-song-id='772992'>Read <a href='https://genius.com/Les-charlots-cest-trop-cest-trop-lyrics'>\u201cCEst Trop, CEst Trop !\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/772992/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "CEst Trop, CEst Trop ! by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://images.genius.com/d004a5b6e102f36a38e56a3b6f1501e4.225x225x1.jpg",
+   "header_image_url": "https://images.genius.com/d004a5b6e102f36a38e56a3b6f1501e4.225x225x1.jpg",
+   "id": 772992,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-cest-trop-cest-trop-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/d004a5b6e102f36a38e56a3b6f1501e4.225x225x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d004a5b6e102f36a38e56a3b6f1501e4.225x225x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "CEst Trop, CEst Trop !",
+   "title_with_featured": "CEst Trop, CEst Trop !",
+   "url": "https://genius.com/Les-charlots-cest-trop-cest-trop-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/285052",
+    "cover_art_url": "https://images.genius.com/d004a5b6e102f36a38e56a3b6f1501e4.225x225x1.jpg",
+    "full_title": "C'est trop...c'est trop! by Les Charlots",
+    "id": 285052,
+    "name": "C\u2019est trop...c\u2019est trop!",
+    "url": "https://genius.com/albums/Les-charlots/C-est-trop-c-est-trop",
+    "artist": {
+     "api_path": "/artists/348723",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 348723,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Les Charlots",
+     "url": "https://genius.com/artists/Les-charlots"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5248832",
+    "classification": "needs_exegesis",
+    "fragment": "CEst Trop, CEst Trop !",
+    "id": 5248832,
+    "is_description": true,
+    "path": "/5248832/Les-charlots-cest-trop-cest-trop/Cest-trop-cest-trop",
+    "range": {
+     "content": "CEst Trop, CEst Trop !"
+    },
+    "song_id": 772992,
+    "url": "https://genius.com/5248832/Les-charlots-cest-trop-cest-trop/Cest-trop-cest-trop",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/772992",
+     "client_timestamps": {
+      "updated_by_human_at": 1477095748,
+      "lyrics_updated_at": 1429191714
+     },
+     "context": "Les Charlots",
+     "id": 772992,
+     "image_url": "https://images.genius.com/d004a5b6e102f36a38e56a3b6f1501e4.225x225x1.jpg",
+     "link_title": "CEst Trop, CEst Trop ! by\u00a0Les\u00a0Charlots",
+     "title": "CEst Trop, CEst Trop !",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-cest-trop-cest-trop-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5248832",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5248832,
+      "pinned": false,
+      "share_url": "https://genius.com/5248832",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5248832/Les-charlots-cest-trop-cest-trop/Cest-trop-cest-trop",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "La bo\u00eete \u00e9tait pleine \u00e0 craquer\nQuel pied, quel pied - Quel pied quel pied !\nIl f'sait plus chaud que dans l'm\u00e9tro\nC'est trop c'est trop - C'est trop c'est trop !\nUne nana passe dans mon orbite\nJe m'dis j'vais lui faire voir ma...\n- Bon sang c'que c'est fort la sono !\n...ma fa\u00e7on de danser le slow\n\nElle \u00e9tait super bien fringu\u00e9e\nQuel pied, quel pied - Quel pied quel pied !\nAvec un look un peu r\u00e9tro\nC'est trop c'est trop - C'est trop c'est trop !\nJe m'approche d'elle et tr\u00e8s \u00e0 l'aise\nJe lui dis veux-tu que j'te...\n- Bon sang c'que c'est fort la sono !\n...veux-tu que je te paye un pot ?\n\n{Ch\u0153ur x4}\nQue c'est fort la sono !\n\nElle me r\u00e9pond sans sourciller\nQuel pied, quel pied - Quel pied quel pied !\nJe prendrais bien une Veuve Clicquot\nC'est trop c'est trop - C'est trop c'est trop !\nJe me dis \u00e7a c'est lumineux\nCette fille-l\u00e0 veut me pomper...\n- Ah bon sang c'que c'est fort le son !\n...veut me pomper mon pognon\n\n{Ch\u0153ur x4}\nQue c'est fort la sono !\n\nJ'me suis r'trouv\u00e9 raide d\u00e9fonc\u00e9\nQuel pied, quel pied - Quel pied quel pied !\nLes yeux comme des billes de loto\nC'est trop c'est trop - C'est trop c'est trop !\nTout en me faisant des papouilles\nElle me disait : \"J'aime bien tes...\n- Bon sang c'que c'est fort la sono !\n...j'aime bien tes bottes en croco\"\n\n{Ch\u0153ur x2}\nQue c'est fort la sono !\n\nTr\u00e8s vite, elle m'a laiss\u00e9 tomber\nQuel pied, quel pied - Quel pied quel pied !\nPour les yeux d'un p'tit rigolo\nC'est trop c'est trop - C'est trop c'est trop !\nAlors moi sans m'avouer vaincu\nJe lui ai fait sentir mon...\n- C'que c'est fort la sono ici !\n...j'lui ai fait sentir mon m\u00e9pris\n\n{Ch\u0153ur x6}\nQue c'est fort la sono !"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/772862",
+   "apple_music_id": "293734381",
+   "apple_music_player_url": "https://genius.com/songs/772862/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_772862' class='rg_embed_link' data-song-id='772862'>Read <a href='https://genius.com/Les-charlots-les-nouilles-lyrics'>\u201cLes Nouilles\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/772862/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Les Nouilles by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+   "header_image_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+   "id": 772862,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-les-nouilles-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+   "song_art_image_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Les Nouilles",
+   "title_with_featured": "Les Nouilles",
+   "url": "https://genius.com/Les-charlots-les-nouilles-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/310291",
+    "cover_art_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+    "full_title": "Charlow-up by Les Charlots",
+    "id": 310291,
+    "name": "Charlow-up",
+    "url": "https://genius.com/albums/Les-charlots/Charlow-up",
+    "artist": {
+     "api_path": "/artists/348723",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 348723,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Les Charlots",
+     "url": "https://genius.com/artists/Les-charlots"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5248683",
+    "classification": "needs_exegesis",
+    "fragment": "Les Nouilles",
+    "id": 5248683,
+    "is_description": true,
+    "path": "/5248683/Les-charlots-les-nouilles/Les-nouilles",
+    "range": {
+     "content": "Les Nouilles"
+    },
+    "song_id": 772862,
+    "url": "https://genius.com/5248683/Les-charlots-les-nouilles/Les-nouilles",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/772862",
+     "client_timestamps": {
+      "updated_by_human_at": 1481213439,
+      "lyrics_updated_at": 1429191675
+     },
+     "context": "Les Charlots",
+     "id": 772862,
+     "image_url": "https://images.genius.com/120929d21732986f1c8ffcfd37475a8e.187x182x1.jpg",
+     "link_title": "Les Nouilles by\u00a0Les\u00a0Charlots",
+     "title": "Les Nouilles",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-les-nouilles-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5248683",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5248683,
+      "pinned": false,
+      "share_url": "https://genius.com/5248683",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5248683/Les-charlots-les-nouilles/Les-nouilles",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Ah les nouilles ah les nouilles\nNouilles au gratin nouilles au beurre\nAh les nouilles ah les nouilles\nNouilles en boutons nouilles en fleurs\nAh les nouilles ah les nouilles\nNouilles d'amour dans mon c\u0153ur\nAh les nouilles ah les nouilles\nAh les nouilles ah les nouilles\n\nAh les nouilles ah les nouilles\nNouilles d'or nouilles d'argent\nAh les nouilles ah les nouilles\nNouilles d'\u0153uf et de diamant\nAh les nouilles ah les nouilles\nNouilles en pl\u00e2tre ou en ciment\nAh les nouilles ah les nouilles\nAh les nouilles ah les nouilles\n\nChantons la complainte du pauvre Hector\nCet homme accabl\u00e9 par le sort\nLui qui n'aimait que les andouilles\nSa femme ne faisait que des nouilles\n\nAh les nouilles ah les nouilles\nNouilles gaies pour jours de pluie\nAh les nouilles ah les nouilles\nNouilles de larmes et d'ennui\nAh les nouilles ah les nouilles\nNouilles le jour et la nuit\nAh les nouilles ah les nouilles\nAh les nouilles ah les nouilles\n\nAh les nouilles ah les nouilles\nNouilles en train ou en avion\nAh les nouilles ah les nouilles\nNouilles de cire nouilles de son\nAh les nouilles ah les nouilles\nNouilles le soir \u00e0 la maison\nAh les nouilles ah les nouilles\nAh les nouilles ah les nouilles\n\nChantons la complainte du pauvre Hector\nCet homme accabl\u00e9 par le sort\n\nAh les nouilles ah les nouilles\nNouilles gaies pour jours de pluie\nAh les nouilles ah les nouilles\nNouilles de larmes et d'ennui\nAh les nouilles ah les nouilles\nNouilles le jour et la nuit\nAh les nouilles ah les nouilles\nAh les nouilles ah les nouilles\n\nAh les nouilles ah les nouilles\nNouilles en train ou en avion\nAh les nouilles ah les nouilles\nNouilles de cire nouilles de son\nAh les nouilles ah les nouilles\nNouilles le soir \u00e0 la maison\nAh les nouilles ah les nouilles\nAh les nouilles ah les nouilles\n\nAh les nouilles ah les nouilles\nLes gars j'en ai plein les nouilles\nAh les nouilles ah les nouilles"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/773326",
+   "apple_music_id": "254366373",
+   "apple_music_player_url": "https://genius.com/songs/773326/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_773326' class='rg_embed_link' data-song-id='773326'>Read <a href='https://genius.com/Les-charlots-le-trou-de-mon-quai-lyrics'>\u201cLe Trou De Mon Quai\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/773326/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le Trou De Mon Quai by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 773326,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-le-trou-de-mon-quai-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Trou De Mon Quai",
+   "title_with_featured": "Le Trou De Mon Quai",
+   "url": "https://genius.com/Les-charlots-le-trou-de-mon-quai-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5249168",
+    "classification": "needs_exegesis",
+    "fragment": "Le Trou De Mon Quai",
+    "id": 5249168,
+    "is_description": true,
+    "path": "/5249168/Les-charlots-le-trou-de-mon-quai/Le-trou-de-mon-quai",
+    "range": {
+     "content": "Le Trou De Mon Quai"
+    },
+    "song_id": 773326,
+    "url": "https://genius.com/5249168/Les-charlots-le-trou-de-mon-quai/Le-trou-de-mon-quai",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/773326",
+     "client_timestamps": {
+      "updated_by_human_at": 1429191808,
+      "lyrics_updated_at": 1429191808
+     },
+     "context": "Les Charlots",
+     "id": 773326,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Le Trou De Mon Quai by\u00a0Les\u00a0Charlots",
+     "title": "Le Trou De Mon Quai",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-le-trou-de-mon-quai-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5249168",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5249168,
+      "pinned": false,
+      "share_url": "https://genius.com/5249168",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5249168/Les-charlots-le-trou-de-mon-quai/Le-trou-de-mon-quai",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/773120",
+   "apple_music_id": "293236384",
+   "apple_music_player_url": "https://genius.com/songs/773120/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_773120' class='rg_embed_link' data-song-id='773120'>Read <a href='https://genius.com/Les-charlots-la-java-des-bombes-atomiques-lyrics'>\u201cLa Java Des Bombes Atomiques\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/773120/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La Java Des Bombes Atomiques by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 773120,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-la-java-des-bombes-atomiques-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La Java Des Bombes Atomiques",
+   "title_with_featured": "La Java Des Bombes Atomiques",
+   "url": "https://genius.com/Les-charlots-la-java-des-bombes-atomiques-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5248944",
+    "classification": "needs_exegesis",
+    "fragment": "La Java Des Bombes Atomiques",
+    "id": 5248944,
+    "is_description": true,
+    "path": "/5248944/Les-charlots-la-java-des-bombes-atomiques/La-java-des-bombes-atomiques",
+    "range": {
+     "content": "La Java Des Bombes Atomiques"
+    },
+    "song_id": 773120,
+    "url": "https://genius.com/5248944/Les-charlots-la-java-des-bombes-atomiques/La-java-des-bombes-atomiques",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/773120",
+     "client_timestamps": {
+      "updated_by_human_at": 1429191746,
+      "lyrics_updated_at": 1429191746
+     },
+     "context": "Les Charlots",
+     "id": 773120,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "La Java Des Bombes Atomiques by\u00a0Les\u00a0Charlots",
+     "title": "La Java Des Bombes Atomiques",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-la-java-des-bombes-atomiques-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5248944",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5248944,
+      "pinned": false,
+      "share_url": "https://genius.com/5248944",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5248944/Les-charlots-la-java-des-bombes-atomiques/La-java-des-bombes-atomiques",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/772653",
+   "apple_music_id": "293236386",
+   "apple_music_player_url": "https://genius.com/songs/772653/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_772653' class='rg_embed_link' data-song-id='772653'>Read <a href='https://genius.com/Les-charlots-jsuis-snob-lyrics'>\u201cJSuis Snob\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/772653/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "JSuis Snob by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 772653,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-jsuis-snob-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "JSuis Snob",
+   "title_with_featured": "JSuis Snob",
+   "url": "https://genius.com/Les-charlots-jsuis-snob-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5248475",
+    "classification": "needs_exegesis",
+    "fragment": "JSuis Snob",
+    "id": 5248475,
+    "is_description": true,
+    "path": "/5248475/Les-charlots-jsuis-snob/Jsuis-snob",
+    "range": {
+     "content": "JSuis Snob"
+    },
+    "song_id": 772653,
+    "url": "https://genius.com/5248475/Les-charlots-jsuis-snob/Jsuis-snob",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/772653",
+     "client_timestamps": {
+      "updated_by_human_at": 1429191612,
+      "lyrics_updated_at": 1429191612
+     },
+     "context": "Les Charlots",
+     "id": 772653,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "JSuis Snob by\u00a0Les\u00a0Charlots",
+     "title": "JSuis Snob",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-jsuis-snob-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5248475",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5248475,
+      "pinned": false,
+      "share_url": "https://genius.com/5248475",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5248475/Les-charlots-jsuis-snob/Jsuis-snob",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "J'suis snob... J'suis snob\nC'est vraiment l'seul d\u00e9faut que j'gobe\n\u00c7a demande des mois d'turbin\nC'est une vie de gal\u00e9rien\nMais lorsque je sors \u00e0 son bras\nJe suis fier du r\u00e9sultat\nJ'suis snob... Foutrement snob\nTous mes amis le sont\nOn est snobs et c'est bon\n\nChemises d'organdi, chaussures de z\u00e9bu\nCravate d'Italie et m\u00e9chant complet vermoulu\nUn rubis au doigt... de pied, pas \u00e7ui-l\u00e0\nLes ongles tout noirs et un tres joli p'tit mouchoir\nJ'vais au cin\u00e9ma voir des films su\u00e9dois\nEt j'entre au bistro pour boire du whisky \u00e0 gogo\nJ'ai pas mal au foie, personne fait plus \u00e7a\nJ'ai un ulc\u00e8re, c'est moins banal et plus cher\n\nJ'suis snob... J'suis snob\nJ'm'appelle Patrick, mais on dit Bob\nJe fais du ch'val tous les matins\nCar j'ador' l'odeur du crottin\nJe ne fr\u00e9quente que des baronnes\nAux noms comme des trombones\nJ'suis snob... Excessivement snob\nEt quand j'parle d'amour\nC'est tout nu dans la cour\n\nOn se r\u00e9unit avec les amis\nTous les vendredis, pour faire des snobisme-parties\nIl y a du coca, on deteste \u00e7a\nEt du camembert qu'on mange \u00e0 la petite cuiller\nMon appartement est vraiment charmant\nJ'me chauffe au diamant, on n'peut rien r\u00eaver d'plus fumant\nJ'avais la t\u00e9l\u00e9, mais \u00e7a m'ennuyait\nJe l'ai r'tourn\u00e9e... d'l'aut' c\u00f4t\u00e9 c'est passionnant\n\nJ'suis snob... J'suis snob\nJ'suis ravag\u00e9 par ce microbe\nJ'ai des accidents en Jaguar\nJe passe le mois d'ao\u00fbt au plumard\nC'est dans les p'tits d\u00e9tails comme \u00e7a\nQue l'on est snob ou pas\nJ'suis snob... Encor plus snob que tout \u00e0 l'heure\nEt quand je serai mort\nJ'veux un suaire de chez Dior!"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/772756",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/772756/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_772756' class='rg_embed_link' data-song-id='772756'>Read <a href='https://genius.com/Les-charlots-valse-des-mouches-lyrics'>\u201cValse Des Mouches\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/772756/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Valse Des Mouches by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 772756,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-valse-des-mouches-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Valse Des Mouches",
+   "title_with_featured": "Valse Des Mouches",
+   "url": "https://genius.com/Les-charlots-valse-des-mouches-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5248575",
+    "classification": "needs_exegesis",
+    "fragment": "Valse Des Mouches",
+    "id": 5248575,
+    "is_description": true,
+    "path": "/5248575/Les-charlots-valse-des-mouches/Valse-des-mouches",
+    "range": {
+     "content": "Valse Des Mouches"
+    },
+    "song_id": 772756,
+    "url": "https://genius.com/5248575/Les-charlots-valse-des-mouches/Valse-des-mouches",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/772756",
+     "client_timestamps": {
+      "updated_by_human_at": 1429191646,
+      "lyrics_updated_at": 1429191646
+     },
+     "context": "Les Charlots",
+     "id": 772756,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Valse Des Mouches by\u00a0Les\u00a0Charlots",
+     "title": "Valse Des Mouches",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-valse-des-mouches-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5248575",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5248575,
+      "pinned": false,
+      "share_url": "https://genius.com/5248575",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5248575/Les-charlots-valse-des-mouches/Valse-des-mouches",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "On a chant\u00e9 la valse des gigolettes\nOn a chant\u00e9 la valse des p'tits pois\nOn a chant\u00e9 la valse des mominettes\nEt puis la valse de je n'sais plus quoi\nOn a chant\u00e9 la valse de la patronne\nOn a chant\u00e9 la valse des bas noirs\nBen moi, c'est celle des p'tites mouches qui bourdonnent\nQue j'vais vous chanter ce soir !\n\n{Refrain:}\nUum pour bien faire la mouche\nUum faut fermer la bouche\nSi vous faites \u00e7a tous bien en m\u00eame temps\nVous verrez comme c'est charmant\nUum c'est une merveille\nUum comme les p'tites n'abeilles\nFaut que chacun fasse ce p'tit bourdonnement\nUum Uum Uum\n\nY a des chansons soi-disant populaires\nQu'il faut apprendre pendant cent-sept ans\nAfin d'pouvoir les chanter, quelle mis\u00e8re !\nLa mienne n'a pas cet inconv\u00e9nient\nPas besoin de se creuser la boussole\nDu premier coup, c'est simple comme bonsoir\nOn a chip\u00e9 l'air et quant aux paroles\nPas b'soin de les savoir\n\n{au Refrain}\n\nJ'en vois encore quelques-uns qui s'ent\u00eatent\nA ne pas faire ce joli p'tit bruit\nSi quelquefois ma chanson vous emb\u00eate\nNe prenez pas la mouche mes amis !\nIl ne faut pas que cela vous chagrine\nComme cette fois-ci, c'est la derni\u00e8re fois\nPendant qu'l'orchestre accompagne en sourdine\nFaites tous avec moi\n\n{au Refrain}"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/773713",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/773713/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_773713' class='rg_embed_link' data-song-id='773713'>Read <a href='https://genius.com/Les-charlots-sur-la-commode-lyrics'>\u201cSur La Commode\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/773713/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Sur La Commode by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://images.genius.com/5ef347cdbff143bf23ebd1aa869917ef.300x297x1.jpg",
+   "header_image_url": "https://images.genius.com/5ef347cdbff143bf23ebd1aa869917ef.599x593x1.jpg",
+   "id": 773713,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-sur-la-commode-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/5ef347cdbff143bf23ebd1aa869917ef.300x297x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5ef347cdbff143bf23ebd1aa869917ef.599x593x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sur La Commode",
+   "title_with_featured": "Sur La Commode",
+   "url": "https://genius.com/Les-charlots-sur-la-commode-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/197703",
+    "cover_art_url": "https://images.genius.com/5ef347cdbff143bf23ebd1aa869917ef.599x593x1.jpg",
+    "full_title": "Caf' Conc' Charlots by Les Charlots",
+    "id": 197703,
+    "name": "Caf\u2019 Conc\u2019 Charlots",
+    "url": "https://genius.com/albums/Les-charlots/Caf-conc-charlots",
+    "artist": {
+     "api_path": "/artists/348723",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 348723,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Les Charlots",
+     "url": "https://genius.com/artists/Les-charlots"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5249543",
+    "classification": "needs_exegesis",
+    "fragment": "Sur La Commode",
+    "id": 5249543,
+    "is_description": true,
+    "path": "/5249543/Les-charlots-sur-la-commode/Sur-la-commode",
+    "range": {
+     "content": "Sur La Commode"
+    },
+    "song_id": 773713,
+    "url": "https://genius.com/5249543/Les-charlots-sur-la-commode/Sur-la-commode",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/773713",
+     "client_timestamps": {
+      "updated_by_human_at": 1479331468,
+      "lyrics_updated_at": 1429191918
+     },
+     "context": "Les Charlots",
+     "id": 773713,
+     "image_url": "https://images.genius.com/5ef347cdbff143bf23ebd1aa869917ef.599x593x1.jpg",
+     "link_title": "Sur La Commode by\u00a0Les\u00a0Charlots",
+     "title": "Sur La Commode",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-sur-la-commode-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5249543",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5249543,
+      "pinned": false,
+      "share_url": "https://genius.com/5249543",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5249543/Les-charlots-sur-la-commode/Sur-la-commode",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Certains se collent des pagnes\nL'\u00e9t\u00e9 pour prendre des bains\nD'autres vont \u00e0 la montagne\nAvec des tas d'bambins\nPour s'offrir des bains d'si\u00e8ge\nD'autres vont se faire blanchir\nLe derri\u00e8re dans la neige\nHistoire de s'rafra\u00eechir\n\n{Refrain:}\nPour \u00e9viter les frais\nTout en suivant la mode\nChez moi je prends le frais\nLe cul sur la commode\nPour \u00e9viter les frais\nTout en suivant la mode\nChez moi je prends le frais\nLe cul sur la commode\nLe cul sur la commode\n\nLes ceusses qui s'enquiquinent\nLe soir apr\u00e8s l'd\u00eener\nSe payent une mezzanine\nEt s'en vont au cin\u00e9\nToute la soir\u00e9e ils restent\nAssis \u00e0 dig\u00e9rer\nDes navets indigestes\nEn salle r\u00e9frig\u00e9r\u00e9e\n\n{au Refrain}\n\nPour tenter la fortune\nDes gens ivres d'orgueil\nS'en vont risquer leurs thunes\nChaque dimanche \u00e0 Auteuil\nDans des cars ils s'entassent\nEcras\u00e9s \u00e0 demi\nPuis ayant bu la tasse\nRadinent sans un radis\n\n{au Refrain}\n\nCouplet patriotique :\nMa commode est fran\u00e7aise\nC'est du \"moderne ancien\"\nLes tiroirs sont Louis XVI\nLes pieds r\u00e9publicains\nElle fit les barricades\nElle ne tient plus tr\u00e8s bien\nMais bien qu'elle soit malade\nElle m'est sacr\u00e9e j'y tiens !\n\nEt si un jour on vient\nM'la prendre, comme c'est la mode\nJe d\u00e9fendrai mon bien\nLe cul sur la commode\nEt si un jour on vient\nM'la prendre, comme c'est la mode\nJe d\u00e9fendrai mon bien\nLe cul sur la commode\nLe cul sur la commode"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/773802",
+   "apple_music_id": "293236390",
+   "apple_music_player_url": "https://genius.com/songs/773802/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_773802' class='rg_embed_link' data-song-id='773802'>Read <a href='https://genius.com/Les-charlots-je-bois-lyrics'>\u201cJe Bois\u201d by Les\u00a0Charlots</a> on Genius</div> <script crossorigin src='//genius.com/songs/773802/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Je Bois by\u00a0Les\u00a0Charlots",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 773802,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-charlots-je-bois-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Je Bois",
+   "title_with_featured": "Je Bois",
+   "url": "https://genius.com/Les-charlots-je-bois-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5249651",
+    "classification": "needs_exegesis",
+    "fragment": "Je Bois",
+    "id": 5249651,
+    "is_description": true,
+    "path": "/5249651/Les-charlots-je-bois/Je-bois",
+    "range": {
+     "content": "Je Bois"
+    },
+    "song_id": 773802,
+    "url": "https://genius.com/5249651/Les-charlots-je-bois/Je-bois",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/773802",
+     "client_timestamps": {
+      "updated_by_human_at": 1429191945,
+      "lyrics_updated_at": 1429191945
+     },
+     "context": "Les Charlots",
+     "id": 773802,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Je Bois by\u00a0Les\u00a0Charlots",
+     "title": "Je Bois",
+     "type": "Song",
+     "url": "https://genius.com/Les-charlots-je-bois-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5249651",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5249651,
+      "pinned": false,
+      "share_url": "https://genius.com/5249651",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5249651/Les-charlots-je-bois/Je-bois",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/348723",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 348723,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Charlots",
+    "url": "https://genius.com/artists/Les-charlots"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Je bois\nSyst\u00e9matiquement\nPour oublier les amis de ma femme\nJe bois\nSyst\u00e9matiquement\nPour oublier tous mes emmerdements\n\nJe bois\nN'importe quel jaja\nPourvu qu'il fasse ses douze degr\u00e9s cinque\nJe bois\nLa pire des vinasses\nC'est d\u00e9gueulasse, mais \u00e7a fait passer l'temps\n\nLa vie est-elle tell'ment marrante\nLa vie est-elle tell'ment vivante\nJe pose ces deux questions\nLa vie vaut-elle d'\u00eatre v\u00e9cue\nL'amour vaut-il qu'on soit cocu\nJe pose ces deux questions\nAuxquelles personne ne r\u00e9pond... et\n\nJe bois\nSyst\u00e9matiquement\nPour oublier le prochain jour du terme\nJe bois\nSyst\u00e9matiquement\nPour oublier que je n'ai plus vingt ans\n\nJe bois\nD\u00e8s que j'ai des loisirs\nPour \u00eatre saoul, pour ne plus voir ma gueule\nJe bois\nSans y prendre plaisir\nPour pas me dire qu'il faudrait en finir..."
+  }
+ ]
+}

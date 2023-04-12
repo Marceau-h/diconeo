@@ -1,0 +1,808 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/384869",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 384869,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Andrex",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Andrex",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7101423",
+  "classification": "needs_exegesis",
+  "fragment": "Andrex",
+  "id": 7101423,
+  "is_description": true,
+  "path": "/7101423/Andrex/Andrex",
+  "range": {
+   "content": "Andrex"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7101423/Andrex/Andrex",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/384869",
+   "context": null,
+   "id": 384869,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Andrex",
+   "title": "Andrex",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Andrex"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7101423",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7101423,
+    "pinned": false,
+    "share_url": "https://genius.com/7101423",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7101423/Andrex/Andrex",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1298660",
+   "apple_music_id": "411423139",
+   "apple_music_player_url": "https://genius.com/songs/1298660/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1298660' class='rg_embed_link' data-song-id='1298660'>Read <a href='https://genius.com/Andrex-il-avait-le-charme-slave-lyrics'>\u201cIl Avait Le Charme Slave\u201d by Andrex</a> on Genius</div> <script crossorigin src='//genius.com/songs/1298660/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Il Avait Le Charme Slave by\u00a0Andrex",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1298660,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Andrex-il-avait-le-charme-slave-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Il Avait Le Charme Slave",
+   "title_with_featured": "Il Avait Le Charme Slave",
+   "url": "https://genius.com/Andrex-il-avait-le-charme-slave-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5804945",
+    "classification": "needs_exegesis",
+    "fragment": "Il Avait Le Charme Slave",
+    "id": 5804945,
+    "is_description": true,
+    "path": "/5804945/Andrex-il-avait-le-charme-slave/Il-avait-le-charme-slave",
+    "range": {
+     "content": "Il Avait Le Charme Slave"
+    },
+    "song_id": 1298660,
+    "url": "https://genius.com/5804945/Andrex-il-avait-le-charme-slave/Il-avait-le-charme-slave",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1298660",
+     "client_timestamps": {
+      "updated_by_human_at": 1438815520,
+      "lyrics_updated_at": 1429751628
+     },
+     "context": "Andrex",
+     "id": 1298660,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Il Avait Le Charme Slave by\u00a0Andrex",
+     "title": "Il Avait Le Charme Slave",
+     "type": "Song",
+     "url": "https://genius.com/Andrex-il-avait-le-charme-slave-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5804945",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5804945,
+      "pinned": false,
+      "share_url": "https://genius.com/5804945",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5804945/Andrex-il-avait-le-charme-slave/Il-avait-le-charme-slave",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/384869",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 384869,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Andrex",
+    "url": "https://genius.com/artists/Andrex"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Son nom se terminait en ska\nA moins que ce ne soit en ski\nIl buvait de la vodka\nDans une balala\u00efka\nEt prenait de l'Eleska\nEn disant que c'\u00e9tait exquis\nLe jour o\u00f9 elle le rencontra\nIl lui baisa la main trois fois\nPuis de sa belle voix grave\nIl r\u00e9cita les Burgraves\nDans une traduction Moldave\nC'est alors qu'elle succomba\n\nIl avait le charme slave\nEt elle est devenue l'esclave\nL'esclave de ce charme slave\nSex appealof et vampowska\n\nElle s'\u00e9cria : je t'appartiens !\nTous mes millions seront les tiens !\nIl r\u00e9pondit : Nitchevo !\nDes millions ? C'est beaucoup trop !\nMais si vous aviez mille francs\nPr\u00eatez-moi donc un instant...\nElle s'ex\u00e9cuta docilement\nEt le vis avec \u00e9tonnement\nLes remettre int\u00e9gralement\nAu chasseur du restaurant\nPour lui acheter Paris Soir\nEn disant : Gardez ! ... Pour boire !\nIl avait le charme slave\nEt elle est devenue l'esclave\nL'esclave de ce charme slave\nSex appealof et vampovich\n\nMais il la battait tous les soirs\nAvec une paire d'embauchoirs\nPuis rempli de d\u00e9sespoir\nIl saisissait son rasoir\nEt sautait dans la baignoire\nEn criant : j'veux du caviar !\nCe tendre amour dura trois mois\nJusqu'au jour o\u00f9 elle le trouva\nEnroul\u00e9 nu comme un ver\nAutour d'une femme aux yeux verts\nElle brandit un revolver\nEn chantant : Otchi Tchornia\nIl avait le charme slave\nEt elle \u00e9tait devenue l'esclave\nL'esclave de ce charme slave\nSex appealof et wanpitchef\n\nElle lui cria sans se retourner :\n\"Non mais des fois t'es pas cingl\u00e9e ?\nVas-tu t'arr\u00eater de gueuler\nEt me laisser travailler !\nSinon je te file une grande gaffe\nT'es pr\u00e9venue ? Alors fais gaffe\nY faudrait pas me prendre pour un cave\nParce que j'ai le charme slave\nMon vrai nom, c'est Fleur de Nave\nMais tu peux m'appeler Gustave\nVa m'attendre sur le palier\nTu viendras quand je te sonnerai\"\nEt elle est rest\u00e9e l'esclave\nL'esclave de ce charme slave\nL'esclave du sourire suave\nDu beau Gustave dit Fleur de Nave"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1505874",
+   "apple_music_id": "501151735",
+   "apple_music_player_url": "https://genius.com/songs/1505874/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1505874' class='rg_embed_link' data-song-id='1505874'>Read <a href='https://genius.com/Andrex-monsieur-jo-lyrics'>\u201cMonsieur Jo\u201d by Andrex</a> on Genius</div> <script crossorigin src='//genius.com/songs/1505874/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Monsieur Jo by\u00a0Andrex",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1505874,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Andrex-monsieur-jo-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Monsieur Jo",
+   "title_with_featured": "Monsieur Jo",
+   "url": "https://genius.com/Andrex-monsieur-jo-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6020215",
+    "classification": "needs_exegesis",
+    "fragment": "Monsieur Jo",
+    "id": 6020215,
+    "is_description": true,
+    "path": "/6020215/Andrex-monsieur-jo/Monsieur-jo",
+    "range": {
+     "content": "Monsieur Jo"
+    },
+    "song_id": 1505874,
+    "url": "https://genius.com/6020215/Andrex-monsieur-jo/Monsieur-jo",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1505874",
+     "client_timestamps": {
+      "updated_by_human_at": 1443119586,
+      "lyrics_updated_at": 1429892769
+     },
+     "context": "Andrex",
+     "id": 1505874,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Monsieur Jo by\u00a0Andrex",
+     "title": "Monsieur Jo",
+     "type": "Song",
+     "url": "https://genius.com/Andrex-monsieur-jo-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6020215",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6020215,
+      "pinned": false,
+      "share_url": "https://genius.com/6020215",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6020215/Andrex-monsieur-jo/Monsieur-jo",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/384869",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 384869,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Andrex",
+    "url": "https://genius.com/artists/Andrex"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Dans les grands bars et les bo\u00eetes de nuit\nDepuis quelque temps on ne voyait que lui\nC'\u00e9tait aussi un fid\u00e8le client\nDes meilleurs restaurants\nAu champs de course il \u00e9tait assidu\nM\u00eame \u00e0 l'Aiglon il \u00e9tait tr\u00e8s connu\nEt l'on disait d'un p'tit air entendu\nC'est pas le premier venu\n\nIl n'habite pas \u00e0 Belleville\nIl habite au Parc Monceau\nIl n'sort jamais sans sa canne et son p'tit chapeau\nMonsieur Jo\nIl a du linge fragile\nEt des chaussures en croco\nOn n'voit jamais deux fois l'm\u00eame complet\nSur l'dos d'Monsieur Jo\nIl a des revenus myst\u00e9rieux\nEt nul n'a pu conna\u00eetre\nLa provenance des gros billets bleus\nQu'il jette par les fen\u00eatres\nUn grand seigneur difficile\nPour qui rien n'est assez beau\nUn vrai Brummel aux gestes d'Hidalgo\nVoil\u00e0 Monsieur Jo\n\nOn n'comptait plus ses succ\u00e8s f\u00e9minins\nAupr\u00e8s des femmes il faisait des b\u00e9guins\nDevant son chic ses mani\u00e8res son doigt\u00e9\nOn n'pouvait r\u00e9sister\nQuand il voulait donner un rendez-vous\nIl envoyait une corbeille d'un prix fou\nAvec sa carte, et toutes en la lisant\nDisaient imm\u00e9diatement\n\nIl n'habite pas \u00e0 Belleville\nIl habite au parc Monceau\nC'est certainement quelqu'un tout \u00e0 fait comme il faut\nMonsieur Jo\nLe soir dans son domicile\nDerri\u00e8re ses volets bien clos\nUne jolie fille vient se glisser dans le dodo\nD'Monsieur Jo\n\u00c9nigmatique et myst\u00e9rieux\nIl s\u00e9duit toutes les femmes\nUn seul regard de ses yeux gris bleu\nMet leur petit coeur en flammes\nMais pour conserver son style\nDans les plus troublants duos\nIl ne quitte jamais sa canne et son chapeau\nLe beau Monsieur Jo\n\nUn certain soir il n'rentra pas chez lui\nUn' bell' enfant l'attendit toute la nuit\nCe fut en vain il n'revint jamais plus\nIl avait disparu\nOn vit alors s'inqui\u00e9ter, s'affoler\nDes fournisseurs qui n'\u00e9taient pas pay\u00e9s\nEt qui venaient dire \u00e0 tous les \u00e9chos\nMais qu'est devenu Monsieur Jo ?\n\nIl n'habite pas \u00e0 Belleville\nEncore moins au Parc Monceau\nIl est sorti sans sa canne et son p'tit chapeau\nMonsieur Jo\nOn supposa une idylle\nUn voyage incognito\nMais bient\u00f4t sur les journaux\nOn vit la photo d'Monsieur Jo\nCe moustachu en chapeau melon\nVenant d'la pr\u00e9fecture\nL'avait emmen\u00e9 sans plus d'fa\u00e7on\nVers une vill\u00e9giature\nLoin des soucis d'la ville\nDans un gentil p'tit cachot\nIl est maintenant au pain sec et \u00e0 l'eau\nFini Monsieur Jo"
+  }
+ ]
+}

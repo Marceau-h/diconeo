@@ -1,0 +1,850 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/57230",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 57230,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Thierry Pastor",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Thierry-pastor",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 88700,
+  "annotator_login": "Torziz",
+  "api_path": "/referents/6973849",
+  "classification": "needs_exegesis",
+  "fragment": "Thierry Pastor",
+  "id": 6973849,
+  "is_description": true,
+  "path": "/6973849/Thierry-pastor/Thierry-pastor",
+  "range": {
+   "content": "Thierry Pastor"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6973849/Thierry-pastor/Thierry-pastor",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/57230",
+   "context": null,
+   "id": 57230,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Thierry Pastor",
+   "title": "Thierry Pastor",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Thierry-pastor"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6973849",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6973849,
+    "pinned": false,
+    "share_url": "https://genius.com/6973849",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/6973849/Thierry-pastor/Thierry-pastor",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/88700",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/H77zuEBnSKiSLIfhWyrw.gif",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/H77zuEBnSKiSLIfhWyrw.gif",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/H77zuEBnSKiSLIfhWyrw.gif",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/H77zuEBnSKiSLIfhWyrw.gif",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/WPBJ5qpzTxKzcOnLXXDD_giphy.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 88700,
+       "iq": 51511,
+       "login": "Torziz",
+       "name": "Torziz",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Torziz",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/179321",
+   "apple_music_id": "1180867632",
+   "apple_music_player_url": "https://genius.com/songs/179321/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_179321' class='rg_embed_link' data-song-id='179321'>Read <a href='https://genius.com/Thierry-pastor-coup-de-folie-lyrics'>\u201cCoup de folie\u201d by Thierry\u00a0Pastor</a> on Genius</div> <script crossorigin src='//genius.com/songs/179321/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Coup de folie by\u00a0Thierry\u00a0Pastor",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 179321,
+   "lyrics_owner_id": 88700,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Thierry-pastor-coup-de-folie-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Coup de folie",
+   "title_with_featured": "Coup de folie",
+   "url": "https://genius.com/Thierry-pastor-coup-de-folie-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 88700,
+    "annotator_login": "Torziz",
+    "api_path": "/referents/3841022",
+    "classification": "needs_exegesis",
+    "fragment": "Coup de folie",
+    "id": 3841022,
+    "is_description": true,
+    "path": "/3841022/Thierry-pastor-coup-de-folie/Coup-de-folie",
+    "range": {
+     "content": "Coup de folie"
+    },
+    "song_id": 179321,
+    "url": "https://genius.com/3841022/Thierry-pastor-coup-de-folie/Coup-de-folie",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/179321",
+     "client_timestamps": {
+      "updated_by_human_at": 1529431045,
+      "lyrics_updated_at": 1529431045
+     },
+     "context": "Thierry Pastor",
+     "id": 179321,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Coup de folie by\u00a0Thierry\u00a0Pastor",
+     "title": "Coup de folie",
+     "type": "Song",
+     "url": "https://genius.com/Thierry-pastor-coup-de-folie-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3841022",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3841022,
+      "pinned": false,
+      "share_url": "https://genius.com/3841022",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3841022/Thierry-pastor-coup-de-folie/Coup-de-folie",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/88700",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/H77zuEBnSKiSLIfhWyrw.gif",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/H77zuEBnSKiSLIfhWyrw.gif",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/H77zuEBnSKiSLIfhWyrw.gif",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/H77zuEBnSKiSLIfhWyrw.gif",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/WPBJ5qpzTxKzcOnLXXDD_giphy.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 88700,
+         "iq": 51511,
+         "login": "Torziz",
+         "name": "Torziz",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Torziz",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=8kNtnmaCOcs"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/57230",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 57230,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thierry Pastor",
+    "url": "https://genius.com/artists/Thierry-pastor"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/3452996",
+   "apple_music_id": "1180885088",
+   "apple_music_player_url": "https://genius.com/songs/3452996/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3452996' class='rg_embed_link' data-song-id='3452996'>Read <a href='https://genius.com/Thierry-pastor-magic-music-lyrics'>\u201cMagic Music\u201d by Thierry\u00a0Pastor</a> on Genius</div> <script crossorigin src='//genius.com/songs/3452996/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Magic Music by\u00a0Thierry\u00a0Pastor",
+   "header_image_thumbnail_url": "https://images.genius.com/70cc9770f6b66b6a184c099033a9f7d0.300x225x1.jpg",
+   "header_image_url": "https://images.genius.com/70cc9770f6b66b6a184c099033a9f7d0.480x360x1.jpg",
+   "id": 3452996,
+   "lyrics_owner_id": 2492640,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Thierry-pastor-magic-music-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/70cc9770f6b66b6a184c099033a9f7d0.300x225x1.jpg",
+   "song_art_image_url": "https://images.genius.com/70cc9770f6b66b6a184c099033a9f7d0.480x360x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Magic Music",
+   "title_with_featured": "Magic Music",
+   "url": "https://genius.com/Thierry-pastor-magic-music-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/395853",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1610124101",
+    "full_title": "Magic Music  by Thierry Pastor",
+    "id": 395853,
+    "name": "Magic Music ",
+    "url": "https://genius.com/albums/Thierry-pastor/Magic-music",
+    "artist": {
+     "api_path": "/artists/57230",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 57230,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Pastor",
+     "url": "https://genius.com/artists/Thierry-pastor"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2492640,
+    "annotator_login": "ulycha",
+    "api_path": "/referents/13563820",
+    "classification": "needs_exegesis",
+    "fragment": "Magic Music",
+    "id": 13563820,
+    "is_description": true,
+    "path": "/13563820/Thierry-pastor-magic-music/Magic-music",
+    "range": {
+     "content": "Magic Music"
+    },
+    "song_id": 3452996,
+    "url": "https://genius.com/13563820/Thierry-pastor-magic-music/Magic-music",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3452996",
+     "client_timestamps": {
+      "updated_by_human_at": 1518022731,
+      "lyrics_updated_at": 1518022731
+     },
+     "context": "Thierry Pastor",
+     "id": 3452996,
+     "image_url": "https://images.genius.com/70cc9770f6b66b6a184c099033a9f7d0.480x360x1.jpg",
+     "link_title": "Magic Music by\u00a0Thierry\u00a0Pastor",
+     "title": "Magic Music",
+     "type": "Song",
+     "url": "https://genius.com/Thierry-pastor-magic-music-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13563820",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13563820,
+      "pinned": false,
+      "share_url": "https://genius.com/13563820",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13563820/Thierry-pastor-magic-music/Magic-music",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2492640",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/581ebe1e5df7dc6ce75aea348d6d0ceb",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/581ebe1e5df7dc6ce75aea348d6d0ceb",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/581ebe1e5df7dc6ce75aea348d6d0ceb",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/581ebe1e5df7dc6ce75aea348d6d0ceb",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/581ebe1e5df7dc6ce75aea348d6d0ceb",
+         "human_readable_role_for_display": null,
+         "id": 2492640,
+         "iq": 167,
+         "login": "ulycha",
+         "name": "ulycha",
+         "role_for_display": null,
+         "url": "https://genius.com/ulycha",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=-6l2K5WcVDI"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/57230",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 57230,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thierry Pastor",
+    "url": "https://genius.com/artists/Thierry-pastor"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/57230",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 57230,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thierry Pastor",
+     "url": "https://genius.com/artists/Thierry-pastor"
+    }
+   ],
+   "lyrics": "On a tous dans la t\u00eate\nUne envie d'faire la f\u00eate\nBien assez d'gal\u00e8res Night and Day\nA Paris, \u00e0 New York exil\u00e9\nOn s'en fout on veut plus y penser (Yeah)\nC'est pour \u00e7a qu'on s'\u00e9clate\nD'une basket super classe\nAmour musique tout est magique baby\nT'es ok quand t'es over sur la piste\nD\u00e9viation en slalom c'est magique ! MUSIQUE !\n\nRefrain :\nYeah, yeah, yeah, yeah, yeah yeah\nDance dance magic music\nEt quand tu glisses sur la piste\nDance dance magic music\nYeah, yeah, yeah, yeah, yeah, yeah\nDance dance Magic Music\nEt quand tu glisses sur la piste\nDance dance magic music\n\nPlus rien n'est important\nT'oublies tout en dansant\nAmour musique tout est magique baby\nT'es ok quand t'es over sur la piste\nLes d\u00e9viations tu connais c'est magique ! Musique !\n\nRefrain :\nYeah, yeah, yeah, yeah, yeah yeah\nDance dance magic music\nEt quand tu glisses sur la piste\nDance dance magic music\nEt si tu t'en vas, n'y penses  pas\nDance dance magic music\nYeah, yeah, yeah, yeah, yeah yeah\n\n[Couplet]\nOn a tous dans la t\u00eate\nUne envie d'faire la f\u00eate\nAmour, musique : tout est magique baby\nA Paris, \u00e0 New York ou ailleurs\nD'un \u00e9clat d'amour en couleurs\nLes ennuis s'envolent en voyage\nBien s\u00fbr ils ne reviendront pas (ou pas)\nC'est notre nouveau paysage\nMais ce n'est quand m\u00eame qu'une image (qu'une image)\n\nYeah, Yeah\n\nRefrain :\nYeah, yeah, yeah, yeah, yeah yeah\nDance dance magic music\nEt quand tu glisses sur la piste\nDance dance magic music\nEt si tu t'en vas, n'y penses  pas\nDance dance magic music\nYeah, yeah, yeah, yeah, yeah yeah\n\nChoeur :\nDance dance magic music\n\n*solo*\n\nYeah, yeah, yeah, yeah, yeah yeah\nDance dance magic music\nEt quand tu glisses sur la piste\nDance dance magic music\nEt si tu t'en vas, n'y penses pas\nDance dance magic music\nYeah, yeah, yeah, yeah, yeah yeah\n\nDance dance magic music\nEt quand tu glisses sur la piste\nDance dance magic music\nEt si tu t'en vas, n'y penses  pas\nDance dance magic music"
+  }
+ ]
+}

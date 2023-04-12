@@ -1,0 +1,5836 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/375895",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+ "id": 375895,
+ "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "M\u00e9lanie Pain",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Melanie-pain",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7092531",
+  "classification": "needs_exegesis",
+  "fragment": "M\u00e9lanie Pain",
+  "id": 7092531,
+  "is_description": true,
+  "path": "/7092531/Melanie-pain/Melanie-pain",
+  "range": {
+   "content": "M\u00e9lanie Pain"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7092531/Melanie-pain/Melanie-pain",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/375895",
+   "context": null,
+   "id": 375895,
+   "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+   "link_title": "M\u00e9lanie Pain",
+   "title": "M\u00e9lanie Pain",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Melanie-pain"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7092531",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7092531,
+    "pinned": false,
+    "share_url": "https://genius.com/7092531",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7092531/Melanie-pain/Melanie-pain",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1245075",
+   "apple_music_id": "1148109249",
+   "apple_music_player_url": "https://genius.com/songs/1245075/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1245075' class='rg_embed_link' data-song-id='1245075'>Read <a href='https://genius.com/Melanie-pain-la-cigarette-lyrics'>\u201cLa Cigarette\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/1245075/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La Cigarette by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 1245075,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-la-cigarette-lyrics",
+   "pyongs_count": 2,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La Cigarette",
+   "title_with_featured": "La Cigarette",
+   "url": "https://genius.com/Melanie-pain-la-cigarette-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5748765",
+    "classification": "needs_exegesis",
+    "fragment": "La Cigarette",
+    "id": 5748765,
+    "is_description": true,
+    "path": "/5748765/Melanie-pain-la-cigarette/La-cigarette",
+    "range": {
+     "content": "La Cigarette"
+    },
+    "song_id": 1245075,
+    "url": "https://genius.com/5748765/Melanie-pain-la-cigarette/La-cigarette",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1245075",
+     "client_timestamps": {
+      "updated_by_human_at": 1480540199,
+      "lyrics_updated_at": 1429718410
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 1245075,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "La Cigarette by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "La Cigarette",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-la-cigarette-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5748765",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5748765,
+      "pinned": false,
+      "share_url": "https://genius.com/5748765",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5748765/Melanie-pain-la-cigarette/La-cigarette",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1511534",
+   "apple_music_id": "1148108883",
+   "apple_music_player_url": "https://genius.com/songs/1511534/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1511534' class='rg_embed_link' data-song-id='1511534'>Read <a href='https://genius.com/Melanie-pain-bruises-lyrics'>\u201cBruises\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/1511534/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Bruises by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 1511534,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-bruises-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Bruises",
+   "title_with_featured": "Bruises",
+   "url": "https://genius.com/Melanie-pain-bruises-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6025911",
+    "classification": "needs_exegesis",
+    "fragment": "Bruises",
+    "id": 6025911,
+    "is_description": true,
+    "path": "/6025911/Melanie-pain-bruises/Bruises",
+    "range": {
+     "content": "Bruises"
+    },
+    "song_id": 1511534,
+    "url": "https://genius.com/6025911/Melanie-pain-bruises/Bruises",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1511534",
+     "client_timestamps": {
+      "updated_by_human_at": 1477037582,
+      "lyrics_updated_at": 1429893280
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 1511534,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "Bruises by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Bruises",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-bruises-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6025911",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6025911,
+      "pinned": false,
+      "share_url": "https://genius.com/6025911",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6025911/Melanie-pain-bruises/Bruises",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "In a late night moment of joy\nI just want to say, wow\nIn the early morning with a clear head\nI just want to say, wow\nI just want to say\nI was sitting on my bed\nJust pretending to be sitting on my bed\nWhen bang\nI was watching the twilight smoke\nOf my wounded heart\nWhen bang, bang\nOh when bang\nI have so many bruises\nBut you have such a smile\nI have so many scars\nI can see them in your eyes\nI have so many bruises\nI have so many scars\nBut you have such a smile\nOh you have such a smile\nI can't believe I was counting the days\nIt will take to come back if I leave\nOh, I can't believe I was blinking\nAnd tried to read between the lines\nI can't believe I was swimming in\nThis empty pool\nOh, I can't believe you're all my big bang (?)\nI have so many bruises\nBut you have such a smile\nI have so many scars\nI can see them in your eyes\nI have so many bruises\nI have so many scars\nBut you have such a smile\nOh you have such a smile\nI have so many bruises\nI have so many scars\nI have so many scars\nI have so many bruises\nI have so many bruises\nI have so many scars\nI have so many scars\nI have so many bruises\nI have so many bruises\nI have so many scars\nI have so many scars\nI have so many bruises"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/134828",
+   "apple_music_id": "1148108792",
+   "apple_music_player_url": "https://genius.com/songs/134828/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_134828' class='rg_embed_link' data-song-id='134828'>Read <a href='https://genius.com/Melanie-pain-peut-etre-pas-lyrics'>\u201cPeut-\u00eatre pas\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/134828/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Peut-\u00eatre pas by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 134828,
+   "lyrics_owner_id": 7,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-peut-etre-pas-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Peut-\u00eatre pas",
+   "title_with_featured": "Peut-\u00eatre pas",
+   "url": "https://genius.com/Melanie-pain-peut-etre-pas-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7,
+    "annotator_login": "Maboo",
+    "api_path": "/referents/3719752",
+    "classification": "needs_exegesis",
+    "fragment": "Peut-\u00eatre pas",
+    "id": 3719752,
+    "is_description": true,
+    "path": "/3719752/Melanie-pain-peut-etre-pas/Peut-etre-pas",
+    "range": {
+     "content": "Peut-\u00eatre pas"
+    },
+    "song_id": 134828,
+    "url": "https://genius.com/3719752/Melanie-pain-peut-etre-pas/Peut-etre-pas",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/134828",
+     "client_timestamps": {
+      "updated_by_human_at": 1580463686,
+      "lyrics_updated_at": 1580463677
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 134828,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "Peut-\u00eatre pas by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Peut-\u00eatre pas",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-peut-etre-pas-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3719752",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3719752,
+      "pinned": false,
+      "share_url": "https://genius.com/3719752",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3719752/Melanie-pain-peut-etre-pas/Peut-etre-pas",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/FPUgkjhRQyqsg9SfDfhx.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/FPUgkjhRQyqsg9SfDfhx.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/FPUgkjhRQyqsg9SfDfhx.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 7,
+         "iq": 496362,
+         "login": "Maboo",
+         "name": "Maboo",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Maboo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=cfQnjC3eYKk"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2093943",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 2093943,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pap Deziel",
+     "url": "https://genius.com/artists/Pap-deziel"
+    }
+   ],
+   "lyrics": "[Couplet 1]\nQuand tu verras des nuages\nAssombrir notre route\nQuand tu entendras l'orage\nJ'aimerais que tu m'\u00e9coutes\nJ'aimerais que tu restes sage\nEt que dans la d\u00e9route\nTu garde cette image\nD'un coeur qui doute\n\n[Refrain]\nJe ne suis peut-\u00eatre pas\nCelle que je crois, celle que tu vois\nPeut-\u00eatre suis-je meilleure\nPeut-\u00eatre pas, peut-\u00eatre pas\n\n[Couplet 2]\nM\u00eame soleil sous un ciel gris\nM\u00eame d\u00e9sert, m\u00eame pluie\nM\u00eame envie qui s'enfuit\nVers des ombres qui sourient\nM\u00eame ennui d'une m\u00eame vie\nCar le bonheur a son prix\nEt n'accorde aucun cr\u00e9dit\nAux curs qui doutent\n\n[Refrain]\n\n[Couplet 3]\nSi tu as vu des nuages\nAssombrir notre route\nSi tu as entendu l'orage\nPendant que tu m'\u00e9coutes\nJ'aimerais que tu sois rest\u00e9 sage\nEt que dans la d\u00e9route\nTu aies gard\u00e9 cette image\nD'un coeur qui doute"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1218433",
+   "apple_music_id": "1148108800",
+   "apple_music_player_url": "https://genius.com/songs/1218433/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1218433' class='rg_embed_link' data-song-id='1218433'>Read <a href='https://genius.com/Melanie-pain-ignore-moi-lyrics'>\u201cIgnore-Moi\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/1218433/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ignore-Moi by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 1218433,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-ignore-moi-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ignore-Moi",
+   "title_with_featured": "Ignore-Moi",
+   "url": "https://genius.com/Melanie-pain-ignore-moi-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5721307",
+    "classification": "needs_exegesis",
+    "fragment": "Ignore-Moi",
+    "id": 5721307,
+    "is_description": true,
+    "path": "/5721307/Melanie-pain-ignore-moi/Ignore-moi",
+    "range": {
+     "content": "Ignore-Moi"
+    },
+    "song_id": 1218433,
+    "url": "https://genius.com/5721307/Melanie-pain-ignore-moi/Ignore-moi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1218433",
+     "client_timestamps": {
+      "updated_by_human_at": 1480539264,
+      "lyrics_updated_at": 1429705442
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 1218433,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "Ignore-Moi by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Ignore-Moi",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-ignore-moi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5721307",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5721307,
+      "pinned": false,
+      "share_url": "https://genius.com/5721307",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5721307/Melanie-pain-ignore-moi/Ignore-moi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1316301",
+   "apple_music_id": "1148109804",
+   "apple_music_player_url": "https://genius.com/songs/1316301/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1316301' class='rg_embed_link' data-song-id='1316301'>Read <a href='https://genius.com/Melanie-pain-everything-i-know-lyrics'>\u201cEverything I Know\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/1316301/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Everything I Know by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 1316301,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-everything-i-know-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Everything I Know",
+   "title_with_featured": "Everything I Know",
+   "url": "https://genius.com/Melanie-pain-everything-i-know-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5823208",
+    "classification": "needs_exegesis",
+    "fragment": "Everything I Know",
+    "id": 5823208,
+    "is_description": true,
+    "path": "/5823208/Melanie-pain-everything-i-know/Everything-i-know",
+    "range": {
+     "content": "Everything I Know"
+    },
+    "song_id": 1316301,
+    "url": "https://genius.com/5823208/Melanie-pain-everything-i-know/Everything-i-know",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1316301",
+     "client_timestamps": {
+      "updated_by_human_at": 1473384009,
+      "lyrics_updated_at": 1429761338
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 1316301,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "Everything I Know by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Everything I Know",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-everything-i-know-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5823208",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5823208,
+      "pinned": false,
+      "share_url": "https://genius.com/5823208",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5823208/Melanie-pain-everything-i-know/Everything-i-know",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1756599",
+   "apple_music_id": "1148110036",
+   "apple_music_player_url": "https://genius.com/songs/1756599/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1756599' class='rg_embed_link' data-song-id='1756599'>Read <a href='https://genius.com/Melanie-pain-if-you-knew-lyrics'>\u201cIf You Knew\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/1756599/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "If You Knew by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 1756599,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-if-you-knew-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "If You Knew",
+   "title_with_featured": "If You Knew",
+   "url": "https://genius.com/Melanie-pain-if-you-knew-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6287473",
+    "classification": "needs_exegesis",
+    "fragment": "If You Knew",
+    "id": 6287473,
+    "is_description": true,
+    "path": "/6287473/Melanie-pain-if-you-knew/If-you-knew",
+    "range": {
+     "content": "If You Knew"
+    },
+    "song_id": 1756599,
+    "url": "https://genius.com/6287473/Melanie-pain-if-you-knew/If-you-knew",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1756599",
+     "client_timestamps": {
+      "updated_by_human_at": 1479246373,
+      "lyrics_updated_at": 1430204258
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 1756599,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "If You Knew by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "If You Knew",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-if-you-knew-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6287473",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6287473,
+      "pinned": false,
+      "share_url": "https://genius.com/6287473",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6287473/Melanie-pain-if-you-knew/If-you-knew",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2096988",
+   "apple_music_id": "1148068561",
+   "apple_music_player_url": "https://genius.com/songs/2096988/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2096988' class='rg_embed_link' data-song-id='2096988'>Read <a href='https://genius.com/Melanie-pain-7-ou-8-fois-lyrics'>\u201c7 ou 8 fois\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/2096988/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "7 ou 8 fois by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/83f76a487208be9cf024b83f18aa6d0a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/83f76a487208be9cf024b83f18aa6d0a.375x375x1.jpg",
+   "id": 2096988,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-7-ou-8-fois-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/83f76a487208be9cf024b83f18aa6d0a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/83f76a487208be9cf024b83f18aa6d0a.375x375x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "7 ou 8 fois",
+   "title_with_featured": "7 ou 8 fois",
+   "url": "https://genius.com/Melanie-pain-7-ou-8-fois-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/233000",
+    "cover_art_url": "https://images.genius.com/83f76a487208be9cf024b83f18aa6d0a.375x375x1.jpg",
+    "full_title": "Bye Bye Manchester by M\u00e9lanie Pain",
+    "id": 233000,
+    "name": "Bye Bye Manchester",
+    "url": "https://genius.com/albums/Melanie-pain/Bye-bye-manchester",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6837158",
+    "classification": "needs_exegesis",
+    "fragment": "7 ou 8 fois",
+    "id": 6837158,
+    "is_description": true,
+    "path": "/6837158/Melanie-pain-7-ou-8-fois/7-ou-8-fois",
+    "range": {
+     "content": "7 ou 8 fois"
+    },
+    "song_id": 2096988,
+    "url": "https://genius.com/6837158/Melanie-pain-7-ou-8-fois/7-ou-8-fois",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2096988",
+     "client_timestamps": {
+      "updated_by_human_at": 1476148381,
+      "lyrics_updated_at": 1433959735
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 2096988,
+     "image_url": "https://images.genius.com/83f76a487208be9cf024b83f18aa6d0a.375x375x1.jpg",
+     "link_title": "7 ou 8 fois by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "7 ou 8 fois",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-7-ou-8-fois-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6837158",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6837158,
+      "pinned": false,
+      "share_url": "https://genius.com/6837158",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6837158/Melanie-pain-7-ou-8-fois/7-ou-8-fois",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Sept ou huit fois\nJe suis rest\u00e9e \u00e0 quai\nJe n'ai pas embarqu\u00e9\nJe suis pass\u00e9e \u00e0 c\u00f4t\u00e9\nPass\u00e9e juste \u00e0 c\u00f4t\u00e9\n\nSept ou huit fois\nIl a fallu de peu\nA tout remettre en jeu\nJ'ai failli prendre feu\nJ'ai failli prendre feu\n\nCette fois c'en est trop, oh, oh\nC'est la fois de trop, oh, oh, oh\nCette fois c'en est trop\n\nSept ou huit fois\nLa peur a eu ma peau\nOui j'ai pli\u00e9 le dos\nJ'ai fini en lambeau\n\nCette fois c'\u00e9tait trop, trop, trop\nC'\u00e9tait la fois de trop, oh, oh, oh\nCette fois c'\u00e9tait trop"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1211144",
+   "apple_music_id": "1539520248",
+   "apple_music_player_url": "https://genius.com/songs/1211144/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1211144' class='rg_embed_link' data-song-id='1211144'>Read <a href='https://genius.com/Melanie-pain-adieu-mon-amour-lyrics'>\u201cAdieu mon Amour\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/1211144/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Adieu mon Amour by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 1211144,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-adieu-mon-amour-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Adieu mon Amour",
+   "title_with_featured": "Adieu mon Amour",
+   "url": "https://genius.com/Melanie-pain-adieu-mon-amour-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5713710",
+    "classification": "needs_exegesis",
+    "fragment": "Adieu mon Amour",
+    "id": 5713710,
+    "is_description": true,
+    "path": "/5713710/Melanie-pain-adieu-mon-amour/Adieu-mon-amour",
+    "range": {
+     "content": "Adieu mon Amour"
+    },
+    "song_id": 1211144,
+    "url": "https://genius.com/5713710/Melanie-pain-adieu-mon-amour/Adieu-mon-amour",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1211144",
+     "client_timestamps": {
+      "updated_by_human_at": 1476751277,
+      "lyrics_updated_at": 1429697000
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 1211144,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "Adieu mon Amour by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Adieu mon Amour",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-adieu-mon-amour-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5713710",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5713710,
+      "pinned": false,
+      "share_url": "https://genius.com/5713710",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5713710/Melanie-pain-adieu-mon-amour/Adieu-mon-amour",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Adieu mon amour\nI know I can live\nWithout you, but how?\nCan you live without me?\nCan you live without me?\nOh, I will try\nNot to be sad\nI will try to fly\nWith a broken heart\nI will try to get behind the clouds\nI will try to get close\nTo the rainbow again\nTo the rainbow again\nOh, I will try\nNot to be sad\nAdieu mon amour\nAdieu mon amour\nI think I can live\nWithout you\nBut how dare you\nLive without me?\nHow dare you live without me?"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1329566",
+   "apple_music_id": "1148108992",
+   "apple_music_player_url": "https://genius.com/songs/1329566/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1329566' class='rg_embed_link' data-song-id='1329566'>Read <a href='https://genius.com/Melanie-pain-helsinki-lyrics'>\u201cHelsinki\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/1329566/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Helsinki by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 1329566,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-helsinki-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Helsinki",
+   "title_with_featured": "Helsinki",
+   "url": "https://genius.com/Melanie-pain-helsinki-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5836712",
+    "classification": "needs_exegesis",
+    "fragment": "Helsinki",
+    "id": 5836712,
+    "is_description": true,
+    "path": "/5836712/Melanie-pain-helsinki/Helsinki",
+    "range": {
+     "content": "Helsinki"
+    },
+    "song_id": 1329566,
+    "url": "https://genius.com/5836712/Melanie-pain-helsinki/Helsinki",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1329566",
+     "client_timestamps": {
+      "updated_by_human_at": 1476751976,
+      "lyrics_updated_at": 1429767366
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 1329566,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "Helsinki by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Helsinki",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-helsinki-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5836712",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5836712,
+      "pinned": false,
+      "share_url": "https://genius.com/5836712",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5836712/Melanie-pain-helsinki/Helsinki",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2056491",
+   "apple_music_id": "1148068689",
+   "apple_music_player_url": "https://genius.com/songs/2056491/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2056491' class='rg_embed_link' data-song-id='2056491'>Read <a href='https://genius.com/Melanie-pain-just-a-girl-lyrics'>\u201cJust a girl\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/2056491/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Just a girl by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/83f76a487208be9cf024b83f18aa6d0a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/83f76a487208be9cf024b83f18aa6d0a.375x375x1.jpg",
+   "id": 2056491,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-just-a-girl-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/83f76a487208be9cf024b83f18aa6d0a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/83f76a487208be9cf024b83f18aa6d0a.375x375x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Just a girl",
+   "title_with_featured": "Just a girl",
+   "url": "https://genius.com/Melanie-pain-just-a-girl-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/233000",
+    "cover_art_url": "https://images.genius.com/83f76a487208be9cf024b83f18aa6d0a.375x375x1.jpg",
+    "full_title": "Bye Bye Manchester by M\u00e9lanie Pain",
+    "id": 233000,
+    "name": "Bye Bye Manchester",
+    "url": "https://genius.com/albums/Melanie-pain/Bye-bye-manchester",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6796156",
+    "classification": "needs_exegesis",
+    "fragment": "Just a girl",
+    "id": 6796156,
+    "is_description": true,
+    "path": "/6796156/Melanie-pain-just-a-girl/Just-a-girl",
+    "range": {
+     "content": "Just a girl"
+    },
+    "song_id": 2056491,
+    "url": "https://genius.com/6796156/Melanie-pain-just-a-girl/Just-a-girl",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2056491",
+     "client_timestamps": {
+      "updated_by_human_at": 1477090144,
+      "lyrics_updated_at": 1433951600
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 2056491,
+     "image_url": "https://images.genius.com/83f76a487208be9cf024b83f18aa6d0a.375x375x1.jpg",
+     "link_title": "Just a girl by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Just a girl",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-just-a-girl-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6796156",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6796156,
+      "pinned": false,
+      "share_url": "https://genius.com/6796156",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6796156/Melanie-pain-just-a-girl/Just-a-girl",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Drinking together till the end of the night\nBeing and nothingness by Jean-Paul Sartre\nYour smarty smarts and your stripy shirt\nYour cunning wit swinging under my skirt\nI'll be your Simone if that's what you want\nWe'll go to Havana, discuss about Kant\nYou call me your friend you call me your best mate\nI don't know how many nights I can take\nCause I'm just a girl oh I'm just a girl\nJust a girl yes I'm just a girl\nJust a girl oh I'm just a girl\nCascades of fancy talk that never ends\nFeverish lingo no one can stand\nMusic to my ears, to my heart\nYour Descartes to me sounds like Mozart\nShame you got married a long time ago\nTo this french weirdo Jean-Jacques Rousseau\nI've been sipping absinth and so much more\nFor you I've been sleeping on the floor\nCause I'm just a girl oh I'm just a girl\nJust a girl yes I'm just a girl"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1289196",
+   "apple_music_id": "1148109193",
+   "apple_music_player_url": "https://genius.com/songs/1289196/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1289196' class='rg_embed_link' data-song-id='1289196'>Read <a href='https://genius.com/Melanie-pain-my-name-lyrics'>\u201cMy Name\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/1289196/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "My Name by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 1289196,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-my-name-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "My Name",
+   "title_with_featured": "My Name",
+   "url": "https://genius.com/Melanie-pain-my-name-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5795140",
+    "classification": "needs_exegesis",
+    "fragment": "My Name",
+    "id": 5795140,
+    "is_description": true,
+    "path": "/5795140/Melanie-pain-my-name/My-name",
+    "range": {
+     "content": "My Name"
+    },
+    "song_id": 1289196,
+    "url": "https://genius.com/5795140/Melanie-pain-my-name/My-name",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1289196",
+     "client_timestamps": {
+      "updated_by_human_at": 1477007343,
+      "lyrics_updated_at": 1429745991
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 1289196,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "My Name by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "My Name",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-my-name-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5795140",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5795140,
+      "pinned": false,
+      "share_url": "https://genius.com/5795140",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5795140/Melanie-pain-my-name/My-name",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "I will walk through the mountains\nI will walk through the deserts\nWalk through seven seas\nI will travel the lands\nOh I will travel the hills\nTravel around the world\nUntil I find someone who knows\nWho knows my name\nUntil I find someone who could\nTell who I am\nI will go down the mines\nAnd I will go up to the skies\nI will go far and wide\nI will sing in the morning\nI will sing in the evening\nSinging all the time\nUntil I find someone who knows\nWho knows my name\nUntil I find someone who could\nTell who I am\nI'm looking for my name\nI will travel the lands\nOh I will travel the hills\nTravel around the world\nI will sing in the morning\nI will sing in the evening\nSinging high and low\nUntil I find someone who knows\nWho knows my name\nUntil I find someone who could\nTell who I am\nWho I am\nI'm looking for my name\nI will walk through the mountains\nI will walk through the deserts\nI will travel the lands\nTravel the hills\nI will walk through the mountains\nI will walk through the deserts\nI will travel the lands\nOh, I will travel the hills"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2050963",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2050963/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2050963' class='rg_embed_link' data-song-id='2050963'>Read <a href='https://genius.com/Melanie-pain-girls-and-boys-lyrics'>\u201cGirls and Boys\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/2050963/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Girls and Boys by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 2050963,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-girls-and-boys-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Girls and Boys",
+   "title_with_featured": "Girls and Boys",
+   "url": "https://genius.com/Melanie-pain-girls-and-boys-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6790562",
+    "classification": "needs_exegesis",
+    "fragment": "Girls and Boys",
+    "id": 6790562,
+    "is_description": true,
+    "path": "/6790562/Melanie-pain-girls-and-boys/Girls-and-boys",
+    "range": {
+     "content": "Girls and Boys"
+    },
+    "song_id": 2050963,
+    "url": "https://genius.com/6790562/Melanie-pain-girls-and-boys/Girls-and-boys",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2050963",
+     "client_timestamps": {
+      "updated_by_human_at": 1580419886,
+      "lyrics_updated_at": 1433950596
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 2050963,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "Girls and Boys by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Girls and Boys",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-girls-and-boys-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6790562",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6790562,
+      "pinned": false,
+      "share_url": "https://genius.com/6790562",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6790562/Melanie-pain-girls-and-boys/Girls-and-boys",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Streets like a jungle\nSo call the police\nFollowing the herd\nDown to greece\nOn holiday\nLove in the 90's\nIs paranoid\nOn sunny beaches\nTake your chances\nLooking for\n\nGirls who want boys\nWho like boys to be girls\nWho do boys like they're girls\nWho do girls, like they're boys\nAlways should be someone you really love\nGirls who want boys\nWho like boys to be girls\nWho do boys like they're girls\nWho do girls, like they're boys\nAlways should be someone you really love\n\nAvoiding all work\n'Cause there's none available\nLike battery thinkers\nCount their thoughts on\n1, 2, 3, 4, 5 fingers\nNothing is wasted\nOnly reproduced\nGet nasty blisters\nDu t sehr schon\nBut we haven't been duced\n\nGirls who want boys\nWho like boys to be girls\nWho do boys like they're girls\nWho do girls, like they're boys\nAlways should be someone you really love\nGirls who want boys\nWho like boys to be girls\nWho do boys like they're girls\nWho do girls, like they're boys\nAlways should be someone you really love\n\nGirls who want boys\nWho like boys to be girls\nWho do boys like they're girls\nWho do girls, like they're boys\nAlways should be someone you really love\nGirls who want boys\nWho like boys to be girls\nWho do boys like they're girls\nWho do girls, like they're boys\nAlways should be someone you really love\n\nListen to 'Peut-\u00eatre Pas' :)"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2124541",
+   "apple_music_id": "1148109492",
+   "apple_music_player_url": "https://genius.com/songs/2124541/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2124541' class='rg_embed_link' data-song-id='2124541'>Read <a href='https://genius.com/Melanie-pain-celle-de-mes-20-ans-lyrics'>\u201cCelle de mes 20 ans\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/2124541/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Celle de mes 20 ans by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+   "id": 2124541,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-celle-de-mes-20-ans-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Celle de mes 20 ans",
+   "title_with_featured": "Celle de mes 20 ans",
+   "url": "https://genius.com/Melanie-pain-celle-de-mes-20-ans-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6875299",
+    "classification": "needs_exegesis",
+    "fragment": "Celle de mes 20 ans",
+    "id": 6875299,
+    "is_description": true,
+    "path": "/6875299/Melanie-pain-celle-de-mes-20-ans/Celle-de-mes-20-ans",
+    "range": {
+     "content": "Celle de mes 20 ans"
+    },
+    "song_id": 2124541,
+    "url": "https://genius.com/6875299/Melanie-pain-celle-de-mes-20-ans/Celle-de-mes-20-ans",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2124541",
+     "client_timestamps": {
+      "updated_by_human_at": 1446849608,
+      "lyrics_updated_at": 1434142345
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 2124541,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "link_title": "Celle de mes 20 ans by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Celle de mes 20 ans",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-celle-de-mes-20-ans-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6875299",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6875299,
+      "pinned": false,
+      "share_url": "https://genius.com/6875299",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6875299/Melanie-pain-celle-de-mes-20-ans/Celle-de-mes-20-ans",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1017527",
+   "apple_music_id": "1105795780",
+   "apple_music_player_url": "https://genius.com/songs/1017527/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1017527' class='rg_embed_link' data-song-id='1017527'>Read <a href='https://genius.com/Melanie-pain-celle-de-mes-vingt-ans-lyrics'>\u201cCelle de mes Vingt Ans\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/1017527/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Celle de mes Vingt Ans by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 1017527,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-celle-de-mes-vingt-ans-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Celle de mes Vingt Ans",
+   "title_with_featured": "Celle de mes Vingt Ans",
+   "url": "https://genius.com/Melanie-pain-celle-de-mes-vingt-ans-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5514311",
+    "classification": "needs_exegesis",
+    "fragment": "Celle de mes Vingt Ans",
+    "id": 5514311,
+    "is_description": true,
+    "path": "/5514311/Melanie-pain-celle-de-mes-vingt-ans/Celle-de-mes-vingt-ans",
+    "range": {
+     "content": "Celle de mes Vingt Ans"
+    },
+    "song_id": 1017527,
+    "url": "https://genius.com/5514311/Melanie-pain-celle-de-mes-vingt-ans/Celle-de-mes-vingt-ans",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1017527",
+     "client_timestamps": {
+      "updated_by_human_at": 1477035304,
+      "lyrics_updated_at": 1429590786
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 1017527,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "Celle de mes Vingt Ans by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Celle de mes Vingt Ans",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-celle-de-mes-vingt-ans-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5514311",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5514311,
+      "pinned": false,
+      "share_url": "https://genius.com/5514311",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5514311/Melanie-pain-celle-de-mes-vingt-ans/Celle-de-mes-vingt-ans",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1181468",
+   "apple_music_id": "1148109225",
+   "apple_music_player_url": "https://genius.com/songs/1181468/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1181468' class='rg_embed_link' data-song-id='1181468'>Read <a href='https://genius.com/Melanie-pain-little-cowboy-lyrics'>\u201cLittle Cowboy\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/1181468/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Little Cowboy by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 1181468,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-little-cowboy-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Little Cowboy",
+   "title_with_featured": "Little Cowboy",
+   "url": "https://genius.com/Melanie-pain-little-cowboy-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5683577",
+    "classification": "needs_exegesis",
+    "fragment": "Little Cowboy",
+    "id": 5683577,
+    "is_description": true,
+    "path": "/5683577/Melanie-pain-little-cowboy/Little-cowboy",
+    "range": {
+     "content": "Little Cowboy"
+    },
+    "song_id": 1181468,
+    "url": "https://genius.com/5683577/Melanie-pain-little-cowboy/Little-cowboy",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1181468",
+     "client_timestamps": {
+      "updated_by_human_at": 1479255647,
+      "lyrics_updated_at": 1429684201
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 1181468,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "Little Cowboy by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Little Cowboy",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-little-cowboy-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5683577",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5683577,
+      "pinned": false,
+      "share_url": "https://genius.com/5683577",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5683577/Melanie-pain-little-cowboy/Little-cowboy",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Little fellow, you're so tired\nYou could hardly lift your head\nBut you wanna hear a story\nBefore you go to bed\nSo if you stay quiet\nAnd listen patiently\nI sing a song\nThat my mother sang to me\nLittle cowboy\nPut your saddle in the bank\nTie your horse up tight\n'Cause you know no harm\nPut your arms and your gun\nBeside you on the chair\nBut don't forget\nYou've got to say your little prayer\nLittle cowboy\nOh, you better hit the sun and train\nOr you'll be late around the time you know\nIf you want to be a cowboy\nYou better rest a while\nLittle Cowboy baby of the old chorale\nLa la la la\nLittle Cowboy baby of the old chorale"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2063429",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2063429/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2063429' class='rg_embed_link' data-song-id='2063429'>Read <a href='https://genius.com/Melanie-pain-prendre-le-jour-demo-lyrics'>\u201cPrendre le jour - d\u00e9mo\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/2063429/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Prendre le jour - d\u00e9mo by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "id": 2063429,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-prendre-le-jour-demo-lyrics",
+   "pyongs_count": 1,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Prendre le jour - d\u00e9mo",
+   "title_with_featured": "Prendre le jour - d\u00e9mo",
+   "url": "https://genius.com/Melanie-pain-prendre-le-jour-demo-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209980",
+    "cover_art_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+    "full_title": "My Name by M\u00e9lanie Pain",
+    "id": 209980,
+    "name": "My Name",
+    "url": "https://genius.com/albums/Melanie-pain/My-name",
+    "artist": {
+     "api_path": "/artists/375895",
+     "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "id": 375895,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00e9lanie Pain",
+     "url": "https://genius.com/artists/Melanie-pain"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6803182",
+    "classification": "needs_exegesis",
+    "fragment": "Prendre le jour - d\u00e9mo",
+    "id": 6803182,
+    "is_description": true,
+    "path": "/6803182/Melanie-pain-prendre-le-jour-demo/Prendre-le-jour-demo",
+    "range": {
+     "content": "Prendre le jour - d\u00e9mo"
+    },
+    "song_id": 2063429,
+    "url": "https://genius.com/6803182/Melanie-pain-prendre-le-jour-demo/Prendre-le-jour-demo",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2063429",
+     "client_timestamps": {
+      "updated_by_human_at": 1481853583,
+      "lyrics_updated_at": 1433952902
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 2063429,
+     "image_url": "https://images.genius.com/36190006cdbf1d6ec7377914c9b31173.500x500x1.jpg",
+     "link_title": "Prendre le jour - d\u00e9mo by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Prendre le jour - d\u00e9mo",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-prendre-le-jour-demo-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6803182",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6803182,
+      "pinned": false,
+      "share_url": "https://genius.com/6803182",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6803182/Melanie-pain-prendre-le-jour-demo/Prendre-le-jour-demo",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1988660",
+   "apple_music_id": "1148108792",
+   "apple_music_player_url": "https://genius.com/songs/1988660/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1988660' class='rg_embed_link' data-song-id='1988660'>Read <a href='https://genius.com/Melanie-pain-peut-tre-pas-lyrics'>\u201cPeut-\u0090tre pas\u201d by M\u00e9lanie\u00a0Pain</a> on Genius</div> <script crossorigin src='//genius.com/songs/1988660/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Peut-\u0090tre pas by\u00a0M\u00e9lanie\u00a0Pain",
+   "header_image_thumbnail_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+   "id": 1988660,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Melanie-pain-peut-tre-pas-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Peut-\u0090tre pas",
+   "title_with_featured": "Peut-\u0090tre pas",
+   "url": "https://genius.com/Melanie-pain-peut-tre-pas-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6675764",
+    "classification": "needs_exegesis",
+    "fragment": "Peut-\u0090tre pas",
+    "id": 6675764,
+    "is_description": true,
+    "path": "/6675764/Melanie-pain-peut-tre-pas/Peut-tre-pas",
+    "range": {
+     "content": "Peut-\u0090tre pas"
+    },
+    "song_id": 1988660,
+    "url": "https://genius.com/6675764/Melanie-pain-peut-tre-pas/Peut-tre-pas",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1988660",
+     "client_timestamps": {
+      "updated_by_human_at": 1446158636,
+      "lyrics_updated_at": 1432936695
+     },
+     "context": "M\u00e9lanie Pain",
+     "id": 1988660,
+     "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+     "link_title": "Peut-\u0090tre pas by\u00a0M\u00e9lanie\u00a0Pain",
+     "title": "Peut-\u0090tre pas",
+     "type": "Song",
+     "url": "https://genius.com/Melanie-pain-peut-tre-pas-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6675764",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6675764,
+      "pinned": false,
+      "share_url": "https://genius.com/6675764",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6675764/Melanie-pain-peut-tre-pas/Peut-tre-pas",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375895",
+    "header_image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "id": 375895,
+    "image_url": "https://images.genius.com/3a1ede7853876585331097e43d2aaf8c.350x350x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "M\u00e9lanie Pain",
+    "url": "https://genius.com/artists/Melanie-pain"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Quand tu verras des nuages\nAssombrir notre route\nQuand tu entendras l'orage\nJ'aimerais que tu m'\u00e9coutes\nJ'aimerais que tu restes sage\nEt que dans la d\u00e9route\nTu garde cette image\nD'un c\u009cur qui doute\n\nJe ne suis peut-\u00eatre pas\nCelle que je crois, celle que tu vois\nPeut-\u00eatre suis-je meilleure\nPeut-\u00eatre pas, peut-\u00eatre pas\n\nM\u00eame soleil sous un ciel gris\nM\u00eame d\u00e9sert, m\u00eame pluie\nM\u00eame envie qui s'enfuit\nVers des ombres qui sourient\nM\u00eame ennui d'une m\u00eame vie\nCar le bonheur a son prix\nEt n'accorde aucun cr\u00e9dit\nAux c\u009curs qui doutent\n\nJe ne suis peut-\u00eatre pas\nCelle que je crois, celle que tu vois\nPeut-\u00eatre suis-je meilleure\nPeut-\u00eatre pas, peut-\u00eatre pas\nQue celle qui tombe \u00e0 chaque pas\nCelle que tu crois, celle que je vois\nPeut-\u00eatre suis-je meilleure\nPeut-\u00eatre pas, peut-\u00eatre pas\n\nSi tu as vu des nuages\nAssombrir notre route\nSi tu as entendu l'orage\nPendant que tu m'\u00e9coutes\nJ'aimerais que tu sois rest\u00e9 sage\nEt que dans la d\u00e9route\nTu aies gard\u00e9 cette image\nD'un c\u009cur qui doute"
+  }
+ ]
+}

@@ -1,0 +1,4942 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/646852",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 646852,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Mary Goes Round",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Mary-goes-round",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2990434,
+  "annotator_login": "Witchcraft",
+  "api_path": "/referents/8777496",
+  "classification": "needs_exegesis",
+  "fragment": "Mary Goes Round",
+  "id": 8777496,
+  "is_description": true,
+  "path": "/8777496/Mary-goes-round/Mary-goes-round",
+  "range": {
+   "content": "Mary Goes Round"
+  },
+  "song_id": null,
+  "url": "https://genius.com/8777496/Mary-goes-round/Mary-goes-round",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/646852",
+   "context": null,
+   "id": 646852,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Mary Goes Round",
+   "title": "Mary Goes Round",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Mary-goes-round"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/8777496",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 8777496,
+    "pinned": false,
+    "share_url": "https://genius.com/8777496",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/8777496/Mary-goes-round/Mary-goes-round",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2990434",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2990434,
+       "iq": 900,
+       "login": "Witchcraft",
+       "name": "Witchcraft",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Witchcraft",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2435058",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2435058/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2435058' class='rg_embed_link' data-song-id='2435058'>Read <a href='https://genius.com/Mary-goes-round-marys-garden-lyrics'>\u201cMary's Garden\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2435058/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Mary's Garden by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "id": 2435058,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-marys-garden-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mary\u2019s Garden",
+   "title_with_featured": "Mary's Garden",
+   "url": "https://genius.com/Mary-goes-round-marys-garden-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8777498",
+    "classification": "needs_exegesis",
+    "fragment": "Mary\u2019s Garden",
+    "id": 8777498,
+    "is_description": true,
+    "path": "/8777498/Mary-goes-round-marys-garden/Marys-garden",
+    "range": {
+     "content": "Mary's Garden"
+    },
+    "song_id": 2435058,
+    "url": "https://genius.com/8777498/Mary-goes-round-marys-garden/Marys-garden",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2435058",
+     "client_timestamps": {
+      "updated_by_human_at": 1457305027,
+      "lyrics_updated_at": 1457304379
+     },
+     "context": "Mary Goes Round",
+     "id": 2435058,
+     "image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+     "link_title": "Mary\u2019s Garden by\u00a0Mary\u00a0Goes Round",
+     "title": "Mary's Garden",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-marys-garden-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8777498",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8777498,
+      "pinned": false,
+      "share_url": "https://genius.com/8777498",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8777498/Mary-goes-round-marys-garden/Marys-garden",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ltsPCtI9eMY"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2435108",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2435108/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2435108' class='rg_embed_link' data-song-id='2435108'>Read <a href='https://genius.com/Mary-goes-round-doubts-lyrics'>\u201cDoubts\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2435108/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Doubts by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "id": 2435108,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-doubts-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Doubts",
+   "title_with_featured": "Doubts",
+   "url": "https://genius.com/Mary-goes-round-doubts-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8778026",
+    "classification": "needs_exegesis",
+    "fragment": "Doubts",
+    "id": 8778026,
+    "is_description": true,
+    "path": "/8778026/Mary-goes-round-doubts/Doubts",
+    "range": {
+     "content": "Doubts"
+    },
+    "song_id": 2435108,
+    "url": "https://genius.com/8778026/Mary-goes-round-doubts/Doubts",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2435108",
+     "client_timestamps": {
+      "updated_by_human_at": 1457311694,
+      "lyrics_updated_at": 1457311694
+     },
+     "context": "Mary Goes Round",
+     "id": 2435108,
+     "image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+     "link_title": "Doubts by\u00a0Mary\u00a0Goes Round",
+     "title": "Doubts",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-doubts-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8778026",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8778026,
+      "pinned": false,
+      "share_url": "https://genius.com/8778026",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8778026/Mary-goes-round-doubts/Doubts",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=rMbJUTHrHJc"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Hope you really care when I lay beside you\nDo you understand when I talk to you\nThe words I say would never hurt you\nGuess I shouldn't doubt you when you're far away\nBut I can't help it in my empty bed\nTell me that I'm right to stay with you (x2)"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2435067",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2435067/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2435067' class='rg_embed_link' data-song-id='2435067'>Read <a href='https://genius.com/Mary-goes-round-she-said-lyrics'>\u201cShe Said\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2435067/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "She Said by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "id": 2435067,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-she-said-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "She Said",
+   "title_with_featured": "She Said",
+   "url": "https://genius.com/Mary-goes-round-she-said-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8777588",
+    "classification": "needs_exegesis",
+    "fragment": "She Said",
+    "id": 8777588,
+    "is_description": true,
+    "path": "/8777588/Mary-goes-round-she-said/She-said",
+    "range": {
+     "content": "She Said"
+    },
+    "song_id": 2435067,
+    "url": "https://genius.com/8777588/Mary-goes-round-she-said/She-said",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2435067",
+     "client_timestamps": {
+      "updated_by_human_at": 1457305620,
+      "lyrics_updated_at": 1457305490
+     },
+     "context": "Mary Goes Round",
+     "id": 2435067,
+     "image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+     "link_title": "She Said by\u00a0Mary\u00a0Goes Round",
+     "title": "She Said",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-she-said-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8777588",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8777588,
+      "pinned": false,
+      "share_url": "https://genius.com/8777588",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8777588/Mary-goes-round-she-said/She-said",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=SLHjoGHJgb4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2435104",
+   "apple_music_id": "356876321",
+   "apple_music_player_url": "https://genius.com/songs/2435104/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2435104' class='rg_embed_link' data-song-id='2435104'>Read <a href='https://genius.com/Mary-goes-round-kiss-me-love-lyrics'>\u201cKiss Me Love\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2435104/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Kiss Me Love by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "id": 2435104,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-kiss-me-love-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Kiss Me Love",
+   "title_with_featured": "Kiss Me Love",
+   "url": "https://genius.com/Mary-goes-round-kiss-me-love-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8777975",
+    "classification": "needs_exegesis",
+    "fragment": "Kiss Me Love",
+    "id": 8777975,
+    "is_description": true,
+    "path": "/8777975/Mary-goes-round-kiss-me-love/Kiss-me-love",
+    "range": {
+     "content": "Kiss Me Love"
+    },
+    "song_id": 2435104,
+    "url": "https://genius.com/8777975/Mary-goes-round-kiss-me-love/Kiss-me-love",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2435104",
+     "client_timestamps": {
+      "updated_by_human_at": 1457311007,
+      "lyrics_updated_at": 1457310813
+     },
+     "context": "Mary Goes Round",
+     "id": 2435104,
+     "image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+     "link_title": "Kiss Me Love by\u00a0Mary\u00a0Goes Round",
+     "title": "Kiss Me Love",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-kiss-me-love-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8777975",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8777975,
+      "pinned": false,
+      "share_url": "https://genius.com/8777975",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8777975/Mary-goes-round-kiss-me-love/Kiss-me-love",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=qJuQ71ngMGw"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "I was messing around in my bedroom\nAlways this same old boring stuff\nSo I finally switched on my TV\nHopping to get a tremendous kick\nI was certainly dead drunk again\nWhen this foolish movie began\nThere was a girl looking at me\nShe took her clothes off and grip my hand\nAs she said\n\nKiss me love oh kiss me more\nI can't stand to see you crying (x2)\n\nI was messing around in my bedroom\nAlways this same old boring stuff\nSo I finally switched on my TV\nHopping to get a tremendous kick\nI was certainly dead drunk again\nWhen this foolish movie began\nThere was a girl looking at me\nShe took her clothes off and grip my hand\nAs she said\n\nKiss me love oh kiss me more\nI can't stand to see you crying (x2)\n\nKiss me love oh kiss me more\nI can't stand to see you crying (x2)\n\nKiss me love kiss me more (x2)\nKiss me (x5)"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2438067",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2438067/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2438067' class='rg_embed_link' data-song-id='2438067'>Read <a href='https://genius.com/Mary-goes-round-on-my-way-back-home-lyrics'>\u201cOn my way back home\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2438067/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "On my way back home by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "id": 2438067,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-on-my-way-back-home-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "On my way back home",
+   "title_with_featured": "On my way back home",
+   "url": "https://genius.com/Mary-goes-round-on-my-way-back-home-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8808697",
+    "classification": "needs_exegesis",
+    "fragment": "On my way back home",
+    "id": 8808697,
+    "is_description": true,
+    "path": "/8808697/Mary-goes-round-on-my-way-back-home/On-my-way-back-home",
+    "range": {
+     "content": "On my way back home"
+    },
+    "song_id": 2438067,
+    "url": "https://genius.com/8808697/Mary-goes-round-on-my-way-back-home/On-my-way-back-home",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2438067",
+     "client_timestamps": {
+      "updated_by_human_at": 1457816040,
+      "lyrics_updated_at": 1457815975
+     },
+     "context": "Mary Goes Round",
+     "id": 2438067,
+     "image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+     "link_title": "On my way back home by\u00a0Mary\u00a0Goes Round",
+     "title": "On my way back home",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-on-my-way-back-home-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8808697",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8808697,
+      "pinned": false,
+      "share_url": "https://genius.com/8808697",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8808697/Mary-goes-round-on-my-way-back-home/On-my-way-back-home",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=aIdIri--O60"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "On my way back home after so many times\nI wonder how to find my childhood memories\nAll the fears I had are written on the walls\nMay the thunder fall burn these ruins down\n\nOn my way back home I hear the never ending hum\nIt brings me back to hell\n\nOn my way back home I hear the never ending hum\nIt brings me back to hell\n\nOn my way back home I feel so old\nStanding like a stranger staring at the road\nThough I know some ways I'm waiting all alone\nNow the sun is out I've got to make them pay\n\nOn my way back home I hear the never ending hum\nIt brings me back to hell\n\nOn my way back home I hear the never ending hum\nIt brings me back to hell"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2438073",
+   "apple_music_id": "602773132",
+   "apple_music_player_url": "https://genius.com/songs/2438073/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2438073' class='rg_embed_link' data-song-id='2438073'>Read <a href='https://genius.com/Mary-goes-round-eagle-lyrics'>\u201cEagle\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2438073/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Eagle by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "id": 2438073,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-eagle-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Eagle",
+   "title_with_featured": "Eagle",
+   "url": "https://genius.com/Mary-goes-round-eagle-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8808720",
+    "classification": "needs_exegesis",
+    "fragment": "Eagle",
+    "id": 8808720,
+    "is_description": true,
+    "path": "/8808720/Mary-goes-round-eagle/Eagle",
+    "range": {
+     "content": "Eagle"
+    },
+    "song_id": 2438073,
+    "url": "https://genius.com/8808720/Mary-goes-round-eagle/Eagle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2438073",
+     "client_timestamps": {
+      "updated_by_human_at": 1457816785,
+      "lyrics_updated_at": 1457816442
+     },
+     "context": "Mary Goes Round",
+     "id": 2438073,
+     "image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+     "link_title": "Eagle by\u00a0Mary\u00a0Goes Round",
+     "title": "Eagle",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-eagle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8808720",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8808720,
+      "pinned": false,
+      "share_url": "https://genius.com/8808720",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8808720/Mary-goes-round-eagle/Eagle",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=LUKEoMMTdRw"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2435088",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2435088/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2435088' class='rg_embed_link' data-song-id='2435088'>Read <a href='https://genius.com/Mary-goes-round-clouds-and-clouds-lyrics'>\u201cClouds & Clouds\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2435088/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Clouds & Clouds by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "id": 2435088,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-clouds-and-clouds-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Clouds & Clouds",
+   "title_with_featured": "Clouds & Clouds",
+   "url": "https://genius.com/Mary-goes-round-clouds-and-clouds-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8777754",
+    "classification": "needs_exegesis",
+    "fragment": "Clouds & Clouds",
+    "id": 8777754,
+    "is_description": true,
+    "path": "/8777754/Mary-goes-round-clouds-and-clouds/Clouds-and-clouds",
+    "range": {
+     "content": "Clouds & Clouds"
+    },
+    "song_id": 2435088,
+    "url": "https://genius.com/8777754/Mary-goes-round-clouds-and-clouds/Clouds-and-clouds",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2435088",
+     "client_timestamps": {
+      "updated_by_human_at": 1494456810,
+      "lyrics_updated_at": 1457307875
+     },
+     "context": "Mary Goes Round",
+     "id": 2435088,
+     "image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+     "link_title": "Clouds & Clouds by\u00a0Mary\u00a0Goes Round",
+     "title": "Clouds & Clouds",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-clouds-and-clouds-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8777754",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8777754,
+      "pinned": false,
+      "share_url": "https://genius.com/8777754",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8777754/Mary-goes-round-clouds-and-clouds/Clouds-and-clouds",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Wa8-k8twXgM"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2438079",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2438079/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2438079' class='rg_embed_link' data-song-id='2438079'>Read <a href='https://genius.com/Mary-goes-round-pink-shadow-lyrics'>\u201cPink Shadow\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2438079/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Pink Shadow by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "id": 2438079,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": "instrumental",
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-pink-shadow-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Pink Shadow",
+   "title_with_featured": "Pink Shadow",
+   "url": "https://genius.com/Mary-goes-round-pink-shadow-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8808764",
+    "classification": "needs_exegesis",
+    "fragment": "Pink Shadow",
+    "id": 8808764,
+    "is_description": true,
+    "path": "/8808764/Mary-goes-round-pink-shadow/Pink-shadow",
+    "range": {
+     "content": "Pink Shadow"
+    },
+    "song_id": 2438079,
+    "url": "https://genius.com/8808764/Mary-goes-round-pink-shadow/Pink-shadow",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2438079",
+     "client_timestamps": {
+      "updated_by_human_at": 1457817494,
+      "lyrics_updated_at": 1457817201
+     },
+     "context": "Mary Goes Round",
+     "id": 2438079,
+     "image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+     "link_title": "Pink Shadow by\u00a0Mary\u00a0Goes Round",
+     "title": "Pink Shadow",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-pink-shadow-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8808764",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8808764,
+      "pinned": false,
+      "share_url": "https://genius.com/8808764",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8808764/Mary-goes-round-pink-shadow/Pink-shadow",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Fs1ypFpVH0w"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "(instrumental )"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2438108",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2438108/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2438108' class='rg_embed_link' data-song-id='2438108'>Read <a href='https://genius.com/Mary-goes-round-any-mary-i-see-lyrics'>\u201cAny Mary I See\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2438108/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Any Mary I See by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "id": 2438108,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-any-mary-i-see-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Any Mary I See",
+   "title_with_featured": "Any Mary I See",
+   "url": "https://genius.com/Mary-goes-round-any-mary-i-see-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8809024",
+    "classification": "needs_exegesis",
+    "fragment": "Any Mary I See",
+    "id": 8809024,
+    "is_description": true,
+    "path": "/8809024/Mary-goes-round-any-mary-i-see/Any-mary-i-see",
+    "range": {
+     "content": "Any Mary I See"
+    },
+    "song_id": 2438108,
+    "url": "https://genius.com/8809024/Mary-goes-round-any-mary-i-see/Any-mary-i-see",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2438108",
+     "client_timestamps": {
+      "updated_by_human_at": 1476997264,
+      "lyrics_updated_at": 1458692928
+     },
+     "context": "Mary Goes Round",
+     "id": 2438108,
+     "image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+     "link_title": "Any Mary I See by\u00a0Mary\u00a0Goes Round",
+     "title": "Any Mary I See",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-any-mary-i-see-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8809024",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8809024,
+      "pinned": false,
+      "share_url": "https://genius.com/8809024",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8809024/Mary-goes-round-any-mary-i-see/Any-mary-i-see",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Up4adY85mE0"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2435080",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2435080/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2435080' class='rg_embed_link' data-song-id='2435080'>Read <a href='https://genius.com/Mary-goes-round-useless-day-lyrics'>\u201cUseless Day\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2435080/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Useless Day by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "id": 2435080,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-useless-day-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Useless Day",
+   "title_with_featured": "Useless Day",
+   "url": "https://genius.com/Mary-goes-round-useless-day-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8777686",
+    "classification": "needs_exegesis",
+    "fragment": "Useless Day",
+    "id": 8777686,
+    "is_description": true,
+    "path": "/8777686/Mary-goes-round-useless-day/Useless-day",
+    "range": {
+     "content": "Useless Day"
+    },
+    "song_id": 2435080,
+    "url": "https://genius.com/8777686/Mary-goes-round-useless-day/Useless-day",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2435080",
+     "client_timestamps": {
+      "updated_by_human_at": 1457307052,
+      "lyrics_updated_at": 1457306942
+     },
+     "context": "Mary Goes Round",
+     "id": 2435080,
+     "image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+     "link_title": "Useless Day by\u00a0Mary\u00a0Goes Round",
+     "title": "Useless Day",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-useless-day-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8777686",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8777686,
+      "pinned": false,
+      "share_url": "https://genius.com/8777686",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8777686/Mary-goes-round-useless-day/Useless-day",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=dye2o7M8cXo"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2438081",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2438081/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2438081' class='rg_embed_link' data-song-id='2438081'>Read <a href='https://genius.com/Mary-goes-round-nightfall-lyrics'>\u201cNightfall\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2438081/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Nightfall by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "id": 2438081,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-nightfall-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Nightfall",
+   "title_with_featured": "Nightfall",
+   "url": "https://genius.com/Mary-goes-round-nightfall-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8808785",
+    "classification": "needs_exegesis",
+    "fragment": "Nightfall",
+    "id": 8808785,
+    "is_description": true,
+    "path": "/8808785/Mary-goes-round-nightfall/Nightfall",
+    "range": {
+     "content": "Nightfall"
+    },
+    "song_id": 2438081,
+    "url": "https://genius.com/8808785/Mary-goes-round-nightfall/Nightfall",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2438081",
+     "client_timestamps": {
+      "updated_by_human_at": 1457817460,
+      "lyrics_updated_at": 1457817410
+     },
+     "context": "Mary Goes Round",
+     "id": 2438081,
+     "image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+     "link_title": "Nightfall by\u00a0Mary\u00a0Goes Round",
+     "title": "Nightfall",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-nightfall-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8808785",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8808785,
+      "pinned": false,
+      "share_url": "https://genius.com/8808785",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8808785/Mary-goes-round-nightfall/Nightfall",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=QemCan0wya4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Well it's all right everything's fine\nIt's nightfall we're having some good time\nFar from the land we're walking on the ocean\nWhere pleasures and drugs will blow our mind aways\nWe've killed all the dogs so let the silence be\nEnjoy the sunset like a new birth\nIt's a nice trip within your sex\nNow I fell in rapture\nWe shall forget the ugly old man\nDust once he was dust he will be\n\nHear the sirens song calling calling\nWe shall follow their sexual attraction\nHear the sirens song calling calling\nWe shall follow their fatal attraction\nTheir sexual attraction\nTheir fatal attraction\nAttraction\n\nWell it's all right everything's fine\nIt's nightfall we're having some good time\nFar from the land we're walking on the ocean\nWhere pleasures and drugs will blow our mind aways\nWe've killed all the dogs so let the silence be\nEnjoy the sunset like a new birth\nIt's a nice trip within your sex\nNow I fell in rapture\nWe shall forget the ugly old man\nDust once he was dust he will be\n\nHear the sirens song calling calling\nWe shall follow their sexual attraction\nHear the sirens song calling calling\nWe shall follow their fatal attraction\nTheir sexual attraction\nTheir fatal attraction\nAttraction"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2435092",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2435092/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2435092' class='rg_embed_link' data-song-id='2435092'>Read <a href='https://genius.com/Mary-goes-round-who-believes-in-better-days-lyrics'>\u201cWho Believes In Better Days ?\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2435092/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Who Believes In Better Days ? by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "id": 2435092,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-who-believes-in-better-days-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Who Believes In Better Days ?",
+   "title_with_featured": "Who Believes In Better Days ?",
+   "url": "https://genius.com/Mary-goes-round-who-believes-in-better-days-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8777859",
+    "classification": "needs_exegesis",
+    "fragment": "Who Believes In Better Days ?",
+    "id": 8777859,
+    "is_description": true,
+    "path": "/8777859/Mary-goes-round-who-believes-in-better-days/Who-believes-in-better-days",
+    "range": {
+     "content": "Who Believes In Better Days ?"
+    },
+    "song_id": 2435092,
+    "url": "https://genius.com/8777859/Mary-goes-round-who-believes-in-better-days/Who-believes-in-better-days",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2435092",
+     "client_timestamps": {
+      "updated_by_human_at": 1457308682,
+      "lyrics_updated_at": 1457308631
+     },
+     "context": "Mary Goes Round",
+     "id": 2435092,
+     "image_url": "https://images.rapgenius.com/81a37b45d6b8241e58740e67710ff10a.800x800x1.jpg",
+     "link_title": "Who Believes In Better Days ? by\u00a0Mary\u00a0Goes Round",
+     "title": "Who Believes In Better Days ?",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-who-believes-in-better-days-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8777859",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8777859,
+      "pinned": false,
+      "share_url": "https://genius.com/8777859",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8777859/Mary-goes-round-who-believes-in-better-days/Who-believes-in-better-days",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=TUWSiqoBwzE"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2443597",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2443597/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2443597' class='rg_embed_link' data-song-id='2443597'>Read <a href='https://genius.com/Mary-goes-round-the-nile-song-lyrics'>\u201cThe Nile Song\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2443597/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "The Nile Song by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+   "header_image_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+   "id": 2443597,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-the-nile-song-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+   "song_art_image_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "The Nile Song",
+   "title_with_featured": "The Nile Song",
+   "url": "https://genius.com/Mary-goes-round-the-nile-song-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145912",
+    "cover_art_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+    "full_title": "70 Suns in the Sky  by Mary Goes Round",
+    "id": 145912,
+    "name": "70 Suns in the Sky ",
+    "url": "https://genius.com/albums/Mary-goes-round/70-suns-in-the-sky",
+    "artist": {
+     "api_path": "/artists/646852",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 646852,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mary Goes Round",
+     "url": "https://genius.com/artists/Mary-goes-round"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8860812",
+    "classification": "needs_exegesis",
+    "fragment": "The Nile Song",
+    "id": 8860812,
+    "is_description": true,
+    "path": "/8860812/Mary-goes-round-the-nile-song/The-nile-song",
+    "range": {
+     "content": "The Nile Song"
+    },
+    "song_id": 2443597,
+    "url": "https://genius.com/8860812/Mary-goes-round-the-nile-song/The-nile-song",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2443597",
+     "client_timestamps": {
+      "updated_by_human_at": 1476997280,
+      "lyrics_updated_at": 1458693772
+     },
+     "context": "Mary Goes Round",
+     "id": 2443597,
+     "image_url": "https://i.genius.com/61a958d9bed4e8dfcc23e8abd59c6f219bcbc348?url=http%3A%2F%2Fcdn.discogs.com%2F6o161XaoLoo40jWUxQXb3SIlcOY%3D%2Ffit-in%2F300x300%2Ffilters%3Astrip_icc%28%29%3Aformat%28jpeg%29%3Amode_rgb%28%29%2Fdiscogs-images%2FR-833765-1275751831.jpeg.jpg",
+     "link_title": "The Nile Song by\u00a0Mary\u00a0Goes Round",
+     "title": "The Nile Song",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-the-nile-song-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8860812",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8860812,
+      "pinned": false,
+      "share_url": "https://genius.com/8860812",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8860812/Mary-goes-round-the-nile-song/The-nile-song",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=TPrs9v0i3U4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/33624",
+     "header_image_url": "https://images.genius.com/93060f1a930c1fb1ad35a482bc95d487.1000x667x1.jpg",
+     "id": 33624,
+     "image_url": "https://images.genius.com/8c6fa0c62f1cabadcc520452293beb70.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roger Waters",
+     "url": "https://genius.com/artists/Roger-waters"
+    }
+   ],
+   "lyrics": "I was standing by the Nile\nWhen I saw the lady smile\nI would take her out for a while\nFor a while\n\nOh, my tears wept like a child\nHow her golden hair was blowing wild\nThen she spread her wings to fly\nFor to fly\n\nSoaring high above the breezes\nGoing always where she pleases\nShe will make it to the islands in the sun\n\nI will follow in her shadow\nAs I watch her from my window\nOne day I will catch her eye\n\nShe is calling from the deep\nSummoning my soul to endless sleep\nShe is bound to drag me down\nDrag me down"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2435110",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2435110/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2435110' class='rg_embed_link' data-song-id='2435110'>Read <a href='https://genius.com/Mary-goes-round-the-party-lyrics'>\u201cThe Party\u201d by Mary\u00a0Goes Round</a> on Genius</div> <script crossorigin src='//genius.com/songs/2435110/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "The Party by\u00a0Mary\u00a0Goes Round",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 2435110,
+   "lyrics_owner_id": 2990434,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mary-goes-round-the-party-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1989-01-01",
+   "release_date_for_display": "January 1, 1989",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "The Party",
+   "title_with_featured": "The Party",
+   "url": "https://genius.com/Mary-goes-round-the-party-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2990434,
+    "annotator_login": "Witchcraft",
+    "api_path": "/referents/8778052",
+    "classification": "needs_exegesis",
+    "fragment": "The Party",
+    "id": 8778052,
+    "is_description": true,
+    "path": "/8778052/Mary-goes-round-the-party/The-party",
+    "range": {
+     "content": "The Party"
+    },
+    "song_id": 2435110,
+    "url": "https://genius.com/8778052/Mary-goes-round-the-party/The-party",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2435110",
+     "client_timestamps": {
+      "updated_by_human_at": 1458692985,
+      "lyrics_updated_at": 1457814857
+     },
+     "context": "Mary Goes Round",
+     "id": 2435110,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "The Party by\u00a0Mary\u00a0Goes Round",
+     "title": "The Party",
+     "type": "Song",
+     "url": "https://genius.com/Mary-goes-round-the-party-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8778052",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8778052,
+      "pinned": false,
+      "share_url": "https://genius.com/8778052",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8778052/Mary-goes-round-the-party/The-party",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2990434",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/e7dd201b994b061ce8ff9fd3cb536797",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2990434,
+         "iq": 900,
+         "login": "Witchcraft",
+         "name": "Witchcraft",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Witchcraft",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=QbMFUoZ5sm8"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/646852",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 646852,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mary Goes Round",
+    "url": "https://genius.com/artists/Mary-goes-round"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Just a party in an empty room\nJust a party in an empty room\n\nA light shine in your empty heart\nI have to leave you and I don't know why\nAnd I see children playing all around\nIt just doesn't make any sense\n\nJust a party in an empty room\nJust a party in an empty room\n\nI heard a scream in your empty heart\nLook at the raven fighting in the fields\nThe sun is high over your eyes\nJust like a glimmer on your silent face"
+  }
+ ]
+}

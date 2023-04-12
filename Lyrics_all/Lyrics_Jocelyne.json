@@ -1,0 +1,547 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1957908",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 1957908,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jocelyne",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Jocelyne",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1091826,
+  "annotator_login": "Astroworld",
+  "api_path": "/referents/18095814",
+  "classification": "needs_exegesis",
+  "fragment": "Jocelyne",
+  "id": 18095814,
+  "is_description": true,
+  "path": "/18095814/Jocelyne/Jocelyne",
+  "range": {
+   "content": "Jocelyne"
+  },
+  "song_id": null,
+  "url": "https://genius.com/18095814/Jocelyne/Jocelyne",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1957908",
+   "context": null,
+   "id": 1957908,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Jocelyne",
+   "title": "Jocelyne",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jocelyne"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/18095814",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 18095814,
+    "pinned": false,
+    "share_url": "https://genius.com/18095814",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/18095814/Jocelyne/Jocelyne",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1091826",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8117ee4587623c87e710bee0383671be",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8117ee4587623c87e710bee0383671be",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8117ee4587623c87e710bee0383671be",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8117ee4587623c87e710bee0383671be",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/0498ef540839b2fa22d8f9b2d3f7f5e4.480x196x38.gif",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1091826,
+       "iq": 264384,
+       "login": "Astroworld",
+       "name": "\ud83d\ude80\ud83d\udc51ASTROWORLD",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Astroworld",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4891631",
+   "apple_music_id": "724380000",
+   "apple_music_player_url": "https://genius.com/songs/4891631/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4891631' class='rg_embed_link' data-song-id='4891631'>Read <a href='https://genius.com/Jocelyne-nitty-gritty-lyrics'>\u201cNitty Gritty\u201d by Jocelyne</a> on Genius</div> <script crossorigin src='//genius.com/songs/4891631/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Nitty Gritty by\u00a0Jocelyne",
+   "header_image_thumbnail_url": "https://images.genius.com/628999c48cc4f072a6aaac6af3a5f72b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/628999c48cc4f072a6aaac6af3a5f72b.300x300x1.jpg",
+   "id": 4891631,
+   "lyrics_owner_id": 1091826,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jocelyne-nitty-gritty-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1965-01-01",
+   "release_date_for_display": "January 1, 1965",
+   "song_art_image_thumbnail_url": "https://images.genius.com/628999c48cc4f072a6aaac6af3a5f72b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/628999c48cc4f072a6aaac6af3a5f72b.300x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Nitty Gritty",
+   "title_with_featured": "Nitty Gritty",
+   "url": "https://genius.com/Jocelyne-nitty-gritty-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/463130",
+    "cover_art_url": "https://images.genius.com/18ac13c51fd20b407e1e2c523c7e949a.500x500x1.jpg",
+    "full_title": "Femmes de Paris, vol. 1 by Various Artists",
+    "id": 463130,
+    "name": "Femmes de Paris, vol. 1",
+    "url": "https://genius.com/albums/Various-artists/Femmes-de-paris-vol-1",
+    "artist": {
+     "api_path": "/artists/768",
+     "header_image_url": "https://images.genius.com/399137c5d254397dc600fab5d0a978a8.594x594x1.png",
+     "id": 768,
+     "image_url": "https://images.genius.com/399137c5d254397dc600fab5d0a978a8.594x594x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Various Artists",
+     "url": "https://genius.com/artists/Various-artists"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1091826,
+    "annotator_login": "Astroworld",
+    "api_path": "/referents/18095815",
+    "classification": "needs_exegesis",
+    "fragment": "Nitty Gritty",
+    "id": 18095815,
+    "is_description": true,
+    "path": "/18095815/Jocelyne-nitty-gritty/Nitty-gritty",
+    "range": {
+     "content": "Nitty Gritty"
+    },
+    "song_id": 4891631,
+    "url": "https://genius.com/18095815/Jocelyne-nitty-gritty/Nitty-gritty",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4891631",
+     "client_timestamps": {
+      "updated_by_human_at": 1569188356,
+      "lyrics_updated_at": 1569188281
+     },
+     "context": "Jocelyne",
+     "id": 4891631,
+     "image_url": "https://images.genius.com/628999c48cc4f072a6aaac6af3a5f72b.300x300x1.jpg",
+     "link_title": "Nitty Gritty by\u00a0Jocelyne",
+     "title": "Nitty Gritty",
+     "type": "Song",
+     "url": "https://genius.com/Jocelyne-nitty-gritty-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18095815",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18095815,
+      "pinned": false,
+      "share_url": "https://genius.com/18095815",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18095815/Jocelyne-nitty-gritty/Nitty-gritty",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1091826",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8117ee4587623c87e710bee0383671be",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8117ee4587623c87e710bee0383671be",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8117ee4587623c87e710bee0383671be",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8117ee4587623c87e710bee0383671be",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/0498ef540839b2fa22d8f9b2d3f7f5e4.480x196x38.gif",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1091826,
+         "iq": 264384,
+         "login": "Astroworld",
+         "name": "\ud83d\ude80\ud83d\udc51ASTROWORLD",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Astroworld",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=78VQB_wekkc"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1957908",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 1957908,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jocelyne",
+    "url": "https://genius.com/artists/Jocelyne"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1538502",
+       "full_title": "The Nitty Gritty by\u00a0Shirley\u00a0Ellis",
+       "header_image_thumbnail_url": "https://images.genius.com/2819af5d225e2853d45e2e611efaa600.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2819af5d225e2853d45e2e611efaa600.600x600x1.jpg",
+       "id": 1538502,
+       "lyrics_owner_id": 6871896,
+       "lyrics_state": "complete",
+       "path": "/Shirley-ellis-the-nitty-gritty-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/2819af5d225e2853d45e2e611efaa600.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2819af5d225e2853d45e2e611efaa600.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "The Nitty Gritty",
+       "title_with_featured": "The Nitty Gritty",
+       "url": "https://genius.com/Shirley-ellis-the-nitty-gritty-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/309615",
+        "header_image_url": "https://images.genius.com/af8c168ef3afc8af95cb723785558929.504x581x1.jpg",
+        "id": 309615,
+        "image_url": "https://images.genius.com/1e05800835dc5927e33713076410433d.504x504x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Shirley Ellis",
+        "url": "https://genius.com/artists/Shirley-ellis"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Ma meilleure amie s'appelle Gigi, yeah!\nCe pr\u00e9nom ne lui va pas du tout\nEt un beau\u2005jour\u2005un copain lui\u2005a trouv\u00e9\nUn autre pr\u00e9nom\nDepuis on l'appelle\u2005Nitty Gritty\nC'est mieux heee\n\u00c7a lui va\nOui\nCe nom lui va bien\nEt maintenant ses parents\nL'appellent aussi Nitty Gritty\nMais en plus de son nom\nCe qui pla\u00eet chez Nitty Gritty\nCe sont ses yeux bleus\nEt puis son sourire, Nitty Gritty\nCe nom Nitty Gritty lui va bien\nNitty Gritty\nOui yeah\nElle est tr\u00e8s jolie Nitty Gritty\nEt sa vie a chang\u00e9\nDepuis qu'on l'appelle Nitty Gritty\nElle est bien plus jolie\nDepuis on l'appelle Nitty Gritty\nNitty Gritty moi, je l'aime bien"
+  }
+ ]
+}

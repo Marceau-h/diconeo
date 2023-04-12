@@ -1,0 +1,508 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/481759",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 481759,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Philippe risoli",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Philippe-risoli",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7127150",
+  "classification": "needs_exegesis",
+  "fragment": "Philippe risoli",
+  "id": 7127150,
+  "is_description": true,
+  "path": "/7127150/Philippe-risoli/Philippe-risoli",
+  "range": {
+   "content": "Philippe risoli"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7127150/Philippe-risoli/Philippe-risoli",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/481759",
+   "context": null,
+   "id": 481759,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Philippe risoli",
+   "title": "Philippe risoli",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Philippe-risoli"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7127150",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7127150,
+    "pinned": false,
+    "share_url": "https://genius.com/7127150",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7127150/Philippe-risoli/Philippe-risoli",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2067107",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2067107/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2067107' class='rg_embed_link' data-song-id='2067107'>Read <a href='https://genius.com/Philippe-risoli-alors-on-danse-lyrics'>\u201cAlors on danse\u201d by Philippe\u00a0risoli</a> on Genius</div> <script crossorigin src='//genius.com/songs/2067107/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Alors on danse by\u00a0Philippe\u00a0risoli",
+   "header_image_thumbnail_url": "https://images.genius.com/2dd54f1c1727a17c4c7de1b7723f16a3.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/2dd54f1c1727a17c4c7de1b7723f16a3.600x600x1.jpg",
+   "id": 2067107,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Philippe-risoli-alors-on-danse-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/2dd54f1c1727a17c4c7de1b7723f16a3.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/2dd54f1c1727a17c4c7de1b7723f16a3.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Alors on danse",
+   "title_with_featured": "Alors on danse",
+   "url": "https://genius.com/Philippe-risoli-alors-on-danse-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/259521",
+    "cover_art_url": "https://images.genius.com/2dd54f1c1727a17c4c7de1b7723f16a3.600x600x1.jpg",
+    "full_title": "Autrement by Philippe risoli",
+    "id": 259521,
+    "name": "Autrement",
+    "url": "https://genius.com/albums/Philippe-risoli/Autrement",
+    "artist": {
+     "api_path": "/artists/481759",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 481759,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Philippe risoli",
+     "url": "https://genius.com/artists/Philippe-risoli"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6806909",
+    "classification": "needs_exegesis",
+    "fragment": "Alors on danse",
+    "id": 6806909,
+    "is_description": true,
+    "path": "/6806909/Philippe-risoli-alors-on-danse/Alors-on-danse",
+    "range": {
+     "content": "Alors on danse"
+    },
+    "song_id": 2067107,
+    "url": "https://genius.com/6806909/Philippe-risoli-alors-on-danse/Alors-on-danse",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2067107",
+     "client_timestamps": {
+      "updated_by_human_at": 1476917058,
+      "lyrics_updated_at": 1433953563
+     },
+     "context": "Philippe risoli",
+     "id": 2067107,
+     "image_url": "https://images.genius.com/2dd54f1c1727a17c4c7de1b7723f16a3.600x600x1.jpg",
+     "link_title": "Alors on danse by\u00a0Philippe\u00a0risoli",
+     "title": "Alors on danse",
+     "type": "Song",
+     "url": "https://genius.com/Philippe-risoli-alors-on-danse-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6806909",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6806909,
+      "pinned": false,
+      "share_url": "https://genius.com/6806909",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6806909/Philippe-risoli-alors-on-danse/Alors-on-danse",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/481759",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 481759,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Philippe risoli",
+    "url": "https://genius.com/artists/Philippe-risoli"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Paroles de la chanson Alors On Danse :\nAlors on dan...(x3)\nQui dit \u00e9tude dit travail\nQui dit taf te dit les thunes\nQui dit argent dit d\u00e9penses\nQui dit cr\u00e9dit dit cr\u00e9ance\nQui dit dette te dit huissier\nOui dit assis dans la merde\nQui dit Amour dit les gosses\nDit toujours et dit divorce\nQui dit proches te dis deuils car les probl\u00e8mes ne viennent pas seul\nQui dit crise te dis monde dit famine et dit tiers- monde\nQui dit fatigue dit r\u00e9veille encore sourd de la veille\nAlors on sort pour oublier tous les probl\u00e8mes\nAlors on danse... (X9)\nEt la tu dis que c'est fini car pire que sa ce serait la mort\nQu'en tu crois enfin que tu t'en sors quand y en a plus et ben y en a encore!\nEst-ce la zik ou les probl\u00e8me les probl\u00e8mes ou bien la musique\nCa t'prends les trips \u00e7a te prends la t\u00eate et puis tu prie pour que \u00e7a s'arr\u00eate\nMais c'est ton corps c'est pas le ciel alors tu t'bouche plus les oreilles\nEt la tu cries encore plus fort et \u00e7a persiste...\nAlors on chante\nLa la la la la la, La la la la la la\nAlors on chante\nLa la la la la la, La la la la la la\nAlors on chante (x2)\nEt puis seulement quand c'est fini, alors on danse\nAlors on danse (x7)\nEt ben y en a encore (X5)"
+  }
+ ]
+}

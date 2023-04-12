@@ -1,0 +1,641 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2037831",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 2037831,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Prisca Demarez",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Prisca-demarez",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 6908650,
+  "annotator_login": "KrNNN",
+  "api_path": "/referents/18595789",
+  "classification": "needs_exegesis",
+  "fragment": "Prisca Demarez",
+  "id": 18595789,
+  "is_description": true,
+  "path": "/18595789/Prisca-demarez/Prisca-demarez",
+  "range": {
+   "content": "Prisca Demarez"
+  },
+  "song_id": null,
+  "url": "https://genius.com/18595789/Prisca-demarez/Prisca-demarez",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2037831",
+   "context": null,
+   "id": 2037831,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Prisca Demarez",
+   "title": "Prisca Demarez",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Prisca-demarez"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/18595789",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 18595789,
+    "pinned": false,
+    "share_url": "https://genius.com/18595789",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/18595789/Prisca-demarez/Prisca-demarez",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6908650",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/ef539f9b9ce943b3cf5d9b29b325311d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/ef539f9b9ce943b3cf5d9b29b325311d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/ef539f9b9ce943b3cf5d9b29b325311d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/ef539f9b9ce943b3cf5d9b29b325311d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/ef539f9b9ce943b3cf5d9b29b325311d",
+       "human_readable_role_for_display": "Contributor",
+       "id": 6908650,
+       "iq": 670,
+       "login": "KrNNN",
+       "name": "KrNNN",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/KrNNN",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5080331",
+   "apple_music_id": "1487751210",
+   "apple_music_player_url": "https://genius.com/songs/5080331/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5080331' class='rg_embed_link' data-song-id='5080331'>Read <a href='https://genius.com/Prisca-demarez-la-berceuse-dahtohallan-lyrics'>\u201cLa berceuse d'Ahtohallan\u201d by Prisca\u00a0Demarez</a> on Genius</div> <script crossorigin src='//genius.com/songs/5080331/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La berceuse d'Ahtohallan by\u00a0Prisca\u00a0Demarez",
+   "header_image_thumbnail_url": "https://images.genius.com/c9d55a0cabddd2a11a03d0468c6400cf.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c9d55a0cabddd2a11a03d0468c6400cf.1000x1000x1.jpg",
+   "id": 5080331,
+   "lyrics_owner_id": 6908650,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Prisca-demarez-la-berceuse-dahtohallan-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2019-11-15",
+   "release_date_for_display": "November 15, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c9d55a0cabddd2a11a03d0468c6400cf.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c9d55a0cabddd2a11a03d0468c6400cf.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La berceuse d\u2019Ahtohallan",
+   "title_with_featured": "La berceuse d'Ahtohallan",
+   "url": "https://genius.com/Prisca-demarez-la-berceuse-dahtohallan-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/639918",
+    "cover_art_url": "https://images.genius.com/a262d552a66c2ea61ed69fd01ffb2a0a.1000x1000x1.jpg",
+    "full_title": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition) by Walt Disney Records",
+    "id": 639918,
+    "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+    "url": "https://genius.com/albums/Walt-disney-records/La-reine-des-neiges-2-bande-originale-francaise-du-film-deluxe-edition",
+    "artist": {
+     "api_path": "/artists/32992",
+     "header_image_url": "https://images.genius.com/c414ea29563cb002e5a067947fc17aab.1000x284x1.png",
+     "id": 32992,
+     "image_url": "https://images.genius.com/9b4c7574a4388683c9d6a23cc090f28d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Walt Disney Records",
+     "url": "https://genius.com/artists/Walt-disney-records"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Translator",
+     "artists": [
+      {
+       "api_path": "/artists/1682789",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "id": 1682789,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Houria Belhadji",
+       "url": "https://genius.com/artists/Houria-belhadji"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/32992",
+       "header_image_url": "https://images.genius.com/c414ea29563cb002e5a067947fc17aab.1000x284x1.png",
+       "id": 32992,
+       "image_url": "https://images.genius.com/9b4c7574a4388683c9d6a23cc090f28d.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Walt Disney Records",
+       "url": "https://genius.com/artists/Walt-disney-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6908650,
+    "annotator_login": "KrNNN",
+    "api_path": "/referents/18595790",
+    "classification": "needs_exegesis",
+    "fragment": "La berceuse d\u2019Ahtohallan",
+    "id": 18595790,
+    "is_description": true,
+    "path": "/18595790/Prisca-demarez-la-berceuse-dahtohallan/La-berceuse-dahtohallan",
+    "range": {
+     "content": "La berceuse d'Ahtohallan"
+    },
+    "song_id": 5080331,
+    "url": "https://genius.com/18595790/Prisca-demarez-la-berceuse-dahtohallan/La-berceuse-dahtohallan",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5080331",
+     "client_timestamps": {
+      "updated_by_human_at": 1590834772,
+      "lyrics_updated_at": 1590819440
+     },
+     "context": "Prisca Demarez",
+     "id": 5080331,
+     "image_url": "https://images.genius.com/c9d55a0cabddd2a11a03d0468c6400cf.1000x1000x1.jpg",
+     "link_title": "La berceuse d\u2019Ahtohallan by\u00a0Prisca\u00a0Demarez",
+     "title": "La berceuse d'Ahtohallan",
+     "type": "Song",
+     "url": "https://genius.com/Prisca-demarez-la-berceuse-dahtohallan-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18595790",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18595790,
+      "pinned": false,
+      "share_url": "https://genius.com/18595790",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18595790/Prisca-demarez-la-berceuse-dahtohallan/La-berceuse-dahtohallan",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6908650",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ef539f9b9ce943b3cf5d9b29b325311d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ef539f9b9ce943b3cf5d9b29b325311d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ef539f9b9ce943b3cf5d9b29b325311d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ef539f9b9ce943b3cf5d9b29b325311d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/ef539f9b9ce943b3cf5d9b29b325311d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6908650,
+         "iq": 670,
+         "login": "KrNNN",
+         "name": "KrNNN",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/KrNNN",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=0mddmgbXcBU"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2037831",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 2037831,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Prisca Demarez",
+    "url": "https://genius.com/artists/Prisca-demarez"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/981975",
+     "header_image_url": "https://images.genius.com/59c41dca5c17489a3e8626f5c50585b4.360x240x1.jpg",
+     "id": 981975,
+     "image_url": "https://images.genius.com/b9bd61395e558f0f3ab1a6eaa48cd97b.708x708x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tom MacDougall",
+     "url": "https://genius.com/artists/Tom-macdougall"
+    },
+    {
+     "api_path": "/artists/1048476",
+     "header_image_url": "https://images.genius.com/f13a25b3875b10e9ff82ce2065450745.900x600x1.jpg",
+     "id": 1048476,
+     "image_url": "https://images.genius.com/5a678213ab4c98e8a6979a5817a0273f.169x169x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Metzger",
+     "url": "https://genius.com/artists/Dave-metzger"
+    },
+    {
+     "api_path": "/artists/137598",
+     "header_image_url": "https://images.genius.com/3f5e0f96edd18c31c1227e1fdb14324b.970x546x1.jpg",
+     "id": 137598,
+     "image_url": "https://images.genius.com/551eb1faeb9d51fe6c3379a64008b2cf.630x630x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kristen Anderson-Lopez",
+     "url": "https://genius.com/artists/Kristen-anderson-lopez"
+    },
+    {
+     "api_path": "/artists/137891",
+     "header_image_url": "https://images.genius.com/3f5e0f96edd18c31c1227e1fdb14324b.970x546x1.jpg",
+     "id": 137891,
+     "image_url": "https://images.genius.com/1b471264660341e0b51102f16fc20baa.184x184x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Robert Lopez",
+     "url": "https://genius.com/artists/Robert-lopez"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4910463",
+       "full_title": "All Is Found by\u00a0Evan\u00a0Rachel Wood",
+       "header_image_thumbnail_url": "https://images.genius.com/b01e31e0e934f36bc72c080c045ce9bd.300x150x1.jpg",
+       "header_image_url": "https://images.genius.com/b01e31e0e934f36bc72c080c045ce9bd.600x300x1.jpg",
+       "id": 4910463,
+       "lyrics_owner_id": 2977739,
+       "lyrics_state": "complete",
+       "path": "/Evan-rachel-wood-all-is-found-lyrics",
+       "pyongs_count": 8,
+       "song_art_image_thumbnail_url": "https://images.genius.com/0886a41132fb71937c57ff2a858e1581.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0886a41132fb71937c57ff2a858e1581.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 391913
+       },
+       "title": "All Is Found",
+       "title_with_featured": "All Is Found",
+       "url": "https://genius.com/Evan-rachel-wood-all-is-found-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/112087",
+        "header_image_url": "https://images.genius.com/1a897694b3dd94df86918e66c0fde0c0.1000x1000x1.jpg",
+        "id": 112087,
+        "image_url": "https://images.genius.com/1a897694b3dd94df86918e66c0fde0c0.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Evan Rachel Wood",
+        "url": "https://genius.com/artists/Evan-rachel-wood"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/137891",
+     "header_image_url": "https://images.genius.com/3f5e0f96edd18c31c1227e1fdb14324b.970x546x1.jpg",
+     "id": 137891,
+     "image_url": "https://images.genius.com/1b471264660341e0b51102f16fc20baa.184x184x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Robert Lopez",
+     "url": "https://genius.com/artists/Robert-lopez"
+    },
+    {
+     "api_path": "/artists/137598",
+     "header_image_url": "https://images.genius.com/3f5e0f96edd18c31c1227e1fdb14324b.970x546x1.jpg",
+     "id": 137598,
+     "image_url": "https://images.genius.com/551eb1faeb9d51fe6c3379a64008b2cf.630x630x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kristen Anderson-Lopez",
+     "url": "https://genius.com/artists/Kristen-anderson-lopez"
+    }
+   ],
+   "lyrics": "[Couplet 1]\nQuand le vent frais vient danser\nLa rivi\u00e8re chante pour ne pas oublier\nFerme les yeux si\u2005tu\u2005veux voir\nTon reflet\u2005dans son grand miroir\n\n[Couplet 2]\nDans l\u2019air du\u2005soir tendre et doux\nL\u2019eau claire murmure un chemin pour nous\nSi tu plonges dans le pass\u00e9\nPrends garde de ne pas t\u2019y noyer\n\n[Couplet 3]\nElle chante pour qui sait \u00e9couter\nCette chanson, magie des flots\nIl faut nos peurs apprivoiser\nPour trouver le secret de l\u2019eau\n\n[Couplet 4]\nQuand le vent frais vient danser\nUne maman r\u00eave tout \u00e9veill\u00e9e\nDors mon enfant n\u2019aie plus peur\nLe pass\u00e9 reste au fond des c\u0153urs"
+  }
+ ]
+}

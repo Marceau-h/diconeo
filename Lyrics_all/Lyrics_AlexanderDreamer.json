@@ -1,0 +1,2144 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/24255",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 24255,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Alexander Dreamer",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Alexander-dreamer",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 7820,
+  "annotator_login": "kidcrave",
+  "api_path": "/referents/6945161",
+  "classification": "needs_exegesis",
+  "fragment": "Alexander Dreamer",
+  "id": 6945161,
+  "is_description": true,
+  "path": "/6945161/Alexander-dreamer/Alexander-dreamer",
+  "range": {
+   "content": "Alexander Dreamer"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6945161/Alexander-dreamer/Alexander-dreamer",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/24255",
+   "context": null,
+   "id": 24255,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Alexander Dreamer",
+   "title": "Alexander Dreamer",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Alexander-dreamer"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6945161",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6945161,
+    "pinned": false,
+    "share_url": "https://genius.com/6945161",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/6945161/Alexander-dreamer/Alexander-dreamer",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7820",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/3332b8dbc5672ae306edcc12be8c663c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/3332b8dbc5672ae306edcc12be8c663c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/3332b8dbc5672ae306edcc12be8c663c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/3332b8dbc5672ae306edcc12be8c663c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/f32afac315c69120570862f8fdd562d1.300x300x1.jpg",
+       "human_readable_role_for_display": null,
+       "id": 7820,
+       "iq": 229,
+       "login": "kidcrave",
+       "name": "Kid Crave",
+       "role_for_display": null,
+       "url": "https://genius.com/kidcrave",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1872136",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1872136/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1872136' class='rg_embed_link' data-song-id='1872136'>Read <a href='https://genius.com/Alexander-dreamer-heaven-on-earth-lyrics'>\u201cHeaven On Earth\u201d by Alexander\u00a0Dreamer</a> on Genius</div> <script crossorigin src='//genius.com/songs/1872136/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Heaven On Earth by\u00a0Alexander\u00a0Dreamer",
+   "header_image_thumbnail_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "header_image_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "id": 1872136,
+   "lyrics_owner_id": 1728637,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Alexander-dreamer-heaven-on-earth-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "song_art_image_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Heaven On Earth",
+   "title_with_featured": "Heaven On Earth",
+   "url": "https://genius.com/Alexander-dreamer-heaven-on-earth-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/263049",
+    "cover_art_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+    "full_title": "Dancing With The Devil by Alexander Dreamer",
+    "id": 263049,
+    "name": "Dancing With The Devil",
+    "url": "https://genius.com/albums/Alexander-dreamer/Dancing-with-the-devil",
+    "artist": {
+     "api_path": "/artists/24255",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 24255,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alexander Dreamer",
+     "url": "https://genius.com/artists/Alexander-dreamer"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1728637,
+    "annotator_login": "MikeRichs21",
+    "api_path": "/referents/6509120",
+    "classification": "needs_exegesis",
+    "fragment": "Heaven On Earth",
+    "id": 6509120,
+    "is_description": true,
+    "path": "/6509120/Alexander-dreamer-heaven-on-earth/Heaven-on-earth",
+    "range": {
+     "content": "Heaven On Earth"
+    },
+    "song_id": 1872136,
+    "url": "https://genius.com/6509120/Alexander-dreamer-heaven-on-earth/Heaven-on-earth",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1872136",
+     "client_timestamps": {
+      "updated_by_human_at": 1479149659,
+      "lyrics_updated_at": 1432043858
+     },
+     "context": "Alexander Dreamer",
+     "id": 1872136,
+     "image_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+     "link_title": "Heaven On Earth by\u00a0Alexander\u00a0Dreamer",
+     "title": "Heaven On Earth",
+     "type": "Song",
+     "url": "https://genius.com/Alexander-dreamer-heaven-on-earth-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6509120",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6509120,
+      "pinned": false,
+      "share_url": "https://genius.com/6509120",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6509120/Alexander-dreamer-heaven-on-earth/Heaven-on-earth",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1728637",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6e1c7055d4f75da61a990f02afe2872a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6e1c7055d4f75da61a990f02afe2872a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6e1c7055d4f75da61a990f02afe2872a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6e1c7055d4f75da61a990f02afe2872a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/6e1c7055d4f75da61a990f02afe2872a",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1728637,
+         "iq": 1272,
+         "login": "MikeRichs21",
+         "name": "MikeRichs21",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MikeRichs21",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/24255",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 24255,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Alexander Dreamer",
+    "url": "https://genius.com/artists/Alexander-dreamer"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Chorus]:\nThis right here gotta be heaven on earth\nLet em tell it, they say death come first\nJust at Hell, though ya chest might burn\nPlus I promise, that deaths much worse\n\n\n[Verse 1]\nYoung Nigga\nOld Story\nSame struggle, no nuts, not glory\nBack in High School I used to want to sell wed\nPops told me it will come lil nigga just wait, Eh\nI grew my lil nigga face\nNow these girls buy into my lil nigga ways\nSeen her at the show\nBlowin kisses at the stage\nI just dropped to get a secret all these niggas yeah Im made\nI guess its true what niggas say\nShe call me Alex, she don't even know my name\nBut no I'm bout it from the image I maintain\nThe more things change the only more they stay the same\nSo still I'm waitin for my ego in the frame\nWatching myself from the reflection in the grain\nIt ain't my ride but I whip it like a slave\nAddicted to the game, thus speaking to the grave\n[Chorus]:\nThis right here gotta be heaven on earth\nLet em tell it, they say death come first\nJust at Hell, though ya chest might burn\nPlus I promise, that deaths much worse\n\n[Verse 2]\nSummertime come and the heat comes out\nFast motherfucker, hit a beat street shout\nAsk motherfuckers I am the word around town\nThey either love it or love how its going down\nThose who knew me look familiar again\nI just tell them that its hard to shake a grudge\nI am not an actor I cannot forge a love\nSo don't expect much, tell me who are you to judge\nI am just a man nigga who am i to budge\nSoaking it up I just wanna feel the rush\n????????"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/789691",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/789691/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_789691' class='rg_embed_link' data-song-id='789691'>Read <a href='https://genius.com/Alexander-dreamer-dream-like-kings-lyrics'>\u201cDream Like Kings\u201d by Alexander\u00a0Dreamer</a> on Genius</div> <script crossorigin src='//genius.com/songs/789691/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Dream Like Kings by\u00a0Alexander\u00a0Dreamer",
+   "header_image_thumbnail_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "header_image_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "id": 789691,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Alexander-dreamer-dream-like-kings-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "song_art_image_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Dream Like Kings",
+   "title_with_featured": "Dream Like Kings",
+   "url": "https://genius.com/Alexander-dreamer-dream-like-kings-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/263049",
+    "cover_art_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+    "full_title": "Dancing With The Devil by Alexander Dreamer",
+    "id": 263049,
+    "name": "Dancing With The Devil",
+    "url": "https://genius.com/albums/Alexander-dreamer/Dancing-with-the-devil",
+    "artist": {
+     "api_path": "/artists/24255",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 24255,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alexander Dreamer",
+     "url": "https://genius.com/artists/Alexander-dreamer"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5265769",
+    "classification": "needs_exegesis",
+    "fragment": "Dream Like Kings",
+    "id": 5265769,
+    "is_description": true,
+    "path": "/5265769/Alexander-dreamer-dream-like-kings/Dream-like-kings",
+    "range": {
+     "content": "Dream Like Kings"
+    },
+    "song_id": 789691,
+    "url": "https://genius.com/5265769/Alexander-dreamer-dream-like-kings/Dream-like-kings",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/789691",
+     "client_timestamps": {
+      "updated_by_human_at": 1481218471,
+      "lyrics_updated_at": 1429196918
+     },
+     "context": "Alexander Dreamer",
+     "id": 789691,
+     "image_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+     "link_title": "Dream Like Kings by\u00a0Alexander\u00a0Dreamer",
+     "title": "Dream Like Kings",
+     "type": "Song",
+     "url": "https://genius.com/Alexander-dreamer-dream-like-kings-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5265769",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5265769,
+      "pinned": false,
+      "share_url": "https://genius.com/5265769",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5265769/Alexander-dreamer-dream-like-kings/Dream-like-kings",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/24255",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 24255,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Alexander Dreamer",
+    "url": "https://genius.com/artists/Alexander-dreamer"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/778205",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/778205/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_778205' class='rg_embed_link' data-song-id='778205'>Read <a href='https://genius.com/Alexander-dreamer-young-lyrics'>\u201cYoung\u201d by Alexander\u00a0Dreamer</a> on Genius</div> <script crossorigin src='//genius.com/songs/778205/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Young by\u00a0Alexander\u00a0Dreamer",
+   "header_image_thumbnail_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "header_image_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "id": 778205,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Alexander-dreamer-young-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "song_art_image_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Young",
+   "title_with_featured": "Young",
+   "url": "https://genius.com/Alexander-dreamer-young-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/263049",
+    "cover_art_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+    "full_title": "Dancing With The Devil by Alexander Dreamer",
+    "id": 263049,
+    "name": "Dancing With The Devil",
+    "url": "https://genius.com/albums/Alexander-dreamer/Dancing-with-the-devil",
+    "artist": {
+     "api_path": "/artists/24255",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 24255,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alexander Dreamer",
+     "url": "https://genius.com/artists/Alexander-dreamer"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5254102",
+    "classification": "needs_exegesis",
+    "fragment": "Young",
+    "id": 5254102,
+    "is_description": true,
+    "path": "/5254102/Alexander-dreamer-young/Young",
+    "range": {
+     "content": "Young"
+    },
+    "song_id": 778205,
+    "url": "https://genius.com/5254102/Alexander-dreamer-young/Young",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/778205",
+     "client_timestamps": {
+      "updated_by_human_at": 1476923286,
+      "lyrics_updated_at": 1429193309
+     },
+     "context": "Alexander Dreamer",
+     "id": 778205,
+     "image_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+     "link_title": "Young by\u00a0Alexander\u00a0Dreamer",
+     "title": "Young",
+     "type": "Song",
+     "url": "https://genius.com/Alexander-dreamer-young-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5254102",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5254102,
+      "pinned": false,
+      "share_url": "https://genius.com/5254102",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5254102/Alexander-dreamer-young/Young",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/24255",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 24255,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Alexander Dreamer",
+    "url": "https://genius.com/artists/Alexander-dreamer"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "To be different is to be proceed working\nNow it really seems working how I be proceed living\nBut show you dreams of go to school\nWhat we gonna do when I'm lounges over do\nFight it to wishes that way higher than a roof\nFor that college, door wrong may be turn into boom\nMaybe trying to wait but I'm still in long cost\nFor this own bottles, whispers be your own boss\nFor being crucified you should be your own cross\nIt's a mob to a king, nigga all the rock suck\nAutomor top, rolex tip\nOne day I'ma show em how it's missing on top list\nLiving on the edge for the thrill in her wrist\nIn the day, in the life, in the life to be lived\nThough he says when he spit, he just talking that.. at\n..I understand why he talking like this\nMercy within our path, but we walk around it\nAnd don't ever embrace I'm so glad we found it\n'cause if they said the climb is what them picks em out and\nWe found the power in youth and wake up the fountain\nLearn and swallow your pride is that shit you drown in\nEven used to search for God, but I never found him\nMy only found what I know that they the only thing I know..\nMaybe not as Jesus, but I'm praying that I'm eating\nWord to Joe money all my niggas should be preastin\nBut currently I'm starving I ain't try to hear the preaching\nI ain't f*ck it all I'm a rebel without a car\nA pepper upon the ride, add em a..and missing stars\nThe biggest fears we die before our time\nAnd felt the reach all that lives before our eyes\nBut we just want to die young, young\nWe just want to die young\nWe just want to die young, young\nWe just want to die...\n..I'm breaking you off\nIs eyes suit much for me to have to ignore\nThe kid I'm cracking in the back of the 4\nIs 02 explore here was built to explore\nThe world is yours let me give you a tour\nBetter get it all before we're getting this goal\nFeeling like Tony back from New York\nOr I might be James Dean pulling off in the Porsche\nRide with pack close, escaping away from home\nHead it to see Logan and all Logan is call\nKnowin I got a girl and knowin I'm too ball\nBut my passion for love is all I've been too fall\nTrue cold, maybe I'm too cold\nMaybe I need help, maybe just let it go\nI know it hurt, hurt people, hurt people\nWhen it all hurts ..to her, people you know\nBut damn, I can't help myself\nShe too hot, she might melt oneself\nToo hot, she might melt once\nYeah she too hot, she might melt oneself\nThen I'm tripping but I'm meaning every word\nCan I not admire every girl, every curve\nEvery girl in the world, it's at least down to earth\nYes I know I got a girl, but I'm at least down to flirt\nHuh, fuck it all I'm a rebel without the cars\nA pepper a partner to rock to add em missin stars\nHer biggest fears I die before my time\nAnd felt the rich out lies before my eyes\nBut we just want to die young, young\nWe just want to die young\nWe just want to die young, young\nWe just want to die...\nDamn it feels good\nUh Lord knows it feels good\nTo be different is to be perseverent\nWaking though it really seems working it's how we..\nAnd out your hands in the air so I know you feel your hand\nYour hands in the air so I know you feel it\nBout to ..a plane, I'm tryin to get high\nI'm hearing it's all the same\nI'm tryin to get by yourself, say goodbye to pain\nAnd live young 'cause young it's how I came, babe\nI'm bout to ..a plane, I'm tryin to get high\nI hear it's all the same, I'm tryin to get by yourself\nSay goodbye to pain\nAnd hope you live young 'cause young is how I came\nDamn!\nWe just want to die young, damn\nWe just want to die young, damn\nI just wanna die young\nI just wanna die young\nI just want to die young\nI just want to die young"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/776038",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/776038/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_776038' class='rg_embed_link' data-song-id='776038'>Read <a href='https://genius.com/Alexander-dreamer-before-the-dawn-lyrics'>\u201cBefore the Dawn\u201d by Alexander\u00a0Dreamer</a> on Genius</div> <script crossorigin src='//genius.com/songs/776038/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Before the Dawn by\u00a0Alexander\u00a0Dreamer",
+   "header_image_thumbnail_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "header_image_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "id": 776038,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Alexander-dreamer-before-the-dawn-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "song_art_image_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Before the Dawn",
+   "title_with_featured": "Before the Dawn",
+   "url": "https://genius.com/Alexander-dreamer-before-the-dawn-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/263049",
+    "cover_art_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+    "full_title": "Dancing With The Devil by Alexander Dreamer",
+    "id": 263049,
+    "name": "Dancing With The Devil",
+    "url": "https://genius.com/albums/Alexander-dreamer/Dancing-with-the-devil",
+    "artist": {
+     "api_path": "/artists/24255",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 24255,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alexander Dreamer",
+     "url": "https://genius.com/artists/Alexander-dreamer"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5251908",
+    "classification": "needs_exegesis",
+    "fragment": "Before the Dawn",
+    "id": 5251908,
+    "is_description": true,
+    "path": "/5251908/Alexander-dreamer-before-the-dawn/Before-the-dawn",
+    "range": {
+     "content": "Before the Dawn"
+    },
+    "song_id": 776038,
+    "url": "https://genius.com/5251908/Alexander-dreamer-before-the-dawn/Before-the-dawn",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/776038",
+     "client_timestamps": {
+      "updated_by_human_at": 1482347140,
+      "lyrics_updated_at": 1429192637
+     },
+     "context": "Alexander Dreamer",
+     "id": 776038,
+     "image_url": "https://images.genius.com/06521b43c7d33ec27e3ef0e0884ebf4e.225x225x1.jpg",
+     "link_title": "Before the Dawn by\u00a0Alexander\u00a0Dreamer",
+     "title": "Before the Dawn",
+     "type": "Song",
+     "url": "https://genius.com/Alexander-dreamer-before-the-dawn-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5251908",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5251908,
+      "pinned": false,
+      "share_url": "https://genius.com/5251908",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5251908/Alexander-dreamer-before-the-dawn/Before-the-dawn",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/24255",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 24255,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Alexander Dreamer",
+    "url": "https://genius.com/artists/Alexander-dreamer"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 7,
+   "api_path": "/songs/1863188",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1863188/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1863188' class='rg_embed_link' data-song-id='1863188'>Read <a href='https://genius.com/Alexander-dreamer-against-being-alone-lyrics'>\u201cAgainst Being Alone\u201d by Alexander\u00a0Dreamer</a> on Genius</div> <script crossorigin src='//genius.com/songs/1863188/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Against Being Alone by\u00a0Alexander\u00a0Dreamer",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1863188,
+   "lyrics_owner_id": 1728637,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Alexander-dreamer-against-being-alone-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 7,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Against Being Alone",
+   "title_with_featured": "Against Being Alone",
+   "url": "https://genius.com/Alexander-dreamer-against-being-alone-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1728637,
+    "annotator_login": "MikeRichs21",
+    "api_path": "/referents/6480925",
+    "classification": "needs_exegesis",
+    "fragment": "Against Being Alone",
+    "id": 6480925,
+    "is_description": true,
+    "path": "/6480925/Alexander-dreamer-against-being-alone/Against-being-alone",
+    "range": {
+     "content": "Against Being Alone"
+    },
+    "song_id": 1863188,
+    "url": "https://genius.com/6480925/Alexander-dreamer-against-being-alone/Against-being-alone",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1863188",
+     "client_timestamps": {
+      "updated_by_human_at": 1494400996,
+      "lyrics_updated_at": 1431958996
+     },
+     "context": "Alexander Dreamer",
+     "id": 1863188,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Against Being Alone by\u00a0Alexander\u00a0Dreamer",
+     "title": "Against Being Alone",
+     "type": "Song",
+     "url": "https://genius.com/Alexander-dreamer-against-being-alone-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6480925",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6480925,
+      "pinned": false,
+      "share_url": "https://genius.com/6480925",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6480925/Alexander-dreamer-against-being-alone/Against-being-alone",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1728637",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6e1c7055d4f75da61a990f02afe2872a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6e1c7055d4f75da61a990f02afe2872a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6e1c7055d4f75da61a990f02afe2872a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6e1c7055d4f75da61a990f02afe2872a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/6e1c7055d4f75da61a990f02afe2872a",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1728637,
+         "iq": 1272,
+         "login": "MikeRichs21",
+         "name": "MikeRichs21",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MikeRichs21",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/24255",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 24255,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Alexander Dreamer",
+    "url": "https://genius.com/artists/Alexander-dreamer"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/799024",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/799024/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_799024' class='rg_embed_link' data-song-id='799024'>Read <a href='https://genius.com/Alexander-dreamer-freedom-of-speech-lyrics'>\u201cFreedom of Speech\u201d by Alexander\u00a0Dreamer</a> on Genius</div> <script crossorigin src='//genius.com/songs/799024/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Freedom of Speech by\u00a0Alexander\u00a0Dreamer",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 799024,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Alexander-dreamer-freedom-of-speech-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Freedom of Speech",
+   "title_with_featured": "Freedom of Speech",
+   "url": "https://genius.com/Alexander-dreamer-freedom-of-speech-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5275469",
+    "classification": "needs_exegesis",
+    "fragment": "Freedom of Speech",
+    "id": 5275469,
+    "is_description": true,
+    "path": "/5275469/Alexander-dreamer-freedom-of-speech/Freedom-of-speech",
+    "range": {
+     "content": "Freedom of Speech"
+    },
+    "song_id": 799024,
+    "url": "https://genius.com/5275469/Alexander-dreamer-freedom-of-speech/Freedom-of-speech",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/799024",
+     "client_timestamps": {
+      "updated_by_human_at": 1433511810,
+      "lyrics_updated_at": 1429200051
+     },
+     "context": "Alexander Dreamer",
+     "id": 799024,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Freedom of Speech by\u00a0Alexander\u00a0Dreamer",
+     "title": "Freedom of Speech",
+     "type": "Song",
+     "url": "https://genius.com/Alexander-dreamer-freedom-of-speech-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5275469",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5275469,
+      "pinned": false,
+      "share_url": "https://genius.com/5275469",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5275469/Alexander-dreamer-freedom-of-speech/Freedom-of-speech",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/24255",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 24255,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Alexander Dreamer",
+    "url": "https://genius.com/artists/Alexander-dreamer"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "I\u2019m killin\u2019 you niggas \nShe then told me she ain\u2019t feelin\u2019 you niggas\nThe band called and told me he got me whenever\nShout,shout it now,we got it together\nI got you forever\nYup,feel the pressure,but it\u2019s all good\nCarry the confidence...\nCarry the lessons the very second I once took\nThought at this moment in time...\nAs if it\u2019s my time,go ahead and check the rest\nShit,that bitch might shy\nTake a sit,and it\u2019s wripped,darlin\u2019 here we climb\nEnjoy the breeze as we speed through this world,you\u2019re mine\nDarlin\u2019,the world is mine ,let me take you through the streets which your key desires\nNo side,Columbus ,the hustle\u2019s ...\nWell you can see the pain and the hustle in his eyes\nIt ain\u2019t no love in the city,I used to wonder how come?\nNow I scream fuck it,this production is the outcome\nThere\u2019s a couple of niggas in the city that I\u2019m proud of\nLady.I\u2019ve been tryin\u2019 to see you ...\nI never asked for a verse,no request from the hood\nThen neither an... they\u2019re just expectin\u2019 to look\nStraight before the hater may overshadow the hood\nNow put the vest out\nYou all want me to catch you with your chest out\nHidin\u2019 the killer ,but don\u2019t push me,nigga\nI am what I am,do we all ...\nThis is way bigger than me,I\u2019m just playin\u2019 a smart part\nSee the vanity makes it hard\nI\u2019m just a man of word ,prisoner inside the bars\nFeelin\u2019 free as it gets\nBegin\u2019 on my chest,came ...\nLet go of my breath,prayin\u2019 cross lanes crossin\u2019 the cross\nHangin\u2019 from my neck\nSave a nigga\u2019s neck,no shame in my ... better than the rest\nBlessed on the roads of success and in order to succeed I\u2019ll ...\nI confess,I ...,I\u2019m a mess\nSome days all I see is a check, and not respect\nI couldn\u2019t give 2 fucks how you feel about it\n...Though I\u2019m pretty damn close and I\u2019m still without it\nI find it takes a believer to be an achiever\nI believe I\u2019m the king for the queen Latifah\nSelf-esteem getting\u2019 me ,I know I\u2019m the man\nI\u2019m still followin\u2019 the dream ,believin\u2019in the plan\nThey\u2019re ... on my cash\n...these niggas hate it the way I made it through the stress\nSeein\u2019 that I\u2019m blessed\nAnd I ain\u2019t even ...\nI told my brother Call Ima beat the fuckin\u2019 bastard\nEven if it means comin\u2019 for his neck\nSee.recently I found that is nice to play nice and to be light\nI would rather be viewed as a threat\nCheck for a nigga like you lost some ,boy\nThat\u2019s a motivation,it ain\u2019t cost nothing for\nAnd it\u2019s all love even when it\u2019s hate\nThe same way it\u2019s fucked up even when it\u2019s straight\nStraight\nDancin\u2019 off beat,I\u2019ve been dancin\u2019 off beat\nI mean no trippin\u2019 hand me that drink\nToday I don\u2019t even know how to spare\nThese days I ain\u2019t even know how to ...\nAll these great ideas that I begin\nThen I begin to forget that everybody pretends\nThat they believe in who they are\nMan,I believe it\u2019s gone too far\nYou probably make music just to play it in my car\nAnother year down and I haven\u2019t gone far\nMoney wants an album and I provide an outcome\nMost niggas I know would probably die for an answer\nConfused and na\u00efve I said :what?how was it?\nPlayin\u2019t with the majors on a money lead budget\nAnd my buddies lovin\u2019 hard\nAll men die before all men come\nShit!"
+  }
+ ]
+}

@@ -1,0 +1,536 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2166158",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 2166158,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Ortal",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Ortal",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 8385236,
+  "annotator_login": "JohnnySurfer",
+  "api_path": "/referents/19402795",
+  "classification": "needs_exegesis",
+  "fragment": "Ortal",
+  "id": 19402795,
+  "is_description": true,
+  "path": "/19402795/Ortal/Ortal",
+  "range": {
+   "content": "Ortal"
+  },
+  "song_id": null,
+  "url": "https://genius.com/19402795/Ortal/Ortal",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2166158",
+   "context": null,
+   "id": 2166158,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Ortal",
+   "title": "Ortal",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Ortal"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/19402795",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 19402795,
+    "pinned": false,
+    "share_url": "https://genius.com/19402795",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/19402795/Ortal/Ortal",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8385236",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7f97efe2e78202f979a60cfc2704e545",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7f97efe2e78202f979a60cfc2704e545",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7f97efe2e78202f979a60cfc2704e545",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7f97efe2e78202f979a60cfc2704e545",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/08fmuudzfyxp",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8385236,
+       "iq": 94406,
+       "login": "JohnnySurfer",
+       "name": "JohnnySurfer",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/JohnnySurfer",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5396664",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5396664/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5396664' class='rg_embed_link' data-song-id='5396664'>Read <a href='https://genius.com/Ortal-chacun-pense-a-soi-lyrics'>\u201cChacun Pense \u00c0 Soi\u201d by Ortal</a> on Genius</div> <script crossorigin src='//genius.com/songs/5396664/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Chacun Pense \u00c0 Soi by\u00a0Ortal",
+   "header_image_thumbnail_url": "https://images.genius.com/77a811293c98f4ef873790028f9c0af6.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/77a811293c98f4ef873790028f9c0af6.588x588x1.jpg",
+   "id": 5396664,
+   "lyrics_owner_id": 8385236,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ortal-chacun-pense-a-soi-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "2005",
+   "song_art_image_thumbnail_url": "https://images.genius.com/77a811293c98f4ef873790028f9c0af6.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/77a811293c98f4ef873790028f9c0af6.588x588x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Chacun Pense \u00c0 Soi",
+   "title_with_featured": "Chacun Pense \u00c0 Soi",
+   "url": "https://genius.com/Ortal-chacun-pense-a-soi-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/616742",
+    "cover_art_url": "https://images.genius.com/77a811293c98f4ef873790028f9c0af6.588x588x1.jpg",
+    "full_title": "Eurovision Song Contest: Kyiv 2005 by Eurovision",
+    "id": 616742,
+    "name": "Eurovision Song Contest: Kyiv 2005",
+    "url": "https://genius.com/albums/Eurovision/Eurovision-song-contest-kyiv-2005",
+    "artist": {
+     "api_path": "/artists/407380",
+     "header_image_url": "https://images.genius.com/376ca778eda5830fa73e7bdca5686db3.1000x563x1.jpg",
+     "id": 407380,
+     "image_url": "https://images.genius.com/c76e3630f3eb2b8d2add8c19f02752fc.843x843x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eurovision",
+     "url": "https://genius.com/artists/Eurovision"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8385236,
+    "annotator_login": "JohnnySurfer",
+    "api_path": "/referents/19402802",
+    "classification": "needs_exegesis",
+    "fragment": "Chacun Pense \u00c0 Soi",
+    "id": 19402802,
+    "is_description": true,
+    "path": "/19402802/Ortal-chacun-pense-a-soi/Chacun-pense-a-soi",
+    "range": {
+     "content": "Chacun Pense \u00c0 Soi"
+    },
+    "song_id": 5396664,
+    "url": "https://genius.com/19402802/Ortal-chacun-pense-a-soi/Chacun-pense-a-soi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5396664",
+     "client_timestamps": {
+      "updated_by_human_at": 1585355846,
+      "lyrics_updated_at": 1585355831
+     },
+     "context": "Ortal",
+     "id": 5396664,
+     "image_url": "https://images.genius.com/77a811293c98f4ef873790028f9c0af6.588x588x1.jpg",
+     "link_title": "Chacun Pense \u00c0 Soi by\u00a0Ortal",
+     "title": "Chacun Pense \u00c0 Soi",
+     "type": "Song",
+     "url": "https://genius.com/Ortal-chacun-pense-a-soi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19402802",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19402802,
+      "pinned": false,
+      "share_url": "https://genius.com/19402802",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19402802/Ortal-chacun-pense-a-soi/Chacun-pense-a-soi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8385236",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7f97efe2e78202f979a60cfc2704e545",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7f97efe2e78202f979a60cfc2704e545",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7f97efe2e78202f979a60cfc2704e545",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7f97efe2e78202f979a60cfc2704e545",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/08fmuudzfyxp",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8385236,
+         "iq": 94406,
+         "login": "JohnnySurfer",
+         "name": "JohnnySurfer",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/JohnnySurfer",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=d65hoJq5Wos"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2166158",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 2166158,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ortal",
+    "url": "https://genius.com/artists/Ortal"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2166159",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 2166159,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Saad Tabainet",
+     "url": "https://genius.com/artists/Saad-tabainet"
+    },
+    {
+     "api_path": "/artists/2166158",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 2166158,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ortal",
+     "url": "https://genius.com/artists/Ortal"
+    }
+   ],
+   "lyrics": "Chacun pense \u00e0 soi\nComme si il n'y avait que \u00e7a\nChacun m\u00e8ne \u00e0 bien\nQue ce qu'il\u2005veut\u2005bien\n\nChacun pense \u00e0\u2005soi\nComme si il n'y avait que\u2005\u00e7a\nChacun m\u00e8ne \u00e0 bien\nQue ce qu'il veut bien\n\nRegardons autour de\u205fnous\nOn\u205fvit\u205fdans un monde\u205fde fous\nChacun cherche\u205fsa gloire\nChacun cherche l'espoir\n\nOn oublie ce qui nous entoure\nCeux qui nous donnent de l'amour\nOn chasse de notre m\u00e9moire\nCe qui nous emp\u00eache d'y croire\n\nOn laisse au bord du chemin\nLes chagrins sans lendemain\nOn poursuit chacun sa route\n\nOn laisse au bord de la route\nChacun tous ses petits doutes\nOn poursuit son chemin\n\nChacun pense \u00e0 soi\nComme si il n'y avait que \u00e7a\nChacun m\u00e8ne \u00e0 bien\nQue ce qu'il veut bien\n\nChacun pense \u00e0 soi\nComme si il n'y avait que \u00e7a\nChacun m\u00e8ne \u00e0 bien\nQue ce qu'il veut bien\n\nTenir au creux de ses mains\nLes clefs de notre destin\nMener \u00e0 la victoire\nTous nos r\u00eaves d'un soir\n\nEt on court apr\u00e8s le temps\nOn passe \u00e0 c\u00f4t\u00e9 des gens\nOn court apr\u00e8s l'argent\nOn se cache, on se ment\n\nM\u00eame si la solitude\nEst notre seule attitude\nOn garde en chacun de nous\n\nL'amour de ceux qui nous aime\nM\u00eame si on a de la peine\nOn se retrouvera\n\nM\u00eame si la r\u00e9alit\u00e9\nN'est pas notre v\u00e9rit\u00e9\nOn continue \u00e0 y croire\nA se battre pour notre histoire\n\nM\u00eame si le prix \u00e0 payer\nEst plus cher \u00e0 chaque fois\nOn continue \u00e0 y croire\nDes espoirs pour nos espoirs\n\nChacun pense \u00e0 soi\nComme si il n'y avait que \u00e7a\nChacun m\u00e8ne \u00e0 bien\nQue ce qu'il veut bien\n\nChacun pense \u00e0 soi\nComme si il n'y avait que \u00e7a\nChacun m\u00e8ne \u00e0 bien\nQue ce qu'il veut bien\n\nChacun pense \u00e0 soi\n(M\u00eame si la r\u00e9alit\u00e9)\nComme si il n'y avait que \u00e7a\n(N'est pas notre v\u00e9rit\u00e9)\nChacun m\u00e8ne \u00e0 bien\n(On continue \u00e0 y croire)\nQue ce qu'il veut bien\n(A se battre pour notre histoire)\n\nChacun pense \u00e0 soi\n(M\u00eame si le prix \u00e0 payer)\nComme si il n'y avait que \u00e7a\n(Est plus cher \u00e0 chaque fois)\nChacun m\u00e8ne \u00e0 bien\n(On continue \u00e0 y croire)\nQue ce qu'il veut bien\n(Des espoirs pour nos espoirs)\n\nChacun pense \u00e0 soi\n(M\u00eame si la r\u00e9alit\u00e9)\nComme si il n'y avait que \u00e7a\n(N'est pas notre v\u00e9rit\u00e9)\nChacun m\u00e8ne \u00e0 bien\n(On continue \u00e0 y croire)\nQue ce qu'il veut bien\n(A se battre pour notre histoire)\n\nChacun pense \u00e0 soi\n(M\u00eame si le prix \u00e0 payer)\nComme si il n'y avait que \u00e7a\n(Est plus cher \u00e0 chaque fois)\nChacun m\u00e8ne \u00e0 bien\n(On continue \u00e0 y croire)\nQue ce qu'il veut bien\n\nHey, hey, hey"
+  }
+ ]
+}

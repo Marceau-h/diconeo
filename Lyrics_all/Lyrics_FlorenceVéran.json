@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1805879",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/6c9db2807f22156cf0765e6e77a87024.358x397x1.jpg",
+ "id": 1805879,
+ "image_url": "https://images.genius.com/6c9db2807f22156cf0765e6e77a87024.358x397x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Florence V\u00e9ran",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Florence-veran",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1201983,
+  "annotator_login": "MTLvpvs",
+  "api_path": "/referents/17047029",
+  "classification": "needs_exegesis",
+  "fragment": "Florence V\u00e9ran",
+  "id": 17047029,
+  "is_description": true,
+  "path": "/17047029/Florence-veran/Florence-veran",
+  "range": {
+   "content": "Florence V\u00e9ran"
+  },
+  "song_id": null,
+  "url": "https://genius.com/17047029/Florence-veran/Florence-veran",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1805879",
+   "context": null,
+   "id": 1805879,
+   "image_url": "https://images.genius.com/6c9db2807f22156cf0765e6e77a87024.358x397x1.jpg",
+   "link_title": "Florence V\u00e9ran",
+   "title": "Florence V\u00e9ran",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Florence-veran"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17047029",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 17047029,
+    "pinned": false,
+    "share_url": "https://genius.com/17047029",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/17047029/Florence-veran/Florence-veran",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1201983",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/3dd3f68a440202c4199a50f2e4318693",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/3dd3f68a440202c4199a50f2e4318693",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/3dd3f68a440202c4199a50f2e4318693",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/3dd3f68a440202c4199a50f2e4318693",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/ea48a4d2bf6ced6df9ba0f336f1a5b12.960x640x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1201983,
+       "iq": 469501,
+       "login": "MTLvpvs",
+       "name": "Lvpvs",
+       "role_for_display": "editor",
+       "url": "https://genius.com/MTLvpvs",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

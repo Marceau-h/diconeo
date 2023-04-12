@@ -1,0 +1,3692 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/379749",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 379749,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Catherine Sauvage",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Catherine-sauvage",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7096708",
+  "classification": "needs_exegesis",
+  "fragment": "Catherine Sauvage",
+  "id": 7096708,
+  "is_description": true,
+  "path": "/7096708/Catherine-sauvage/Catherine-sauvage",
+  "range": {
+   "content": "Catherine Sauvage"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7096708/Catherine-sauvage/Catherine-sauvage",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/379749",
+   "context": null,
+   "id": 379749,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Catherine Sauvage",
+   "title": "Catherine Sauvage",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Catherine-sauvage"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7096708",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7096708,
+    "pinned": false,
+    "share_url": "https://genius.com/7096708",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7096708/Catherine-sauvage/Catherine-sauvage",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3020209",
+   "apple_music_id": "291857928",
+   "apple_music_player_url": "https://genius.com/songs/3020209/apple_music_player",
+   "description": {
+    "plain": "Chanson \u00e9crite par Serge Gainsbourg et cr\u00e9\u00e9e par Mich\u00e8le Arnaud.\n\nGainsbourg lui-m\u00eame, ainsi que Juliette Gr\u00e9co et Jean Claude Pascal enregistreront leur propre version de la chanson, parfois en modifiant l\u00e9g\u00e8rement les paroles.\n\nCatherine Sauvage enregistre sa propre version en 1961 , qui restera in\u00e9dite jusqu'en 1999."
+   },
+   "embed_content": "<div id='rg_embed_link_3020209' class='rg_embed_link' data-song-id='3020209'>Read <a href='https://genius.com/Catherine-sauvage-la-recette-de-lamour-fou-lyrics'>\u201cLa recette de l'amour fou\u201d by Catherine\u00a0Sauvage</a> on Genius</div> <script crossorigin src='//genius.com/songs/3020209/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La recette de l'amour fou by\u00a0Catherine\u00a0Sauvage",
+   "header_image_thumbnail_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+   "id": 3020209,
+   "lyrics_owner_id": 2813134,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Catherine-sauvage-la-recette-de-lamour-fou-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1999-01-01",
+   "release_date_for_display": "January 1, 1999",
+   "song_art_image_thumbnail_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La recette de l\u2019amour fou",
+   "title_with_featured": "La recette de l'amour fou",
+   "url": "https://genius.com/Catherine-sauvage-la-recette-de-lamour-fou-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/335116",
+    "cover_art_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+    "full_title": "Catherine Sauvage chante Serge Gainsbourg et Fr\u00e9d\u00e9ric Botton by Catherine Sauvage",
+    "id": 335116,
+    "name": "Catherine Sauvage chante Serge Gainsbourg et Fr\u00e9d\u00e9ric Botton",
+    "url": "https://genius.com/albums/Catherine-sauvage/Catherine-sauvage-chante-serge-gainsbourg-et-frederic-botton",
+    "artist": {
+     "api_path": "/artists/379749",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 379749,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Catherine Sauvage",
+     "url": "https://genius.com/artists/Catherine-sauvage"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/524312",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+       "id": 524312,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jacques Loussier",
+       "url": "https://genius.com/artists/Jacques-loussier"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2813134,
+    "annotator_login": "daufresne",
+    "api_path": "/referents/11493909",
+    "classification": "accepted",
+    "fragment": "La recette de l\u2019amour fou",
+    "id": 11493909,
+    "is_description": true,
+    "path": "/11493909/Catherine-sauvage-la-recette-de-lamour-fou/La-recette-de-lamour-fou",
+    "range": {
+     "content": "La recette de l'amour fou"
+    },
+    "song_id": 3020209,
+    "url": "https://genius.com/11493909/Catherine-sauvage-la-recette-de-lamour-fou/La-recette-de-lamour-fou",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3020209",
+     "client_timestamps": {
+      "updated_by_human_at": 1489296073,
+      "lyrics_updated_at": 1489295910
+     },
+     "context": "Catherine Sauvage",
+     "id": 3020209,
+     "image_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+     "link_title": "La recette de l\u2019amour fou by\u00a0Catherine\u00a0Sauvage",
+     "title": "La recette de l'amour fou",
+     "type": "Song",
+     "url": "https://genius.com/Catherine-sauvage-la-recette-de-lamour-fou-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11493909",
+      "body": {
+       "plain": "Chanson \u00e9crite par Serge Gainsbourg et cr\u00e9\u00e9e par Mich\u00e8le Arnaud.\n\nGainsbourg lui-m\u00eame, ainsi que Juliette Gr\u00e9co et Jean Claude Pascal enregistreront leur propre version de la chanson, parfois en modifiant l\u00e9g\u00e8rement les paroles.\n\nCatherine Sauvage enregistre sa propre version en 1961 , qui restera in\u00e9dite jusqu'en 1999."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11493909,
+      "pinned": false,
+      "share_url": "https://genius.com/11493909",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/11493909/Catherine-sauvage-la-recette-de-lamour-fou/La-recette-de-lamour-fou",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9782608695652173,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2813134",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/edee1f8e27fbd5d8d8edbd674edc3383",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2813134,
+         "iq": 8810,
+         "login": "daufresne",
+         "name": "daufresne",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/daufresne",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.021739130434782608,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/59322",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ff4eb52887d7e3f1c99e0603544e4a83",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ff4eb52887d7e3f1c99e0603544e4a83",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ff4eb52887d7e3f1c99e0603544e4a83",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ff4eb52887d7e3f1c99e0603544e4a83",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3sz1penuejzfijzidsy6ekx1or",
+         "human_readable_role_for_display": "Editor",
+         "id": 59322,
+         "iq": 39974,
+         "login": "Spike_G_Pointcom",
+         "name": "Spike_G_Pointcom",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Spike_G_Pointcom",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Qr2kcvSvzwc"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/379749",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 379749,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Catherine Sauvage",
+    "url": "https://genius.com/artists/Catherine-sauvage"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/19226",
+     "header_image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "id": 19226,
+     "image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Serge Gainsbourg",
+     "url": "https://genius.com/artists/Serge-gainsbourg"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/19226",
+     "header_image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "id": 19226,
+     "image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Serge Gainsbourg",
+     "url": "https://genius.com/artists/Serge-gainsbourg"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3214707",
+   "apple_music_id": "291857925",
+   "apple_music_player_url": "https://genius.com/songs/3214707/apple_music_player",
+   "description": {
+    "plain": "Catherine Sauvage a enregistr\u00e9 cette chanson \u00e9crite par Serge Gainsbourg d\u00e9but 1960.\n\nElle restera in\u00e9dite jusqu'en 1996."
+   },
+   "embed_content": "<div id='rg_embed_link_3214707' class='rg_embed_link' data-song-id='3214707'>Read <a href='https://genius.com/Catherine-sauvage-les-nanas-au-paradis-lyrics'>\u201cLes nanas au paradis\u201d by Catherine\u00a0Sauvage</a> on Genius</div> <script crossorigin src='//genius.com/songs/3214707/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Les nanas au paradis by\u00a0Catherine\u00a0Sauvage",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 3214707,
+   "lyrics_owner_id": 2813134,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Catherine-sauvage-les-nanas-au-paradis-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1996-01-01",
+   "release_date_for_display": "January 1, 1996",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Les nanas au paradis",
+   "title_with_featured": "Les nanas au paradis",
+   "url": "https://genius.com/Catherine-sauvage-les-nanas-au-paradis-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/524312",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+       "id": 524312,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jacques Loussier",
+       "url": "https://genius.com/artists/Jacques-loussier"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2813134,
+    "annotator_login": "daufresne",
+    "api_path": "/referents/12598217",
+    "classification": "accepted",
+    "fragment": "Les nanas au paradis",
+    "id": 12598217,
+    "is_description": true,
+    "path": "/12598217/Catherine-sauvage-les-nanas-au-paradis/Les-nanas-au-paradis",
+    "range": {
+     "content": "Les nanas au paradis"
+    },
+    "song_id": 3214707,
+    "url": "https://genius.com/12598217/Catherine-sauvage-les-nanas-au-paradis/Les-nanas-au-paradis",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3214707",
+     "client_timestamps": {
+      "updated_by_human_at": 1503928639,
+      "lyrics_updated_at": 1503928152
+     },
+     "context": "Catherine Sauvage",
+     "id": 3214707,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Les nanas au paradis by\u00a0Catherine\u00a0Sauvage",
+     "title": "Les nanas au paradis",
+     "type": "Song",
+     "url": "https://genius.com/Catherine-sauvage-les-nanas-au-paradis-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12598217",
+      "body": {
+       "plain": "Catherine Sauvage a enregistr\u00e9 cette chanson \u00e9crite par Serge Gainsbourg d\u00e9but 1960.\n\nElle restera in\u00e9dite jusqu'en 1996."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12598217,
+      "pinned": false,
+      "share_url": "https://genius.com/12598217",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/12598217/Catherine-sauvage-les-nanas-au-paradis/Les-nanas-au-paradis",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2813134",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/edee1f8e27fbd5d8d8edbd674edc3383",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2813134,
+         "iq": 8810,
+         "login": "daufresne",
+         "name": "daufresne",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/daufresne",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Ra9anrXt2vc"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/379749",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 379749,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Catherine Sauvage",
+    "url": "https://genius.com/artists/Catherine-sauvage"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/19226",
+     "header_image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "id": 19226,
+     "image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Serge Gainsbourg",
+     "url": "https://genius.com/artists/Serge-gainsbourg"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/19226",
+     "header_image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "id": 19226,
+     "image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Serge Gainsbourg",
+     "url": "https://genius.com/artists/Serge-gainsbourg"
+    }
+   ],
+   "lyrics": "Sur un saxophone ou un accord\u00e9on\nLes nanas au paradis s'envoleront\nFilles sur le retour o\u00f9 jeune tendron\nSur un saxophone ou un accord\u00e9on\n\nTous les samedis soirs juste apr\u00e8s le charbon\nLes nanas au paradis s'envoleront\n\nSur le chachacha t'as d'l'imagination\nL'exotique c'est \u00e7a qu'est chouette pour l'\u00e9vasion\nQu'\u00e7a peut foutre s'il le joue \u00e0 l'accord\u00e9on\nSur le chachacha t'as d'l'imagination\n\nN'importe quoi pourvu qu'\u00e7a gueule y'a pas d'raison\nLes nanas au paradis s'envoleront\n\nSur le coup d'minuit y' aura des attractions\nUne chanteuse r\u00e9aliste un vrai laideron\nQu'a pas eu encore un seul microsillon\nSur le coup d'minuit y'aura des attractions\n\nEt pendant la chanson elles s'reconna\u00eetront\nLes nanas au paradis s'envoleront\n\nSur le chemin du retour y'aura d'l'affection\nOn s'embrassera \u00e0 perdre la respiration\nPuis on s'redessinera les l\u00e8vres au crayon\nSur le chemin su retour y'aura d'l'affection\n\nEt quand elles verront l'amour \u00e0 l'horizon\nLes nanas au paradis s'envoleront\n\nS\u00fbr \u00e7a finit toujours de la m\u00eame fa\u00e7on\nSe laisser aller jusque l\u00e0 pas question\nEt v'l\u00e0 qu'on s'approche du lit \u00e0 reculons\nS\u00fbr \u00e7a finit toujours de la m\u00eame fa\u00e7on\n\nSous les caresses apr\u00e8s quelques h\u00e9sitations\nLes nanas au paradis s'envoleront\n\nEt tant que l'meilleur d'elles-m\u00eames elles donneront\nLes nanas au paradis s'envoleront\nEt tant que dur comme fer elles y croiront\nLes nanas au paradis s'envoleront"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1109696",
+   "apple_music_id": "370557398",
+   "apple_music_player_url": "https://genius.com/songs/1109696/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1109696' class='rg_embed_link' data-song-id='1109696'>Read <a href='https://genius.com/Catherine-sauvage-paris-canaille-lyrics'>\u201cParis-canaille\u201d by Catherine\u00a0Sauvage</a> on Genius</div> <script crossorigin src='//genius.com/songs/1109696/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Paris-canaille by\u00a0Catherine\u00a0Sauvage",
+   "header_image_thumbnail_url": "https://images.genius.com/e9a642fcd4c692fbea2c1993fb642a2a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e9a642fcd4c692fbea2c1993fb642a2a.600x600x1.jpg",
+   "id": 1109696,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Catherine-sauvage-paris-canaille-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e9a642fcd4c692fbea2c1993fb642a2a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e9a642fcd4c692fbea2c1993fb642a2a.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Paris-canaille",
+   "title_with_featured": "Paris-canaille",
+   "url": "https://genius.com/Catherine-sauvage-paris-canaille-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/285634",
+    "cover_art_url": "https://images.genius.com/e9a642fcd4c692fbea2c1993fb642a2a.600x600x1.jpg",
+    "full_title": "Catherine Sauvage n\u00b01: La Fille de Londres by Catherine Sauvage",
+    "id": 285634,
+    "name": "Catherine Sauvage n\u00b01: La Fille de Londres",
+    "url": "https://genius.com/albums/Catherine-sauvage/Catherine-sauvage-n1-la-fille-de-londres",
+    "artist": {
+     "api_path": "/artists/379749",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 379749,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Catherine Sauvage",
+     "url": "https://genius.com/artists/Catherine-sauvage"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5608885",
+    "classification": "needs_exegesis",
+    "fragment": "Paris-canaille",
+    "id": 5608885,
+    "is_description": true,
+    "path": "/5608885/Catherine-sauvage-paris-canaille/Paris-canaille",
+    "range": {
+     "content": "Paris-canaille"
+    },
+    "song_id": 1109696,
+    "url": "https://genius.com/5608885/Catherine-sauvage-paris-canaille/Paris-canaille",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1109696",
+     "client_timestamps": {
+      "updated_by_human_at": 1477098690,
+      "lyrics_updated_at": 1429638783
+     },
+     "context": "Catherine Sauvage",
+     "id": 1109696,
+     "image_url": "https://images.genius.com/e9a642fcd4c692fbea2c1993fb642a2a.600x600x1.jpg",
+     "link_title": "Paris-canaille by\u00a0Catherine\u00a0Sauvage",
+     "title": "Paris-canaille",
+     "type": "Song",
+     "url": "https://genius.com/Catherine-sauvage-paris-canaille-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5608885",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5608885,
+      "pinned": false,
+      "share_url": "https://genius.com/5608885",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5608885/Catherine-sauvage-paris-canaille/Paris-canaille",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/379749",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 379749,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Catherine Sauvage",
+    "url": "https://genius.com/artists/Catherine-sauvage"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3214726",
+   "apple_music_id": "291857926",
+   "apple_music_player_url": "https://genius.com/songs/3214726/apple_music_player",
+   "description": {
+    "plain": "Catherine Sauvage a enregistr\u00e9 cette chanson \u00e9crite par Serge Gainsbourg d\u00e9but 1960.\n\nElle restera in\u00e9dite jusqu'en 1996."
+   },
+   "embed_content": "<div id='rg_embed_link_3214726' class='rg_embed_link' data-song-id='3214726'>Read <a href='https://genius.com/Catherine-sauvage-le-cirque-lyrics'>\u201cLe cirque\u201d by Catherine\u00a0Sauvage</a> on Genius</div> <script crossorigin src='//genius.com/songs/3214726/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le cirque by\u00a0Catherine\u00a0Sauvage",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 3214726,
+   "lyrics_owner_id": 2813134,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Catherine-sauvage-le-cirque-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1996-01-01",
+   "release_date_for_display": "January 1, 1996",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le cirque",
+   "title_with_featured": "Le cirque",
+   "url": "https://genius.com/Catherine-sauvage-le-cirque-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/524312",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+       "id": 524312,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jacques Loussier",
+       "url": "https://genius.com/artists/Jacques-loussier"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2813134,
+    "annotator_login": "daufresne",
+    "api_path": "/referents/12598329",
+    "classification": "accepted",
+    "fragment": "Le cirque",
+    "id": 12598329,
+    "is_description": true,
+    "path": "/12598329/Catherine-sauvage-le-cirque/Le-cirque",
+    "range": {
+     "content": "Le cirque"
+    },
+    "song_id": 3214726,
+    "url": "https://genius.com/12598329/Catherine-sauvage-le-cirque/Le-cirque",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3214726",
+     "client_timestamps": {
+      "updated_by_human_at": 1503929694,
+      "lyrics_updated_at": 1503929589
+     },
+     "context": "Catherine Sauvage",
+     "id": 3214726,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Le cirque by\u00a0Catherine\u00a0Sauvage",
+     "title": "Le cirque",
+     "type": "Song",
+     "url": "https://genius.com/Catherine-sauvage-le-cirque-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12598329",
+      "body": {
+       "plain": "Catherine Sauvage a enregistr\u00e9 cette chanson \u00e9crite par Serge Gainsbourg d\u00e9but 1960.\n\nElle restera in\u00e9dite jusqu'en 1996."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12598329,
+      "pinned": false,
+      "share_url": "https://genius.com/12598329",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/12598329/Catherine-sauvage-le-cirque/Le-cirque",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2813134",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/edee1f8e27fbd5d8d8edbd674edc3383",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2813134,
+         "iq": 8810,
+         "login": "daufresne",
+         "name": "daufresne",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/daufresne",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/379749",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 379749,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Catherine Sauvage",
+    "url": "https://genius.com/artists/Catherine-sauvage"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/19226",
+     "header_image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "id": 19226,
+     "image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Serge Gainsbourg",
+     "url": "https://genius.com/artists/Serge-gainsbourg"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/19226",
+     "header_image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "id": 19226,
+     "image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Serge Gainsbourg",
+     "url": "https://genius.com/artists/Serge-gainsbourg"
+    }
+   ],
+   "lyrics": "L\u2019amant\nDe la femme\nD\u2019mon amant\nA une femme\nQui a un amant\nC\u2019est l\u2019amant\nDe la femme\nDe l\u2019amant\nDe la femme\nDe mon amant\n\nLa femme\nDe mon amant\nDe mon amant ment\nA la femme\nDe son amant\nL'amant\nDe la femme\nDe mon amant ment\nA mon amant\n\n(Quant \u00e0...) La femme\nDe l'amant\nDe la femme\nD'mon amant\nC't'\u00e0 toi qu'elle ment\nElle me ment\nComme elle ment\nA l'amant\nDe la femme\nDe mon amant\n\nLa femme\nDe mon amant\nDe mon amant ment\nA la femme\nDe son amant\nL'amant\nDe la femme\nDe mon amant ment\nA mon amant\nEt m\u00eame mon amant me ment\n\n(Puisque...)  L'amant\nDe la femme\nD'mon amant\nA une femme\nQui a un amant\n(Et qu'justement...) L'amant\nDe la femme\nDe l'amant\nDe la femme\nDe mon amant, c'est lui mon amant"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3177043",
+   "apple_music_id": "291857927",
+   "apple_music_player_url": "https://genius.com/songs/3177043/apple_music_player",
+   "description": {
+    "plain": "Chanson cr\u00e9\u00e9e par Juliette Gr\u00e9co en F\u00e9vrier 1959.\n\nPuis Gainsbourg a sorti sa propre version en Juillet 1959.\n\nCatherine Sauvage a enregistr\u00e9 sa version en 1961, qui resta in\u00e9dite jusqu'en 1999."
+   },
+   "embed_content": "<div id='rg_embed_link_3177043' class='rg_embed_link' data-song-id='3177043'>Read <a href='https://genius.com/Catherine-sauvage-lamour-a-la-papa-lyrics'>\u201cL'amour \u00e0 la papa\u201d by Catherine\u00a0Sauvage</a> on Genius</div> <script crossorigin src='//genius.com/songs/3177043/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "L'amour \u00e0 la papa by\u00a0Catherine\u00a0Sauvage",
+   "header_image_thumbnail_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+   "id": 3177043,
+   "lyrics_owner_id": 2813134,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Catherine-sauvage-lamour-a-la-papa-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1999-01-01",
+   "release_date_for_display": "January 1, 1999",
+   "song_art_image_thumbnail_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "L\u2019amour \u00e0 la papa",
+   "title_with_featured": "L'amour \u00e0 la papa",
+   "url": "https://genius.com/Catherine-sauvage-lamour-a-la-papa-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/335116",
+    "cover_art_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+    "full_title": "Catherine Sauvage chante Serge Gainsbourg et Fr\u00e9d\u00e9ric Botton by Catherine Sauvage",
+    "id": 335116,
+    "name": "Catherine Sauvage chante Serge Gainsbourg et Fr\u00e9d\u00e9ric Botton",
+    "url": "https://genius.com/albums/Catherine-sauvage/Catherine-sauvage-chante-serge-gainsbourg-et-frederic-botton",
+    "artist": {
+     "api_path": "/artists/379749",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 379749,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Catherine Sauvage",
+     "url": "https://genius.com/artists/Catherine-sauvage"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/524312",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+       "id": 524312,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jacques Loussier",
+       "url": "https://genius.com/artists/Jacques-loussier"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2813134,
+    "annotator_login": "daufresne",
+    "api_path": "/referents/12424899",
+    "classification": "unreviewed",
+    "fragment": "L\u2019amour \u00e0 la papa",
+    "id": 12424899,
+    "is_description": true,
+    "path": "/12424899/Catherine-sauvage-lamour-a-la-papa/Lamour-a-la-papa",
+    "range": {
+     "content": "L'amour \u00e0 la papa"
+    },
+    "song_id": 3177043,
+    "url": "https://genius.com/12424899/Catherine-sauvage-lamour-a-la-papa/Lamour-a-la-papa",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3177043",
+     "client_timestamps": {
+      "updated_by_human_at": 1501339965,
+      "lyrics_updated_at": 1501339793
+     },
+     "context": "Catherine Sauvage",
+     "id": 3177043,
+     "image_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+     "link_title": "L\u2019amour \u00e0 la papa by\u00a0Catherine\u00a0Sauvage",
+     "title": "L'amour \u00e0 la papa",
+     "type": "Song",
+     "url": "https://genius.com/Catherine-sauvage-lamour-a-la-papa-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12424899",
+      "body": {
+       "plain": "Chanson cr\u00e9\u00e9e par Juliette Gr\u00e9co en F\u00e9vrier 1959.\n\nPuis Gainsbourg a sorti sa propre version en Juillet 1959.\n\nCatherine Sauvage a enregistr\u00e9 sa version en 1961, qui resta in\u00e9dite jusqu'en 1999."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12424899,
+      "pinned": false,
+      "share_url": "https://genius.com/12424899",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/12424899/Catherine-sauvage-lamour-a-la-papa/Lamour-a-la-papa",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2813134",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/edee1f8e27fbd5d8d8edbd674edc3383",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2813134,
+         "iq": 8810,
+         "login": "daufresne",
+         "name": "daufresne",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/daufresne",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/379749",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 379749,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Catherine Sauvage",
+    "url": "https://genius.com/artists/Catherine-sauvage"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/19226",
+     "header_image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "id": 19226,
+     "image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Serge Gainsbourg",
+     "url": "https://genius.com/artists/Serge-gainsbourg"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/19226",
+     "header_image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "id": 19226,
+     "image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Serge Gainsbourg",
+     "url": "https://genius.com/artists/Serge-gainsbourg"
+    }
+   ],
+   "lyrics": "L'amour \u00e0 la papa\nDis moi, dis moi\nDis moi \u00e7a ne m'int\u00e9resse pas\nCa fait des mois\nDes mois, des mois\nQue j'attends autre chose de toi\nCa fait des mois qu'\u00e7a dure\nJe m'perds en conjectures\nQue pourrais-je te dire\nTe dire de lire\nL'amour \u00e0 la papa\nA moi, \u00e0 moi\nCa ne me fait ni chaud ni froid\n\nJe suis le lierre\nTu es la pierre\nJe prends racine autour de toi\nMais tu t'ecailles\nQuand je t'entaille\nTu es de pierre et je deviens de bois\n\nL'amour \u00e0 la papa\nDis moi, dis moi\nDis moi \u00e7a ne m'int\u00e9resse pas\nCa fait d\u00e9j\u00e0 des mois\nDes mois, des mois\nQue j'attends autre chose de toi\nQuatre-vingt-dix \u00e0 l'ombre\nDe mon corps et tu sombres\nTu n'es pas une affaire\nTu ne peux faire\nQu' l'amour \u00e0 la papa\nCrois moi, crois moi\nY a trente deux fa\u00e7ons de faire \u00e7a\n\nSi d'amertume\nJe m'accoutume\nIl est fort probable qu'un jour\nEn ayant marre\nC'est \u00e0 la gare\nQue je t'enverrais toi et tes amours\n\nL'amour \u00e0 la papa\nDis moi, dis moi\nDis moi \u00e7a ne m'int\u00e9resse pas\nCa fait d\u00e9j\u00e0 des mois\nDes mois, des mois\nQue j'attends autre chose de toi\nA la gare maritime\nTu gagneras mon estime\nEn prenant la gal\u00e8re\nJusqu'\u00e0 Cyth\u00e8re\nEt l\u00e0-bas \u00e9cris-moi\nDis moi, dis moi\nSi on fait l'amour \u00e0 la papa"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3049523",
+   "apple_music_id": "291857924",
+   "apple_music_player_url": "https://genius.com/songs/3049523/apple_music_player",
+   "description": {
+    "plain": "Chanson \u00e9crite par Serge Gainsbourg et cr\u00e9\u00e9e par Juliette Gr\u00e9co.\n\nMich\u00e8le Arnaud enregistra sa propre version de la chanson.\n\nCatherine Sauvage enregistre sa propre version en 1961 , qui restera in\u00e9dite jusqu'en 1999."
+   },
+   "embed_content": "<div id='rg_embed_link_3049523' class='rg_embed_link' data-song-id='3049523'>Read <a href='https://genius.com/Catherine-sauvage-il-etait-une-oie-lyrics'>\u201cIl \u00e9tait une oie\u201d by Catherine\u00a0Sauvage</a> on Genius</div> <script crossorigin src='//genius.com/songs/3049523/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Il \u00e9tait une oie by\u00a0Catherine\u00a0Sauvage",
+   "header_image_thumbnail_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+   "id": 3049523,
+   "lyrics_owner_id": 2813134,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Catherine-sauvage-il-etait-une-oie-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "1999",
+   "song_art_image_thumbnail_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Il \u00e9tait une oie",
+   "title_with_featured": "Il \u00e9tait une oie",
+   "url": "https://genius.com/Catherine-sauvage-il-etait-une-oie-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/335116",
+    "cover_art_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+    "full_title": "Catherine Sauvage chante Serge Gainsbourg et Fr\u00e9d\u00e9ric Botton by Catherine Sauvage",
+    "id": 335116,
+    "name": "Catherine Sauvage chante Serge Gainsbourg et Fr\u00e9d\u00e9ric Botton",
+    "url": "https://genius.com/albums/Catherine-sauvage/Catherine-sauvage-chante-serge-gainsbourg-et-frederic-botton",
+    "artist": {
+     "api_path": "/artists/379749",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 379749,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Catherine Sauvage",
+     "url": "https://genius.com/artists/Catherine-sauvage"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/524312",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+       "id": 524312,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jacques Loussier",
+       "url": "https://genius.com/artists/Jacques-loussier"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2813134,
+    "annotator_login": "daufresne",
+    "api_path": "/referents/11642080",
+    "classification": "accepted",
+    "fragment": "Il \u00e9tait une oie",
+    "id": 11642080,
+    "is_description": true,
+    "path": "/11642080/Catherine-sauvage-il-etait-une-oie/Il-etait-une-oie",
+    "range": {
+     "content": "Il \u00e9tait une oie"
+    },
+    "song_id": 3049523,
+    "url": "https://genius.com/11642080/Catherine-sauvage-il-etait-une-oie/Il-etait-une-oie",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3049523",
+     "client_timestamps": {
+      "updated_by_human_at": 1491753045,
+      "lyrics_updated_at": 1491752442
+     },
+     "context": "Catherine Sauvage",
+     "id": 3049523,
+     "image_url": "https://images.genius.com/40adf35a99a62ec78850604ae9dc32bc.300x300x1.jpg",
+     "link_title": "Il \u00e9tait une oie by\u00a0Catherine\u00a0Sauvage",
+     "title": "Il \u00e9tait une oie",
+     "type": "Song",
+     "url": "https://genius.com/Catherine-sauvage-il-etait-une-oie-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11642080",
+      "body": {
+       "plain": "Chanson \u00e9crite par Serge Gainsbourg et cr\u00e9\u00e9e par Juliette Gr\u00e9co.\n\nMich\u00e8le Arnaud enregistra sa propre version de la chanson.\n\nCatherine Sauvage enregistre sa propre version en 1961 , qui restera in\u00e9dite jusqu'en 1999."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 11642080,
+      "pinned": false,
+      "share_url": "https://genius.com/11642080",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/11642080/Catherine-sauvage-il-etait-une-oie/Il-etait-une-oie",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2813134",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/edee1f8e27fbd5d8d8edbd674edc3383",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/edee1f8e27fbd5d8d8edbd674edc3383",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2813134,
+         "iq": 8810,
+         "login": "daufresne",
+         "name": "daufresne",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/daufresne",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/379749",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 379749,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Catherine Sauvage",
+    "url": "https://genius.com/artists/Catherine-sauvage"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/19226",
+     "header_image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "id": 19226,
+     "image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Serge Gainsbourg",
+     "url": "https://genius.com/artists/Serge-gainsbourg"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/19226",
+     "header_image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "id": 19226,
+     "image_url": "https://images.genius.com/9ff73679576a0b865f249266f1eadd72.480x545x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Serge Gainsbourg",
+     "url": "https://genius.com/artists/Serge-gainsbourg"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1496685",
+   "apple_music_id": "370557916",
+   "apple_music_player_url": "https://genius.com/songs/1496685/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1496685' class='rg_embed_link' data-song-id='1496685'>Read <a href='https://genius.com/Catherine-sauvage-lhomme-lyrics'>\u201cL'homme\u201d by Catherine\u00a0Sauvage</a> on Genius</div> <script crossorigin src='//genius.com/songs/1496685/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "L'homme by\u00a0Catherine\u00a0Sauvage",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1496685,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Catherine-sauvage-lhomme-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "L\u2019homme",
+   "title_with_featured": "L'homme",
+   "url": "https://genius.com/Catherine-sauvage-lhomme-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6010827",
+    "classification": "needs_exegesis",
+    "fragment": "L\u2019homme",
+    "id": 6010827,
+    "is_description": true,
+    "path": "/6010827/Catherine-sauvage-lhomme/Lhomme",
+    "range": {
+     "content": "L'homme"
+    },
+    "song_id": 1496685,
+    "url": "https://genius.com/6010827/Catherine-sauvage-lhomme/Lhomme",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1496685",
+     "client_timestamps": {
+      "updated_by_human_at": 1443119561,
+      "lyrics_updated_at": 1429891682
+     },
+     "context": "Catherine Sauvage",
+     "id": 1496685,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "L\u2019homme by\u00a0Catherine\u00a0Sauvage",
+     "title": "L'homme",
+     "type": "Song",
+     "url": "https://genius.com/Catherine-sauvage-lhomme-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6010827",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6010827,
+      "pinned": false,
+      "share_url": "https://genius.com/6010827",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6010827/Catherine-sauvage-lhomme/Lhomme",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/379749",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 379749,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Catherine Sauvage",
+    "url": "https://genius.com/artists/Catherine-sauvage"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1339041",
+   "apple_music_id": "672687528",
+   "apple_music_player_url": "https://genius.com/songs/1339041/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1339041' class='rg_embed_link' data-song-id='1339041'>Read <a href='https://genius.com/Catherine-sauvage-mister-georgina-lyrics'>\u201cMister Georgina\u201d by Catherine\u00a0Sauvage</a> on Genius</div> <script crossorigin src='//genius.com/songs/1339041/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Mister Georgina by\u00a0Catherine\u00a0Sauvage",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1339041,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Catherine-sauvage-mister-georgina-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mister Georgina",
+   "title_with_featured": "Mister Georgina",
+   "url": "https://genius.com/Catherine-sauvage-mister-georgina-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/208158",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1608585704",
+    "full_title": "Chante L\u00e9o Ferr\u00e9 by Catherine Sauvage",
+    "id": 208158,
+    "name": "Chante L\u00e9o Ferr\u00e9",
+    "url": "https://genius.com/albums/Catherine-sauvage/Chante-leo-ferre",
+    "artist": {
+     "api_path": "/artists/379749",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 379749,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Catherine Sauvage",
+     "url": "https://genius.com/artists/Catherine-sauvage"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5846309",
+    "classification": "needs_exegesis",
+    "fragment": "Mister Georgina",
+    "id": 5846309,
+    "is_description": true,
+    "path": "/5846309/Catherine-sauvage-mister-georgina/Mister-georgina",
+    "range": {
+     "content": "Mister Georgina"
+    },
+    "song_id": 1339041,
+    "url": "https://genius.com/5846309/Catherine-sauvage-mister-georgina/Mister-georgina",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1339041",
+     "client_timestamps": {
+      "updated_by_human_at": 1473376277,
+      "lyrics_updated_at": 1429771585
+     },
+     "context": "Catherine Sauvage",
+     "id": 1339041,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Mister Georgina by\u00a0Catherine\u00a0Sauvage",
+     "title": "Mister Georgina",
+     "type": "Song",
+     "url": "https://genius.com/Catherine-sauvage-mister-georgina-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5846309",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5846309,
+      "pinned": false,
+      "share_url": "https://genius.com/5846309",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5846309/Catherine-sauvage-mister-georgina/Mister-georgina",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/379749",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 379749,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Catherine Sauvage",
+    "url": "https://genius.com/artists/Catherine-sauvage"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Tu joues tu joues d'l'accord\u00e9on\nDans un bistro qui n'a plus d'nom\nTell'ment les gens sont habitu\u00e9s\nA y danser \u00e0 y danser\nLa comparsita\nQue tu leur joues toutes les nuits\nPour un salair' qui fait pas d'bruit\nCar ton m\u00e9tier c'est d'fair' danser\nC'est d'fair' danser\nMister Giorgina\nQue ton biniou brill' comm' le jour\nOu qu'il soit noir comm' les amours\nQui sur la piste s'en vont chercher\nDe quoi r\u00eaver de quoi danser\nLa comparsita\nToi tu t'en fous car ton m\u00e9tier\nC'est d'faire danser mais pas d'penser\nFais ta s\u00e9rie voil\u00e0 ta vie\nVoil\u00e0 ta vie\nMister Giorgina\n\n\" ta vie... ma vie... leur vie...\"\n\nUn jour t'auras les cheveux blancs\nCeux qui vienn'nt tard qui vienn'nt s\u00fbr'ment\nTu te r'trouv'ras d'vant ton buffet\nPour y danser pour y danser\nLa comparsita\nQue tu jouais dans un beuglant\nPour un salair' qu'a foutu le camp\nLes autr's dansaient toi tu bouffais\nToi tu bouffais\nMister Giorgina\nAlors avant qu'il n'soit trop tard\nPlanqu' ton magot dans ton placard\nLes fourmis c'est fait pour bosser\nQuand aux cigal's ell's vont danser\nLa comparsita\nCar la musiqu' foutu m\u00e9tier\n\u00c7a chante \u00e7a gueul' \u00e7a fait r\u00eaver\nEt \u00e7a s'envol' comm' les paroles\nComm' les paroles\nMister Giorgina\n\n\"\u00e7a s'envole ? pas toujours...\n... n\u00e9e de tango inconnu ! ... \"\n\nToi les frangin's qui vienn'nt guincher\nAvant d'se fair' comparsiter\nTu les regardes avec tes doigts\nT'as l'\u0153il qui joue en do en fa\nLa comparsita\nAu fond tout \u00e7a toi tu t'en fous\nT'as qu'un copain c'est ton biniou\nTu joues Schubert mais c'est plus cher\nMais c'est plus cher\nMister Giorgina\nUn piano c'est comm' l'horizon\n\u00c7a joue tout \u00e0 l'horizontale\nToi ton piano et ses flonflons\nTu les fous \u00e0 la verticale\nSur comparsita\nEt dans la rue tes r\u00e9citals\nDes fois \u00e7a nous fait un peu mal\nAvec ton Pleyel en sautoir\nYel-en-sautoir\nMister Giorgina\n\n\"\u00e7a nous fait un peu mal... la Musique\nFini ! la Musique! en l'an 2000 plus d'Musique\nEt pourtant, c'\u00e9tait beau... Jean S\u00e9bastien Bach ? Tu connais ?"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1330972",
+   "apple_music_id": "370557487",
+   "apple_music_player_url": "https://genius.com/songs/1330972/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1330972' class='rg_embed_link' data-song-id='1330972'>Read <a href='https://genius.com/Catherine-sauvage-le-piano-du-pauvre-lyrics'>\u201cLe piano du pauvre\u201d by Catherine\u00a0Sauvage</a> on Genius</div> <script crossorigin src='//genius.com/songs/1330972/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Le piano du pauvre by\u00a0Catherine\u00a0Sauvage",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1330972,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Catherine-sauvage-le-piano-du-pauvre-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le piano du pauvre",
+   "title_with_featured": "Le piano du pauvre",
+   "url": "https://genius.com/Catherine-sauvage-le-piano-du-pauvre-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5838136",
+    "classification": "needs_exegesis",
+    "fragment": "Le piano du pauvre",
+    "id": 5838136,
+    "is_description": true,
+    "path": "/5838136/Catherine-sauvage-le-piano-du-pauvre/Le-piano-du-pauvre",
+    "range": {
+     "content": "Le piano du pauvre"
+    },
+    "song_id": 1330972,
+    "url": "https://genius.com/5838136/Catherine-sauvage-le-piano-du-pauvre/Le-piano-du-pauvre",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1330972",
+     "client_timestamps": {
+      "updated_by_human_at": 1440686427,
+      "lyrics_updated_at": 1429767994
+     },
+     "context": "Catherine Sauvage",
+     "id": 1330972,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Le piano du pauvre by\u00a0Catherine\u00a0Sauvage",
+     "title": "Le piano du pauvre",
+     "type": "Song",
+     "url": "https://genius.com/Catherine-sauvage-le-piano-du-pauvre-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5838136",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5838136,
+      "pinned": false,
+      "share_url": "https://genius.com/5838136",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5838136/Catherine-sauvage-le-piano-du-pauvre/Le-piano-du-pauvre",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/379749",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 379749,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Catherine Sauvage",
+    "url": "https://genius.com/artists/Catherine-sauvage"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1515476",
+   "apple_music_id": "672687777",
+   "apple_music_player_url": "https://genius.com/songs/1515476/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1515476' class='rg_embed_link' data-song-id='1515476'>Read <a href='https://genius.com/Catherine-sauvage-la-fille-des-bois-lyrics'>\u201cLa fille des bois\u201d by Catherine\u00a0Sauvage</a> on Genius</div> <script crossorigin src='//genius.com/songs/1515476/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "La fille des bois by\u00a0Catherine\u00a0Sauvage",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1515476,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Catherine-sauvage-la-fille-des-bois-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La fille des bois",
+   "title_with_featured": "La fille des bois",
+   "url": "https://genius.com/Catherine-sauvage-la-fille-des-bois-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6029895",
+    "classification": "needs_exegesis",
+    "fragment": "La fille des bois",
+    "id": 6029895,
+    "is_description": true,
+    "path": "/6029895/Catherine-sauvage-la-fille-des-bois/La-fille-des-bois",
+    "range": {
+     "content": "La fille des bois"
+    },
+    "song_id": 1515476,
+    "url": "https://genius.com/6029895/Catherine-sauvage-la-fille-des-bois/La-fille-des-bois",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1515476",
+     "client_timestamps": {
+      "updated_by_human_at": 1444057117,
+      "lyrics_updated_at": 1429893716
+     },
+     "context": "Catherine Sauvage",
+     "id": 1515476,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "La fille des bois by\u00a0Catherine\u00a0Sauvage",
+     "title": "La fille des bois",
+     "type": "Song",
+     "url": "https://genius.com/Catherine-sauvage-la-fille-des-bois-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6029895",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6029895,
+      "pinned": false,
+      "share_url": "https://genius.com/6029895",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6029895/Catherine-sauvage-la-fille-des-bois/La-fille-des-bois",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/379749",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 379749,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Catherine Sauvage",
+    "url": "https://genius.com/artists/Catherine-sauvage"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/11113",
+ "description": {
+  "plain": "Producer associated with Wu-Tang\u2019s West Coast Killa Beez and Holocaust."
+ },
+ "facebook_name": "",
+ "followers_count": 1,
+ "header_image_url": "https://images.genius.com/fad19eeafdb3972273d93c0fa3725ffa.480x360x1.jpg",
+ "id": 11113,
+ "image_url": "https://images.genius.com/fad19eeafdb3972273d93c0fa3725ffa.480x360x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Skarekrow",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Skarekrow",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 146421,
+  "annotator_login": "GoldenBarz",
+  "api_path": "/referents/6934809",
+  "classification": "unreviewed",
+  "fragment": "Skarekrow",
+  "id": 6934809,
+  "is_description": true,
+  "path": "/6934809/Skarekrow/Skarekrow",
+  "range": {
+   "content": "Skarekrow"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6934809/Skarekrow/Skarekrow",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/11113",
+   "context": null,
+   "id": 11113,
+   "image_url": "https://images.genius.com/fad19eeafdb3972273d93c0fa3725ffa.480x360x1.jpg",
+   "link_title": "Skarekrow",
+   "title": "Skarekrow",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Skarekrow"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6934809",
+    "body": {
+     "plain": "Producer associated with Wu-Tang\u2019s West Coast Killa Beez and Holocaust."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6934809,
+    "pinned": false,
+    "share_url": "https://genius.com/6934809",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/6934809/Skarekrow/Skarekrow",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/146421",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/TgvpsDCCSMS0Ooat9Jgv.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/TgvpsDCCSMS0Ooat9Jgv.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/TgvpsDCCSMS0Ooat9Jgv.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/TgvpsDCCSMS0Ooat9Jgv.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/TgvpsDCCSMS0Ooat9Jgv.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 146421,
+       "iq": 83297,
+       "login": "GoldenBarz",
+       "name": "GoldenBarz",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/GoldenBarz",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

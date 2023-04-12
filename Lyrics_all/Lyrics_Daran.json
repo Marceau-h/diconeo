@@ -1,0 +1,1230 @@
+{
+ "alternate_names": [
+  "Jean-Jacques Daran"
+ ],
+ "api_path": "/artists/381299",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+ "id": 381299,
+ "image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Daran",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Daran",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7098245",
+  "classification": "needs_exegesis",
+  "fragment": "Daran",
+  "id": 7098245,
+  "is_description": true,
+  "path": "/7098245/Daran/Daran",
+  "range": {
+   "content": "Daran"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7098245/Daran/Daran",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/381299",
+   "context": null,
+   "id": 381299,
+   "image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+   "link_title": "Daran",
+   "title": "Daran",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Daran"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7098245",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7098245,
+    "pinned": false,
+    "share_url": "https://genius.com/7098245",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7098245/Daran/Daran",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1159049",
+   "apple_music_id": "42015410",
+   "apple_music_player_url": "https://genius.com/songs/1159049/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1159049' class='rg_embed_link' data-song-id='1159049'>Read <a href='https://genius.com/Daran-dormir-dehors-lyrics'>\u201cDormir Dehors\u201d by Daran</a> on Genius</div> <script crossorigin src='//genius.com/songs/1159049/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Dormir Dehors by\u00a0Daran",
+   "header_image_thumbnail_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+   "id": 1159049,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Daran-dormir-dehors-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Dormir Dehors",
+   "title_with_featured": "Dormir Dehors",
+   "url": "https://genius.com/Daran-dormir-dehors-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5660741",
+    "classification": "needs_exegesis",
+    "fragment": "Dormir Dehors",
+    "id": 5660741,
+    "is_description": true,
+    "path": "/5660741/Daran-dormir-dehors/Dormir-dehors",
+    "range": {
+     "content": "Dormir Dehors"
+    },
+    "song_id": 1159049,
+    "url": "https://genius.com/5660741/Daran-dormir-dehors/Dormir-dehors",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1159049",
+     "client_timestamps": {
+      "updated_by_human_at": 1437427457,
+      "lyrics_updated_at": 1429674202
+     },
+     "context": "Daran",
+     "id": 1159049,
+     "image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+     "link_title": "Dormir Dehors by\u00a0Daran",
+     "title": "Dormir Dehors",
+     "type": "Song",
+     "url": "https://genius.com/Daran-dormir-dehors-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5660741",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5660741,
+      "pinned": false,
+      "share_url": "https://genius.com/5660741",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5660741/Daran-dormir-dehors/Dormir-dehors",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/381299",
+    "header_image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+    "id": 381299,
+    "image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Daran",
+    "url": "https://genius.com/artists/Daran"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Je ne veux pas m'endormir\nFaire semblant d'ob\u00e9ir\nAu mensonge millionnaire, cuisine \u00e9quip\u00e9e\nJe ne crois pas aux images\n\u00c0 l'imposture du langage\nEt \u00e0 l'\u00e9motion mercenaire\nDu papier glac\u00e9\n\nJe pr\u00e9f\u00e8re dormir dehors\nJe pr\u00e9f\u00e8re dormir dehors\nDormir dehors\n\nTout va bien\nSauf que tout va mal\nL'illusion est totale\nLa routine nous caresse, cuisine \u00e9quip\u00e9e\nJe ne suis pas assez triste\nPour voir mes yeux et mes cicatrices\nSe refermer sans aller voir de l'autre c\u00f4t\u00e9\n\nL'amour n'est rien\nS'il est pris au pi\u00e8ge\nL'amour s'\u00e9teint\nQuand les gens se taisent"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4546352",
+   "apple_music_id": "919056537",
+   "apple_music_player_url": "https://genius.com/songs/4546352/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4546352' class='rg_embed_link' data-song-id='4546352'>Read <a href='https://genius.com/Daran-une-sorte-deglise-2014-lyrics'>\u201cUne sorte d'\u00e9glise (2014)\u201d by Daran</a> on Genius</div> <script crossorigin src='//genius.com/songs/4546352/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Une sorte d'\u00e9glise (2014) by\u00a0Daran",
+   "header_image_thumbnail_url": "https://images.genius.com/cca0a2131aec9a64d660dd47f69dc02a.300x268x1.jpg",
+   "header_image_url": "https://images.genius.com/cca0a2131aec9a64d660dd47f69dc02a.599x535x1.jpg",
+   "id": 4546352,
+   "lyrics_owner_id": 1201983,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Daran-une-sorte-deglise-2014-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cca0a2131aec9a64d660dd47f69dc02a.300x268x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cca0a2131aec9a64d660dd47f69dc02a.599x535x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Une sorte d\u2019\u00e9glise (2014)",
+   "title_with_featured": "Une sorte d'\u00e9glise (2014)",
+   "url": "https://genius.com/Daran-une-sorte-deglise-2014-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/528752",
+    "cover_art_url": "https://images.genius.com/cca0a2131aec9a64d660dd47f69dc02a.599x535x1.jpg",
+    "full_title": "Le monde perdu by Daran",
+    "id": 528752,
+    "name": "Le monde perdu",
+    "url": "https://genius.com/albums/Daran/Le-monde-perdu",
+    "artist": {
+     "api_path": "/artists/381299",
+     "header_image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+     "id": 381299,
+     "image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daran",
+     "url": "https://genius.com/artists/Daran"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Arrangements",
+     "artists": [
+      {
+       "api_path": "/artists/88326",
+       "header_image_url": "https://images.genius.com/a00ad0a69ab9146595bc2bf0ede201a5.610x350x1.jpg",
+       "id": 88326,
+       "image_url": "https://images.genius.com/688a6831ceadb148684cc0dbaf4d09a9.664x664x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Louis-Jean Cormier",
+       "url": "https://genius.com/artists/Louis-jean-cormier"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1201983,
+    "annotator_login": "MTLvpvs",
+    "api_path": "/referents/17151761",
+    "classification": "needs_exegesis",
+    "fragment": "Une sorte d\u2019\u00e9glise (2014)",
+    "id": 17151761,
+    "is_description": true,
+    "path": "/17151761/Daran-une-sorte-deglise-2014/Une-sorte-deglise-2014",
+    "range": {
+     "content": "Une sorte d'\u00e9glise (2014)"
+    },
+    "song_id": 4546352,
+    "url": "https://genius.com/17151761/Daran-une-sorte-deglise-2014/Une-sorte-deglise-2014",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4546352",
+     "client_timestamps": {
+      "updated_by_human_at": 1557606850,
+      "lyrics_updated_at": 1557606277
+     },
+     "context": "Daran",
+     "id": 4546352,
+     "image_url": "https://images.genius.com/cca0a2131aec9a64d660dd47f69dc02a.599x535x1.jpg",
+     "link_title": "Une sorte d\u2019\u00e9glise (2014) by\u00a0Daran",
+     "title": "Une sorte d'\u00e9glise (2014)",
+     "type": "Song",
+     "url": "https://genius.com/Daran-une-sorte-deglise-2014-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17151761",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17151761,
+      "pinned": false,
+      "share_url": "https://genius.com/17151761",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17151761/Daran-une-sorte-deglise-2014/Une-sorte-deglise-2014",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1201983",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/3dd3f68a440202c4199a50f2e4318693",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/3dd3f68a440202c4199a50f2e4318693",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/3dd3f68a440202c4199a50f2e4318693",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/3dd3f68a440202c4199a50f2e4318693",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/ea48a4d2bf6ced6df9ba0f336f1a5b12.960x640x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 1201983,
+         "iq": 469501,
+         "login": "MTLvpvs",
+         "name": "Lvpvs",
+         "role_for_display": "editor",
+         "url": "https://genius.com/MTLvpvs",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/381299",
+    "header_image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+    "id": 381299,
+    "image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Daran",
+    "url": "https://genius.com/artists/Daran"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/381299",
+     "header_image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+     "id": 381299,
+     "image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daran",
+     "url": "https://genius.com/artists/Daran"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1257688",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1257688,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre-Yves Lebert",
+     "url": "https://genius.com/artists/Pierre-yves-lebert"
+    },
+    {
+     "api_path": "/artists/381299",
+     "header_image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+     "id": 381299,
+     "image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daran",
+     "url": "https://genius.com/artists/Daran"
+    }
+   ],
+   "lyrics": "Je voulais pour nous deux bien mieux qu'une croyance\nAlors je t\u2019ai trouv\u00e9 une sorte d'\u00e9glise\nDont les murs ne sont pas couverts de fa\u00efence, ni de marbre\nLes vitraux je les brise, les piliers sont des arbres\n\nL'autel est un rocher tapiss\u00e9 de lichen\nOn n\u2019y parle ni pardon ni p\u00e9ch\u00e9\nOn n'y fait pas commerce de douleur et de peine\nOn n'y adore ni Dieu ni Diable\nMais la beaut\u00e9 des corps\nEt le sort qui a mis ton amour dans mes veines\n\nJe nous veux sans fronti\u00e8re sans limite et sans loi\nJe veux te respirer te vivre et vivre en toi\nEt croire qu'avant nous tout \u00e7a n'existait pas\n\nNous deux nous m\u00e9ritons bien plus haut qu'une vo\u00fbte\nAlors je t'ai trouv\u00e9 une plaine sans routes\nSans autres limites que les points cardinaux\nEt sans traces que celles de nos chevaux qui absorbent l'espace\n\nAu sommet d\u2019une colline, j\u2019allume une flamme\nPour qu'on sache qu\u2019un homme et une femme\nF\u00eateront sous la lune la nuit de l'origine\nUn sacrifice au bonheur de leurs \u00e2mes\nAu futur de leurs fils\nIci les dieux d'adorent sans aucun artifice\n\nJe nous veux sans fronti\u00e8re sans limite et sans loi\nJe veux te respirer te vivre et vivre en toi\nEt croire qu'avant nous tout \u00e7a n\u2019existait pas"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4546375",
+   "apple_music_id": "819750812",
+   "apple_music_player_url": "https://genius.com/songs/4546375/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4546375' class='rg_embed_link' data-song-id='4546375'>Read <a href='https://genius.com/Daran-une-sorte-deglise-lyrics'>\u201cUne sorte d'\u00e9glise\u201d by Daran</a> on Genius</div> <script crossorigin src='//genius.com/songs/4546375/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Une sorte d'\u00e9glise by\u00a0Daran",
+   "header_image_thumbnail_url": "https://images.genius.com/c11e8a01516f2b2d24903c30fa71cfb1.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c11e8a01516f2b2d24903c30fa71cfb1.594x594x1.jpg",
+   "id": 4546375,
+   "lyrics_owner_id": 1201983,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Daran-une-sorte-deglise-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "2003",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c11e8a01516f2b2d24903c30fa71cfb1.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c11e8a01516f2b2d24903c30fa71cfb1.594x594x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Une sorte d\u2019\u00e9glise",
+   "title_with_featured": "Une sorte d'\u00e9glise",
+   "url": "https://genius.com/Daran-une-sorte-deglise-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/528756",
+    "cover_art_url": "https://images.genius.com/c11e8a01516f2b2d24903c30fa71cfb1.594x594x1.jpg",
+    "full_title": "P\u00eacheur de pierres by Daran",
+    "id": 528756,
+    "name": "P\u00eacheur de pierres",
+    "url": "https://genius.com/albums/Daran/Pecheur-de-pierres",
+    "artist": {
+     "api_path": "/artists/381299",
+     "header_image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+     "id": 381299,
+     "image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daran",
+     "url": "https://genius.com/artists/Daran"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1201983,
+    "annotator_login": "MTLvpvs",
+    "api_path": "/referents/17151825",
+    "classification": "needs_exegesis",
+    "fragment": "Une sorte d\u2019\u00e9glise",
+    "id": 17151825,
+    "is_description": true,
+    "path": "/17151825/Daran-une-sorte-deglise/Une-sorte-deglise",
+    "range": {
+     "content": "Une sorte d'\u00e9glise"
+    },
+    "song_id": 4546375,
+    "url": "https://genius.com/17151825/Daran-une-sorte-deglise/Une-sorte-deglise",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4546375",
+     "client_timestamps": {
+      "updated_by_human_at": 1557606952,
+      "lyrics_updated_at": 1557606944
+     },
+     "context": "Daran",
+     "id": 4546375,
+     "image_url": "https://images.genius.com/c11e8a01516f2b2d24903c30fa71cfb1.594x594x1.jpg",
+     "link_title": "Une sorte d\u2019\u00e9glise by\u00a0Daran",
+     "title": "Une sorte d'\u00e9glise",
+     "type": "Song",
+     "url": "https://genius.com/Daran-une-sorte-deglise-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17151825",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17151825,
+      "pinned": false,
+      "share_url": "https://genius.com/17151825",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17151825/Daran-une-sorte-deglise/Une-sorte-deglise",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1201983",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/3dd3f68a440202c4199a50f2e4318693",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/3dd3f68a440202c4199a50f2e4318693",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/3dd3f68a440202c4199a50f2e4318693",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/3dd3f68a440202c4199a50f2e4318693",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/ea48a4d2bf6ced6df9ba0f336f1a5b12.960x640x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 1201983,
+         "iq": 469501,
+         "login": "MTLvpvs",
+         "name": "Lvpvs",
+         "role_for_display": "editor",
+         "url": "https://genius.com/MTLvpvs",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/381299",
+    "header_image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+    "id": 381299,
+    "image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Daran",
+    "url": "https://genius.com/artists/Daran"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/381299",
+     "header_image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+     "id": 381299,
+     "image_url": "https://images.genius.com/4bdd1bc46f4a4b64df92aa4e2f0ae758.385x385x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daran",
+     "url": "https://genius.com/artists/Daran"
+    },
+    {
+     "api_path": "/artists/1257688",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "id": 1257688,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre-Yves Lebert",
+     "url": "https://genius.com/artists/Pierre-yves-lebert"
+    }
+   ],
+   "lyrics": null
+  }
+ ]
+}

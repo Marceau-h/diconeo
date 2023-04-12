@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/65163",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": "",
+ "followers_count": 1,
+ "header_image_url": "https://images.genius.com/94536395a1e829ac809f2b99a404d98a.500x500x1.jpg",
+ "id": 65163,
+ "image_url": "https://images.genius.com/94536395a1e829ac809f2b99a404d98a.500x500x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jay Jaballas",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Jay-jaballas",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 14796,
+  "annotator_login": "Misplaced_Elle",
+  "api_path": "/referents/6978874",
+  "classification": "needs_exegesis",
+  "fragment": "Jay Jaballas",
+  "id": 6978874,
+  "is_description": true,
+  "path": "/6978874/Jay-jaballas/Jay-jaballas",
+  "range": {
+   "content": "Jay Jaballas"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6978874/Jay-jaballas/Jay-jaballas",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/65163",
+   "context": null,
+   "id": 65163,
+   "image_url": "https://images.genius.com/94536395a1e829ac809f2b99a404d98a.500x500x1.jpg",
+   "link_title": "Jay Jaballas",
+   "title": "Jay Jaballas",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jay-jaballas"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6978874",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6978874,
+    "pinned": false,
+    "share_url": "https://genius.com/6978874",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/6978874/Jay-jaballas/Jay-jaballas",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/14796",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/WzmCzRThRwGcpkv7UmCR.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/WzmCzRThRwGcpkv7UmCR.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/WzmCzRThRwGcpkv7UmCR.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/WzmCzRThRwGcpkv7UmCR.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/WzmCzRThRwGcpkv7UmCR.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 14796,
+       "iq": 7529,
+       "login": "Misplaced_Elle",
+       "name": "Misplaced_Elle",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Misplaced_Elle",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

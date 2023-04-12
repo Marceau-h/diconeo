@@ -1,0 +1,508 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/375455",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 375455,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "La Bamboche",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/La-bamboche",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7091828",
+  "classification": "needs_exegesis",
+  "fragment": "La Bamboche",
+  "id": 7091828,
+  "is_description": true,
+  "path": "/7091828/La-bamboche/La-bamboche",
+  "range": {
+   "content": "La Bamboche"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7091828/La-bamboche/La-bamboche",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/375455",
+   "context": null,
+   "id": 375455,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "La Bamboche",
+   "title": "La Bamboche",
+   "type": "Artist",
+   "url": "https://genius.com/artists/La-bamboche"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7091828",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7091828,
+    "pinned": false,
+    "share_url": "https://genius.com/7091828",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7091828/La-bamboche/La-bamboche",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1008972",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1008972/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1008972' class='rg_embed_link' data-song-id='1008972'>Read <a href='https://genius.com/La-bamboche-quitte-paris-lyrics'>\u201cQuitte Paris\u201d by La\u00a0Bamboche</a> on Genius</div> <script crossorigin src='//genius.com/songs/1008972/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Quitte Paris by\u00a0La\u00a0Bamboche",
+   "header_image_thumbnail_url": "https://images.genius.com/356ca18591b45ec8673bd6ffe5f19f92.300x304x1.jpg",
+   "header_image_url": "https://images.genius.com/356ca18591b45ec8673bd6ffe5f19f92.559x567x1.jpg",
+   "id": 1008972,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/La-bamboche-quitte-paris-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/356ca18591b45ec8673bd6ffe5f19f92.300x304x1.jpg",
+   "song_art_image_url": "https://images.genius.com/356ca18591b45ec8673bd6ffe5f19f92.559x567x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Quitte Paris",
+   "title_with_featured": "Quitte Paris",
+   "url": "https://genius.com/La-bamboche-quitte-paris-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/293943",
+    "cover_art_url": "https://images.genius.com/356ca18591b45ec8673bd6ffe5f19f92.559x567x1.jpg",
+    "full_title": "Quitte Paris by La Bamboche",
+    "id": 293943,
+    "name": "Quitte Paris",
+    "url": "https://genius.com/albums/La-bamboche/Quitte-paris",
+    "artist": {
+     "api_path": "/artists/375455",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 375455,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "La Bamboche",
+     "url": "https://genius.com/artists/La-bamboche"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5505611",
+    "classification": "needs_exegesis",
+    "fragment": "Quitte Paris",
+    "id": 5505611,
+    "is_description": true,
+    "path": "/5505611/La-bamboche-quitte-paris/Quitte-paris",
+    "range": {
+     "content": "Quitte Paris"
+    },
+    "song_id": 1008972,
+    "url": "https://genius.com/5505611/La-bamboche-quitte-paris/Quitte-paris",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1008972",
+     "client_timestamps": {
+      "updated_by_human_at": 1479155891,
+      "lyrics_updated_at": 1429586829
+     },
+     "context": "La Bamboche",
+     "id": 1008972,
+     "image_url": "https://images.genius.com/356ca18591b45ec8673bd6ffe5f19f92.559x567x1.jpg",
+     "link_title": "Quitte Paris by\u00a0La\u00a0Bamboche",
+     "title": "Quitte Paris",
+     "type": "Song",
+     "url": "https://genius.com/La-bamboche-quitte-paris-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5505611",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5505611,
+      "pinned": false,
+      "share_url": "https://genius.com/5505611",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5505611/La-bamboche-quitte-paris/Quitte-paris",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375455",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 375455,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "La Bamboche",
+    "url": "https://genius.com/artists/La-bamboche"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Il a vingt ans il doit \u00eatre soldat\nEt sur le quai sa petite fianc\u00e9e\nTremble de peur en songeant qu'il s'en va\nVers la grand-ville objet de ses pens\u00e9es\nLe train d\u00e9marre en un dernier baiser\nLa maman dit : 'Petit que Dieu te garde'\nEt le papa de tous ses yeux regarde\nCelui qui part bien loin de son clocher\nEn lui disant : 'Pars mon p'tit gars\nMais quand tu ne s'ras plus soldat\n\nQuitte le grand Paris\nReviens vite \u00e0 la terre\nQui t'a vu tout petit\nDans les bras de ta m\u00e8re\nEn faux-col en veston\nL\u00e0-bas c'est la mis\u00e8re\nFuis la ville lumi\u00e8re\nReviens vers ta maison'\n\nIl n'a fallu que quelques mots d'amour\nPour qu'une fille cueillie dans la d\u00e9bauche\nPrenne le coeur du p'tit gars pour toujours\nPeut-on savoir comme un roman s'\u00e9bauche\nIl est civil et pour elle tous les jours\nIl trime il trime lui donnant ses journ\u00e9es\nPendant qu'l\u00e0-bas parents et fianc\u00e9e\nDans la douleur esp\u00e8rent son retour\nEt c'est en vain que le papa\nEcrit chaque jour : 'Oh mon p'tit gars - Refrain !\n\nQuitte le grand Paris\nReviens vite \u00e0 la terre\nQui t'a vu tout petit\nDans les bras de ta m\u00e8re\nEn faux-col en veston\nL\u00e0-bas c'est la mis\u00e8re\nFuis la ville lumi\u00e8re\nReviens vers ta maison'\n\nElle est partie prenant un autre amant\nIl est couch\u00e9 sur son lit de souffrance\nC'est le grand air qu'il lui faut maintenant\nLe vieux docteur a jet\u00e9 sa sentence\nIl dit au p\u00e8re retenant ses sanglots :\n'La nuit d'Paris mais c'est bient\u00f4t l'usure\nRamenez-le vers la grande nature\nEt sa jeunesse refleurira bient\u00f4t'\nOh jeunes gens loin du pays\nEcoutez la voix qui vous dit :\n\nQuitte le grand Paris\nReviens vite \u00e0 la terre\nQui t'a vu tout petit\nDans les bras de ta m\u00e8re\nEn faux-col en veston\nL\u00e0-bas c'est la mis\u00e8re\nFuis la ville lumi\u00e8re\nReviens vers ta maison\n\nValsez jeunesse..."
+  }
+ ]
+}

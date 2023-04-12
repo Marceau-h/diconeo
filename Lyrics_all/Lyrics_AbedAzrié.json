@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2385206",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/31075bb50536f6e603837d2552d224ca.207x207x1.jpg",
+ "id": 2385206,
+ "image_url": "https://images.genius.com/31075bb50536f6e603837d2552d224ca.207x207x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Abed Azri\u00e9",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Abed-azrie",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 6190893,
+  "annotator_login": "BurunBey",
+  "api_path": "/referents/20744832",
+  "classification": "needs_exegesis",
+  "fragment": "Abed Azri\u00e9",
+  "id": 20744832,
+  "is_description": true,
+  "path": "/20744832/Abed-azrie/Abed-azrie",
+  "range": {
+   "content": "Abed Azri\u00e9"
+  },
+  "song_id": null,
+  "url": "https://genius.com/20744832/Abed-azrie/Abed-azrie",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2385206",
+   "context": null,
+   "id": 2385206,
+   "image_url": "https://images.genius.com/31075bb50536f6e603837d2552d224ca.207x207x1.jpg",
+   "link_title": "Abed Azri\u00e9",
+   "title": "Abed Azri\u00e9",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Abed-azrie"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/20744832",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 20744832,
+    "pinned": false,
+    "share_url": "https://genius.com/20744832",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/20744832/Abed-azrie/Abed-azrie",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6190893",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/03f0e9a1510060388586f0652a486cfa",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/03f0e9a1510060388586f0652a486cfa",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/03f0e9a1510060388586f0652a486cfa",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/03f0e9a1510060388586f0652a486cfa",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/03f0e9a1510060388586f0652a486cfa",
+       "human_readable_role_for_display": "Contributor",
+       "id": 6190893,
+       "iq": 35711,
+       "login": "BurunBey",
+       "name": "BurunBey",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/BurunBey",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

@@ -1,0 +1,808 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/375063",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 375063,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jean-Claude Annoux",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Jean-claude-annoux",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7093233",
+  "classification": "needs_exegesis",
+  "fragment": "Jean-Claude Annoux",
+  "id": 7093233,
+  "is_description": true,
+  "path": "/7093233/Jean-claude-annoux/Jean-claude-annoux",
+  "range": {
+   "content": "Jean-Claude Annoux"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7093233/Jean-claude-annoux/Jean-claude-annoux",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/375063",
+   "context": null,
+   "id": 375063,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Jean-Claude Annoux",
+   "title": "Jean-Claude Annoux",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jean-claude-annoux"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7093233",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7093233,
+    "pinned": false,
+    "share_url": "https://genius.com/7093233",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7093233/Jean-claude-annoux/Jean-claude-annoux",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1002153",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1002153/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1002153' class='rg_embed_link' data-song-id='1002153'>Read <a href='https://genius.com/Jean-claude-annoux-aux-jeunes-loups-lyrics'>\u201cAux Jeunes Loups\u201d by Jean-Claude\u00a0Annoux</a> on Genius</div> <script crossorigin src='//genius.com/songs/1002153/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Aux Jeunes Loups by\u00a0Jean-Claude\u00a0Annoux",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1002153,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-claude-annoux-aux-jeunes-loups-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Aux Jeunes Loups",
+   "title_with_featured": "Aux Jeunes Loups",
+   "url": "https://genius.com/Jean-claude-annoux-aux-jeunes-loups-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5498594",
+    "classification": "needs_exegesis",
+    "fragment": "Aux Jeunes Loups",
+    "id": 5498594,
+    "is_description": true,
+    "path": "/5498594/Jean-claude-annoux-aux-jeunes-loups/Aux-jeunes-loups",
+    "range": {
+     "content": "Aux Jeunes Loups"
+    },
+    "song_id": 1002153,
+    "url": "https://genius.com/5498594/Jean-claude-annoux-aux-jeunes-loups/Aux-jeunes-loups",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1002153",
+     "client_timestamps": {
+      "updated_by_human_at": 1434556839,
+      "lyrics_updated_at": 1429582952
+     },
+     "context": "Jean-Claude Annoux",
+     "id": 1002153,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Aux Jeunes Loups by\u00a0Jean-Claude\u00a0Annoux",
+     "title": "Aux Jeunes Loups",
+     "type": "Song",
+     "url": "https://genius.com/Jean-claude-annoux-aux-jeunes-loups-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5498594",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5498594,
+      "pinned": false,
+      "share_url": "https://genius.com/5498594",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5498594/Jean-claude-annoux-aux-jeunes-loups/Aux-jeunes-loups",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375063",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375063,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean-Claude Annoux",
+    "url": "https://genius.com/artists/Jean-claude-annoux"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1562753",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1562753/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1562753' class='rg_embed_link' data-song-id='1562753'>Read <a href='https://genius.com/Jean-claude-annoux-les-touristes-lyrics'>\u201cLes Touristes\u201d by Jean-Claude\u00a0Annoux</a> on Genius</div> <script crossorigin src='//genius.com/songs/1562753/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Les Touristes by\u00a0Jean-Claude\u00a0Annoux",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1562753,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jean-claude-annoux-les-touristes-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Les Touristes",
+   "title_with_featured": "Les Touristes",
+   "url": "https://genius.com/Jean-claude-annoux-les-touristes-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6077425",
+    "classification": "needs_exegesis",
+    "fragment": "Les Touristes",
+    "id": 6077425,
+    "is_description": true,
+    "path": "/6077425/Jean-claude-annoux-les-touristes/Les-touristes",
+    "range": {
+     "content": "Les Touristes"
+    },
+    "song_id": 1562753,
+    "url": "https://genius.com/6077425/Jean-claude-annoux-les-touristes/Les-touristes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1562753",
+     "client_timestamps": {
+      "updated_by_human_at": 1444313378,
+      "lyrics_updated_at": 1429897275
+     },
+     "context": "Jean-Claude Annoux",
+     "id": 1562753,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Les Touristes by\u00a0Jean-Claude\u00a0Annoux",
+     "title": "Les Touristes",
+     "type": "Song",
+     "url": "https://genius.com/Jean-claude-annoux-les-touristes-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6077425",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6077425,
+      "pinned": false,
+      "share_url": "https://genius.com/6077425",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6077425/Jean-claude-annoux-les-touristes/Les-touristes",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/375063",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 375063,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jean-Claude Annoux",
+    "url": "https://genius.com/artists/Jean-claude-annoux"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Le teint blafard, venant on ne sait d'o\u00f9\nDe d\u00e9but juin \u00e0 la fin du mois d'ao\u00fbt\nS'\u00e9chappe enfin une meute de loups\nQui a r\u00eav\u00e9 d'une vie de cocagne\nL'air conqu\u00e9rant dans leurs superbes autos\nQu'ils vont conduire comme des chars d'assaut\nIls partent fiers, l'oeil vague et le front haut\nPour envahir nos plages et nos campagnes\n\nLes tou-tou, les tou-tou, les touristes\nTout feu, tout fou, \u00e7a prend tous les risques\n\u00c7a nage n'importe o\u00f9, \u00e7a veut grimper partout\n\u00c7a en veut pour ses sous !\nLes tou-tou, les tou-tou, les touristes\n\u00c7a n'a jamais le droit d'\u00eatre triste\n\u00c7a vit en soci\u00e9t\u00e9, c'est bien organis\u00e9\nEt ce n'est pas g\u00ean\u00e9 quand \u00e7a va se coucher\nEn rangs serr\u00e9s, comme \u00e0 l'arm\u00e9e\n\nPlus il fait chaud, plus ils montrent leur peau\n\u00c7a fait rarement un tr\u00e8s joli tableau\nMais \u00e0 coup s\u00fbr, ils en font une photo\nQu'ils montreront \u00e0 leurs copains de bagne\nEn deux semaines, ils sont d\u00e9figur\u00e9s\nPar les efforts qu'ils ont fait pour bronzer\nEt sans complexes, ils veulent sous notre nez\nNous arracher nos filles et nos compagnes\n\nLes tou-tou, les tou-tou, les touristes\nTout en joie, \u00e7a fr\u00e9tille, \u00e7a s'agite\n\u00c7a d\u00e9borde d'ardeur, \u00e7a cherche l'\u00e2me soeur\n\u00c7a fait le joli coeur\nLes tou-tou, les tou-tou, les touristes\n\u00c7a renifle et \u00e7a suit toutes les pistes\n\u00c7a flirte en soci\u00e9t\u00e9, c'est bien organis\u00e9\nEt ce n'est pas g\u00ean\u00e9 quand \u00e7a va se coucher\nEn rangs par deux comme \u00e0 l'arm\u00e9e\n\nLes tou-tou, les tou-tou, les touristes\n\u00c7a se croit et \u00e7a joue les artistes\n\u00c7a s'prends pour Belmondo\nQui rencontre Bardot\nMais un jour sans un mot\n\nLes tou-tou, les tou-tou, les touristes\n\u00c7a fait un dernier p'tit tour de piste\n\u00c7a se couvre la peau, quand \u00e7a doit tout penaud\nReprendre son auto\nLes tou-tou, les tou-tou, les touristes\n\u00c7a devient tout chagrin et tout triste\nA la fin de la f\u00eate, quand \u00e7a bat la retraite\n\u00c7a croise le coeur gros, d'\u00e9tranges animaux\nQui vont jouer \u00e0 leur tour pendant 31 jours\nLes tou-tou, les tou-tou, les touristes"
+  }
+ ]
+}

@@ -1,0 +1,856 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1022819",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+ "id": 1022819,
+ "image_url": "https://images.genius.com/2534706e83b701aa54737c4e54e5bd48.785x785x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Pierre Dudan",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Pierre-dudan",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2241762,
+  "annotator_login": "gone_1c1r6_c1c5",
+  "api_path": "/referents/10731480",
+  "classification": "needs_exegesis",
+  "fragment": "Pierre Dudan",
+  "id": 10731480,
+  "is_description": true,
+  "path": "/10731480/Pierre-dudan/Pierre-dudan",
+  "range": {
+   "content": "Pierre Dudan"
+  },
+  "song_id": null,
+  "url": "https://genius.com/10731480/Pierre-dudan/Pierre-dudan",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1022819",
+   "context": null,
+   "id": 1022819,
+   "image_url": "https://images.genius.com/2534706e83b701aa54737c4e54e5bd48.785x785x1.jpg",
+   "link_title": "Pierre Dudan",
+   "title": "Pierre Dudan",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Pierre-dudan"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/10731480",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 10731480,
+    "pinned": false,
+    "share_url": "https://genius.com/10731480",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/10731480/Pierre-dudan/Pierre-dudan",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2241762",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1610124101",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1610124101",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2241762,
+       "iq": 71376,
+       "login": "gone_1c1r6_c1c5",
+       "name": "gone_1c1r6_c1c5",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/gone_1c1r6_c1c5",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2893547",
+   "apple_music_id": "438442798",
+   "apple_music_player_url": "https://genius.com/songs/2893547/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2893547' class='rg_embed_link' data-song-id='2893547'>Read <a href='https://genius.com/Pierre-dudan-on-prend-le-cafe-au-lait-au-lit-lyrics'>\u201cOn prend le caf\u00e9 au lait au lit\u201d by Pierre\u00a0Dudan</a> on Genius</div> <script crossorigin src='//genius.com/songs/2893547/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "On prend le caf\u00e9 au lait au lit by\u00a0Pierre\u00a0Dudan",
+   "header_image_thumbnail_url": "https://images.genius.com/b0f7d26941830790835e5b49d919c120.200x200x1.jpg",
+   "header_image_url": "https://images.genius.com/b0f7d26941830790835e5b49d919c120.200x200x1.jpg",
+   "id": 2893547,
+   "lyrics_owner_id": 2241762,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Pierre-dudan-on-prend-le-cafe-au-lait-au-lit-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/b0f7d26941830790835e5b49d919c120.200x200x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b0f7d26941830790835e5b49d919c120.200x200x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "On prend le caf\u00e9 au lait au lit",
+   "title_with_featured": "On prend le caf\u00e9 au lait au lit",
+   "url": "https://genius.com/Pierre-dudan-on-prend-le-cafe-au-lait-au-lit-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/287139",
+    "cover_art_url": "https://images.genius.com/b0f7d26941830790835e5b49d919c120.200x200x1.jpg",
+    "full_title": "All My Success by Pierre Dudan",
+    "id": 287139,
+    "name": "All My Success",
+    "url": "https://genius.com/albums/Pierre-dudan/All-my-success",
+    "artist": {
+     "api_path": "/artists/1022819",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 1022819,
+     "image_url": "https://images.genius.com/2534706e83b701aa54737c4e54e5bd48.785x785x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Dudan",
+     "url": "https://genius.com/artists/Pierre-dudan"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2241762,
+    "annotator_login": "gone_1c1r6_c1c5",
+    "api_path": "/referents/10731482",
+    "classification": "needs_exegesis",
+    "fragment": "On prend le caf\u00e9 au lait au lit",
+    "id": 10731482,
+    "is_description": true,
+    "path": "/10731482/Pierre-dudan-on-prend-le-cafe-au-lait-au-lit/On-prend-le-cafe-au-lait-au-lit",
+    "range": {
+     "content": "On prend le caf\u00e9 au lait au lit"
+    },
+    "song_id": 2893547,
+    "url": "https://genius.com/10731482/Pierre-dudan-on-prend-le-cafe-au-lait-au-lit/On-prend-le-cafe-au-lait-au-lit",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2893547",
+     "client_timestamps": {
+      "updated_by_human_at": 1477597187,
+      "lyrics_updated_at": 1477596344
+     },
+     "context": "Pierre Dudan",
+     "id": 2893547,
+     "image_url": "https://images.genius.com/b0f7d26941830790835e5b49d919c120.200x200x1.jpg",
+     "link_title": "On prend le caf\u00e9 au lait au lit by\u00a0Pierre\u00a0Dudan",
+     "title": "On prend le caf\u00e9 au lait au lit",
+     "type": "Song",
+     "url": "https://genius.com/Pierre-dudan-on-prend-le-cafe-au-lait-au-lit-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10731482",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10731482,
+      "pinned": false,
+      "share_url": "https://genius.com/10731482",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10731482/Pierre-dudan-on-prend-le-cafe-au-lait-au-lit/On-prend-le-cafe-au-lait-au-lit",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2241762",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1610124101",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1610124101",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2241762,
+         "iq": 71376,
+         "login": "gone_1c1r6_c1c5",
+         "name": "gone_1c1r6_c1c5",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/gone_1c1r6_c1c5",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=JkQektYkEK8"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1022819",
+    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+    "id": 1022819,
+    "image_url": "https://images.genius.com/2534706e83b701aa54737c4e54e5bd48.785x785x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Pierre Dudan",
+    "url": "https://genius.com/artists/Pierre-dudan"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2893556",
+   "apple_music_id": "438442822",
+   "apple_music_player_url": "https://genius.com/songs/2893556/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2893556' class='rg_embed_link' data-song-id='2893556'>Read <a href='https://genius.com/Pierre-dudan-melancolie-lyrics'>\u201cM\u00e9lancolie\u201d by Pierre\u00a0Dudan</a> on Genius</div> <script crossorigin src='//genius.com/songs/2893556/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "M\u00e9lancolie by\u00a0Pierre\u00a0Dudan",
+   "header_image_thumbnail_url": "https://images.genius.com/b0f7d26941830790835e5b49d919c120.200x200x1.jpg",
+   "header_image_url": "https://images.genius.com/b0f7d26941830790835e5b49d919c120.200x200x1.jpg",
+   "id": 2893556,
+   "lyrics_owner_id": 2241762,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Pierre-dudan-melancolie-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/b0f7d26941830790835e5b49d919c120.200x200x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b0f7d26941830790835e5b49d919c120.200x200x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "M\u00e9lancolie",
+   "title_with_featured": "M\u00e9lancolie",
+   "url": "https://genius.com/Pierre-dudan-melancolie-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/287139",
+    "cover_art_url": "https://images.genius.com/b0f7d26941830790835e5b49d919c120.200x200x1.jpg",
+    "full_title": "All My Success by Pierre Dudan",
+    "id": 287139,
+    "name": "All My Success",
+    "url": "https://genius.com/albums/Pierre-dudan/All-my-success",
+    "artist": {
+     "api_path": "/artists/1022819",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 1022819,
+     "image_url": "https://images.genius.com/2534706e83b701aa54737c4e54e5bd48.785x785x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pierre Dudan",
+     "url": "https://genius.com/artists/Pierre-dudan"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2241762,
+    "annotator_login": "gone_1c1r6_c1c5",
+    "api_path": "/referents/10731617",
+    "classification": "needs_exegesis",
+    "fragment": "M\u00e9lancolie",
+    "id": 10731617,
+    "is_description": true,
+    "path": "/10731617/Pierre-dudan-melancolie/Melancolie",
+    "range": {
+     "content": "M\u00e9lancolie"
+    },
+    "song_id": 2893556,
+    "url": "https://genius.com/10731617/Pierre-dudan-melancolie/Melancolie",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2893556",
+     "client_timestamps": {
+      "updated_by_human_at": 1477597158,
+      "lyrics_updated_at": 1477597158
+     },
+     "context": "Pierre Dudan",
+     "id": 2893556,
+     "image_url": "https://images.genius.com/b0f7d26941830790835e5b49d919c120.200x200x1.jpg",
+     "link_title": "M\u00e9lancolie by\u00a0Pierre\u00a0Dudan",
+     "title": "M\u00e9lancolie",
+     "type": "Song",
+     "url": "https://genius.com/Pierre-dudan-melancolie-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10731617",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10731617,
+      "pinned": false,
+      "share_url": "https://genius.com/10731617",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10731617/Pierre-dudan-melancolie/Melancolie",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2241762",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1610124101",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1610124101",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2241762,
+         "iq": 71376,
+         "login": "gone_1c1r6_c1c5",
+         "name": "gone_1c1r6_c1c5",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/gone_1c1r6_c1c5",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=vyOmYkF5tVA"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1022819",
+    "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+    "id": 1022819,
+    "image_url": "https://images.genius.com/2534706e83b701aa54737c4e54e5bd48.785x785x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Pierre Dudan",
+    "url": "https://genius.com/artists/Pierre-dudan"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Couplet 1]\nM\u00e9lancolie, un jour s\u2019ach\u00e8ve\nM\u00e9lancolie, on y peut rien\nChaque soir, dans la fum\u00e9e et dans l\u2019alcool\nOn noie ses r\u00eaves, seul jusqu\u2019au matin\n\n[Couplet 2]\nEt chaque nuit, \u00e7a recommence\nPour torturer le c\u0153ur trop lourd\nLe cafard, dans la fum\u00e9e et dans l\u2019alcool, m\u00e8ne la danse\nJusqu\u2019au jour\n\n[Couplet 3]\nDemain y\u2019aura d\u2019 l\u2019amour et d\u2019la lumi\u00e8re\nPeut-\u00eatre bien, \u00e7a m\u2019est \u00e9gal\nBarman! Jusqu\u2019au matin, remplis mon verre\nJe veux r\u00eaver que j\u2019ai moins mal\n\n[Couplet 4]\nM\u00e9lancolie, tu nous encha\u00eenes\nPlus fortement qu\u2019un grand amour\nUn beau soir, dans la fum\u00e9e et dans l\u2019alcool\nOn noie ses peines pour toujours\n\n[Couplet 2]\n\n[Couplet 3]\n\n[Couplet 4]"
+  }
+ ]
+}

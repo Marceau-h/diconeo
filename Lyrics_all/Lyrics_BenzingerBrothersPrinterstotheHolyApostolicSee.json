@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1555129",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 1555129,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Benzinger Brothers Printers to the Holy Apostolic See",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Benzinger-brothers-printers-to-the-holy-apostolic-see",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 6853490,
+  "annotator_login": "JiatongWang",
+  "api_path": "/referents/15198527",
+  "classification": "needs_exegesis",
+  "fragment": "Benzinger Brothers Printers to the Holy Apostolic See",
+  "id": 15198527,
+  "is_description": true,
+  "path": "/15198527/Benzinger-brothers-printers-to-the-holy-apostolic-see/Benzinger-brothers-printers-to-the-holy-apostolic-see",
+  "range": {
+   "content": "Benzinger Brothers Printers to the Holy Apostolic See"
+  },
+  "song_id": null,
+  "url": "https://genius.com/15198527/Benzinger-brothers-printers-to-the-holy-apostolic-see/Benzinger-brothers-printers-to-the-holy-apostolic-see",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1555129",
+   "context": null,
+   "id": 1555129,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Benzinger Brothers Printers to the Holy Apostolic See",
+   "title": "Benzinger Brothers Printers to the Holy Apostolic See",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Benzinger-brothers-printers-to-the-holy-apostolic-see"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/15198527",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 15198527,
+    "pinned": false,
+    "share_url": "https://genius.com/15198527",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/15198527/Benzinger-brothers-printers-to-the-holy-apostolic-see/Benzinger-brothers-printers-to-the-holy-apostolic-see",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6853490",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4d3250ac8bd241215ebfc253f9015cf4",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4d3250ac8bd241215ebfc253f9015cf4",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4d3250ac8bd241215ebfc253f9015cf4",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4d3250ac8bd241215ebfc253f9015cf4",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/4d3250ac8bd241215ebfc253f9015cf4",
+       "human_readable_role_for_display": null,
+       "id": 6853490,
+       "iq": 115,
+       "login": "JiatongWang",
+       "name": "JiatongWang",
+       "role_for_display": null,
+       "url": "https://genius.com/JiatongWang",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

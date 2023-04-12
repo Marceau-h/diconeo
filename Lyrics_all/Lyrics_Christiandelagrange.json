@@ -1,0 +1,808 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/457869",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 457869,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Christian delagrange",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Christian-delagrange",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7122085",
+  "classification": "needs_exegesis",
+  "fragment": "Christian delagrange",
+  "id": 7122085,
+  "is_description": true,
+  "path": "/7122085/Christian-delagrange/Christian-delagrange",
+  "range": {
+   "content": "Christian delagrange"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7122085/Christian-delagrange/Christian-delagrange",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/457869",
+   "context": null,
+   "id": 457869,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Christian delagrange",
+   "title": "Christian delagrange",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Christian-delagrange"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7122085",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7122085,
+    "pinned": false,
+    "share_url": "https://genius.com/7122085",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7122085/Christian-delagrange/Christian-delagrange",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2087866",
+   "apple_music_id": "78904470",
+   "apple_music_player_url": "https://genius.com/songs/2087866/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2087866' class='rg_embed_link' data-song-id='2087866'>Read <a href='https://genius.com/Christian-delagrange-sans-toi-je-suis-seul-lyrics'>\u201cSans toi je suis seul\u201d by Christian\u00a0delagrange</a> on Genius</div> <script crossorigin src='//genius.com/songs/2087866/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Sans toi je suis seul by\u00a0Christian\u00a0delagrange",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 2087866,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Christian-delagrange-sans-toi-je-suis-seul-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sans toi je suis seul",
+   "title_with_featured": "Sans toi je suis seul",
+   "url": "https://genius.com/Christian-delagrange-sans-toi-je-suis-seul-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6827853",
+    "classification": "needs_exegesis",
+    "fragment": "Sans toi je suis seul",
+    "id": 6827853,
+    "is_description": true,
+    "path": "/6827853/Christian-delagrange-sans-toi-je-suis-seul/Sans-toi-je-suis-seul",
+    "range": {
+     "content": "Sans toi je suis seul"
+    },
+    "song_id": 2087866,
+    "url": "https://genius.com/6827853/Christian-delagrange-sans-toi-je-suis-seul/Sans-toi-je-suis-seul",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2087866",
+     "client_timestamps": {
+      "updated_by_human_at": 1446846364,
+      "lyrics_updated_at": 1433957504
+     },
+     "context": "Christian delagrange",
+     "id": 2087866,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Sans toi je suis seul by\u00a0Christian\u00a0delagrange",
+     "title": "Sans toi je suis seul",
+     "type": "Song",
+     "url": "https://genius.com/Christian-delagrange-sans-toi-je-suis-seul-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6827853",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6827853,
+      "pinned": false,
+      "share_url": "https://genius.com/6827853",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6827853/Christian-delagrange-sans-toi-je-suis-seul/Sans-toi-je-suis-seul",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/457869",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 457869,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Christian delagrange",
+    "url": "https://genius.com/artists/Christian-delagrange"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Paroles de la chanson Sans toi je suis seul :\nJe n'ai jamais su dire\nLes mots qu'il fallait pour te plaire\nJe suis tr\u00e8s maladroit\nEt je ne comprends pas pourquoi\nCar je te fais du mal\nMais sans jamais vouloir t'en faire\nAlors ne pleure pas pardonne-moi\nCe sera la derni\u00e8re fois\n\nSans toi je suis seul\nSans toi mon amour\nLa vie ne signifie plus rien\nA quoi servent les nuits\nA quoi servent les jours\nSans toi je suis seul\nSans toi mon amour\nJe n'ai plus personne \u00e0 aimer\nA quoi sert de lutter\nA quoi sert d'exister ?\n\nJe crois que nous ne pourrions pas\nNous passer l'un de l'autre\nMais l'amour et la vie\nSe font la guerre bien souvent\nJe reconnais du fond du c\u0153ur\nQue tout est de ma faute\nJe regrette crois-moi regarde-moi\nFaisons la paix encore une fois\n\nSans toi je suis seul\nSans toi mon amour\nLa vie ne signifie plus rien\nA quoi servent les nuits\nA quoi servent les jours\nSans toi je suis seul\nSans toi mon amour\nJe n'ai plus personne \u00e0 aimer\nA quoi sert de lutter\nA quoi sert d'exister ?\n\nSans toi je suis seul\nSans toi mon amour\nLa vie ne signifie plus rien\nA quoi servent les nuits\nA quoi servent les jours\nSans toi je suis seul\nSans toi mon amour\nJe n'ai plus personne \u00e0 aimer\nA quoi sert de lutter\nA quoi sert d'exister ?"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1980828",
+   "apple_music_id": "78904521",
+   "apple_music_player_url": "https://genius.com/songs/1980828/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1980828' class='rg_embed_link' data-song-id='1980828'>Read <a href='https://genius.com/Christian-delagrange-reviens-mon-amour-reviens-lyrics'>\u201cReviens mon amour, reviens\u201d by Christian\u00a0delagrange</a> on Genius</div> <script crossorigin src='//genius.com/songs/1980828/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Reviens mon amour, reviens by\u00a0Christian\u00a0delagrange",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1980828,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Christian-delagrange-reviens-mon-amour-reviens-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Reviens mon amour, reviens",
+   "title_with_featured": "Reviens mon amour, reviens",
+   "url": "https://genius.com/Christian-delagrange-reviens-mon-amour-reviens-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6667650",
+    "classification": "needs_exegesis",
+    "fragment": "Reviens mon amour, reviens",
+    "id": 6667650,
+    "is_description": true,
+    "path": "/6667650/Christian-delagrange-reviens-mon-amour-reviens/Reviens-mon-amour-reviens",
+    "range": {
+     "content": "Reviens mon amour, reviens"
+    },
+    "song_id": 1980828,
+    "url": "https://genius.com/6667650/Christian-delagrange-reviens-mon-amour-reviens/Reviens-mon-amour-reviens",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1980828",
+     "client_timestamps": {
+      "updated_by_human_at": 1446157576,
+      "lyrics_updated_at": 1432933357
+     },
+     "context": "Christian delagrange",
+     "id": 1980828,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Reviens mon amour, reviens by\u00a0Christian\u00a0delagrange",
+     "title": "Reviens mon amour, reviens",
+     "type": "Song",
+     "url": "https://genius.com/Christian-delagrange-reviens-mon-amour-reviens-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6667650",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6667650,
+      "pinned": false,
+      "share_url": "https://genius.com/6667650",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6667650/Christian-delagrange-reviens-mon-amour-reviens/Reviens-mon-amour-reviens",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/457869",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 457869,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Christian delagrange",
+    "url": "https://genius.com/artists/Christian-delagrange"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Pour un regard\nTu as voulu partir\nEt puis un soir\nSes yeux t'ont fait souffrir\nComme un oiseau\nQui a perdu son nid\nTu n'oses plus\nCroire \u00e0 la vie\n\nReviens mon amour, reviens\nLes fleurs du jardin\nSe meurent sans toi\nReviens mon amour, reviens\nTu sais que ton chien\nS'ennuie de toi\nJ'entends, il pleure chaque nuit\nDepuis que tu es partie\nReviens, pour lui ou pour moi\nMais je t'en prie\nReviens chez toi\n\nIci tu sais\nTout nous parle de toi\nRien n'a chang\u00e9\nOn n'attend plus que toi\nJ'ai pardonn\u00e9\nAu nom de tes vingt ans\nC'est oubli\u00e9\nViens je t'attends\n\nReviens mon amour, reviens\nLes fleurs du jardin\nSe meurent sans toi\nReviens mon amour, reviens\nTu sais que ton chien\nS'ennuie de toi\nJ'entends, il pleure chaque nuit\nDepuis que tu es partie\nReviens, pour lui ou pour moi\nMais je t'en prie\nReviens chez toi"
+  }
+ ]
+}

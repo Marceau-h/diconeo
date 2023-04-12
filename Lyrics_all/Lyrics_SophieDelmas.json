@@ -1,0 +1,1109 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/454219",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 454219,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Sophie Delmas",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Sophie-delmas",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7119026",
+  "classification": "needs_exegesis",
+  "fragment": "Sophie Delmas",
+  "id": 7119026,
+  "is_description": true,
+  "path": "/7119026/Sophie-delmas/Sophie-delmas",
+  "range": {
+   "content": "Sophie Delmas"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7119026/Sophie-delmas/Sophie-delmas",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/454219",
+   "context": null,
+   "id": 454219,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Sophie Delmas",
+   "title": "Sophie Delmas",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Sophie-delmas"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7119026",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7119026,
+    "pinned": false,
+    "share_url": "https://genius.com/7119026",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7119026/Sophie-delmas/Sophie-delmas",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1944858",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1944858/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1944858' class='rg_embed_link' data-song-id='1944858'>Read <a href='https://genius.com/Sophie-delmas-necoute-que-moi-lyrics'>\u201cN'\u00e9coute que moi\u201d by Sophie\u00a0Delmas</a> on Genius</div> <script crossorigin src='//genius.com/songs/1944858/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "N'\u00e9coute que moi by\u00a0Sophie\u00a0Delmas",
+   "header_image_thumbnail_url": "https://images.genius.com/731ff77d93659d58af7b046b31469f34.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/731ff77d93659d58af7b046b31469f34.1000x1000x1.jpg",
+   "id": 1944858,
+   "lyrics_owner_id": 5720794,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Sophie-delmas-necoute-que-moi-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2010-11-26",
+   "release_date_for_display": "November 26, 2010",
+   "song_art_image_thumbnail_url": "https://images.genius.com/731ff77d93659d58af7b046b31469f34.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/731ff77d93659d58af7b046b31469f34.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "N\u2019\u00e9coute que moi",
+   "title_with_featured": "N'\u00e9coute que moi",
+   "url": "https://genius.com/Sophie-delmas-necoute-que-moi-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/328459",
+    "cover_art_url": "https://images.genius.com/3813f06d6520ad965f4511e76218784a.1000x1000x1.jpg",
+    "full_title": "Raiponce (Bande originale du film) by Walt Disney Records",
+    "id": 328459,
+    "name": "Raiponce (Bande originale du film)",
+    "url": "https://genius.com/albums/Walt-disney-records/Raiponce-bande-originale-du-film",
+    "artist": {
+     "api_path": "/artists/32992",
+     "header_image_url": "https://images.genius.com/c414ea29563cb002e5a067947fc17aab.1000x284x1.png",
+     "id": 32992,
+     "image_url": "https://images.genius.com/9b4c7574a4388683c9d6a23cc090f28d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Walt Disney Records",
+     "url": "https://genius.com/artists/Walt-disney-records"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Translator",
+     "artists": [
+      {
+       "api_path": "/artists/1682789",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+       "id": 1682789,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Houria Belhadji",
+       "url": "https://genius.com/artists/Houria-belhadji"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/32992",
+       "header_image_url": "https://images.genius.com/c414ea29563cb002e5a067947fc17aab.1000x284x1.png",
+       "id": 32992,
+       "image_url": "https://images.genius.com/9b4c7574a4388683c9d6a23cc090f28d.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Walt Disney Records",
+       "url": "https://genius.com/artists/Walt-disney-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6630676",
+    "classification": "needs_exegesis",
+    "fragment": "N\u2019\u00e9coute que moi",
+    "id": 6630676,
+    "is_description": true,
+    "path": "/6630676/Sophie-delmas-necoute-que-moi/Necoute-que-moi",
+    "range": {
+     "content": "N'\u00e9coute que moi"
+    },
+    "song_id": 1944858,
+    "url": "https://genius.com/6630676/Sophie-delmas-necoute-que-moi/Necoute-que-moi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1944858",
+     "client_timestamps": {
+      "updated_by_human_at": 1591426510,
+      "lyrics_updated_at": 1591426510
+     },
+     "context": "Sophie Delmas",
+     "id": 1944858,
+     "image_url": "https://images.genius.com/731ff77d93659d58af7b046b31469f34.1000x1000x1.jpg",
+     "link_title": "N\u2019\u00e9coute que moi by\u00a0Sophie\u00a0Delmas",
+     "title": "N'\u00e9coute que moi",
+     "type": "Song",
+     "url": "https://genius.com/Sophie-delmas-necoute-que-moi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6630676",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6630676,
+      "pinned": false,
+      "share_url": "https://genius.com/6630676",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6630676/Sophie-delmas-necoute-que-moi/Necoute-que-moi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=MuIPZwuZs-4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/454219",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 454219,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Sophie Delmas",
+    "url": "https://genius.com/artists/Sophie-delmas"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/158326",
+     "header_image_url": "https://images.genius.com/d074d96d40fe2e39f51a93642c449e9c.1000x667x1.jpg",
+     "id": 158326,
+     "image_url": "https://images.genius.com/a3fc1fff3c83232613161d49688a5eae.500x374x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alan Menken",
+     "url": "https://genius.com/artists/Alan-menken"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 12,
+       "api_path": "/songs/201996",
+       "full_title": "Mother Knows Best by\u00a0Donna\u00a0Murphy",
+       "header_image_thumbnail_url": "https://images.genius.com/dab199b4ee0c05e1e2815589e1c6625b.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/dab199b4ee0c05e1e2815589e1c6625b.1000x563x1.jpg",
+       "id": 201996,
+       "lyrics_owner_id": 134293,
+       "lyrics_state": "complete",
+       "path": "/Donna-murphy-mother-knows-best-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6425aac44f303c9c5aaa428ade21f0f4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6425aac44f303c9c5aaa428ade21f0f4.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "concurrents": 2,
+        "hot": false,
+        "pageviews": 198292
+       },
+       "title": "Mother Knows Best",
+       "title_with_featured": "Mother Knows Best",
+       "url": "https://genius.com/Donna-murphy-mother-knows-best-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/64804",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+        "id": 64804,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Donna Murphy",
+        "url": "https://genius.com/artists/Donna-murphy"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1682789",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1682789,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Houria Belhadji",
+     "url": "https://genius.com/artists/Houria-belhadji"
+    },
+    {
+     "api_path": "/artists/630996",
+     "header_image_url": "https://images.genius.com/4c313463de9a0fb9f99f538751fe7fbb.366x366x1.jpg",
+     "id": 630996,
+     "image_url": "https://images.genius.com/4c313463de9a0fb9f99f538751fe7fbb.366x366x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Glenn Slater",
+     "url": "https://genius.com/artists/Glenn-slater"
+    },
+    {
+     "api_path": "/artists/158326",
+     "header_image_url": "https://images.genius.com/d074d96d40fe2e39f51a93642c449e9c.1000x667x1.jpg",
+     "id": 158326,
+     "image_url": "https://images.genius.com/a3fc1fff3c83232613161d49688a5eae.500x374x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alan Menken",
+     "url": "https://genius.com/artists/Alan-menken"
+    }
+   ],
+   "lyrics": "[Couplet 1]\nTu voudrais aller dehors ?\nOh, voyons Raiponce\nRegarde-toi, aussi fragile qu'une fleur\nTu n'es qu'un b\u00e9b\u00e9, un petit poussin\nPourquoi vivons-nous ici dans la peur ?\nJe sais pourquoi\nMais oui, pour qu'il ne t'arrive rien\nOh, je sais que viendra ce jour maudit\nO\u00f9 l'oiseau voudra quitter son nid\nMais pas tout de suite\nMais\nChut !\n\u00c9coute petite n'\u00e9coute que moi\n\n[Couplet 2]\nN'\u00e9coute que moi, oui \u00e9coute ta m\u00e8re\nNous sommes dans un monde amer\nN'\u00e9coute que moi car de toutes les mani\u00e8res\nPartout le mal guette sur Terre\nBandits, voleurs, poison, sables mouvants\nCannibales, serpents, oh, la peste\nNon, si de grosses bestioles\nL'homme aux dents pointues\n\u00c7a suffit, tout cela me contrarie\nMaman est l\u00e0, maman te prot\u00e9gera\nVoil\u00e0 ce que je sugg\u00e8re\n\u00c9vite le drame, reste avec moi\n\u00c9coute ta m\u00e8re\n\n[Couplet 3]\nVa ma fille affronte les rhinoc\u00e9ros\nVa ma fille affronte les brigands f\u00e9roces\nJe ne suis que ta m\u00e8re moi apr\u00e8s tout\nJe n't'ai que berc\u00e9e, chang\u00e9e, nourrie\nOui, va t'en et laisse-moi je le m\u00e9rite\nLaisse-moi mourir seule\nAbandonne-moi\nMais quand il sera trop tard tu verras\nN'\u00e9coute que moi\n\n[Couplet 4]\nN'\u00e9coute que moi\nC'est maman qui te le dit\nToute seule, tu es perdue\nTu es mal v\u00eatue, immature, maladroite\nIls te mangeraient toute crue\nSimplette et na\u00efve, tu n'es qu'une empot\u00e9e\n\u00c9tourdie et m\u00eame flasque\nMais excuse-moi\nTu te laisses aller ma beaut\u00e9\nComme je t'aime, je te dis tout\nMaman te comprend\nElle veut t'aider surtout\nLa seule chose que j'esp\u00e8re\n\n[Dialogue]\nRaiponce ?\nOui ?\nJe ne veux plus t'entendre parler de quitter cette tour\nEst-ce clair ?\nOui m\u00e8re\nOh, je t'aime de tout mon c\u0153ur ma ch\u00e9rie\nJe vous aime plus encore\nJe t'aime bien plus que cela\n\n[Outro]\nN'oublie pas ou tu le regretteras\nN'\u00e9coute que moi"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5643414",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5643414/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5643414' class='rg_embed_link' data-song-id='5643414'>Read <a href='https://genius.com/Sophie-delmas-necoute-que-moi-reprise-lyrics'>\u201cN'\u00e9coute que moi (Reprise)\u201d by Sophie\u00a0Delmas</a> on Genius</div> <script crossorigin src='//genius.com/songs/5643414/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "N'\u00e9coute que moi (Reprise) by\u00a0Sophie\u00a0Delmas",
+   "header_image_thumbnail_url": "https://images.genius.com/731ff77d93659d58af7b046b31469f34.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/731ff77d93659d58af7b046b31469f34.1000x1000x1.jpg",
+   "id": 5643414,
+   "lyrics_owner_id": 5720794,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Sophie-delmas-necoute-que-moi-reprise-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2010-11-26",
+   "release_date_for_display": "November 26, 2010",
+   "song_art_image_thumbnail_url": "https://images.genius.com/731ff77d93659d58af7b046b31469f34.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/731ff77d93659d58af7b046b31469f34.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "N\u2019\u00e9coute que moi (Reprise)",
+   "title_with_featured": "N'\u00e9coute que moi (Reprise)",
+   "url": "https://genius.com/Sophie-delmas-necoute-que-moi-reprise-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/328459",
+    "cover_art_url": "https://images.genius.com/3813f06d6520ad965f4511e76218784a.1000x1000x1.jpg",
+    "full_title": "Raiponce (Bande originale du film) by Walt Disney Records",
+    "id": 328459,
+    "name": "Raiponce (Bande originale du film)",
+    "url": "https://genius.com/albums/Walt-disney-records/Raiponce-bande-originale-du-film",
+    "artist": {
+     "api_path": "/artists/32992",
+     "header_image_url": "https://images.genius.com/c414ea29563cb002e5a067947fc17aab.1000x284x1.png",
+     "id": 32992,
+     "image_url": "https://images.genius.com/9b4c7574a4388683c9d6a23cc090f28d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Walt Disney Records",
+     "url": "https://genius.com/artists/Walt-disney-records"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Performed By",
+     "artists": [
+      {
+       "api_path": "/artists/406335",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+       "id": 406335,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Maeva M\u00e9line",
+       "url": "https://genius.com/artists/Maeva-meline"
+      },
+      {
+       "api_path": "/artists/454219",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+       "id": 454219,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sophie Delmas",
+       "url": "https://genius.com/artists/Sophie-delmas"
+      }
+     ]
+    },
+    {
+     "label": "Translator",
+     "artists": [
+      {
+       "api_path": "/artists/1682789",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+       "id": 1682789,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Houria Belhadji",
+       "url": "https://genius.com/artists/Houria-belhadji"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/32992",
+       "header_image_url": "https://images.genius.com/c414ea29563cb002e5a067947fc17aab.1000x284x1.png",
+       "id": 32992,
+       "image_url": "https://images.genius.com/9b4c7574a4388683c9d6a23cc090f28d.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Walt Disney Records",
+       "url": "https://genius.com/artists/Walt-disney-records"
+      }
+     ]
+    },
+    {
+     "label": "Arranged By [Orchestral Arranger]",
+     "artists": [
+      {
+       "api_path": "/artists/1052041",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+       "id": 1052041,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Michael Starobin",
+       "url": "https://genius.com/artists/Michael-starobin"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5720794,
+    "annotator_login": "eviltzu",
+    "api_path": "/referents/20035248",
+    "classification": "needs_exegesis",
+    "fragment": "N\u2019\u00e9coute que moi (Reprise)",
+    "id": 20035248,
+    "is_description": true,
+    "path": "/20035248/Sophie-delmas-necoute-que-moi-reprise/Necoute-que-moi-reprise",
+    "range": {
+     "content": "N'\u00e9coute que moi (Reprise)"
+    },
+    "song_id": 5643414,
+    "url": "https://genius.com/20035248/Sophie-delmas-necoute-que-moi-reprise/Necoute-que-moi-reprise",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5643414",
+     "client_timestamps": {
+      "updated_by_human_at": 1591430194,
+      "lyrics_updated_at": 1591430190
+     },
+     "context": "Sophie Delmas",
+     "id": 5643414,
+     "image_url": "https://images.genius.com/731ff77d93659d58af7b046b31469f34.1000x1000x1.jpg",
+     "link_title": "N\u2019\u00e9coute que moi (Reprise) by\u00a0Sophie\u00a0Delmas",
+     "title": "N'\u00e9coute que moi (Reprise)",
+     "type": "Song",
+     "url": "https://genius.com/Sophie-delmas-necoute-que-moi-reprise-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20035248",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20035248,
+      "pinned": false,
+      "share_url": "https://genius.com/20035248",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20035248/Sophie-delmas-necoute-que-moi-reprise/Necoute-que-moi-reprise",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5720794",
+         "avatar": {
+          "tiny": {
+           "url": "https://i.genius.com/7a5aa7e0e9ca46497323cacb0e848f4e363c14a0?url=https%3A%2F%2Flh3.googleusercontent.com%2F-zhHIetd4Q3A%2FAAAAAAAAAAI%2FAAAAAAAAAqY%2F3U6CjL_ei_4%2Fs96-c%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://i.genius.com/7a5aa7e0e9ca46497323cacb0e848f4e363c14a0?url=https%3A%2F%2Flh3.googleusercontent.com%2F-zhHIetd4Q3A%2FAAAAAAAAAAI%2FAAAAAAAAAqY%2F3U6CjL_ei_4%2Fs96-c%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://i.genius.com/7a5aa7e0e9ca46497323cacb0e848f4e363c14a0?url=https%3A%2F%2Flh3.googleusercontent.com%2F-zhHIetd4Q3A%2FAAAAAAAAAAI%2FAAAAAAAAAqY%2F3U6CjL_ei_4%2Fs96-c%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://i.genius.com/7a5aa7e0e9ca46497323cacb0e848f4e363c14a0?url=https%3A%2F%2Flh3.googleusercontent.com%2F-zhHIetd4Q3A%2FAAAAAAAAAAI%2FAAAAAAAAAqY%2F3U6CjL_ei_4%2Fs96-c%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/17shc8u8md1",
+         "human_readable_role_for_display": "Editor",
+         "id": 5720794,
+         "iq": 42369,
+         "login": "eviltzu",
+         "name": "eviltzu",
+         "role_for_display": "editor",
+         "url": "https://genius.com/eviltzu",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Uk-SjLQexDc"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/454219",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 454219,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Sophie Delmas",
+    "url": "https://genius.com/artists/Sophie-delmas"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/158326",
+     "header_image_url": "https://images.genius.com/d074d96d40fe2e39f51a93642c449e9c.1000x667x1.jpg",
+     "id": 158326,
+     "image_url": "https://images.genius.com/a3fc1fff3c83232613161d49688a5eae.500x374x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alan Menken",
+     "url": "https://genius.com/artists/Alan-menken"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/1294043",
+       "full_title": "Mother Knows Best (Reprise) by\u00a0Donna\u00a0Murphy",
+       "header_image_thumbnail_url": "https://images.genius.com/c5bfd47714c3f71603c040ca7d6d581a.300x125x1.jpg",
+       "header_image_url": "https://images.genius.com/c5bfd47714c3f71603c040ca7d6d581a.1000x418x1.jpg",
+       "id": 1294043,
+       "lyrics_owner_id": 4690315,
+       "lyrics_state": "complete",
+       "path": "/Donna-murphy-mother-knows-best-reprise-lyrics",
+       "pyongs_count": 2,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6425aac44f303c9c5aaa428ade21f0f4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6425aac44f303c9c5aaa428ade21f0f4.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 22818
+       },
+       "title": "Mother Knows Best (Reprise)",
+       "title_with_featured": "Mother Knows Best (Reprise)",
+       "url": "https://genius.com/Donna-murphy-mother-knows-best-reprise-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/64804",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+        "id": 64804,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Donna Murphy",
+        "url": "https://genius.com/artists/Donna-murphy"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1682789",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1682789,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Houria Belhadji",
+     "url": "https://genius.com/artists/Houria-belhadji"
+    },
+    {
+     "api_path": "/artists/158326",
+     "header_image_url": "https://images.genius.com/d074d96d40fe2e39f51a93642c449e9c.1000x667x1.jpg",
+     "id": 158326,
+     "image_url": "https://images.genius.com/a3fc1fff3c83232613161d49688a5eae.500x374x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alan Menken",
+     "url": "https://genius.com/artists/Alan-menken"
+    },
+    {
+     "api_path": "/artists/630996",
+     "header_image_url": "https://images.genius.com/4c313463de9a0fb9f99f538751fe7fbb.366x366x1.jpg",
+     "id": 630996,
+     "image_url": "https://images.genius.com/4c313463de9a0fb9f99f538751fe7fbb.366x366x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Glenn Slater",
+     "url": "https://genius.com/artists/Glenn-slater"
+    }
+   ],
+   "lyrics": null
+  }
+ ]
+}

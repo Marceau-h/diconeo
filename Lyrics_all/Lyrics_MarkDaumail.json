@@ -1,0 +1,1215 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/458455",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 458455,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Mark Daumail",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Mark-daumail",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7120921",
+  "classification": "needs_exegesis",
+  "fragment": "Mark Daumail",
+  "id": 7120921,
+  "is_description": true,
+  "path": "/7120921/Mark-daumail/Mark-daumail",
+  "range": {
+   "content": "Mark Daumail"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7120921/Mark-daumail/Mark-daumail",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/458455",
+   "context": null,
+   "id": 458455,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Mark Daumail",
+   "title": "Mark Daumail",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Mark-daumail"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7120921",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7120921,
+    "pinned": false,
+    "share_url": "https://genius.com/7120921",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7120921/Mark-daumail/Mark-daumail",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1987985",
+   "apple_music_id": "886501037",
+   "apple_music_player_url": "https://genius.com/songs/1987985/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1987985' class='rg_embed_link' data-song-id='1987985'>Read <a href='https://genius.com/Mark-daumail-mistaken-lyrics'>\u201cMistaken\u201d by Mark\u00a0Daumail</a> on Genius</div> <script crossorigin src='//genius.com/songs/1987985/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Mistaken by\u00a0Mark\u00a0Daumail",
+   "header_image_thumbnail_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.1000x1000x1.jpg",
+   "id": 1987985,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mark-daumail-mistaken-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mistaken",
+   "title_with_featured": "Mistaken",
+   "url": "https://genius.com/Mark-daumail-mistaken-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/200319",
+    "cover_art_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.1000x1000x1.jpg",
+    "full_title": "Speed of Light by Mark Daumail",
+    "id": 200319,
+    "name": "Speed of Light",
+    "url": "https://genius.com/albums/Mark-daumail/Speed-of-light",
+    "artist": {
+     "api_path": "/artists/458455",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 458455,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mark Daumail",
+     "url": "https://genius.com/artists/Mark-daumail"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6675071",
+    "classification": "needs_exegesis",
+    "fragment": "Mistaken",
+    "id": 6675071,
+    "is_description": true,
+    "path": "/6675071/Mark-daumail-mistaken/Mistaken",
+    "range": {
+     "content": "Mistaken"
+    },
+    "song_id": 1987985,
+    "url": "https://genius.com/6675071/Mark-daumail-mistaken/Mistaken",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1987985",
+     "client_timestamps": {
+      "updated_by_human_at": 1481912890,
+      "lyrics_updated_at": 1432936399
+     },
+     "context": "Mark Daumail",
+     "id": 1987985,
+     "image_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.1000x1000x1.jpg",
+     "link_title": "Mistaken by\u00a0Mark\u00a0Daumail",
+     "title": "Mistaken",
+     "type": "Song",
+     "url": "https://genius.com/Mark-daumail-mistaken-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6675071",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6675071,
+      "pinned": false,
+      "share_url": "https://genius.com/6675071",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6675071/Mark-daumail-mistaken/Mistaken",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/458455",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 458455,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mark Daumail",
+    "url": "https://genius.com/artists/Mark-daumail"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2252561",
+   "apple_music_id": "886501035",
+   "apple_music_player_url": "https://genius.com/songs/2252561/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2252561' class='rg_embed_link' data-song-id='2252561'>Read <a href='https://genius.com/Mark-daumail-monsters-lyrics'>\u201cMonsters\u201d by Mark\u00a0Daumail</a> on Genius</div> <script crossorigin src='//genius.com/songs/2252561/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Monsters by\u00a0Mark\u00a0Daumail",
+   "header_image_thumbnail_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.1000x1000x1.jpg",
+   "id": 2252561,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mark-daumail-monsters-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 0,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Monsters",
+   "title_with_featured": "Monsters",
+   "url": "https://genius.com/Mark-daumail-monsters-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/200319",
+    "cover_art_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.1000x1000x1.jpg",
+    "full_title": "Speed of Light by Mark Daumail",
+    "id": 200319,
+    "name": "Speed of Light",
+    "url": "https://genius.com/albums/Mark-daumail/Speed-of-light",
+    "artist": {
+     "api_path": "/artists/458455",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 458455,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mark Daumail",
+     "url": "https://genius.com/artists/Mark-daumail"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7404910",
+    "classification": "needs_exegesis",
+    "fragment": "Monsters",
+    "id": 7404910,
+    "is_description": true,
+    "path": "/7404910/Mark-daumail-monsters/Monsters",
+    "range": {
+     "content": "Monsters"
+    },
+    "song_id": 2252561,
+    "url": "https://genius.com/7404910/Mark-daumail-monsters/Monsters",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2252561",
+     "client_timestamps": {
+      "updated_by_human_at": 1475583898,
+      "lyrics_updated_at": 1475583898
+     },
+     "context": "Mark Daumail",
+     "id": 2252561,
+     "image_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.1000x1000x1.jpg",
+     "link_title": "Monsters by\u00a0Mark\u00a0Daumail",
+     "title": "Monsters",
+     "type": "Song",
+     "url": "https://genius.com/Mark-daumail-monsters-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7404910",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7404910,
+      "pinned": false,
+      "share_url": "https://genius.com/7404910",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7404910/Mark-daumail-monsters/Monsters",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/458455",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 458455,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mark Daumail",
+    "url": "https://genius.com/artists/Mark-daumail"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "If you wanna jump every time you're in a plane\nIf you wanna lie down on the tracks for every train\nCan you tell me what the hell happened to you\nYou don't have to be ashamed\nI'm a monster too\n\nDon't you realize there's nothing to hide\nCause the best things I do are the worst things you ever did\nBecause when the people lie\nWhen the powers disappear\nYou can see it in their eyes\nIf there's something you need to hear\nYou can see it in my eyes, see it in my eyes\n\nI take a glass of wine\nAnd I reach the speed of light\nIf I get inspired, I can kill with my punchlines\nCan you tell me what the hell happened to you\nYou don't have to be ashamed\nI'm a monster too\n\nDon't you realize there's nothing to hide\nCause the best things I do are the worst things you ever did\nBecause when the people lie\nWhen the powers disappear\nYou can see it in their eyes\nIf there's something you need to hear\nYou can see it in my eyes, see it in eyes"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3720161",
+   "apple_music_id": "886501045",
+   "apple_music_player_url": "https://genius.com/songs/3720161/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3720161' class='rg_embed_link' data-song-id='3720161'>Read <a href='https://genius.com/Mark-daumail-remember-lyrics'>\u201cRemember\u201d by Mark\u00a0Daumail</a> on Genius</div> <script crossorigin src='//genius.com/songs/3720161/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Remember by\u00a0Mark\u00a0Daumail",
+   "header_image_thumbnail_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.1000x1000x1.jpg",
+   "id": 3720161,
+   "lyrics_owner_id": 6399927,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mark-daumail-remember-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2014-05-19",
+   "release_date_for_display": "May 19, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Remember",
+   "title_with_featured": "Remember",
+   "url": "https://genius.com/Mark-daumail-remember-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/200319",
+    "cover_art_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.1000x1000x1.jpg",
+    "full_title": "Speed of Light by Mark Daumail",
+    "id": 200319,
+    "name": "Speed of Light",
+    "url": "https://genius.com/albums/Mark-daumail/Speed-of-light",
+    "artist": {
+     "api_path": "/artists/458455",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 458455,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mark Daumail",
+     "url": "https://genius.com/artists/Mark-daumail"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6399927,
+    "annotator_login": "LucasSc",
+    "api_path": "/referents/14566726",
+    "classification": "needs_exegesis",
+    "fragment": "Remember",
+    "id": 14566726,
+    "is_description": true,
+    "path": "/14566726/Mark-daumail-remember/Remember",
+    "range": {
+     "content": "Remember"
+    },
+    "song_id": 3720161,
+    "url": "https://genius.com/14566726/Mark-daumail-remember/Remember",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3720161",
+     "client_timestamps": {
+      "updated_by_human_at": 1526385497,
+      "lyrics_updated_at": 1526385497
+     },
+     "context": "Mark Daumail",
+     "id": 3720161,
+     "image_url": "https://images.genius.com/acfed262081f96e99e48863eaf92547e.1000x1000x1.jpg",
+     "link_title": "Remember by\u00a0Mark\u00a0Daumail",
+     "title": "Remember",
+     "type": "Song",
+     "url": "https://genius.com/Mark-daumail-remember-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14566726",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14566726,
+      "pinned": false,
+      "share_url": "https://genius.com/14566726",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14566726/Mark-daumail-remember/Remember",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6399927",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c15cae64cb292282b6c187d6f63c29aa",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c15cae64cb292282b6c187d6f63c29aa",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c15cae64cb292282b6c187d6f63c29aa",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c15cae64cb292282b6c187d6f63c29aa",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/c15cae64cb292282b6c187d6f63c29aa",
+         "human_readable_role_for_display": null,
+         "id": 6399927,
+         "iq": 162,
+         "login": "LucasSc",
+         "name": "LucasSc",
+         "role_for_display": null,
+         "url": "https://genius.com/LucasSc",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=whBg5DcJQeI"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/458455",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 458455,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mark Daumail",
+    "url": "https://genius.com/artists/Mark-daumail"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/184910",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 184910,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marlon B.",
+     "url": "https://genius.com/artists/Marlon-b"
+    },
+    {
+     "api_path": "/artists/458455",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 458455,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mark Daumail",
+     "url": "https://genius.com/artists/Mark-daumail"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/458455",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 458455,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mark Daumail",
+     "url": "https://genius.com/artists/Mark-daumail"
+    }
+   ],
+   "lyrics": null
+  }
+ ]
+}

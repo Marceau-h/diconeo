@@ -1,0 +1,502 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1743673",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "id": 1743673,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Les Roche Martin",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Les-roche-martin",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 7894371,
+  "annotator_login": "RubyThompson",
+  "api_path": "/referents/16601083",
+  "classification": "needs_exegesis",
+  "fragment": "Les Roche Martin",
+  "id": 16601083,
+  "is_description": true,
+  "path": "/16601083/Les-roche-martin/Les-roche-martin",
+  "range": {
+   "content": "Les Roche Martin"
+  },
+  "song_id": null,
+  "url": "https://genius.com/16601083/Les-roche-martin/Les-roche-martin",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1743673",
+   "context": null,
+   "id": 1743673,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610124101",
+   "link_title": "Les Roche Martin",
+   "title": "Les Roche Martin",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Les-roche-martin"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/16601083",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 16601083,
+    "pinned": false,
+    "share_url": "https://genius.com/16601083",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/16601083/Les-roche-martin/Les-roche-martin",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7894371",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/387ec2a6ba2febf88b03b157ac073492",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/387ec2a6ba2febf88b03b157ac073492",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/387ec2a6ba2febf88b03b157ac073492",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/387ec2a6ba2febf88b03b157ac073492",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/387ec2a6ba2febf88b03b157ac073492",
+       "human_readable_role_for_display": null,
+       "id": 7894371,
+       "iq": 210,
+       "login": "RubyThompson",
+       "name": "RubyThompson",
+       "role_for_display": null,
+       "url": "https://genius.com/RubyThompson",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4349510",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/4349510/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4349510' class='rg_embed_link' data-song-id='4349510'>Read <a href='https://genius.com/Les-roche-martin-tu-as-peur-du-bruit-lyrics'>\u201cTu As Peur Du Bruit\u201d by Les\u00a0Roche Martin</a> on Genius</div> <script crossorigin src='//genius.com/songs/4349510/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tu As Peur Du Bruit by\u00a0Les\u00a0Roche Martin",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "id": 4349510,
+   "lyrics_owner_id": 7894371,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Les-roche-martin-tu-as-peur-du-bruit-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1967-12-08",
+   "release_date_for_display": "December 8, 1967",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tu As Peur Du Bruit",
+   "title_with_featured": "Tu As Peur Du Bruit",
+   "url": "https://genius.com/Les-roche-martin-tu-as-peur-du-bruit-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7894371,
+    "annotator_login": "RubyThompson",
+    "api_path": "/referents/16601084",
+    "classification": "needs_exegesis",
+    "fragment": "Tu As Peur Du Bruit",
+    "id": 16601084,
+    "is_description": true,
+    "path": "/16601084/Les-roche-martin-tu-as-peur-du-bruit/Tu-as-peur-du-bruit",
+    "range": {
+     "content": "Tu As Peur Du Bruit"
+    },
+    "song_id": 4349510,
+    "url": "https://genius.com/16601084/Les-roche-martin-tu-as-peur-du-bruit/Tu-as-peur-du-bruit",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4349510",
+     "client_timestamps": {
+      "updated_by_human_at": 1551301580,
+      "lyrics_updated_at": 1551301580
+     },
+     "context": "Les Roche Martin",
+     "id": 4349510,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610124101",
+     "link_title": "Tu As Peur Du Bruit by\u00a0Les\u00a0Roche Martin",
+     "title": "Tu As Peur Du Bruit",
+     "type": "Song",
+     "url": "https://genius.com/Les-roche-martin-tu-as-peur-du-bruit-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/16601084",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 16601084,
+      "pinned": false,
+      "share_url": "https://genius.com/16601084",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/16601084/Les-roche-martin-tu-as-peur-du-bruit/Tu-as-peur-du-bruit",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7894371",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/387ec2a6ba2febf88b03b157ac073492",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/387ec2a6ba2febf88b03b157ac073492",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/387ec2a6ba2febf88b03b157ac073492",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/387ec2a6ba2febf88b03b157ac073492",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/387ec2a6ba2febf88b03b157ac073492",
+         "human_readable_role_for_display": null,
+         "id": 7894371,
+         "iq": 210,
+         "login": "RubyThompson",
+         "name": "RubyThompson",
+         "role_for_display": null,
+         "url": "https://genius.com/RubyThompson",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/1743673",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "id": 1743673,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Les Roche Martin",
+    "url": "https://genius.com/artists/Les-roche-martin"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1182499",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "id": 1182499,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610124101",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Violaine Sanson",
+     "url": "https://genius.com/artists/Violaine-sanson"
+    }
+   ],
+   "lyrics": "Il n'y a pas des mots (sur forte?) de notre vie\nTu fermes doucement la porte\nTu as peur du bruit\n\nLe chat est assis sur la fen\u00eatre\nDes petits chatons vont \u00eatre\nTu ne veux pas voir, tu t'enfuis\nTu as peur du bruit\n\nSon choque, toujours pareil\nPour toi la vie continue\nManger, dormir au soleil\nSuffit \u00e0 te rendre \u00e9mu\n\nJ'aime ton amour tranquille et sauvage\nMais vois-tu, je m'ennuie\nIl nous vaut mieux tourner la page\nJ'ai besoin de bruit\n\nPour moi, ce n'est pas pareil\nJe veux que ma vie continue\n\u00c0 l'ombre de notre soleil\nGai, triste, et (?)"
+  }
+ ]
+}

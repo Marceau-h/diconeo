@@ -1,0 +1,2027 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1110891",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 1110891,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Kelly Joyce",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Kelly-joyce",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3174173,
+  "annotator_login": "Lionora",
+  "api_path": "/referents/11590805",
+  "classification": "needs_exegesis",
+  "fragment": "Kelly Joyce",
+  "id": 11590805,
+  "is_description": true,
+  "path": "/11590805/Kelly-joyce/Kelly-joyce",
+  "range": {
+   "content": "Kelly Joyce"
+  },
+  "song_id": null,
+  "url": "https://genius.com/11590805/Kelly-joyce/Kelly-joyce",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1110891",
+   "context": null,
+   "id": 1110891,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Kelly Joyce",
+   "title": "Kelly Joyce",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Kelly-joyce"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/11590805",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 11590805,
+    "pinned": false,
+    "share_url": "https://genius.com/11590805",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/11590805/Kelly-joyce/Kelly-joyce",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3174173",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/0449ae7a6dfbd10d76a799837f986a54",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/0449ae7a6dfbd10d76a799837f986a54",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/0449ae7a6dfbd10d76a799837f986a54",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/0449ae7a6dfbd10d76a799837f986a54",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/jesbbwm3yh",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3174173,
+       "iq": 47547,
+       "login": "Lionora",
+       "name": "Lionora",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Lionora",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1689948",
+   "apple_music_id": "1472005540",
+   "apple_music_player_url": "https://genius.com/songs/1689948/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1689948' class='rg_embed_link' data-song-id='1689948'>Read <a href='https://genius.com/Kelly-joyce-vivre-la-vie-lyrics'>\u201cVivre La Vie\u201d by Kelly\u00a0Joyce</a> on Genius</div> <script crossorigin src='//genius.com/songs/1689948/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Vivre La Vie by\u00a0Kelly\u00a0Joyce",
+   "header_image_thumbnail_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+   "id": 1689948,
+   "lyrics_owner_id": 4881589,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Kelly-joyce-vivre-la-vie-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "2001",
+   "song_art_image_thumbnail_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vivre La Vie",
+   "title_with_featured": "Vivre La Vie",
+   "url": "https://genius.com/Kelly-joyce-vivre-la-vie-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/721680",
+    "cover_art_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+    "full_title": "Kelly Joyce by Kelly Joyce",
+    "id": 721680,
+    "name": "Kelly Joyce",
+    "url": "https://genius.com/albums/Kelly-joyce/Kelly-joyce",
+    "artist": {
+     "api_path": "/artists/1110891",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1110891,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kelly Joyce",
+     "url": "https://genius.com/artists/Kelly-joyce"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6205077",
+    "classification": "needs_exegesis",
+    "fragment": "Vivre La Vie",
+    "id": 6205077,
+    "is_description": true,
+    "path": "/6205077/Kelly-joyce-vivre-la-vie/Vivre-la-vie",
+    "range": {
+     "content": "Vivre La Vie"
+    },
+    "song_id": 1689948,
+    "url": "https://genius.com/6205077/Kelly-joyce-vivre-la-vie/Vivre-la-vie",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1689948",
+     "client_timestamps": {
+      "updated_by_human_at": 1610387999,
+      "lyrics_updated_at": 1610362404
+     },
+     "context": "Kelly Joyce",
+     "id": 1689948,
+     "image_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+     "link_title": "Vivre La Vie by\u00a0Kelly\u00a0Joyce",
+     "title": "Vivre La Vie",
+     "type": "Song",
+     "url": "https://genius.com/Kelly-joyce-vivre-la-vie-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6205077",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6205077,
+      "pinned": false,
+      "share_url": "https://genius.com/6205077",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6205077/Kelly-joyce-vivre-la-vie/Vivre-la-vie",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=UiNrhkWKkLc"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1110891",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 1110891,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kelly Joyce",
+    "url": "https://genius.com/artists/Kelly-joyce"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2557026",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 2557026,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "E. Vidal De Foneseca",
+     "url": "https://genius.com/artists/E-vidal-de-foneseca"
+    },
+    {
+     "api_path": "/artists/1168470",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1168470,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francesco De Benedettis",
+     "url": "https://genius.com/artists/Francesco-de-benedettis"
+    }
+   ],
+   "lyrics": "[Couplet 1]\nC'est pour toi\nJe suis venue de ce pays si loin\n\u00c0 plonger mon regard dans le tien\nEt t'aimer un vie enti\u00e8re, au moins\nTu es so tender\nC'est l'b\u00e9guin\nTu as roul\u00e9 sa perle sur ma peau\nElle a fr\u00e9mi de ce rythme nouveau\nEt a boug\u00e9 tous mes tendres \u00e9mois\nC'est toi seul l'amour\n\n[Pr\u00e9-refrain]\nEt je suis sans arme\nRetenant les larmes\nVivant sans ta flamme\nJe n'ai presque plus d'\u00e2me\n\n[Refrain]\nVivre la vie sans un amour\nFuyant la lumi\u00e8re du jour\nMe semble un soir de d\u00e9cembre\nPrends donc mon coeur, my love maintenant\nVivre la vie sans un amour\nFuyant la lumi\u00e8re du jour\nNous pourrons danser ensemble\nToi et moi, nous serons lev\u00e9s pour toujours\n\n[Couplet 2]\n\u00c0 Paris\nLe long des quais de Seine Rajeunis\nFl\u00e2nant avec mon bouquin jauni\nVerlaine m'impr\u00e8gne de sons nouveaux\nQui me font r\u00eaver\nSaint-Germain\nEst le quartier connu des amoureux\nSi tu veux, nous y serons heureux\nJe t'attends et te donnerai ma main\nCar tu es l'amour\n\n[Refrain]\nVivre la vie sans un amour\nFuyant la lumi\u00e8re du jour\nMe semble un soir de d\u00e9cembre\nPrends donc mon coeur, my love maintenant\nVivre la vie sans un amour\nFuyant la lumi\u00e8re du jour\nNous pourrons danser ensemble\nToi et moi nous serons lev\u00e9s pour toujours\n\n[Post-refrain]\nMon coeur a besoin de toi\nDis-moi ces mots de passion\n\n[Couplet 3]\nLes jeux sont faits\nJe t'envoie tous ces mots de passion\nLe temps me dira si j'ai raison\nMon coeur pour toi danse un ultra-son\nTu es tout amour\n\n[Pr\u00e9-refrain]\nEt je suis sans arme\nRetenant les larmes\nVivant sans ta flamme\nJe n'ai presque plus d'\u00e2me\n\n[Refrain]\nVivre la vie sans un amour\nFuyant la lumi\u00e8re du jour\nMe semble un soir de d\u00e9cembre\nPrends donc mon coeur, my love maintenant\nVivre la vie sans un amour\nFuyant la lumi\u00e8re du jour\nNous pourrons danser ensemble\nToi et moi nous serons lev\u00e9s pour toujours\nVivre la vie sans un amour\nFuyant la lumi\u00e8re du jour\nMe semble un soir de d\u00e9cembre\nPrends donc mon coeur, my love maintenant\nVivre la vie sans un amour\nFuyant la lumi\u00e8re du jour\nNous pourrons danser ensemble\nToi et moi nous serons lev\u00e9s pour toujours\n\n[Outro]\nLev\u00e9s pour toujours"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6367458",
+   "apple_music_id": "1472005534",
+   "apple_music_player_url": "https://genius.com/songs/6367458/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6367458' class='rg_embed_link' data-song-id='6367458'>Read <a href='https://genius.com/Kelly-joyce-avec-lamour-lyrics'>\u201cAvec l\u2019amour\u201d by Kelly\u00a0Joyce</a> on Genius</div> <script crossorigin src='//genius.com/songs/6367458/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Avec l\u2019amour by\u00a0Kelly\u00a0Joyce",
+   "header_image_thumbnail_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+   "id": 6367458,
+   "lyrics_owner_id": 5407742,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Kelly-joyce-avec-lamour-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "2001",
+   "song_art_image_thumbnail_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Avec l\u2019amour",
+   "title_with_featured": "Avec l\u2019amour",
+   "url": "https://genius.com/Kelly-joyce-avec-lamour-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/721680",
+    "cover_art_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+    "full_title": "Kelly Joyce by Kelly Joyce",
+    "id": 721680,
+    "name": "Kelly Joyce",
+    "url": "https://genius.com/albums/Kelly-joyce/Kelly-joyce",
+    "artist": {
+     "api_path": "/artists/1110891",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1110891,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kelly Joyce",
+     "url": "https://genius.com/artists/Kelly-joyce"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5407742,
+    "annotator_login": "le_chalala",
+    "api_path": "/referents/21852869",
+    "classification": "needs_exegesis",
+    "fragment": "Avec l\u2019amour",
+    "id": 21852869,
+    "is_description": true,
+    "path": "/21852869/Kelly-joyce-avec-lamour/Avec-lamour",
+    "range": {
+     "content": "Avec l\u2019amour"
+    },
+    "song_id": 6367458,
+    "url": "https://genius.com/21852869/Kelly-joyce-avec-lamour/Avec-lamour",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6367458",
+     "client_timestamps": {
+      "updated_by_human_at": 1610387972,
+      "lyrics_updated_at": 1610380940
+     },
+     "context": "Kelly Joyce",
+     "id": 6367458,
+     "image_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+     "link_title": "Avec l\u2019amour by\u00a0Kelly\u00a0Joyce",
+     "title": "Avec l\u2019amour",
+     "type": "Song",
+     "url": "https://genius.com/Kelly-joyce-avec-lamour-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21852869",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21852869,
+      "pinned": false,
+      "share_url": "https://genius.com/21852869",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21852869/Kelly-joyce-avec-lamour/Avec-lamour",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5407742",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/2bfe45c562edef24cefb65d4d3cec209.640x334x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5407742,
+         "iq": 50640,
+         "login": "le_chalala",
+         "name": "\u200ble_chalala",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/le_chalala",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=QCbKyZgfyvI"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1110891",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 1110891,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kelly Joyce",
+    "url": "https://genius.com/artists/Kelly-joyce"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2222780",
+     "header_image_url": "https://images.genius.com/87965010c9f9e14be07c32fe17c5b001.1000x1000x1.jpg",
+     "id": 2222780,
+     "image_url": "https://images.genius.com/87965010c9f9e14be07c32fe17c5b001.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paul Manners",
+     "url": "https://genius.com/artists/Paul-manners"
+    },
+    {
+     "api_path": "/artists/2557035",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 2557035,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ennio Rastelli",
+     "url": "https://genius.com/artists/Ennio-rastelli"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6367689",
+   "apple_music_id": "1472005552",
+   "apple_music_player_url": "https://genius.com/songs/6367689/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6367689' class='rg_embed_link' data-song-id='6367689'>Read <a href='https://genius.com/Kelly-joyce-cherchez-la-femme-french-version-lyrics'>\u201cCherchez la Femme (French Version)\u201d by Kelly\u00a0Joyce</a> on Genius</div> <script crossorigin src='//genius.com/songs/6367689/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Cherchez la Femme (French Version) by\u00a0Kelly\u00a0Joyce",
+   "header_image_thumbnail_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+   "id": 6367689,
+   "lyrics_owner_id": 5407742,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Kelly-joyce-cherchez-la-femme-french-version-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "2001",
+   "song_art_image_thumbnail_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Cherchez la Femme (French Version)",
+   "title_with_featured": "Cherchez la Femme (French Version)",
+   "url": "https://genius.com/Kelly-joyce-cherchez-la-femme-french-version-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/721680",
+    "cover_art_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+    "full_title": "Kelly Joyce by Kelly Joyce",
+    "id": 721680,
+    "name": "Kelly Joyce",
+    "url": "https://genius.com/albums/Kelly-joyce/Kelly-joyce",
+    "artist": {
+     "api_path": "/artists/1110891",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1110891,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kelly Joyce",
+     "url": "https://genius.com/artists/Kelly-joyce"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5407742,
+    "annotator_login": "le_chalala",
+    "api_path": "/referents/21853567",
+    "classification": "needs_exegesis",
+    "fragment": "Cherchez la Femme (French Version)",
+    "id": 21853567,
+    "is_description": true,
+    "path": "/21853567/Kelly-joyce-cherchez-la-femme-french-version/Cherchez-la-femme-french-version",
+    "range": {
+     "content": "Cherchez la Femme (French Version)"
+    },
+    "song_id": 6367689,
+    "url": "https://genius.com/21853567/Kelly-joyce-cherchez-la-femme-french-version/Cherchez-la-femme-french-version",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6367689",
+     "client_timestamps": {
+      "updated_by_human_at": 1610386389,
+      "lyrics_updated_at": 1610385292
+     },
+     "context": "Kelly Joyce",
+     "id": 6367689,
+     "image_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+     "link_title": "Cherchez la Femme (French Version) by\u00a0Kelly\u00a0Joyce",
+     "title": "Cherchez la Femme (French Version)",
+     "type": "Song",
+     "url": "https://genius.com/Kelly-joyce-cherchez-la-femme-french-version-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21853567",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21853567,
+      "pinned": false,
+      "share_url": "https://genius.com/21853567",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21853567/Kelly-joyce-cherchez-la-femme-french-version/Cherchez-la-femme-french-version",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5407742",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/2bfe45c562edef24cefb65d4d3cec209.640x334x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5407742,
+         "iq": 50640,
+         "login": "le_chalala",
+         "name": "\u200ble_chalala",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/le_chalala",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=LLW8wJ_TkHs"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1110891",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 1110891,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kelly Joyce",
+    "url": "https://genius.com/artists/Kelly-joyce"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/381746",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 381746,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Davide Esposito",
+     "url": "https://genius.com/artists/Davide-esposito"
+    },
+    {
+     "api_path": "/artists/1168470",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1168470,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francesco De Benedettis",
+     "url": "https://genius.com/artists/Francesco-de-benedettis"
+    },
+    {
+     "api_path": "/artists/2222780",
+     "header_image_url": "https://images.genius.com/87965010c9f9e14be07c32fe17c5b001.1000x1000x1.jpg",
+     "id": 2222780,
+     "image_url": "https://images.genius.com/87965010c9f9e14be07c32fe17c5b001.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paul Manners",
+     "url": "https://genius.com/artists/Paul-manners"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6367904",
+   "apple_music_id": "1484173371",
+   "apple_music_player_url": "https://genius.com/songs/6367904/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6367904' class='rg_embed_link' data-song-id='6367904'>Read <a href='https://genius.com/Kelly-joyce-change-is-gonna-come-lyrics'>\u201cChange is gonna come\u201d by Kelly\u00a0Joyce</a> on Genius</div> <script crossorigin src='//genius.com/songs/6367904/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Change is gonna come by\u00a0Kelly\u00a0Joyce",
+   "header_image_thumbnail_url": "https://images.genius.com/ad332b4e4b0756f7ad11dd20a8ca520e.300x300x1.png",
+   "header_image_url": "https://images.genius.com/ad332b4e4b0756f7ad11dd20a8ca520e.480x480x1.png",
+   "id": 6367904,
+   "lyrics_owner_id": 5407742,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Kelly-joyce-change-is-gonna-come-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2012-05-29",
+   "release_date_for_display": "May 29, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ad332b4e4b0756f7ad11dd20a8ca520e.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/ad332b4e4b0756f7ad11dd20a8ca520e.480x480x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Change is gonna come",
+   "title_with_featured": "Change is gonna come",
+   "url": "https://genius.com/Kelly-joyce-change-is-gonna-come-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/722052",
+    "cover_art_url": "https://images.genius.com/ad332b4e4b0756f7ad11dd20a8ca520e.480x480x1.png",
+    "full_title": "Jazz mon amour, pour l\u2019Afrique by Kelly Joyce",
+    "id": 722052,
+    "name": "Jazz mon amour, pour l\u2019Afrique",
+    "url": "https://genius.com/albums/Kelly-joyce/Jazz-mon-amour-pour-lafrique",
+    "artist": {
+     "api_path": "/artists/1110891",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1110891,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kelly Joyce",
+     "url": "https://genius.com/artists/Kelly-joyce"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5407742,
+    "annotator_login": "le_chalala",
+    "api_path": "/referents/21854025",
+    "classification": "needs_exegesis",
+    "fragment": "Change is gonna come",
+    "id": 21854025,
+    "is_description": true,
+    "path": "/21854025/Kelly-joyce-change-is-gonna-come/Change-is-gonna-come",
+    "range": {
+     "content": "Change is gonna come"
+    },
+    "song_id": 6367904,
+    "url": "https://genius.com/21854025/Kelly-joyce-change-is-gonna-come/Change-is-gonna-come",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6367904",
+     "client_timestamps": {
+      "updated_by_human_at": 1610387827,
+      "lyrics_updated_at": 1610387794
+     },
+     "context": "Kelly Joyce",
+     "id": 6367904,
+     "image_url": "https://images.genius.com/ad332b4e4b0756f7ad11dd20a8ca520e.480x480x1.png",
+     "link_title": "Change is gonna come by\u00a0Kelly\u00a0Joyce",
+     "title": "Change is gonna come",
+     "type": "Song",
+     "url": "https://genius.com/Kelly-joyce-change-is-gonna-come-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21854025",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21854025,
+      "pinned": false,
+      "share_url": "https://genius.com/21854025",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21854025/Kelly-joyce-change-is-gonna-come/Change-is-gonna-come",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5407742",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/2bfe45c562edef24cefb65d4d3cec209.640x334x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5407742,
+         "iq": 50640,
+         "login": "le_chalala",
+         "name": "\u200ble_chalala",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/le_chalala",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=-Kp6DprgmGQ"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1110891",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 1110891,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kelly Joyce",
+    "url": "https://genius.com/artists/Kelly-joyce"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 9,
+       "api_path": "/songs/78533",
+       "full_title": "A Change Is Gonna Come by\u00a0Sam\u00a0Cooke",
+       "header_image_thumbnail_url": "https://images.genius.com/75b6d310364147a51977ee291f1de4eb.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/75b6d310364147a51977ee291f1de4eb.1000x1000x1.jpg",
+       "id": 78533,
+       "lyrics_owner_id": 7,
+       "lyrics_state": "complete",
+       "path": "/Sam-cooke-a-change-is-gonna-come-lyrics",
+       "pyongs_count": 43,
+       "song_art_image_thumbnail_url": "https://images.genius.com/75b6d310364147a51977ee291f1de4eb.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/75b6d310364147a51977ee291f1de4eb.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 368588
+       },
+       "title": "A Change Is Gonna Come",
+       "title_with_featured": "A Change Is Gonna Come",
+       "url": "https://genius.com/Sam-cooke-a-change-is-gonna-come-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/21689",
+        "header_image_url": "https://images.genius.com/399a24b21a57a79c100b5d8e20944270.1000x1000x1.jpg",
+        "id": 21689,
+        "image_url": "https://images.genius.com/399a24b21a57a79c100b5d8e20944270.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sam Cooke",
+        "url": "https://genius.com/artists/Sam-cooke"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/21689",
+     "header_image_url": "https://images.genius.com/399a24b21a57a79c100b5d8e20944270.1000x1000x1.jpg",
+     "id": 21689,
+     "image_url": "https://images.genius.com/399a24b21a57a79c100b5d8e20944270.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sam Cooke",
+     "url": "https://genius.com/artists/Sam-cooke"
+    }
+   ],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6367506",
+   "apple_music_id": "1472005537",
+   "apple_music_player_url": "https://genius.com/songs/6367506/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6367506' class='rg_embed_link' data-song-id='6367506'>Read <a href='https://genius.com/Kelly-joyce-toits-de-paris-lyrics'>\u201cToits de Paris\u201d by Kelly\u00a0Joyce</a> on Genius</div> <script crossorigin src='//genius.com/songs/6367506/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Toits de Paris by\u00a0Kelly\u00a0Joyce",
+   "header_image_thumbnail_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+   "id": 6367506,
+   "lyrics_owner_id": 5407742,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Kelly-joyce-toits-de-paris-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "2001",
+   "song_art_image_thumbnail_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Toits de Paris",
+   "title_with_featured": "Toits de Paris",
+   "url": "https://genius.com/Kelly-joyce-toits-de-paris-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/721680",
+    "cover_art_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+    "full_title": "Kelly Joyce by Kelly Joyce",
+    "id": 721680,
+    "name": "Kelly Joyce",
+    "url": "https://genius.com/albums/Kelly-joyce/Kelly-joyce",
+    "artist": {
+     "api_path": "/artists/1110891",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1110891,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kelly Joyce",
+     "url": "https://genius.com/artists/Kelly-joyce"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5407742,
+    "annotator_login": "le_chalala",
+    "api_path": "/referents/21852963",
+    "classification": "needs_exegesis",
+    "fragment": "Toits de Paris",
+    "id": 21852963,
+    "is_description": true,
+    "path": "/21852963/Kelly-joyce-toits-de-paris/Toits-de-paris",
+    "range": {
+     "content": "Toits de Paris"
+    },
+    "song_id": 6367506,
+    "url": "https://genius.com/21852963/Kelly-joyce-toits-de-paris/Toits-de-paris",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6367506",
+     "client_timestamps": {
+      "updated_by_human_at": 1610381607,
+      "lyrics_updated_at": 1610381338
+     },
+     "context": "Kelly Joyce",
+     "id": 6367506,
+     "image_url": "https://images.genius.com/87d31292b47055b66da48d877414f445.1000x1000x1.jpg",
+     "link_title": "Toits de Paris by\u00a0Kelly\u00a0Joyce",
+     "title": "Toits de Paris",
+     "type": "Song",
+     "url": "https://genius.com/Kelly-joyce-toits-de-paris-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21852963",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21852963,
+      "pinned": false,
+      "share_url": "https://genius.com/21852963",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21852963/Kelly-joyce-toits-de-paris/Toits-de-paris",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5407742",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/516a54e58596e726168276648134475f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/2bfe45c562edef24cefb65d4d3cec209.640x334x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5407742,
+         "iq": 50640,
+         "login": "le_chalala",
+         "name": "\u200ble_chalala",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/le_chalala",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=k4PtkF8OW6k"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1110891",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 1110891,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kelly Joyce",
+    "url": "https://genius.com/artists/Kelly-joyce"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2557035",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 2557035,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ennio Rastelli",
+     "url": "https://genius.com/artists/Ennio-rastelli"
+    },
+    {
+     "api_path": "/artists/1168470",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1168470,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Francesco De Benedettis",
+     "url": "https://genius.com/artists/Francesco-de-benedettis"
+    },
+    {
+     "api_path": "/artists/2222780",
+     "header_image_url": "https://images.genius.com/87965010c9f9e14be07c32fe17c5b001.1000x1000x1.jpg",
+     "id": 2222780,
+     "image_url": "https://images.genius.com/87965010c9f9e14be07c32fe17c5b001.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paul Manners",
+     "url": "https://genius.com/artists/Paul-manners"
+    }
+   ],
+   "lyrics": null
+  }
+ ]
+}

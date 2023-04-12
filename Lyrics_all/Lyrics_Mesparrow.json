@@ -1,0 +1,2836 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/385028",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 2,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "id": 385028,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Mesparrow",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Mesparrow",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7101555",
+  "classification": "needs_exegesis",
+  "fragment": "Mesparrow",
+  "id": 7101555,
+  "is_description": true,
+  "path": "/7101555/Mesparrow/Mesparrow",
+  "range": {
+   "content": "Mesparrow"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7101555/Mesparrow/Mesparrow",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/385028",
+   "context": null,
+   "id": 385028,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1610729910",
+   "link_title": "Mesparrow",
+   "title": "Mesparrow",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Mesparrow"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7101555",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7101555,
+    "pinned": false,
+    "share_url": "https://genius.com/7101555",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7101555/Mesparrow/Mesparrow",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2062768",
+   "apple_music_id": "596457108",
+   "apple_music_player_url": "https://genius.com/songs/2062768/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2062768' class='rg_embed_link' data-song-id='2062768'>Read <a href='https://genius.com/Mesparrow-on-the-cliff-lyrics'>\u201cOn the cliff\u201d by Mesparrow</a> on Genius</div> <script crossorigin src='//genius.com/songs/2062768/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "On the cliff by\u00a0Mesparrow",
+   "header_image_thumbnail_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.1000x1000x1.jpg",
+   "id": 2062768,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mesparrow-on-the-cliff-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "On the cliff",
+   "title_with_featured": "On the cliff",
+   "url": "https://genius.com/Mesparrow-on-the-cliff-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/193803",
+    "cover_art_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.1000x1000x1.jpg",
+    "full_title": "Keep This Moment Alive by Mesparrow",
+    "id": 193803,
+    "name": "Keep This Moment Alive",
+    "url": "https://genius.com/albums/Mesparrow/Keep-this-moment-alive",
+    "artist": {
+     "api_path": "/artists/385028",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 385028,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mesparrow",
+     "url": "https://genius.com/artists/Mesparrow"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6802507",
+    "classification": "needs_exegesis",
+    "fragment": "On the cliff",
+    "id": 6802507,
+    "is_description": true,
+    "path": "/6802507/Mesparrow-on-the-cliff/On-the-cliff",
+    "range": {
+     "content": "On the cliff"
+    },
+    "song_id": 2062768,
+    "url": "https://genius.com/6802507/Mesparrow-on-the-cliff/On-the-cliff",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2062768",
+     "client_timestamps": {
+      "updated_by_human_at": 1479327311,
+      "lyrics_updated_at": 1433952782
+     },
+     "context": "Mesparrow",
+     "id": 2062768,
+     "image_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.1000x1000x1.jpg",
+     "link_title": "On the cliff by\u00a0Mesparrow",
+     "title": "On the cliff",
+     "type": "Song",
+     "url": "https://genius.com/Mesparrow-on-the-cliff-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6802507",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6802507,
+      "pinned": false,
+      "share_url": "https://genius.com/6802507",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6802507/Mesparrow-on-the-cliff/On-the-cliff",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/385028",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 385028,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mesparrow",
+    "url": "https://genius.com/artists/Mesparrow"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "On my way to the cliff I met an old man\nTall, smart, pretty bright a real gentleman\nWe shared a few words, well, deep thoughts in fact\nAnd suddenly rang a bell when he put his hand on mine\n\nI followed his look, staring at the horizon\nWhere I could nearly read his past and story line\nAs the sun was turning the sea into a blank mirror of lights\nVoices coming from the sky were telling me to dive\nOr maybe the cotton clouds convincing me that I could fly\n\nBut in my old man's hands, and in my old man's arms\nI could finally find my feet digging in the ground\nBut in my old man's eyes and in my old man's voice\nI could finally understand that my whole life had just started\n\nWhen the rain pretends to be made of tears\nAnd the wind whispers that life is a lie\nIf you find the strength to climb up to the top of the hill\nThen you have the power to start a new life relieved"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3101243",
+   "apple_music_id": "1152927278",
+   "apple_music_player_url": "https://genius.com/songs/3101243/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3101243' class='rg_embed_link' data-song-id='3101243'>Read <a href='https://genius.com/Mesparrow-ne-me-change-pas-lyrics'>\u201cNe me change pas\u201d by Mesparrow</a> on Genius</div> <script crossorigin src='//genius.com/songs/3101243/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Ne me change pas by\u00a0Mesparrow",
+   "header_image_thumbnail_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+   "id": 3101243,
+   "lyrics_owner_id": 44760,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mesparrow-ne-me-change-pas-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ne me change pas",
+   "title_with_featured": "Ne me change pas",
+   "url": "https://genius.com/Mesparrow-ne-me-change-pas-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/342477",
+    "cover_art_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+    "full_title": "Jungle contemporaine by Mesparrow",
+    "id": 342477,
+    "name": "Jungle contemporaine",
+    "url": "https://genius.com/albums/Mesparrow/Jungle-contemporaine",
+    "artist": {
+     "api_path": "/artists/385028",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 385028,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mesparrow",
+     "url": "https://genius.com/artists/Mesparrow"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 44760,
+    "annotator_login": "IronAkil",
+    "api_path": "/referents/11909401",
+    "classification": "needs_exegesis",
+    "fragment": "Ne me change pas",
+    "id": 11909401,
+    "is_description": true,
+    "path": "/11909401/Mesparrow-ne-me-change-pas/Ne-me-change-pas",
+    "range": {
+     "content": "Ne me change pas"
+    },
+    "song_id": 3101243,
+    "url": "https://genius.com/11909401/Mesparrow-ne-me-change-pas/Ne-me-change-pas",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3101243",
+     "client_timestamps": {
+      "updated_by_human_at": 1495807044,
+      "lyrics_updated_at": 1495806644
+     },
+     "context": "Mesparrow",
+     "id": 3101243,
+     "image_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+     "link_title": "Ne me change pas by\u00a0Mesparrow",
+     "title": "Ne me change pas",
+     "type": "Song",
+     "url": "https://genius.com/Mesparrow-ne-me-change-pas-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11909401",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11909401,
+      "pinned": false,
+      "share_url": "https://genius.com/11909401",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11909401/Mesparrow-ne-me-change-pas/Ne-me-change-pas",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/44760",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/44760_zaraki.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358289133_44760_zaraki.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358289133_44760_zaraki.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289133_44760_zaraki.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289133_44760_zaraki.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 44760,
+         "iq": 4340,
+         "login": "IronAkil",
+         "name": "IronAkil",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/IronAkil",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=TTbLZF9LRUk"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/385028",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 385028,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mesparrow",
+    "url": "https://genius.com/artists/Mesparrow"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3071252",
+   "apple_music_id": "1152927667",
+   "apple_music_player_url": "https://genius.com/songs/3071252/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3071252' class='rg_embed_link' data-song-id='3071252'>Read <a href='https://genius.com/Mesparrow-mes-onomatopees-lyrics'>\u201cMes onomatop\u00e9es\u201d by Mesparrow</a> on Genius</div> <script crossorigin src='//genius.com/songs/3071252/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Mes onomatop\u00e9es by\u00a0Mesparrow",
+   "header_image_thumbnail_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+   "id": 3071252,
+   "lyrics_owner_id": 1278691,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mesparrow-mes-onomatopees-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mes onomatop\u00e9es",
+   "title_with_featured": "Mes onomatop\u00e9es",
+   "url": "https://genius.com/Mesparrow-mes-onomatopees-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/342477",
+    "cover_art_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+    "full_title": "Jungle contemporaine by Mesparrow",
+    "id": 342477,
+    "name": "Jungle contemporaine",
+    "url": "https://genius.com/albums/Mesparrow/Jungle-contemporaine",
+    "artist": {
+     "api_path": "/artists/385028",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 385028,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mesparrow",
+     "url": "https://genius.com/artists/Mesparrow"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1278691,
+    "annotator_login": "MonsieurLeProf",
+    "api_path": "/referents/11752356",
+    "classification": "needs_exegesis",
+    "fragment": "Mes onomatop\u00e9es",
+    "id": 11752356,
+    "is_description": true,
+    "path": "/11752356/Mesparrow-mes-onomatopees/Mes-onomatopees",
+    "range": {
+     "content": "Mes onomatop\u00e9es"
+    },
+    "song_id": 3071252,
+    "url": "https://genius.com/11752356/Mesparrow-mes-onomatopees/Mes-onomatopees",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3071252",
+     "client_timestamps": {
+      "updated_by_human_at": 1493594606,
+      "lyrics_updated_at": 1493594606
+     },
+     "context": "Mesparrow",
+     "id": 3071252,
+     "image_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+     "link_title": "Mes onomatop\u00e9es by\u00a0Mesparrow",
+     "title": "Mes onomatop\u00e9es",
+     "type": "Song",
+     "url": "https://genius.com/Mesparrow-mes-onomatopees-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11752356",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11752356,
+      "pinned": false,
+      "share_url": "https://genius.com/11752356",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11752356/Mesparrow-mes-onomatopees/Mes-onomatopees",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1278691",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/5a66e6e33f98ba2bf2140b6fffb74b1d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1278691,
+         "iq": 1297,
+         "login": "MonsieurLeProf",
+         "name": "MonsieurLeProf",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MonsieurLeProf",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/385028",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 385028,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mesparrow",
+    "url": "https://genius.com/artists/Mesparrow"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "J'aimerais tant te dire ce que cache mon sourire\nAu bout de ma langue, syllabes qui tremblent\nMais comment choisir, le plus fid\u00e8le\nLe plus riche, le plus beau de tous les mots ?\n\nOn dit que les jeunes amants ont peur en exprimant\nDes \u00e9motions fortes, de briser la magie des premiers instants\nOn pourrait se contenter de citer les plus grands\nMais avouons que parfois les mots ne sont pas la hauteur des sentiments\n\nEt m\u00eame si j'aime tant jouer de ma bouche\nToutes mes onomatop\u00e9es tournent en boucle\nJ'aime j'aime j'aime quand tu es l\u00e0\nPalalalala embrasse-moi !\nEt m\u00eame si j'aime tant jouer de ma bouche\nToutes mes onomatop\u00e9es tournent en boucle\nCrick tou-ah ! Crick tou-ah !\n\nToutes mes paroles s'effilent quand tu me scotches\nMa voix stopp\u00e9e dans sa course, je chute en plein \u00e9lan\nTes yeux de sniper m'ont cibl\u00e9e dans leur viseur\nUn point rouge plac\u00e9 sur mon petit c\u0153ur qui ba-ti-fo-o-olle\nFo-o-olle fo-o-olle de toi-oi-oi\n\nEt m\u00eame si j'aime tant jouer de ma bouche\nToutes mes onomatop\u00e9es tournent en boucle\nJ'aime j'aime j'aime quand tu es l\u00e0\nPalalalala embrasse-moi !\nEt m\u00eame si j'aime tant jouer de ma bouche\nToutes mes onomatop\u00e9es tournent en boucle\nCrick tou-ah ! Crick tou-ah !"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2092957",
+   "apple_music_id": "596457107",
+   "apple_music_player_url": "https://genius.com/songs/2092957/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2092957' class='rg_embed_link' data-song-id='2092957'>Read <a href='https://genius.com/Mesparrow-next-bored-generation-lyrics'>\u201cNext bored generation\u201d by Mesparrow</a> on Genius</div> <script crossorigin src='//genius.com/songs/2092957/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Next bored generation by\u00a0Mesparrow",
+   "header_image_thumbnail_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.1000x1000x1.jpg",
+   "id": 2092957,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mesparrow-next-bored-generation-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Next bored generation",
+   "title_with_featured": "Next bored generation",
+   "url": "https://genius.com/Mesparrow-next-bored-generation-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/193803",
+    "cover_art_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.1000x1000x1.jpg",
+    "full_title": "Keep This Moment Alive by Mesparrow",
+    "id": 193803,
+    "name": "Keep This Moment Alive",
+    "url": "https://genius.com/albums/Mesparrow/Keep-this-moment-alive",
+    "artist": {
+     "api_path": "/artists/385028",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 385028,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mesparrow",
+     "url": "https://genius.com/artists/Mesparrow"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6833064",
+    "classification": "needs_exegesis",
+    "fragment": "Next bored generation",
+    "id": 6833064,
+    "is_description": true,
+    "path": "/6833064/Mesparrow-next-bored-generation/Next-bored-generation",
+    "range": {
+     "content": "Next bored generation"
+    },
+    "song_id": 2092957,
+    "url": "https://genius.com/6833064/Mesparrow-next-bored-generation/Next-bored-generation",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2092957",
+     "client_timestamps": {
+      "updated_by_human_at": 1476778353,
+      "lyrics_updated_at": 1433958678
+     },
+     "context": "Mesparrow",
+     "id": 2092957,
+     "image_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.1000x1000x1.jpg",
+     "link_title": "Next bored generation by\u00a0Mesparrow",
+     "title": "Next bored generation",
+     "type": "Song",
+     "url": "https://genius.com/Mesparrow-next-bored-generation-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6833064",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6833064,
+      "pinned": false,
+      "share_url": "https://genius.com/6833064",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6833064/Mesparrow-next-bored-generation/Next-bored-generation",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/385028",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 385028,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mesparrow",
+    "url": "https://genius.com/artists/Mesparrow"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Paroles de la chanson Next Bored Generation :\nWe want the deep\nWe want the high\nIn every second of the life\n\nWe choose the best\nJust right now\nThat\u2019s the way we\u2019ve learned so far\n\nSinging on the top of the Gherkin\nPuzzling the world with heavy words\nFlirting with dirt\nSmelling your best friend\u2019s skin\n\nSinging on the top of the Gherkin\nPuzzling the world with heavy words\nFlirting with dirt\nSmelling your best friend\u2019s skin\n\nSometimes it feels like sand running through your fingers, Following the tic tac of the clock\n\nAnd demons shaking your heart on the beat beat of you\nHighly pressured blood\n\nAnd a glass of full bodied wine is suddenly\nBlurring the horizon\n\nMaking your strong ideals\nFall apart\u2026\n\nSinging on the top of the Gherkin\nPuzzling the world with heavy words\nFlirting with dirt\nSmelling your best friend\u2019s skin\n\nSinging on the top of the Gherkin\nPuzzling the world with heavy words\nFlirting with dirt\nSmelling your best friend\u2019s skin\n\nCry, cry, cry\nSometimes silence is stronger than words\n\nOh oh, fly, fly, fly\nTo the infinite depth of the world\n\nSinging on the top of the Gherkin\nPuzzling the world with heavy words\nFlirting with dirt\nSmelling your best friend\u2019s skin\n\nSinging on the top of the Gherkin\nPuzzling the world with heavy words\nFlirting with dirt\nSmelling your best friend\u2019s skin\n\nAnd the innocent look of a new born boy\nIgnoring the next bored generation\n\nAnd the innocent look of a new born boy\nIgnoring the next bored generation\n\nAnd the innocent look of a new born boy\nIgnoring the next bored generation\n\nAnd the innocent look of a new born boy\nIgnoring the next bored generation\n\nSinging on the top of the Gherkin\nPuzzling the world with heavy words\nFlirting with dirt\nSmelling your best friend\u2019s skin\n\nSinging on the top of the Gherkin\nPuzzling the world with heavy words\nFlirting with dirt\nSmelling your best friend\u2019s skin"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1305348",
+   "apple_music_id": "596457105",
+   "apple_music_player_url": "https://genius.com/songs/1305348/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1305348' class='rg_embed_link' data-song-id='1305348'>Read <a href='https://genius.com/Mesparrow-the-symphony-lyrics'>\u201cThe Symphony\u201d by Mesparrow</a> on Genius</div> <script crossorigin src='//genius.com/songs/1305348/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "The Symphony by\u00a0Mesparrow",
+   "header_image_thumbnail_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.1000x1000x1.jpg",
+   "id": 1305348,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mesparrow-the-symphony-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "The Symphony",
+   "title_with_featured": "The Symphony",
+   "url": "https://genius.com/Mesparrow-the-symphony-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/193803",
+    "cover_art_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.1000x1000x1.jpg",
+    "full_title": "Keep This Moment Alive by Mesparrow",
+    "id": 193803,
+    "name": "Keep This Moment Alive",
+    "url": "https://genius.com/albums/Mesparrow/Keep-this-moment-alive",
+    "artist": {
+     "api_path": "/artists/385028",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 385028,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mesparrow",
+     "url": "https://genius.com/artists/Mesparrow"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5811823",
+    "classification": "needs_exegesis",
+    "fragment": "The Symphony",
+    "id": 5811823,
+    "is_description": true,
+    "path": "/5811823/Mesparrow-the-symphony/The-symphony",
+    "range": {
+     "content": "The Symphony"
+    },
+    "song_id": 1305348,
+    "url": "https://genius.com/5811823/Mesparrow-the-symphony/The-symphony",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1305348",
+     "client_timestamps": {
+      "updated_by_human_at": 1473316665,
+      "lyrics_updated_at": 1429755594
+     },
+     "context": "Mesparrow",
+     "id": 1305348,
+     "image_url": "https://images.genius.com/d94c64ff32366ec9436c30aaf94015ca.1000x1000x1.jpg",
+     "link_title": "The Symphony by\u00a0Mesparrow",
+     "title": "The Symphony",
+     "type": "Song",
+     "url": "https://genius.com/Mesparrow-the-symphony-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5811823",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5811823,
+      "pinned": false,
+      "share_url": "https://genius.com/5811823",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5811823/Mesparrow-the-symphony/The-symphony",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/385028",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 385028,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mesparrow",
+    "url": "https://genius.com/artists/Mesparrow"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Tell us that you would like to have the lyrics of this song. Then we'll make it our highest priority to find these lyrics first!\nOr perhaps you can help us out. If you have the lyrics of this song, it would be great if you can submit these. That will definitely help us and the other visitors!"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3101249",
+   "apple_music_id": "1152927012",
+   "apple_music_player_url": "https://genius.com/songs/3101249/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3101249' class='rg_embed_link' data-song-id='3101249'>Read <a href='https://genius.com/Mesparrow-fantomes-lyrics'>\u201cFant\u00f4mes\u201d by Mesparrow</a> on Genius</div> <script crossorigin src='//genius.com/songs/3101249/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Fant\u00f4mes by\u00a0Mesparrow",
+   "header_image_thumbnail_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+   "id": 3101249,
+   "lyrics_owner_id": 44760,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mesparrow-fantomes-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fant\u00f4mes",
+   "title_with_featured": "Fant\u00f4mes",
+   "url": "https://genius.com/Mesparrow-fantomes-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/342477",
+    "cover_art_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+    "full_title": "Jungle contemporaine by Mesparrow",
+    "id": 342477,
+    "name": "Jungle contemporaine",
+    "url": "https://genius.com/albums/Mesparrow/Jungle-contemporaine",
+    "artist": {
+     "api_path": "/artists/385028",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 385028,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mesparrow",
+     "url": "https://genius.com/artists/Mesparrow"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 44760,
+    "annotator_login": "IronAkil",
+    "api_path": "/referents/11909429",
+    "classification": "needs_exegesis",
+    "fragment": "Fant\u00f4mes",
+    "id": 11909429,
+    "is_description": true,
+    "path": "/11909429/Mesparrow-fantomes/Fantomes",
+    "range": {
+     "content": "Fant\u00f4mes"
+    },
+    "song_id": 3101249,
+    "url": "https://genius.com/11909429/Mesparrow-fantomes/Fantomes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3101249",
+     "client_timestamps": {
+      "updated_by_human_at": 1495807042,
+      "lyrics_updated_at": 1495806889
+     },
+     "context": "Mesparrow",
+     "id": 3101249,
+     "image_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+     "link_title": "Fant\u00f4mes by\u00a0Mesparrow",
+     "title": "Fant\u00f4mes",
+     "type": "Song",
+     "url": "https://genius.com/Mesparrow-fantomes-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11909429",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11909429,
+      "pinned": false,
+      "share_url": "https://genius.com/11909429",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11909429/Mesparrow-fantomes/Fantomes",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/44760",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/44760_zaraki.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358289133_44760_zaraki.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358289133_44760_zaraki.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289133_44760_zaraki.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289133_44760_zaraki.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 44760,
+         "iq": 4340,
+         "login": "IronAkil",
+         "name": "IronAkil",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/IronAkil",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/385028",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 385028,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mesparrow",
+    "url": "https://genius.com/artists/Mesparrow"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Couplet 1]\nRoulent et roucoulent ces types classes qui m\u00e8nent la vie douce, routini\u00e8re, calme, sage, pos\u00e9e\nCours apr\u00e8s tout comme tout le monde fait, la vie est bien trop courte pour se laisser aller\nPuise toutes les forces que tu peux aspirer, respire profond\u00e9ment pour ne pas t'\u00e9crouler\nChasse les d\u00e9mons, les id\u00e9es noires sont taboues, \u00e9vite ceux qui disent qu\u2019ils ne connaissent pas le doute\nLe bac de larmes penche\nSous le poids des maux toi tu ne flanches pas\nLe vague \u00e0 l'\u00e2me ils hantent tous les recoins et les gagnent\nInvisibles nomades, sur tes \u00e9paules du plomb\nJamais trop consolables, ces vieux fant\u00f4mes grondent\n\nFree them, free them\nFree, free them\n\n[Couplet 2]\nCroulent et se soulent ces types-l\u00e0 m\u00e8nent leur vie sourde, routini\u00e8re, fade d\u00e9senchant\u00e9e\nTourne autour de la foule sans \u0153ill\u00e8res\nLa vie est bien plus belle dans son int\u00e9gralit\u00e9\nPuise toutes les forces que tu peux aspirer, dessine un pas de danse \u00e0 chaque geste que tu fais\nCharme tes d\u00e9mons, d\u00e9fie les soirs de trouble, r\u00e9siste, chaque seconde te rapproche un peu du jour\n\nFree them, free them\nFree, free them"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3101255",
+   "apple_music_id": "1152926087",
+   "apple_music_player_url": "https://genius.com/songs/3101255/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3101255' class='rg_embed_link' data-song-id='3101255'>Read <a href='https://genius.com/Mesparrow-agrafes-lyrics'>\u201cAgrafes\u201d by Mesparrow</a> on Genius</div> <script crossorigin src='//genius.com/songs/3101255/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Agrafes by\u00a0Mesparrow",
+   "header_image_thumbnail_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+   "id": 3101255,
+   "lyrics_owner_id": 44760,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mesparrow-agrafes-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Agrafes",
+   "title_with_featured": "Agrafes",
+   "url": "https://genius.com/Mesparrow-agrafes-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/342477",
+    "cover_art_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+    "full_title": "Jungle contemporaine by Mesparrow",
+    "id": 342477,
+    "name": "Jungle contemporaine",
+    "url": "https://genius.com/albums/Mesparrow/Jungle-contemporaine",
+    "artist": {
+     "api_path": "/artists/385028",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 385028,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mesparrow",
+     "url": "https://genius.com/artists/Mesparrow"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 44760,
+    "annotator_login": "IronAkil",
+    "api_path": "/referents/11909446",
+    "classification": "needs_exegesis",
+    "fragment": "Agrafes",
+    "id": 11909446,
+    "is_description": true,
+    "path": "/11909446/Mesparrow-agrafes/Agrafes",
+    "range": {
+     "content": "Agrafes"
+    },
+    "song_id": 3101255,
+    "url": "https://genius.com/11909446/Mesparrow-agrafes/Agrafes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3101255",
+     "client_timestamps": {
+      "updated_by_human_at": 1495807034,
+      "lyrics_updated_at": 1495807020
+     },
+     "context": "Mesparrow",
+     "id": 3101255,
+     "image_url": "https://images.genius.com/aff1ea488a468b195557b5ddca5e88df.904x904x1.jpg",
+     "link_title": "Agrafes by\u00a0Mesparrow",
+     "title": "Agrafes",
+     "type": "Song",
+     "url": "https://genius.com/Mesparrow-agrafes-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11909446",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11909446,
+      "pinned": false,
+      "share_url": "https://genius.com/11909446",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11909446/Mesparrow-agrafes/Agrafes",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/44760",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/44760_zaraki.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358289133_44760_zaraki.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358289133_44760_zaraki.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289133_44760_zaraki.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289133_44760_zaraki.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 44760,
+         "iq": 4340,
+         "login": "IronAkil",
+         "name": "IronAkil",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/IronAkil",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/385028",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 385028,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mesparrow",
+    "url": "https://genius.com/artists/Mesparrow"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": null
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3072464",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/3072464/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3072464' class='rg_embed_link' data-song-id='3072464'>Read <a href='https://genius.com/Mesparrow-petits-gestes-annotated'>\u201cPetits gestes\u201d by Mesparrow</a> on Genius</div> <script crossorigin src='//genius.com/songs/3072464/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Petits gestes by\u00a0Mesparrow",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "id": 3072464,
+   "lyrics_owner_id": 4584175,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Mesparrow-petits-gestes-annotated",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "2016",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Petits gestes",
+   "title_with_featured": "Petits gestes",
+   "url": "https://genius.com/Mesparrow-petits-gestes-annotated",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4584175,
+    "annotator_login": "AdelineFrth",
+    "api_path": "/referents/11758605",
+    "classification": "needs_exegesis",
+    "fragment": "Petits gestes",
+    "id": 11758605,
+    "is_description": true,
+    "path": "/11758605/Mesparrow-petits-gestes/Petits-gestes",
+    "range": {
+     "content": "Petits gestes"
+    },
+    "song_id": 3072464,
+    "url": "https://genius.com/11758605/Mesparrow-petits-gestes/Petits-gestes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3072464",
+     "client_timestamps": {
+      "updated_by_human_at": 1493635586,
+      "lyrics_updated_at": 1493595552
+     },
+     "context": "Mesparrow",
+     "id": 3072464,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1610729910",
+     "link_title": "Petits gestes by\u00a0Mesparrow",
+     "title": "Petits gestes",
+     "type": "Song",
+     "url": "https://genius.com/Mesparrow-petits-gestes-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11758605",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11758605,
+      "pinned": false,
+      "share_url": "https://genius.com/11758605",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11758605/Mesparrow-petits-gestes/Petits-gestes",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4584175",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hy8k9ma0rl",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hy8k9ma0rl",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hy8k9ma0rl",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hy8k9ma0rl",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l8l0ogeiyl9",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4584175,
+         "iq": 495,
+         "login": "AdelineFrth",
+         "name": "AdelineFrth",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AdelineFrth",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/385028",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "id": 385028,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mesparrow",
+    "url": "https://genius.com/artists/Mesparrow"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Colle ta solitude contre ma nudit\u00e9\nSouffle des mots doux, leur vapeur ont une port\u00e9e\nPlus forte que leur sens\nPlus d'aucun baiser\nOn s'enlace\nJusqu'\u00e0 l'unit\u00e9\n\nDans ces petits gestes (on s'ai-ai-aime)\nDans ces petits gestes (on s'ai-ai-aime)\nDans ces petits gestes (on s'ai-ai-aime)\nDans ces petits gestes (on s'ai-ai-aime, on s'aime)\nOn s'aime\n\nTrouve le mouvement qui ? cette sc\u00e8ne\nTu la conduis sans adresse, sans g\u00eane\nBas\u00e9 sur aucune th\u00e9orie\nUnissons des corps\nSans \u00e0 priori\nOn fusionne\nJusqu'\u00e0 l'infini\n\nDans ces petits gestes (on s'ai-ai-aime)\nDans ces petits gestes (on s'ai-ai-aime)\nDans ces petits gestes (on s'ai-ai-aime)\nDans ces petits gestes (on s'ai-ai-aime)\n\nDans ces petits gestes (on s'ai-ai-aime)\nDans ces petits gestes (on s'ai-ai-aime)\nDans ces petits gestes (on s'ai-ai-aime)\nDans ces petits gestes (on s'ai-ai-aime, on s'aime)\nOn s'aime"
+  }
+ ]
+}

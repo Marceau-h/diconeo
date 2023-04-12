@@ -1,0 +1,1786 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1052561",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": "",
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+ "id": 1052561,
+ "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+ "instagram_name": "nemo",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Nemo Schiffman",
+ "translation_artist": false,
+ "twitter_name": "nemo",
+ "url": "https://genius.com/artists/Nemo-schiffman",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 206,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4112784,
+  "annotator_login": "NemoSchiffman",
+  "api_path": "/referents/11097814",
+  "classification": "needs_exegesis",
+  "fragment": "Nemo Schiffman",
+  "id": 11097814,
+  "is_description": true,
+  "path": "/11097814/Nemo-schiffman/Nemo-schiffman",
+  "range": {
+   "content": "Nemo Schiffman"
+  },
+  "song_id": null,
+  "url": "https://genius.com/11097814/Nemo-schiffman/Nemo-schiffman",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1052561",
+   "context": null,
+   "id": 1052561,
+   "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+   "link_title": "Nemo Schiffman",
+   "title": "Nemo Schiffman",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Nemo-schiffman"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/11097814",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 11097814,
+    "pinned": false,
+    "share_url": "https://genius.com/11097814",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/11097814/Nemo-schiffman/Nemo-schiffman",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4112784",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/bd288781f343f84a67dba4826bc33515",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/bd288781f343f84a67dba4826bc33515",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/bd288781f343f84a67dba4826bc33515",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/bd288781f343f84a67dba4826bc33515",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+       "human_readable_role_for_display": "Verified Artist",
+       "id": 4112784,
+       "iq": 206,
+       "login": "NemoSchiffman",
+       "name": "Nemo Schiffman",
+       "role_for_display": "verified_artist",
+       "url": "https://genius.com/NemoSchiffman",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/4112784",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/bd288781f343f84a67dba4826bc33515",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/bd288781f343f84a67dba4826bc33515",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/bd288781f343f84a67dba4826bc33515",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/bd288781f343f84a67dba4826bc33515",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 4112784,
+  "iq": 206,
+  "login": "NemoSchiffman",
+  "name": "Nemo Schiffman",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/NemoSchiffman",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2944418",
+   "apple_music_id": "1355651297",
+   "apple_music_player_url": "https://genius.com/songs/2944418/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2944418' class='rg_embed_link' data-song-id='2944418'>Read <a href='https://genius.com/Nemo-schiffman-i-dont-mind-lyrics'>\u201cI Don't Mind\u201d by Nemo\u00a0Schiffman</a> on Genius</div> <script crossorigin src='//genius.com/songs/2944418/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "I Don't Mind by\u00a0Nemo\u00a0Schiffman",
+   "header_image_thumbnail_url": "https://images.genius.com/3f30188c57559759ee037b38362086ef.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3f30188c57559759ee037b38362086ef.1000x1000x1.jpg",
+   "id": 2944418,
+   "lyrics_owner_id": 4112784,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Nemo-schiffman-i-dont-mind-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2016-10-28",
+   "release_date_for_display": "October 28, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/3f30188c57559759ee037b38362086ef.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3f30188c57559759ee037b38362086ef.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "I Don\u2019t Mind",
+   "title_with_featured": "I Don't Mind",
+   "url": "https://genius.com/Nemo-schiffman-i-dont-mind-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/432699",
+    "cover_art_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.600x600x1.jpg",
+    "full_title": "Omen by Nemo Schiffman",
+    "id": 432699,
+    "name": "Omen",
+    "url": "https://genius.com/albums/Nemo-schiffman/Omen",
+    "artist": {
+     "api_path": "/artists/1052561",
+     "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+     "id": 1052561,
+     "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nemo Schiffman",
+     "url": "https://genius.com/artists/Nemo-schiffman",
+     "iq": 206
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "R\u00e9alisation",
+     "artists": [
+      {
+       "api_path": "/artists/1115412",
+       "header_image_url": "https://images.genius.com/a12de8ba31ef6a89d454d159d9d58556.750x750x1.jpg",
+       "id": 1115412,
+       "image_url": "https://images.genius.com/30d8df9e23a2b5ec77e6bd0907094d2f.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "HoBo & MoJo",
+       "url": "https://genius.com/artists/Hobo-and-mojo"
+      }
+     ]
+    },
+    {
+     "label": "Production",
+     "artists": [
+      {
+       "api_path": "/artists/1485268",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "id": 1485268,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EUROPICTURE",
+       "url": "https://genius.com/artists/Europicture"
+      }
+     ]
+    },
+    {
+     "label": "Vocals By",
+     "artists": [
+      {
+       "api_path": "/artists/1052561",
+       "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+       "id": 1052561,
+       "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Nemo Schiffman",
+       "url": "https://genius.com/artists/Nemo-schiffman",
+       "iq": 206
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4112784,
+    "annotator_login": "NemoSchiffman",
+    "api_path": "/referents/11097906",
+    "classification": "needs_exegesis",
+    "fragment": "I Don\u2019t Mind",
+    "id": 11097906,
+    "is_description": true,
+    "path": "/11097906/Nemo-schiffman-i-dont-mind/I-dont-mind",
+    "range": {
+     "content": "I Don't Mind"
+    },
+    "song_id": 2944418,
+    "url": "https://genius.com/11097906/Nemo-schiffman-i-dont-mind/I-dont-mind",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2944418",
+     "client_timestamps": {
+      "updated_by_human_at": 1527425707,
+      "lyrics_updated_at": 1483149639
+     },
+     "context": "Nemo Schiffman",
+     "id": 2944418,
+     "image_url": "https://images.genius.com/3f30188c57559759ee037b38362086ef.1000x1000x1.jpg",
+     "link_title": "I Don\u2019t Mind by\u00a0Nemo\u00a0Schiffman",
+     "title": "I Don't Mind",
+     "type": "Song",
+     "url": "https://genius.com/Nemo-schiffman-i-dont-mind-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11097906",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11097906,
+      "pinned": false,
+      "share_url": "https://genius.com/11097906",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11097906/Nemo-schiffman-i-dont-mind/I-dont-mind",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4112784",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/bd288781f343f84a67dba4826bc33515",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/bd288781f343f84a67dba4826bc33515",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/bd288781f343f84a67dba4826bc33515",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/bd288781f343f84a67dba4826bc33515",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 4112784,
+         "iq": 206,
+         "login": "NemoSchiffman",
+         "name": "Nemo Schiffman",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/NemoSchiffman",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 73,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=UzcBqJ_9aX8"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1052561",
+    "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+    "id": 1052561,
+    "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Nemo Schiffman",
+    "url": "https://genius.com/artists/Nemo-schiffman",
+    "iq": 206
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/270299",
+     "header_image_url": "https://images.genius.com/8d8ddaf57a8ceb720090404f189c90c1.246x246x1.jpg",
+     "id": 270299,
+     "image_url": "https://images.genius.com/8d8ddaf57a8ceb720090404f189c90c1.246x246x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fred Savio",
+     "url": "https://genius.com/artists/Fred-savio"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5486803",
+       "full_title": "Mashup 2017 by\u00a0Bars\u00a0and Melody (Ft.\u00a0Nemo\u00a0Schiffman)",
+       "header_image_thumbnail_url": "https://images.genius.com/4b7d97f94b48c12bd37895738a2ba7c7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4b7d97f94b48c12bd37895738a2ba7c7.640x640x1.jpg",
+       "id": 5486803,
+       "lyrics_owner_id": 4801273,
+       "lyrics_state": "complete",
+       "path": "/Bars-and-melody-mashup-2017-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/4b7d97f94b48c12bd37895738a2ba7c7.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4b7d97f94b48c12bd37895738a2ba7c7.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Mashup 2017",
+       "title_with_featured": "Mashup 2017 (Ft.\u00a0Nemo\u00a0Schiffman)",
+       "url": "https://genius.com/Bars-and-melody-mashup-2017-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/210746",
+        "header_image_url": "https://images.genius.com/74d15419f5969c5ae5a961d546224774.435x250x19.gif",
+        "id": 210746,
+        "image_url": "https://images.genius.com/4b7d97f94b48c12bd37895738a2ba7c7.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Bars and Melody",
+        "url": "https://genius.com/artists/Bars-and-melody"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1052589",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1052589,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Freddy March",
+     "url": "https://genius.com/artists/Freddy-march"
+    },
+    {
+     "api_path": "/artists/270299",
+     "header_image_url": "https://images.genius.com/8d8ddaf57a8ceb720090404f189c90c1.246x246x1.jpg",
+     "id": 270299,
+     "image_url": "https://images.genius.com/8d8ddaf57a8ceb720090404f189c90c1.246x246x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fred Savio",
+     "url": "https://genius.com/artists/Fred-savio"
+    },
+    {
+     "api_path": "/artists/1051303",
+     "header_image_url": "https://images.genius.com/a100ab20f35530ad599985a6f70d07c5.686x457x1.jpg",
+     "id": 1051303,
+     "image_url": "https://images.genius.com/484ea8336cdd2e19cebdfba4f4c68a39.456x456x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Devon Graves",
+     "url": "https://genius.com/artists/Devon-graves"
+    },
+    {
+     "api_path": "/artists/1052561",
+     "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+     "id": 1052561,
+     "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nemo Schiffman",
+     "url": "https://genius.com/artists/Nemo-schiffman",
+     "iq": 206
+    }
+   ],
+   "lyrics": "[Intro]\nYeah I don\u2019t mind\nTripping tonight\nLive in the moment forever\nYeah I don\u2019t mind\nTripping tonight\nLive in the moment forever\nYeah I don\u2019t mind\nDone with all the blame\nI\u2019ll rise above the game\nYou won\u2019t forget my name\n\n[Verse 1]\nI just woke up from a fever\nI just woke up\nI\u2019m seeing everything clearer\nI just woke up\n\nI\u2019m over trying to be\nSomebody other than me\nI\u2019m over trying to fight\nJust wanna party tonight\n\n[Pre-Chorus]\nDon\u2019t tell me what to say\nI don\u2019t care anyway\nSomebody needs to play the music\nFriends are by my side\nWe\u2019ve got nothing to hide\nWe\u2019re young, we\u2019re free, we\u2019re proud to be alive\n\n[Chorus]\nYeah I don\u2019t mind\nTripping tonight\nLive in the moment forever\nYeah I don\u2019t mind\nTripping tonight\nLive in the moment forever\nYeah I don\u2019t mind\nDone with all the blame\nI\u2019ll rise above the game\nYou won\u2019t forget my name\n\n[Verse 2]\nDance with me don\u2019t be a hater\nRaise your glass up\nYou are my favorite flavor\nRaise your glass up\n\nLaughing and feeling so high\nMaking out under the sky\nJust wanna party tonight\nWe\u2019re gonna party tonight\n\n[Pre-Chorus]\nTomorrow\u2019s far away\nLet\u2019s enjoy today\nLose yourself and play the music\nFriends are by my side\nWe\u2019ve got nothing to hide\nWe\u2019re young, we\u2019re free, we\u2019re proud to be alive\n\n[Chorus]\nYeah I don\u2019t mind\nTripping tonight\nLive in the moment forever\nYeah I don\u2019t mind\nTripping tonight\nLive in the moment forever\nYeah I don\u2019t mind\nDone with all the blame\nI\u2019ll rise above the game\nYou won\u2019t forget my name\n\n[Bridge]\nLosing my patience, losing time\nTrying so hard to read your mind\nYou want me to be better\nReally believe you are clever\nWhining, depriving me daily\nYour drama is driving me crazy\nBut now I don\u2019t mind\n\nYeah I don\u2019t mind\nYeah I don\u2019t mind\n\n[Chorus]\nYeah I don\u2019t mind\nTripping tonight\nLive in the moment forever\nYeah I don\u2019t mind\nTripping tonight\nLive in the moment forever\nYeah I don\u2019t mind\nDone with all the blame\nI\u2019ll rise above the game\nYou won\u2019t forget my name\nYeah I don\u2019t mind..."
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2944405",
+   "apple_music_id": "1355650967",
+   "apple_music_player_url": "https://genius.com/songs/2944405/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2944405' class='rg_embed_link' data-song-id='2944405'>Read <a href='https://genius.com/Nemo-schiffman-will-lyrics'>\u201cWill\u201d by Nemo\u00a0Schiffman</a> on Genius</div> <script crossorigin src='//genius.com/songs/2944405/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Will by\u00a0Nemo\u00a0Schiffman",
+   "header_image_thumbnail_url": "https://images.genius.com/8e4014d94f2b55e299d6517e74bd8992.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8e4014d94f2b55e299d6517e74bd8992.1000x1000x1.jpg",
+   "id": 2944405,
+   "lyrics_owner_id": 4112784,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Nemo-schiffman-will-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2016-04-22",
+   "release_date_for_display": "April 22, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8e4014d94f2b55e299d6517e74bd8992.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8e4014d94f2b55e299d6517e74bd8992.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Will",
+   "title_with_featured": "Will",
+   "url": "https://genius.com/Nemo-schiffman-will-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/432699",
+    "cover_art_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.600x600x1.jpg",
+    "full_title": "Omen by Nemo Schiffman",
+    "id": 432699,
+    "name": "Omen",
+    "url": "https://genius.com/albums/Nemo-schiffman/Omen",
+    "artist": {
+     "api_path": "/artists/1052561",
+     "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+     "id": 1052561,
+     "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nemo Schiffman",
+     "url": "https://genius.com/artists/Nemo-schiffman",
+     "iq": 206
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4112784,
+    "annotator_login": "NemoSchiffman",
+    "api_path": "/referents/11097870",
+    "classification": "needs_exegesis",
+    "fragment": "Will",
+    "id": 11097870,
+    "is_description": true,
+    "path": "/11097870/Nemo-schiffman-will/Will",
+    "range": {
+     "content": "Will"
+    },
+    "song_id": 2944405,
+    "url": "https://genius.com/11097870/Nemo-schiffman-will/Will",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2944405",
+     "client_timestamps": {
+      "updated_by_human_at": 1527424492,
+      "lyrics_updated_at": 1483149042
+     },
+     "context": "Nemo Schiffman",
+     "id": 2944405,
+     "image_url": "https://images.genius.com/8e4014d94f2b55e299d6517e74bd8992.1000x1000x1.jpg",
+     "link_title": "Will by\u00a0Nemo\u00a0Schiffman",
+     "title": "Will",
+     "type": "Song",
+     "url": "https://genius.com/Nemo-schiffman-will-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11097870",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11097870,
+      "pinned": false,
+      "share_url": "https://genius.com/11097870",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11097870/Nemo-schiffman-will/Will",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4112784",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/bd288781f343f84a67dba4826bc33515",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/bd288781f343f84a67dba4826bc33515",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/bd288781f343f84a67dba4826bc33515",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/bd288781f343f84a67dba4826bc33515",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 4112784,
+         "iq": 206,
+         "login": "NemoSchiffman",
+         "name": "Nemo Schiffman",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/NemoSchiffman",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=kygMoKZSlao"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1052561",
+    "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+    "id": 1052561,
+    "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Nemo Schiffman",
+    "url": "https://genius.com/artists/Nemo-schiffman",
+    "iq": 206
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/270299",
+     "header_image_url": "https://images.genius.com/8d8ddaf57a8ceb720090404f189c90c1.246x246x1.jpg",
+     "id": 270299,
+     "image_url": "https://images.genius.com/8d8ddaf57a8ceb720090404f189c90c1.246x246x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fred Savio",
+     "url": "https://genius.com/artists/Fred-savio"
+    },
+    {
+     "api_path": "/artists/1052580",
+     "header_image_url": "https://images.genius.com/94c7c28294cb8a76719065a7c206862c.150x150x1.jpg",
+     "id": 1052580,
+     "image_url": "https://images.genius.com/94c7c28294cb8a76719065a7c206862c.150x150x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nicolas Loconte",
+     "url": "https://genius.com/artists/Nicolas-loconte"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1052580",
+     "header_image_url": "https://images.genius.com/94c7c28294cb8a76719065a7c206862c.150x150x1.jpg",
+     "id": 1052580,
+     "image_url": "https://images.genius.com/94c7c28294cb8a76719065a7c206862c.150x150x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nicolas Loconte",
+     "url": "https://genius.com/artists/Nicolas-loconte"
+    },
+    {
+     "api_path": "/artists/1052581",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "id": 1052581,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1610729910",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marine Bercot",
+     "url": "https://genius.com/artists/Marine-bercot"
+    },
+    {
+     "api_path": "/artists/1052561",
+     "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+     "id": 1052561,
+     "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nemo Schiffman",
+     "url": "https://genius.com/artists/Nemo-schiffman",
+     "iq": 206
+    }
+   ],
+   "lyrics": "[Verse 1]\nMake me come to life\nI promise you the earth. Ask me now\nI'll take you now\nTake you to the sky\nAnd teach you how to fly. Wanna go high\nJust you & I...\n\nCan\u2019t you see\nEverything\nIn my mind\nI can climb\nI want you\nTo know\nEverywhere\nI could find\nJust a piece\nOf your mind\nI want to, Go...\n\n[Chorus]\nAnd we'll become one, yes we will ! We\u2019ll become one yes we will ! X2\n\n[Verse 2]\nListen to the sound\nMy heart is knocking loud. Trust me now\nJust trust me now...\n\nCan\u2019t you see\nIn my mind\nEverything\u2019s\nUpside down\nI love you, So...\n\n[Chorus]\nAnd we'll become one yes we will ! We\u2019ll become one yes we will ! X2\n\n[Bridge]\nInnocent\nRealize\nEverything\nAnyone\nInnocent\nRealize\nEverything X2\n\n[Chorus]\nAnd we'll become one yes we will! We\u2019ll become one yes we will ! X2\nFor everyone... For anything... And will!"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3746086",
+   "apple_music_id": "1355651372",
+   "apple_music_player_url": "https://genius.com/songs/3746086/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3746086' class='rg_embed_link' data-song-id='3746086'>Read <a href='https://genius.com/Nemo-schiffman-i-dont-mind-acoustic-version-lyrics'>\u201cI Don't Mind (Acoustic Version)\u201d by Nemo\u00a0Schiffman</a> on Genius</div> <script crossorigin src='//genius.com/songs/3746086/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "I Don't Mind (Acoustic Version) by\u00a0Nemo\u00a0Schiffman",
+   "header_image_thumbnail_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.600x600x1.jpg",
+   "id": 3746086,
+   "lyrics_owner_id": 4801273,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Nemo-schiffman-i-dont-mind-acoustic-version-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "I Don\u2019t Mind (Acoustic Version)",
+   "title_with_featured": "I Don't Mind (Acoustic Version)",
+   "url": "https://genius.com/Nemo-schiffman-i-dont-mind-acoustic-version-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/432699",
+    "cover_art_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.600x600x1.jpg",
+    "full_title": "Omen by Nemo Schiffman",
+    "id": 432699,
+    "name": "Omen",
+    "url": "https://genius.com/albums/Nemo-schiffman/Omen",
+    "artist": {
+     "api_path": "/artists/1052561",
+     "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+     "id": 1052561,
+     "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nemo Schiffman",
+     "url": "https://genius.com/artists/Nemo-schiffman",
+     "iq": 206
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4801273,
+    "annotator_login": "JJKYN",
+    "api_path": "/referents/14656283",
+    "classification": "needs_exegesis",
+    "fragment": "I Don\u2019t Mind (Acoustic Version)",
+    "id": 14656283,
+    "is_description": true,
+    "path": "/14656283/Nemo-schiffman-i-dont-mind-acoustic-version/I-dont-mind-acoustic-version",
+    "range": {
+     "content": "I Don't Mind (Acoustic Version)"
+    },
+    "song_id": 3746086,
+    "url": "https://genius.com/14656283/Nemo-schiffman-i-dont-mind-acoustic-version/I-dont-mind-acoustic-version",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3746086",
+     "client_timestamps": {
+      "updated_by_human_at": 1527425237,
+      "lyrics_updated_at": 1527425237
+     },
+     "context": "Nemo Schiffman",
+     "id": 3746086,
+     "image_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.600x600x1.jpg",
+     "link_title": "I Don\u2019t Mind (Acoustic Version) by\u00a0Nemo\u00a0Schiffman",
+     "title": "I Don't Mind (Acoustic Version)",
+     "type": "Song",
+     "url": "https://genius.com/Nemo-schiffman-i-dont-mind-acoustic-version-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14656283",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14656283,
+      "pinned": false,
+      "share_url": "https://genius.com/14656283",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14656283/Nemo-schiffman-i-dont-mind-acoustic-version/I-dont-mind-acoustic-version",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4801273",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5d1f005f04a90869ca79cb1aa5a12032",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5d1f005f04a90869ca79cb1aa5a12032",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5d1f005f04a90869ca79cb1aa5a12032",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5d1f005f04a90869ca79cb1aa5a12032",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/7a82t2tcrlw",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4801273,
+         "iq": 155484,
+         "login": "JJKYN",
+         "name": "JJKYN",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/JJKYN",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/1052561",
+    "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+    "id": 1052561,
+    "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Nemo Schiffman",
+    "url": "https://genius.com/artists/Nemo-schiffman",
+    "iq": 206
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Yeah I don't mind\nTripping tonight\nLive in the moment forever\n\nYeah I don't mind\nTripping tonight\nLive in the moment forever\nYeah I don't mind\nDone with all the blame\nI'll rise above the game\nYou won't forget my name\n\nI just woke up from a fever\nI just woke up\nI'm seeing everything clearer\nI just woke up\n\nI'm over trying to be\nSomebody other than me\nI'm over trying to fight\nJust wanna party tonight\n\nDon't tell me what to say\nI don't care anyway\nSomebody needs to play the music\nFriends are by my side\nWe've got nothing to hide\nWe're young, we're free, we're proud to be alive\n\nYeah I don't mind\nTripping tonight\nLive in the moment forever\nYeah I don't mind\nTripping tonight\nLive in the moment forever\nYeah I don't mind\nDone with all the blame\nI'll rise above the game\nYou won't forget my name\n\nDance with me don't be a hater\nRaise your glass up\nYou are my favorite flavor\nRaise your glass up\n\nLaughing and feeling so high\nMaking out under the sky\nJust wanna party tonight\nWe're gonna party tonight\n\nTomorrow's far away\nLet's enjoy today\nLose yourself and play the music\nFriends are by my side\nWe've got nothing to hide\nWe're young, we're free, we're proud to be alive\n\nYeah I don't mind\nTripping tonight\nLive in the moment forever\nYeah I don't mind\nTripping tonight\nLive in the moment forever\nYeah I don't mind\nDone with all the blame\nI'll rise above the game\nYou won't forget my name\n\nLosing my patience, losing time\nTrying so hard to read your mind\nYou want me to be better\nReally believe you are clever\nWhining, depriving me daily\nYour drama is driving me crazy\nBut now I don't mind\n\nYeah I don't mind\nYeah I don't mind\n\nYeah I don't mind\nTripping tonight\nLive in the moment forever\nYeah I don't mind\nTripping tonight\nLive in the moment forever\nYeah I don't mind\nDone with all the blame\nI'll rise above the game\nYou won't forget my name\nYeah I don't mind"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3746085",
+   "apple_music_id": "1355651358",
+   "apple_music_player_url": "https://genius.com/songs/3746085/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3746085' class='rg_embed_link' data-song-id='3746085'>Read <a href='https://genius.com/Nemo-schiffman-will-acoustic-version-lyrics'>\u201cWill (Acoustic Version)\u201d by Nemo\u00a0Schiffman</a> on Genius</div> <script crossorigin src='//genius.com/songs/3746085/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Will (Acoustic Version) by\u00a0Nemo\u00a0Schiffman",
+   "header_image_thumbnail_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.600x600x1.jpg",
+   "id": 3746085,
+   "lyrics_owner_id": 4801273,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Nemo-schiffman-will-acoustic-version-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2016-07-15",
+   "release_date_for_display": "July 15, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Will (Acoustic Version)",
+   "title_with_featured": "Will (Acoustic Version)",
+   "url": "https://genius.com/Nemo-schiffman-will-acoustic-version-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/432699",
+    "cover_art_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.600x600x1.jpg",
+    "full_title": "Omen by Nemo Schiffman",
+    "id": 432699,
+    "name": "Omen",
+    "url": "https://genius.com/albums/Nemo-schiffman/Omen",
+    "artist": {
+     "api_path": "/artists/1052561",
+     "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+     "id": 1052561,
+     "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nemo Schiffman",
+     "url": "https://genius.com/artists/Nemo-schiffman",
+     "iq": 206
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4801273,
+    "annotator_login": "JJKYN",
+    "api_path": "/referents/14656282",
+    "classification": "needs_exegesis",
+    "fragment": "Will (Acoustic Version)",
+    "id": 14656282,
+    "is_description": true,
+    "path": "/14656282/Nemo-schiffman-will-acoustic-version/Will-acoustic-version",
+    "range": {
+     "content": "Will (Acoustic Version)"
+    },
+    "song_id": 3746085,
+    "url": "https://genius.com/14656282/Nemo-schiffman-will-acoustic-version/Will-acoustic-version",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3746085",
+     "client_timestamps": {
+      "updated_by_human_at": 1527425320,
+      "lyrics_updated_at": 1527425285
+     },
+     "context": "Nemo Schiffman",
+     "id": 3746085,
+     "image_url": "https://images.genius.com/107905a51f6625a41e0efd76b03363b7.600x600x1.jpg",
+     "link_title": "Will (Acoustic Version) by\u00a0Nemo\u00a0Schiffman",
+     "title": "Will (Acoustic Version)",
+     "type": "Song",
+     "url": "https://genius.com/Nemo-schiffman-will-acoustic-version-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14656282",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14656282,
+      "pinned": false,
+      "share_url": "https://genius.com/14656282",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14656282/Nemo-schiffman-will-acoustic-version/Will-acoustic-version",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4801273",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5d1f005f04a90869ca79cb1aa5a12032",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5d1f005f04a90869ca79cb1aa5a12032",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5d1f005f04a90869ca79cb1aa5a12032",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5d1f005f04a90869ca79cb1aa5a12032",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/7a82t2tcrlw",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4801273,
+         "iq": 155484,
+         "login": "JJKYN",
+         "name": "JJKYN",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/JJKYN",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=XQtjP5wrQZ0"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1052561",
+    "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+    "id": 1052561,
+    "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Nemo Schiffman",
+    "url": "https://genius.com/artists/Nemo-schiffman",
+    "iq": 206
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1052561",
+     "header_image_url": "https://images.genius.com/e0f88ecbae9a4bfd0a2c976a7af9b35b.640x640x1.jpg",
+     "id": 1052561,
+     "image_url": "https://images.genius.com/ce95d89421c99073bcbe6f0540ebc872.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nemo Schiffman",
+     "url": "https://genius.com/artists/Nemo-schiffman",
+     "iq": 206
+    }
+   ],
+   "lyrics": null
+  }
+ ]
+}

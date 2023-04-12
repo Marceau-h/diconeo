@@ -1,0 +1,808 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/356228",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "id": 356228,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jeanne Aubert",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Jeanne-aubert",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7073787",
+  "classification": "needs_exegesis",
+  "fragment": "Jeanne Aubert",
+  "id": 7073787,
+  "is_description": true,
+  "path": "/7073787/Jeanne-aubert/Jeanne-aubert",
+  "range": {
+   "content": "Jeanne Aubert"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7073787/Jeanne-aubert/Jeanne-aubert",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/356228",
+   "context": null,
+   "id": 356228,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1608585704",
+   "link_title": "Jeanne Aubert",
+   "title": "Jeanne Aubert",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jeanne-aubert"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7073787",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7073787,
+    "pinned": false,
+    "share_url": "https://genius.com/7073787",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7073787/Jeanne-aubert/Jeanne-aubert",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/868052",
+   "apple_music_id": "382561365",
+   "apple_music_player_url": "https://genius.com/songs/868052/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_868052' class='rg_embed_link' data-song-id='868052'>Read <a href='https://genius.com/Jeanne-aubert-sur-la-commode-lyrics'>\u201cSur La Commode\u201d by Jeanne\u00a0Aubert</a> on Genius</div> <script crossorigin src='//genius.com/songs/868052/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Sur La Commode by\u00a0Jeanne\u00a0Aubert",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 868052,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jeanne-aubert-sur-la-commode-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sur La Commode",
+   "title_with_featured": "Sur La Commode",
+   "url": "https://genius.com/Jeanne-aubert-sur-la-commode-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5349719",
+    "classification": "needs_exegesis",
+    "fragment": "Sur La Commode",
+    "id": 5349719,
+    "is_description": true,
+    "path": "/5349719/Jeanne-aubert-sur-la-commode/Sur-la-commode",
+    "range": {
+     "content": "Sur La Commode"
+    },
+    "song_id": 868052,
+    "url": "https://genius.com/5349719/Jeanne-aubert-sur-la-commode/Sur-la-commode",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/868052",
+     "client_timestamps": {
+      "updated_by_human_at": 1433778483,
+      "lyrics_updated_at": 1429291948
+     },
+     "context": "Jeanne Aubert",
+     "id": 868052,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "Sur La Commode by\u00a0Jeanne\u00a0Aubert",
+     "title": "Sur La Commode",
+     "type": "Song",
+     "url": "https://genius.com/Jeanne-aubert-sur-la-commode-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5349719",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5349719,
+      "pinned": false,
+      "share_url": "https://genius.com/5349719",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5349719/Jeanne-aubert-sur-la-commode/Sur-la-commode",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/356228",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 356228,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jeanne Aubert",
+    "url": "https://genius.com/artists/Jeanne-aubert"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Certains se collent des pagnes\nL'\u00e9t\u00e9 pour prendre des bains\nD'autres vont \u00e0 la montagne\nAvec des tas d'bambins\nPour s'offrir des bains d'si\u00e8ge\nD'autres vont se faire blanchir\nLe derri\u00e8re dans la neige\nHistoire de s'rafra\u00eechir\n\n[Refrain:]\nPour \u00e9viter les frais\nTout en suivant la mode\nChez moi je prends le frais\nLe cul sur la commode\nPour \u00e9viter les frais\nTout en suivant la mode\nChez moi je prends le frais\nLe cul sur la commode\nLe cul sur la commode\n\nLes ceusses qui s'enquiquinent\nLe soir apr\u00e8s l'd\u00eener\nSe payent une mezzanine\nEt s'en vont au cin\u00e9\nToute la soir\u00e9e ils restent\nAssis \u00e0 dig\u00e9rer\nDes navets indigestes\nEn salle r\u00e9frig\u00e9r\u00e9e\n\n[Refrain]\n\nPour tenter la fortune\nDes gens ivres d'orgueil\nS'en vont risquer leurs thunes\nChaque dimanche \u00e0 Auteuil\nDans des cars ils s'entassent\nEcras\u00e9s \u00e0 demi\nPuis ayant bu la tasse\nRadinent sans un radis\n\n[Refrain]\n\nCouplet patriotique :\nMa commode est fran\u00e7aise\nC'est du \"moderne ancien\"\nLes tiroirs sont Louis XVI\nLes pieds r\u00e9publicains\nElle fit les barricades\nElle ne tient plus tr\u00e8s bien\nMais bien qu'elle soit malade\nElle m'est sacr\u00e9e j'y tiens !\n\nEt si un jour on vient\nM'la prendre, comme c'est la mode\nJe d\u00e9fendrai mon bien\nLe cul sur la commode\nEt si un jour on vient\nM'la prendre, comme c'est la mode\nJe d\u00e9fendrai mon bien\nLe cul sur la commode\nLe cul sur la commode"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1833831",
+   "apple_music_id": "406338348",
+   "apple_music_player_url": "https://genius.com/songs/1833831/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1833831' class='rg_embed_link' data-song-id='1833831'>Read <a href='https://genius.com/Jeanne-aubert-cest-une-petite-etoile-lyrics'>\u201cCEst Une Petite Etoile\u201d by Jeanne\u00a0Aubert</a> on Genius</div> <script crossorigin src='//genius.com/songs/1833831/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "CEst Une Petite Etoile by\u00a0Jeanne\u00a0Aubert",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "id": 1833831,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Jeanne-aubert-cest-une-petite-etoile-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "CEst Une Petite Etoile",
+   "title_with_featured": "CEst Une Petite Etoile",
+   "url": "https://genius.com/Jeanne-aubert-cest-une-petite-etoile-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6447364",
+    "classification": "needs_exegesis",
+    "fragment": "CEst Une Petite Etoile",
+    "id": 6447364,
+    "is_description": true,
+    "path": "/6447364/Jeanne-aubert-cest-une-petite-etoile/Cest-une-petite-etoile",
+    "range": {
+     "content": "CEst Une Petite Etoile"
+    },
+    "song_id": 1833831,
+    "url": "https://genius.com/6447364/Jeanne-aubert-cest-une-petite-etoile/Cest-une-petite-etoile",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1833831",
+     "client_timestamps": {
+      "updated_by_human_at": 1445442559,
+      "lyrics_updated_at": 1431626050
+     },
+     "context": "Jeanne Aubert",
+     "id": 1833831,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1608585704",
+     "link_title": "CEst Une Petite Etoile by\u00a0Jeanne\u00a0Aubert",
+     "title": "CEst Une Petite Etoile",
+     "type": "Song",
+     "url": "https://genius.com/Jeanne-aubert-cest-une-petite-etoile-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6447364",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6447364,
+      "pinned": false,
+      "share_url": "https://genius.com/6447364",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6447364/Jeanne-aubert-cest-une-petite-etoile/Cest-une-petite-etoile",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/356228",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "id": 356228,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1608585704",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jeanne Aubert",
+    "url": "https://genius.com/artists/Jeanne-aubert"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Quand la nuit tombe sur la ville\nJe cherche par-dessus les toits\nUn petit clou d'or qui scintille\nPour lui parler un peu de toi\n\n{Refrain 1:}\nC'est une petite \u00e9toile\nQui s'allume \u00e0 l'horizon\nEt cette petite \u00e9toile\nBrille aussi sur ta maison\nS\u00e9par\u00e9(e) de toi, je pleure\nMais comme tu l'as promis\nTon regard \u00e0 la m\u00eame heure\nS'est pos\u00e9 sur elle aussi\nQui pourrait donc mieux comprendre\nDes amoureux\nEt m'offrir le reflet tendre\nDe tes grands yeux\nBleus ?\nEt je confie la promesse\nDe t'aimer mieux chaque jour\nAvec mes folles caresses\nA l'\u00e9toile de notre amour\n\nLorsque viendra l'heure b\u00e9nie\nO\u00f9 nos deux c\u0153urs se rejoindront\nNous l\u00e8verons vers notre amie\nNos yeux qui la remercieront\n\n[Jeanne Aubert]:\n{Au refrain 1}\n\n[Jean Lumi\u00e8re]:\n{Refrain 2:}\nC'est une petite \u00e9toile\nQui s'allume \u00e0 l'horizon\nEt cette petite \u00e9toile\nBrille aussi sur ta maison\nC'est l'image de la flamme\nQue je ressens en mon c\u0153ur\nC'est la douceur de ton \u00e2me\nLe reflet de mon bonheur\nLorsque les ann\u00e9es cruelles\nNous feront vieux\nJe retrouverai en elle\nTes jolis yeux\nBleus\nEt je confie la promesse\nDe t'aimer mieux chaque jour\nAvec mes folles caresses\nA l'\u00e9toile de notre amour"
+  }
+ ]
+}
