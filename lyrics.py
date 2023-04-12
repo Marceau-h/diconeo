@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+from datetime import datetime
 
 music_dir = Path(__file__).parent / "Lyrics_all"
 
@@ -55,13 +56,15 @@ class Song:
         self.description = song_dict["description"]["plain"]
         self.full_title = song_dict["full_title"]
         self.state = song_dict["lyrics_state"]
-        self.release_date = song_dict["release_date"]
-        self.release_date_for_display = song_dict["release_date_for_display"]
         self.stats = song_dict["stats"]
         self.title_with_featured = song_dict["title_with_featured"]
         self.url = song_dict["url"]
         self.title = song_dict["title"]
         self.paroles = song_dict["lyrics"]
+
+        date = song_dict["release_date"]
+        self.release_date = datetime.strptime(date, "%Y-%m-%d") if date is not None else None
+        self.release_date_for_display = song_dict["release_date_for_display"]
 
         try:
             self.album = Album(song_dict["album"])
@@ -80,6 +83,37 @@ class Song:
 
     def __str__(self):
         return self.paroles
+
+    def __lt__(self, other):
+        if self.release_date is None:
+            if other.release_date is None:
+                pass
+            else:
+                return False
+
+        elif other.release_date is None:
+            return True
+
+        else:
+            if self.release_date != other.release_date:
+                return self.release_date < other.release_date
+
+        return self.full_title < other.full_title
+
+    def __gt__(self, other):
+        return not self.__lt__(other)
+
+    def __le__(self, other):
+        return self.__lt__(other) or self.__eq__(other)
+
+    def __ge__(self, other):
+        return self.__gt__(other) or self.__eq__(other)
+
+    def __ne__(self, other):
+        return not self.__eq__(other)
+
+    def __contains__(self, item):
+        return item in self.paroles
 
 
 class Album:
@@ -101,9 +135,31 @@ class Album:
     def __repr__(self):
         return f"<Album {self.full_title}>"
 
+    def __str__(self):
+        return self.full_title
+
+    def __lt__(self, other):
+        return self.id < other.id
+
+    def __gt__(self, other):
+        return not self.__lt__(other)
+
+    def __le__(self, other):
+        return self.id <= other.id
+
+    def __ge__(self, other):
+        return not self.__le__(other)
+
+    def __ne__(self, other):
+        return not self.__eq__(other)
+
+    def __contains__(self, song: Song):
+        return song.album == self
+
 
 if __name__ == '__main__':
     nom = "Vald"
+
     artiste = Artiste(nom)
     print(artiste.name)
     print()
@@ -118,4 +174,7 @@ if __name__ == '__main__':
         else:
             pas_paroles += 1
 
-    print( f"Nombre de chansons avec paroles: {paroles}, sans paroles: {pas_paroles}")c
+    total = len(artiste.songs)
+
+    print(
+        f"\nNombre de chansons {total}\navec paroles: {paroles} ({paroles / total * 100:.2f}%)\nsans paroles: {pas_paroles} ({pas_paroles / total * 100:.2f}%)")
