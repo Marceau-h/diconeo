@@ -82,7 +82,7 @@ class Song:
         return f"<Song {self.full_title}>"
 
     def __str__(self):
-        return self.paroles
+        return self.paroles or ""
 
     def __lt__(self, other):
         if self.release_date is None:
