@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 from datetime import datetime
+import langid
 
 music_dir = Path(__file__).parent / "Lyrics_all"
 
@@ -11,6 +12,9 @@ class Artiste:
     dictart = artists_det
 
     def __init__(self, name):
+        if isinstance(name, Path):
+            name = name.stem.split("_", 1)[1]
+
         if name.lower() not in self.dictart:
             raise ValueError(
                 f"Artiste {name} non trouvé, pour la liste des artistes, voir la variable de classe 'dictart'")
@@ -61,6 +65,10 @@ class Song:
         self.url = song_dict["url"]
         self.title = song_dict["title"]
         self.paroles = song_dict["lyrics"]
+        if self.paroles is not None:
+            self.lang = langid.classify(self.paroles)[0]
+        else:
+            self.lang = None
 
         date = song_dict["release_date"]
         self.release_date = datetime.strptime(date, "%Y-%m-%d") if date is not None else None
