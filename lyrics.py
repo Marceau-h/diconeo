@@ -13,7 +13,7 @@ artists_det = {file.stem.split("_", 1)[1].lower(): file for file in music_dir.gl
 
 class Artiste:
     dictart = artists_det
-    name_parser = re.compile(r"[A-ZÀ-ÿ]+[a-zà-ÿ]*") #re.compile(r"(\d+)|([A-ZÀ-ÿ]+[a-zà-ÿ]*)(?:\.?)")
+    name_parser = re.compile(r"[A-ZÀ-ÿ]+[a-zà-ÿ]*")  # re.compile(r"(\d+)|([A-ZÀ-ÿ]+[a-zà-ÿ]*)(?:\.?)")
 
     def __init__(self, name):
         if isinstance(name, Path):
@@ -35,18 +35,18 @@ class Artiste:
         else:
             self.parsed = re.findall(self.name_parser, name)
 
-            try :
+            try:
                 self.name = "_".join(e for e in self.parsed)
-            except :
+            except Exception as e:
                 print(self.parsed)
+                raise e
 
-        try :
+        try:
             self.genres = SPARQL.get_genres(self.name)
-        except :
+        except Exception as e:
             print(self.name)
             print(self.file)
-
-
+            raise e
 
         self.alternate_names = []
         self.api_path = None
@@ -79,6 +79,9 @@ class Artiste:
 
     def process_albums(self):
         self.albums = {song.album for song in self.songs}
+
+    def __dict__(self):
+        return {"name": self.name, "genres": self.genres, "albums": self.albums, "songs": self.songs, "file": self.file}
 
 
 class Song:
