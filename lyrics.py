@@ -1,7 +1,10 @@
 import json
+import re
 from pathlib import Path
 from datetime import datetime
 import langid
+
+import SPARQL
 
 music_dir = Path(__file__).parent / "Lyrics_all"
 
@@ -10,6 +13,7 @@ artists_det = {file.stem.split("_", 1)[1].lower(): file for file in music_dir.gl
 
 class Artiste:
     dictart = artists_det
+    name_parser = re.compile(r"[A-ZÀ-ÿ]+[a-zà-ÿ]*") #re.compile(r"(\d+)|([A-ZÀ-ÿ]+[a-zà-ÿ]*)(?:\.?)")
 
     def __init__(self, name):
         if isinstance(name, Path):
@@ -19,8 +23,30 @@ class Artiste:
             raise ValueError(
                 f"Artiste {name} non trouvé, pour la liste des artistes, voir la variable de classe 'dictart'")
 
-        self.name = name
         self.file = self.dictart[name.lower()]
+        if name.islower():
+            self.name = name.title()
+        elif name.isupper():
+            self.name = name
+        elif name.istitle():
+            self.name = name
+        elif name.isdigit():
+            self.name = name
+        else:
+            self.parsed = re.findall(self.name_parser, name)
+
+            try :
+                self.name = "_".join(e for e in self.parsed)
+            except :
+                print(self.parsed)
+
+        try :
+            self.genres = SPARQL.get_genres(self.name)
+        except :
+            print(self.name)
+            print(self.file)
+
+
 
         self.alternate_names = []
         self.api_path = None
