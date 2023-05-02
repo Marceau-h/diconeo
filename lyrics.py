@@ -3,6 +3,8 @@ import re
 from pathlib import Path
 from datetime import datetime
 import langid
+from numpy import mean, nan
+from pandas import NaT
 
 import SPARQL
 
@@ -16,6 +18,8 @@ class Artiste:
     name_parser = re.compile(r"[A-ZÀ-ÿ]+[a-zà-ÿ]*")  # re.compile(r"(\d+)|([A-ZÀ-ÿ]+[a-zà-ÿ]*)(?:\.?)")
 
     def __init__(self, name):
+        self.dates = None
+        self.date = None
         if isinstance(name, Path):
             name = name.stem.split("_", 1)[1]
 
@@ -74,14 +78,61 @@ class Artiste:
         self.process_songs(data["songs"])
         self.process_albums()
 
+        self.process_date()
+
     def process_songs(self, songs):
         self.songs = {Song(song) for song in songs}
 
     def process_albums(self):
         self.albums = {song.album for song in self.songs}
 
+    def process_date(self):
+        if not self.songs:
+            return
+
+        self.dates = [song.release_date for song in self.songs]
+        if not self.dates:
+            return
+
+        dates = [datetime.timestamp(date) for date in self.dates if date is not None]
+
+        if not dates:
+            # print(f"{self.name} : all None")
+            return
+
+        # print(f"{self.name} : {dates}")
+
+        try:
+            date = datetime.fromtimestamp(mean(dates))
+
+        except TypeError as e:
+            print(self.name)
+            print(self.file)
+            print(self.dates)
+            raise e
+        except ValueError as e:
+            print(self.name)
+            print(self.file)
+            print(self.dates)
+            raise e
+
+        if date in (NaT, nan):
+            return None
+        elif date.year == 1970:
+            return None
+
+        # print(f"{self.name} : {date}")
+        self.date = date
+
     def __dict__(self):
-        return {"name": self.name, "genres": self.genres, "albums": self.albums, "songs": self.songs, "file": self.file}
+        return {
+            "name": self.name,
+            "genres": self.genres,
+            "albums": self.albums,
+            "songs": self.songs,
+            "file": self.file,
+            "date": self.date,
+        }
 
 
 class Song:
@@ -100,7 +151,8 @@ class Song:
             self.lang = None
 
         date = song_dict["release_date"]
-        self.release_date = datetime.strptime(date, "%Y-%m-%d") if date is not None else None
+        self.release_date = datetime.strptime(date, "%Y-%m-%d") if ((date is not None) and (date != nan)) else None
+
         self.release_date_for_display = song_dict["release_date_for_display"]
 
         try:
@@ -203,6 +255,10 @@ if __name__ == '__main__':
     print(artiste.albums)
     print()
     print(artiste.songs)
+    print()
+    print(artiste.dates)
+    print()
+    print(artiste.date)
 
     paroles, pas_paroles = 0, 0
     for song in artiste.songs:

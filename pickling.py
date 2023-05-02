@@ -42,6 +42,11 @@ def clean_word(word):
     return word
 
 
+def only_letters(word):
+    if not (word and re.fullmatch(r"[A-zÄ-ÿ]+", word)) : return
+    return word
+
+
 def find_neo(songs):
     neologismes = set()
 
@@ -49,7 +54,7 @@ def find_neo(songs):
         if song.paroles:
             paroles = tokenize(preclean(song.paroles))
             for word in paroles:
-                word = clean_word(word)
+                word = only_letters(clean_word(word))
                 if word:
                     if word.lower() not in lexique_ultime:
                         neologismes.add(word)
@@ -57,15 +62,17 @@ def find_neo(songs):
     return neologismes
 
 
-def songs_and_neo(artiste: str | Path | ly.Artiste) -> tuple[list[ly.Song], set[str], list[str]]:
+def songs_and_neo(artiste: str | Path | ly.Artiste) -> tuple:
     if isinstance(artiste, str | Path):
         artiste = ly.Artiste(artiste)
 
+    name = artiste.name
     songs = artiste.songs
     neologismes = find_neo(songs)
     genres = artiste.genres
+    date = artiste.date
 
-    return songs, neologismes, genres
+    return songs, neologismes, genres, date, name,
 
 
 ################################
@@ -105,13 +112,12 @@ neover = df[df[1].apply(lambda x: len(x) > neo)]
 neover.to_pickle("df_artistes_neo.pkl")
 print(f"Nombre d'artistes avec au moins {neo} néologismes : {len(neover)}")
 
-
 frver = df[df[0].apply(lambda x: len([e for e in x if e.lang == "fr"]) > fr_songs)]
 frver.to_pickle("df_artistes_fr.pkl")
 print(f"Nombre d'artistes avec au moins {fr_songs} chansons en français : {len(frver)}")
 
-
 bothver = frver[frver.index.isin(neover.index)]
+bothver.columns = ["songs", "neologismes", "genres", "date", "noms"]
 bothver.to_pickle("df_artistes_neo_fr.pkl")
 bothver.to_csv("df_artistes_neo_fr.csv", sep=";", encoding="utf-8", header=True)
 bothver.to_json("df_artistes_neo_fr.json", indent=4, force_ascii=False)
