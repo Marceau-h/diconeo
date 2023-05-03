@@ -9,7 +9,9 @@ from spacy.lang.fr import French
 
 
 def tokenize(chaine):
-    return [token.text for token in tokenizer(chaine)]
+    temp = [token.text for token in tokenizer(chaine)]
+    # Permet de découper sur les apostrophes, les tirets, etc. Utile pour les abréviations, les mots composés, etc.
+    return [s for e in temp for s in re.split(r"(\W)", e) if s]
 
 
 def preclean(chaine):
@@ -21,29 +23,48 @@ def preclean(chaine):
 
 
 def clean_word(word):
+    """Nettoie les mots pour ne garder que les mots qui pourraient être des néologismes
+    :param word: mot à "nettoyer"
+    :return: mot nettoyé, None si ce n'est pas un mot qui pourrait être un néologisme
+    On pourrait sûrement accélérer les choses en faisant des re.compile() des regex
+    mais ça va assez vite pour notre usage et ça permet de mieux voir ce qui se passe
+    """
+
     try:
-        word = word.strip()
+        word = word.strip()  # on enlève les espaces
     except:
-        print(word)
+        print(word)  # pour voir ce qui pose problème, normalement que les "None"
         return
-    word = word.strip(".,;“…’:!”?\"()[]{}«»×*")
-    if re.fullmatch(r"((\\x)|(\\u)|(\\n)|(x?\d+)).*", word):
+    word = word.strip(".,;“…’:!”?\"()[]{}«»×*") # on enlève les signes bizarres
+    if re.fullmatch(r"((\\x)|(\\u)|(\\n)|(x?\d+)).*", word): # symboles d'échappement donc pas néologismes
         return
-    if '"-"' in word:
+    if '"-"' in word:  # Truc bizarre dans les paroles
         return
-    if word == 'à-ç':
+    # On vire les chaînes bizarres que l'on a pu trouver dans les paroles + les   refrain, couplet, etc.
+    if word in {"à-ç", "Outro", "Intro", "Refrain", "Couplet", "Pont", "Outro", "Pré-refrain", "Pré-refrain"}:
         return
+    # les mots qui commencent ou finissent par un tiret, abréviations,
+    # lors de la retranscription des paroles, donc pas néologismes
     if re.fullmatch('(-"?\w+)|(\w+"?-)', word):
         return
+    # pas de lettres donc pas néologismes, on rappelle que fullmatch cherche à faire correspondre toute la chaîne
     if re.fullmatch(r"[^A-zÄ-ÿ]+", word):
         return
-    if re.fullmatch(r"('+)|(\++)", word):
+    if re.fullmatch(r"('+)|(\++)", word):  # Bruit
         return
+    if re.fullmatch(r"([A-zÄ-ÿ])($|(\1))+", word):  # qu'une seule lettre répétée plusieurs fois donc pas néologisme
+        return
+    if re.fullmatch(r"([A-zÄ-ÿ])\1+", word): # pas sûr de celle d'avant donc on double up
+        return
+    # Mots en majuscules = acronyme donc pas néologisme, par contre si minuscules après, on garde
+    if re.fullmatch(r"[A-ZÄ-Ÿ]{2,}", word):
+        return
+
     return word
 
 
 def only_letters(word):
-    if not (word and re.fullmatch(r"[A-zÄ-ÿ]+", word)) : return
+    if not (word and re.fullmatch(r"[A-zÄ-ÿ]+", word)): return
     return word
 
 
