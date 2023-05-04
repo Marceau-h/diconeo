@@ -7,7 +7,7 @@ import pandas as pd
 
 from spacy.lang.fr import French
 
-regles = re.compile(r"""((-"?\w+)|(\w+"?-))|([^A-zÄ-ÿ]+)|(('+)|(\++))|(([A-zÄ-ÿ])($|(\1))+)|(([A-zÄ-ÿ])\1+)|([A-ZÄ-Ÿ]{2,})|(((o|O)+u*h*)+)|(((a|A)+h*)+)|(([eEéÉ]+u*h*)+)|(((o|O)u?l?)+)|(((B|b)r+)+)""")
+regles = re.compile(r"""(([A-zÄ-ÿ])(\2)+)|((-"?\w+)|(\w+"?-))|([^A-zÄ-ÿ]+)|(('+)|(\++))|([A-ZÄ-Ÿ]{2,})|(((o|O)+u*h*)+)|(((a|A)+h*)+)|(([eEéÉ]+u*h*)+)|(((o|O)u?l?)+)|(((B|b)r+)+)|((la)+)|(((\\x)|(\\u)|(\\n)|(x?\d+)).*)""")
 def tokenize(chaine):
     temp = [token.text for token in tokenizer(chaine)]
     # Permet de découper sur les apostrophes, les tirets, etc. Utile pour les abréviations, les mots composés, etc.
@@ -26,22 +26,21 @@ def clean_word(word):
     """Nettoie les mots pour ne garder que les mots qui pourraient être des néologismes
     :param word: mot à "nettoyer"
     :return: mot nettoyé, None si ce n'est pas un mot qui pourrait être un néologisme
-    On pourrait sûrement accélérer les choses en faisant des re.compile() des regex
-    mais ça va assez vite pour notre usage et ça permet de mieux voir ce qui se passe
+    Les regex présentes ici sont la version non compilée, laissées pour la compréhension
+    cependant elles ne seront jamais utilisées (apres un if False) pour des raisons de performances
+    On utilise une regex compilée, rassemblant toutes les regex ci-dessous
     """
 
     try:
         word = word.strip()  # on enlève les espaces
+        word = word.strip(".,;“…’:!”?\"()[]{}«»×*")  # on enlève les signes bizarres
     except:
         print(word)  # pour voir ce qui pose problème, normalement que les "None"
         return
-    word = word.strip(".,;“…’:!”?\"()[]{}«»×*") # on enlève les signes bizarres
-    if re.fullmatch(r"((\\x)|(\\u)|(\\n)|(x?\d+)).*", word): # symboles d'échappement donc pas néologismes
-        return
-    if '"-"' in word:  # Truc bizarre dans les paroles
-        return
-    # On vire les chaînes bizarres que l'on a pu trouver dans les paroles + les   refrain, couplet, etc.
+
+    # On vire les chaînes bizarres que l'on a pu trouver dans les paroles + les "refrain", "couplet", etc.
     if word in {
+        '"-"',
         "à-ç",
         "Outro",
         "Intro",
@@ -63,6 +62,13 @@ def clean_word(word):
         "Pête",
         "Beep",
         "Décidemment",
+        "Aujourd",
+        "aujourd",
+        "hui",
+        "released",
+        "mmh",
+        "capuché",
+        "Capuché",
     }:
         return
     if re.fullmatch(regles, word):  # Bruit
@@ -80,9 +86,7 @@ def clean_word(word):
             return
         if re.fullmatch(r"('+)|(\++)", word):  # Bruit
             return
-        if re.fullmatch(r"([A-zÄ-ÿ])($|(\1))+", word):  # qu'une seule lettre répétée plusieurs fois donc pas néologisme
-            return
-        if re.fullmatch(r"([A-zÄ-ÿ])\1+", word): # pas sûr de celle d'avant donc on double up
+        if re.fullmatch(r"([A-zÄ-ÿ])(\1)+", word):  # qu'une seule lettre répétée plusieurs fois donc pas néologisme
             return
         # Tous ceux là sont des bruits retranscrits donc pas néologismes, ce qui nous intéresse
         # en tout cas c'est ce qui est produit par le chanteur
@@ -95,6 +99,10 @@ def clean_word(word):
         if re.fullmatch(r"((o|O)u?l?)+", word):
             return
         if re.fullmatch(r"((B|b)r+)+", word):
+            return
+        if re.fullmatch(r"(la)+", word):
+            return
+        if re.fullmatch(r"((\\x)|(\\u)|(\\n)|(x?\d+)).*", word):  # symboles d'échappement donc pas néologismes
             return
 
     return word
