@@ -114,7 +114,7 @@ def only_letters(word):
 
 
 def find_neo(songs):
-    neologismes = set()
+    neologismes = []
 
     for song in songs:
         if song.paroles:
@@ -123,9 +123,9 @@ def find_neo(songs):
                 word = only_letters(clean_word(word))
                 if word:
                     if word.lower() not in lexique_ultime:
-                        neologismes.add(word)
+                        neologismes.append(word)
 
-    return neologismes
+    return sorted(neologismes)
 
 
 def songs_and_neo(artiste: str | Path | ly.Artiste) -> tuple:
@@ -133,7 +133,7 @@ def songs_and_neo(artiste: str | Path | ly.Artiste) -> tuple:
         artiste = ly.Artiste(artiste)
 
     name = artiste.name
-    songs = artiste.songs
+    songs = [e for e in artiste.songs if e.lang == "fr"]
     neologismes = find_neo(songs)
     genres = artiste.genres
     date = artiste.date
@@ -142,7 +142,7 @@ def songs_and_neo(artiste: str | Path | ly.Artiste) -> tuple:
 
 
 ################################
-neo = 50
+neo = 10
 fr_songs = 20
 ################################
 

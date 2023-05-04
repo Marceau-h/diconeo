@@ -134,6 +134,23 @@ correspondances = {
     "Heavy metal": "Metal",
     "Trip hop": "Electro",
     "Musique celtique": "Variété",
+    "Art rock": "Rock",
+    "Pop expérimentale": "Pop",
+    "Rock électronique": "Rock",
+    "Salsa": "Monde",
+    "Roman policier": "Bruit",
+    "Traduction": "Bruit",
+    "Thriller": "Bruit",
+    "Musique pour enfants": "Variété",
+    "Comédie musicale": "Variété",
+    "Chanson à texte": "Variété",
+    "Electroclash": "Electro",
+    "Twist": "Variété",
+    "Electropop": "Electro",
+    "Opérette": "Classique",
+    "Critique de livre": "Bruit",
+
+
 }
 
 df_artistes_neo_fr = pd.read_pickle("df_artistes_neo_fr_no_names.pkl")

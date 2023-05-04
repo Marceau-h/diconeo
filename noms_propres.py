@@ -34,8 +34,10 @@ for word, freq in tolower:
     del allfreq[word]
 
 # On aurait pu factoriser les tolower et toremove, mais c'est plus clair comme ça
-
+df_artistes_neo_fr["all_len"] = df_artistes_neo_fr["neologismes"].apply(len)
 df_artistes_neo_fr["neologismes"] = df_artistes_neo_fr["neologismes"].apply(lambda x: [word for word in x if word in allfreq])
+df_artistes_neo_fr["nompropre_len"] = df_artistes_neo_fr["all_len"] - df_artistes_neo_fr["neologismes"].apply(len)
+df_artistes_neo_fr["neo_len"] = df_artistes_neo_fr["neologismes"].apply(len)
 df_artistes_neo_fr["neo_freq"] = df_artistes_neo_fr["neo_freq"].apply(lambda x: {word: freq for word, freq in x.items() if word in allfreq})
 
 df_artistes_neo_fr.to_pickle("df_artistes_neo_fr_no_names.pkl")
