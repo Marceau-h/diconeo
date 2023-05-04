@@ -1,0 +1,143 @@
+import pandas as pd
+
+
+def genre_cleaner(genres):
+    temp = set()
+    for e in genres:
+        e = e.replace("_", " ")
+        e = e.split("(")[0]
+        e = e.strip()
+        if e[0] == "Q" and e[1:].isdigit():
+            continue
+
+        temp.add(e)
+
+    temp = {correspondances[e] for e in temp}
+
+    return temp
+
+
+correspondances = {
+    "Troll rap": "Rap",
+    "Electronica": "Electro",
+    "Synthpop": "Electro",
+    "Chanson humoristique": "Humoristique",
+    "Chanson traditionnelle": "Variété",
+    "Rock": "Rock",
+    "Power ballad": "Rock",
+    "Easy listening": "Jazz",
+    "Cloud rap": "Rap",
+    "Gospel": "Gospel",
+    "Nouvelle": "Bruit",
+    "Dirty rap": "Rap",
+    "Afropop": "Monde",
+    "Rap rock": "Rap",
+    "Musiques du monde": "Monde",
+    "Rumba": "Variété",
+    "Chanson réaliste": "Variété",
+    "Big beat": "Electro",
+    "Bossa nova": "Variété",
+    "Death metal": "Metal",
+    "Chanson": "Variété",
+    "Ska": "Jazz",
+    "Pop psychédélique": "Pop",
+    "Hard rock": "Rock",
+    "Pop-rap": "Rap",
+    "Indie pop": "Pop",
+    "New age": "Variété",
+    "Musique arabe": "Monde",
+    "Grunge": "Rock",
+    "Hip-hop français": "Rap",
+    "Musique soul": "Jazz",
+    "Metal alternatif": "Metal",
+    "Horrorcore": "Rap",
+    "Spoken word": "Variété",
+    "Skiffle": "Jazz",
+    "Musique expérimentale": "Variété",
+    "Electronic dance music": "Electro",
+    "Pop latino": "Pop",
+    "Country rock": "Rock",
+    "Rap politique": "Rap",
+    "Breakbeat": "Electro",
+    "Musique alternative": "Variété",
+    "New wave": "Rock",
+    "Chanson française": "Variété",
+    "Punk rock": "Rock",
+    "Cha-cha-cha": "Monde",
+    "Musique country": "Variété",
+    "Rap metal": "Rap",
+    "Musique humoristique": "Humoristique",
+    "Rock 'n' roll": "Rock",
+    "Comedy hip hop": "Rap",
+    "New prog": "Rock",
+    "Musique folk": "Variété",
+    "Latin jazz": "Jazz",
+    "Musique populaire": "Pop",
+    "Jazz": "Jazz",
+    "Compositeur": "Bruit",
+    "Opéra pop": "Pop",
+    "Opéra": "Classique",
+    "Pop rock": "Rock",
+    "Hip-hop sud-coréen": "Rap",
+    "Musique de variétés": "Variété",
+    "Pop française": "Pop",
+    "Ballade": "Variété",
+    "Funk": "Jazz",
+    "Chanson bretonne": "Variété",
+    "Ragga": "Rap",
+    "Mambo": "Monde",
+    "Musique bretonne": "Variété",
+    "Urban": "Rap",
+    "Rhythm and blues": "Rap",
+    "Rock indépendant": "Rock",
+    "Rock psychédélique": "Rock",
+    "Afro trap": "Rap",
+    "Cinéma": "Bruit",
+    "Pop": "Pop",
+    "Rock celtique": "Rock",
+    "Raï": "Monde",
+    "Post-punk": "Rock",
+    "Théâtre": "Bruit",
+    "Hip-hop": "Rap",
+    "Rap hardcore": "Rap",
+    "Rock alternatif": "Rock",
+    "Gangsta rap": "Rap",
+    "Afrobeat": "Rap",
+    "Musique classique": "Classique",
+    "Flamenco": "Monde",
+    "Rock progressif": "Rock",
+    "Fusion": "Rock",
+    "Poésie": "Bruit",
+    "RnB contemporain": "Rap",
+    "Musique électronique": "Electro",
+    "Blues": "Jazz",
+    "Electro": "Electro",
+    "Punk hardcore": "Rock",
+    "Metal industriel": "Metal",
+    "Yéyé": "Variété",
+    "Folk rock": "Rock",
+    "Drill": "Rap",
+    "Rock français": "Rock",
+    "Disco": "Variété",
+    "Reggae": "Monde",
+    "Trap": "Rap",
+    "Rock néo-progressif": "Rock",
+    "Hip-hop alternatif": "Rap",
+    "Jazz fusion": "Jazz",
+    "Rap emo": "Rap",
+    "Nu metal": "Metal",
+    "Rap": "Rap",
+    "Blues rock": "Rock",
+    "Humour": "Humoristique",
+    "Groove metal": "Metal",
+    "Slam": "Variété",
+    "Heavy metal": "Metal",
+    "Trip hop": "Electro",
+    "Musique celtique": "Variété",
+}
+
+df_artistes_neo_fr = pd.read_pickle("df_artistes_neo_fr_no_names.pkl")
+
+df_artistes_neo_fr["genres"] = df_artistes_neo_fr["genres"].apply(genre_cleaner)
+
+df_artistes_neo_fr.to_pickle("df_artistes_neo_fr_less_genres.pkl")
