@@ -7,7 +7,7 @@ import pandas as pd
 
 from spacy.lang.fr import French
 
-
+regles = re.compile(r"""((-"?\w+)|(\w+"?-))|([^A-zÄ-ÿ]+)|(('+)|(\++))|(([A-zÄ-ÿ])($|(\1))+)|(([A-zÄ-ÿ])\1+)|([A-ZÄ-Ÿ]{2,})|(((o|O)+u*h*)+)|(((a|A)+h*)+)|(([eEéÉ]+u*h*)+)|(((o|O)u?l?)+)|(((B|b)r+)+)""")
 def tokenize(chaine):
     temp = [token.text for token in tokenizer(chaine)]
     # Permet de découper sur les apostrophes, les tirets, etc. Utile pour les abréviations, les mots composés, etc.
@@ -41,24 +41,61 @@ def clean_word(word):
     if '"-"' in word:  # Truc bizarre dans les paroles
         return
     # On vire les chaînes bizarres que l'on a pu trouver dans les paroles + les   refrain, couplet, etc.
-    if word in {"à-ç", "Outro", "Intro", "Refrain", "Couplet", "Pont", "Outro", "Pré-refrain", "Pré-refrain"}:
+    if word in {
+        "à-ç",
+        "Outro",
+        "Intro",
+        "Refrain",
+        "Couplet",
+        "Pont",
+        "Outro",
+        "Pré-refrain",
+        "Pré-refrain",
+        "Kèskizon",
+        "Kèskifon",
+        "Sékoidon",
+        "Waouuum",
+        "Wouuum",
+        "Tralalilala",
+        "Ayayay",
+        "Wouah",
+        "Troop",
+        "Pête",
+        "Beep",
+        "Décidemment",
+    }:
         return
-    # les mots qui commencent ou finissent par un tiret, abréviations,
-    # lors de la retranscription des paroles, donc pas néologismes
-    if re.fullmatch('(-"?\w+)|(\w+"?-)', word):
+    if re.fullmatch(regles, word):  # Bruit
         return
-    # pas de lettres donc pas néologismes, on rappelle que fullmatch cherche à faire correspondre toute la chaîne
-    if re.fullmatch(r"[^A-zÄ-ÿ]+", word):
-        return
-    if re.fullmatch(r"('+)|(\++)", word):  # Bruit
-        return
-    if re.fullmatch(r"([A-zÄ-ÿ])($|(\1))+", word):  # qu'une seule lettre répétée plusieurs fois donc pas néologisme
-        return
-    if re.fullmatch(r"([A-zÄ-ÿ])\1+", word): # pas sûr de celle d'avant donc on double up
-        return
-    # Mots en majuscules = acronyme donc pas néologisme, par contre si minuscules après, on garde
-    if re.fullmatch(r"[A-ZÄ-Ÿ]{2,}", word):
-        return
+    if False:
+        # Mots en majuscules = acronyme donc pas néologisme, par contre si minuscules après, on garde
+        if re.fullmatch(r"[A-ZÄ-Ÿ]{2,}", word):
+            return
+        # les mots qui commencent ou finissent par un tiret, abréviations,
+        # lors de la retranscription des paroles, donc pas néologismes
+        if re.fullmatch('(-"?\w+)|(\w+"?-)', word):
+            return
+        # pas de lettres donc pas néologismes, on rappelle que fullmatch cherche à faire correspondre toute la chaîne
+        if re.fullmatch(r"[^A-zÄ-ÿ]+", word):
+            return
+        if re.fullmatch(r"('+)|(\++)", word):  # Bruit
+            return
+        if re.fullmatch(r"([A-zÄ-ÿ])($|(\1))+", word):  # qu'une seule lettre répétée plusieurs fois donc pas néologisme
+            return
+        if re.fullmatch(r"([A-zÄ-ÿ])\1+", word): # pas sûr de celle d'avant donc on double up
+            return
+        # Tous ceux là sont des bruits retranscrits donc pas néologismes, ce qui nous intéresse
+        # en tout cas c'est ce qui est produit par le chanteur
+        if re.fullmatch(r"((o|O)+u*h*)+", word):  # Ooooh, Oh, etc. Bruit
+            return
+        if re.fullmatch(r"((a|A)+h*)+", word):
+            return
+        if re.fullmatch(r"([eEéÉ]+u*h*)+", word):
+            return
+        if re.fullmatch(r"((o|O)u?l?)+", word):
+            return
+        if re.fullmatch(r"((B|b)r+)+", word):
+            return
 
     return word
 
