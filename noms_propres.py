@@ -35,10 +35,9 @@ for word, freq in tolower:
 
 # On aurait pu factoriser les tolower et toremove, mais c'est plus clair comme ça
 
-allfreq.most_common(100)
-
 df_artistes_neo_fr["neologismes"] = df_artistes_neo_fr["neologismes"].apply(lambda x: [word for word in x if word in allfreq])
 df_artistes_neo_fr["neo_freq"] = df_artistes_neo_fr["neo_freq"].apply(lambda x: {word: freq for word, freq in x.items() if word in allfreq})
 
 df_artistes_neo_fr.to_pickle("df_artistes_neo_fr_cleansed.pkl")
 
+print(allfreq.most_common(100))
